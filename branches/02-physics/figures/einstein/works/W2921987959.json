@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2921987959",
+    "canonical_url": "https://openalex.org/W2921987959",
+    "title": "Optimization of Phlorotannins Extraction from Fucus vesiculosus and Evaluation of Their Potential to Prevent Metabolic Disorders",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Artur M. S. Silva",
+      "Nuno Mateus",
+      "Susana M. Cardoso"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/md17030162",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 151,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Phloroglucinol",
+      "Chemistry",
+      "Acarbose",
+      "Chromatography"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

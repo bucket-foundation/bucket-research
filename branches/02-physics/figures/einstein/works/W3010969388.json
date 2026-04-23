@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3010969388",
+    "canonical_url": "https://openalex.org/W3010969388",
+    "title": "Seasonal variability of chemical composition and antioxidant activity of lipids (fatty acids and tocopherols) from the leaves of Pistacia lentiscus L.",
+    "authors": [
+      "Mohamed Harrat",
+      "Nadhir Gourine",
+      "M\u00f3nica V\u00e1lega",
+      "Artur M. S. Silva",
+      "Mohamed Yousfi"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1007/s11694-020-00441-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Journal of Food Measurement & Characterization",
+    "concepts": [
+      "Chemistry",
+      "Food science",
+      "Fatty acid",
+      "Linoleic acid",
+      "Palmitic acid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

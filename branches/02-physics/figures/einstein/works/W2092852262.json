@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2092852262",
+    "canonical_url": "https://openalex.org/W2092852262",
+    "title": "Atropisomerism and conformational aspects of <i>meso</i>-tetraarylporphyrins and related compounds",
+    "authors": [
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1142/s1088424611002994",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 58,
+    "type": "article",
+    "venue": "Journal of Porphyrins and Phthalocyanines",
+    "concepts": [
+      "Atropisomer",
+      "Chemistry",
+      "Tautomer",
+      "Porphyrin",
+      "Ring (chemistry)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

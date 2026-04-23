@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1501052533",
+    "canonical_url": "https://openalex.org/W1501052533",
+    "title": "A New Meroditerpene and a New Tryptoquivaline Analog from the Algicolous Fungus Neosartorya takakii KUFC 7898",
+    "authors": [
+      "War War May Zin",
+      "Suradet Buttachon",
+      "Jamrearn Buaruang",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.3390/md13063776",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 39,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Chromobacterium violaceum",
+      "Natural product",
+      "Isocoumarin",
+      "Stereochemistry",
+      "Fungus"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

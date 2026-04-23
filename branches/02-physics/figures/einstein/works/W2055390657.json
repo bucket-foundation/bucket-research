@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2055390657",
+    "canonical_url": "https://openalex.org/W2055390657",
+    "title": "cis-Glyco-fused benzopyran compounds as new amyloid-\u03b2 peptide ligands",
+    "authors": [
+      "Cristina Airoldi",
+      "Francisco Cardona",
+      "Erika Sironi",
+      "Laura Colombo",
+      "Mario Salmona",
+      "Artur M. S. Silva",
+      "Francesco Nicotra",
+      "Barbara La Ferla"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1039/c1cc13046c",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 48,
+    "type": "article",
+    "venue": "Chemical Communications",
+    "concepts": [
+      "Benzopyran",
+      "Peptide",
+      "Chemistry",
+      "Molecular dynamics",
+      "Molecular mechanics"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

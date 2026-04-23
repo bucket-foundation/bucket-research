@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4317104595",
+    "canonical_url": "https://openalex.org/W4317104595",
+    "title": "Synthesis of Bis(3\u2010indolyl)methanes Mediated by Potassium <i>tert\u2010</i>Butoxide",
+    "authors": [
+      "A. Sofia Santos",
+      "Rita Ferro",
+      "Nuno Viduedo",
+      "Lu\u00edsa B. Maia",
+      "Artur M. S. Silva",
+      "M. Manuel B. Marques"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1002/open.202200265",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "ChemistryOpen",
+    "concepts": [
+      "Indole test",
+      "Moiety",
+      "Chemistry",
+      "Potassium",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

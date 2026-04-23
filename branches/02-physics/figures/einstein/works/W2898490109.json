@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2898490109",
+    "canonical_url": "https://openalex.org/W2898490109",
+    "title": "Variation of polyphenolic composition, antioxidants and physiological characteristics of dill (Anethum graveolens L.) as affected by bicarbonate-induced iron deficiency conditions",
+    "authors": [
+      "Hanen Wasli",
+      "Nahida Jelali",
+      "Artur M. S. Silva",
+      "Riadh Ksouri",
+      "Susana M. Cardoso"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.indcrop.2018.10.007",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 37,
+    "type": "article",
+    "venue": "Industrial Crops and Products",
+    "concepts": [
+      "Anethum graveolens",
+      "Chemistry",
+      "Oxygen radical absorbance capacity",
+      "Antioxidant",
+      "Polyphenol"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

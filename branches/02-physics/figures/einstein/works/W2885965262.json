@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2885965262",
+    "canonical_url": "https://openalex.org/W2885965262",
+    "title": "Photosensitisation by voriconazole-N-oxide results from a sequence of solvent and pH-dependent photochemical and thermal reactions",
+    "authors": [
+      "Patrice Morli\u00e8re",
+      "Artur M. S. Silva",
+      "Rafaela Seixas",
+      "Francisco Bosc\u00e1",
+      "Jean\u2010Claude Mazi\u00e8re",
+      "Joaquim J. Ferreira",
+      "R. Santus",
+      "Paulo Filipe"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.jphotobiol.2018.07.023",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "Journal of Photochemistry and Photobiology B Biology",
+    "concepts": [
+      "Phototoxicity",
+      "Chemistry",
+      "Photochemistry",
+      "Photosensitizer",
+      "Absorbance"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

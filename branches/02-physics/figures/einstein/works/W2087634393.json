@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2087634393",
+    "canonical_url": "https://openalex.org/W2087634393",
+    "title": "Flavonoids Inhibit COX-1 and COX-2 Enzymes and Cytokine/Chemokine Production in Human Whole Blood",
+    "authors": [
+      "Daniela Ribeiro",
+      "Marisa Freitas",
+      "Sara M. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Stefan Laufer",
+      "Jos\u00e9 L. F. C. Lima",
+      "Eduarda Fernandes"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1007/s10753-014-9995-x",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 133,
+    "type": "article",
+    "venue": "Inflammation",
+    "concepts": [
+      "Chemokine",
+      "Cytokine",
+      "Cyclooxygenase",
+      "Proinflammatory cytokine",
+      "Pharmacology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

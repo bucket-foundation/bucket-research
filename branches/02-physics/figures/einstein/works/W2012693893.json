@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2012693893",
+    "canonical_url": "https://openalex.org/W2012693893",
+    "title": "Growth control of different Fusarium species by selected flavones and flavonoid mixtures",
+    "authors": [
+      "Artur M. S. Silva",
+      "Martin Weidenb\u00f6rner",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1017/s0953756297005480",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 41,
+    "type": "article",
+    "venue": "Mycological Research",
+    "concepts": [
+      "Flavones",
+      "Flavanone",
+      "Antifungal",
+      "Flavonoid",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

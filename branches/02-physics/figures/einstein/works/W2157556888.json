@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2157556888",
+    "canonical_url": "https://openalex.org/W2157556888",
+    "title": "Chemical composition of the light petroleum extract ofHibiscus cannabinus bark and core",
+    "authors": [
+      "Ana M. L. Seca",
+      "Artur M. S. Silva",
+      "Armando J. D. Silvestre",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Fernando M. J. Domingues",
+      "Carlos Pascoal Neto"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1002/1099-1565(200011/12)11:6<345::aid-pca540>3.0.co;2-t",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 43,
+    "type": "article",
+    "venue": "Phytochemical Analysis",
+    "concepts": [
+      "Chemistry",
+      "Hibiscus",
+      "Bark (sound)",
+      "Kenaf",
+      "Chemical composition"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

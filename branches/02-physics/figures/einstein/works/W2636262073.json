@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2636262073",
+    "canonical_url": "https://openalex.org/W2636262073",
+    "title": "Fucaceae: A Source of Bioactive Phlorotannins",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.3390/ijms18061327",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 151,
+    "type": "review",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Antioxidant",
+      "Polyphenol",
+      "Reactive oxygen species",
+      "Oxidative stress",
+      "Brown algae"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

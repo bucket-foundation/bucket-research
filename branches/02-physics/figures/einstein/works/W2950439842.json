@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950439842",
+    "canonical_url": "https://openalex.org/W2950439842",
+    "title": "Synthesis of Unsymmetrical Methylenebisphenol Derivatives",
+    "authors": [
+      "Samuel Guieu",
+      "Artur M. S. Silva",
+      "Jo\u00e3o Rocha"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1055/s-0032-1318394",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Regioselectivity",
+      "Substituent",
+      "Alkylation",
+      "Ring (chemistry)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

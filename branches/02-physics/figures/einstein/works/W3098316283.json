@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3098316283",
+    "canonical_url": "https://openalex.org/W3098316283",
+    "title": "Microwave-Assisted Extraction of Phlorotannins from Fucus vesiculosus",
+    "authors": [
+      "S\u00f3nia J. Amarante",
+      "Marcelo D. Catarino",
+      "Catarina Mar\u00e7al",
+      "Artur M. S. Silva",
+      "Rita Ferreira",
+      "Susana M. Cardoso"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/md18110559",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 66,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Acarbose",
+      "Extraction (chemistry)",
+      "Chemistry",
+      "Xanthine oxidase"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

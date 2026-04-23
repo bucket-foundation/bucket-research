@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2033738748",
+    "canonical_url": "https://openalex.org/W2033738748",
+    "title": "Synthesis and antioxidant properties of new chromone derivatives",
+    "authors": [
+      "Ana Gomes",
+      "Ond\u0159ej Neuwirth",
+      "Marisa Freitas",
+      "Diana Couto",
+      "Daniela Ribeiro",
+      "Andrea G. P. R. Figueiredo",
+      "Artur M. S. Silva",
+      "Raquel S. G. R. Seixas",
+      "Diana C. G. A. Pinto",
+      "Augusto C. Tom\u00e9",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Eduarda Fernandes",
+      "Jos\u00e9 L. F. C. Lima"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1016/j.bmc.2009.08.056",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 74,
+    "type": "article",
+    "venue": "Bioorganic & Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Flavones",
+      "Chromone",
+      "Antioxidant",
+      "Reactive oxygen species"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

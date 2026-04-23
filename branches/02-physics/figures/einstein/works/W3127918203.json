@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3127918203",
+    "canonical_url": "https://openalex.org/W3127918203",
+    "title": "Phenolic and lipophilic metabolite adjustments in Olea europaea (olive) trees during drought stress and recovery",
+    "authors": [
+      "Maria Celeste Dias",
+      "Diana C. G. A. Pinto",
+      "Catarina Figueiredo",
+      "Concei\u00e7\u00e3o Santos",
+      "Artur M. S. Silva"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1016/j.phytochem.2021.112695",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 48,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Oleuropein",
+      "Olea",
+      "Metabolite",
+      "Chemistry",
+      "Olive trees"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

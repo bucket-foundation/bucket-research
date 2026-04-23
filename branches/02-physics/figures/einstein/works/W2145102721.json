@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2145102721",
+    "canonical_url": "https://openalex.org/W2145102721",
+    "title": "Structural characterisation of the olive pomace pectic polysaccharide arabinan side chains",
+    "authors": [
+      "Susana M. Cardoso",
+      "Artur M. S. Silva",
+      "Manuel A. Coimbra"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1016/s0008-6215(02)00082-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 115,
+    "type": "article",
+    "venue": "Carbohydrate Research",
+    "concepts": [
+      "Chemistry",
+      "Pomace",
+      "Residue (chemistry)",
+      "Polysaccharide",
+      "Anomer"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

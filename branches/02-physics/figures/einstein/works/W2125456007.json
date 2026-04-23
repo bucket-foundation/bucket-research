@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2125456007",
+    "canonical_url": "https://openalex.org/W2125456007",
+    "title": "Antifungal Activity Evaluation of the Constituents of Haliclona baeri and Haliclona cymaeformis, Collected from the Gulf of Thailand",
+    "authors": [
+      "Rawiwan Wattanadilok",
+      "Pichan Sawangwong",
+      "C\u00e1tia Rodr\u00edgues",
+      "Honorina Cidade",
+      "Madalena Pinto",
+      "Eug\u00e9nia Pinto",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.3390/md502040",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 48,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Phenylacetic acid",
+      "Maleimide",
+      "Antifungal",
+      "Ethyl acetate",
+      "Sponge"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

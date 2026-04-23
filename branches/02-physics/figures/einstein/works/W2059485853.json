@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2059485853",
+    "canonical_url": "https://openalex.org/W2059485853",
+    "title": "Lipophilic extractives from the bark of Eucalyptus grandis x globulus, a rich source of methyl morolate: Selective extraction with supercritical CO2",
+    "authors": [
+      "David J.S. Patinha",
+      "Rui M. A. Domingues",
+      "Juan Jos\u00e9 Villaverde",
+      "Artur M. S. Silva",
+      "Carlos M. Silva",
+      "Carmen S. R. Freire",
+      "Carlos Pascoal Neto",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1016/j.indcrop.2012.06.056",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 38,
+    "type": "article",
+    "venue": "Industrial Crops and Products",
+    "concepts": [
+      "Chemistry",
+      "Eucalyptus globulus",
+      "Bark (sound)",
+      "Extraction (chemistry)",
+      "Supercritical fluid extraction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

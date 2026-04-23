@@ -1,0 +1,48 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2239052021",
+    "canonical_url": "https://openalex.org/W2239052021",
+    "title": "One\u2010Pot Synthesis of Benzopyran\u20104\u2010ones with Cancer Preventive and Therapeutic Potential",
+    "authors": [
+      "Oualid Talhi",
+      "Lidia Brodziak\u2010Jarosz",
+      "Jana Panning",
+      "Barbora Orlikova",
+      "Clemens Zwergel",
+      "Tzvetomira Tzanova",
+      "St\u00e9phanie Philippot",
+      "Diana C. G. A. Pinto",
+      "Filipe A. Almeida Paz",
+      "Clarissa Gerh\u00e4user",
+      "Tobias P. Dick",
+      "Claus Jacob",
+      "Marc Diederich",
+      "Denyse Bagrel",
+      "Gilbert Kirsch",
+      "Artur M. S. Silva"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1002/ejoc.201501278",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 34,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chromone",
+      "Trolox",
+      "Chemistry",
+      "Michael reaction",
+      "DPPH"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

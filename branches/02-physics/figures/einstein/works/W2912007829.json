@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2912007829",
+    "canonical_url": "https://openalex.org/W2912007829",
+    "title": "Evaluation of a flavonoids library for inhibition of pancreatic \u03b1-amylase towards a structure\u2013activity relationship",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "Marisa Freitas",
+      "Daniela Ribeiro",
+      "Sara M. Tom\u00e9",
+      "Eduardo F. Oliveira",
+      "Matilde F. Viegas",
+      "Alberto N. Ara\u00fajo",
+      "Maria J. Ramos",
+      "Artur M. S. Silva",
+      "Pedro Alexandrino Fernandes",
+      "Eduarda Fernandes"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1080/14756366.2018.1558221",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 150,
+    "type": "article",
+    "venue": "Journal of Enzyme Inhibition and Medicinal Chemistry",
+    "concepts": [
+      "Amylase",
+      "Chemistry",
+      "Flavonoid",
+      "Structure\u2013activity relationship",
+      "Biochemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

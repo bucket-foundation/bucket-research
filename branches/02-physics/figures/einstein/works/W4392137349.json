@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4392137349",
+    "canonical_url": "https://openalex.org/W4392137349",
+    "title": "2-Styrylchromones as inhibitors of \u03b1-amylase and \u03b1-glucosidase enzymes for the management of type 2 diabetes mellitus",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Carina Proen\u00e7a",
+      "Marisa Freitas",
+      "Alberto N. Ara\u00fajo",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1007/s00044-024-03200-8",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Medicinal Chemistry Research",
+    "concepts": [
+      "Chemistry",
+      "Enzyme",
+      "Type 2 Diabetes Mellitus",
+      "Amylase",
+      "Diabetes mellitus"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

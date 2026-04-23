@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2037548310",
+    "canonical_url": "https://openalex.org/W2037548310",
+    "title": "Secondary Metabolites from a Culture of the Fungus Neosartorya pseudofischeri and Their In Vitro Cytostatic Activity in Human Cancer Cells",
+    "authors": [
+      "Amnat Eamvijarn",
+      "Anake Kijjoa",
+      "C\u00e9line Bruy\u00e8re",
+      "V\u00e9ronique Mathieu",
+      "Leka Manoch",
+      "Florence Lefranc",
+      "Artur M. S. Silva",
+      "R\u00f3bert Kiss",
+      "Werner Herz"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1055/s-0032-1315301",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 43,
+    "type": "article",
+    "venue": "Planta Medica",
+    "concepts": [
+      "Etoposide",
+      "A549 cell",
+      "Apoptosis",
+      "Cytotoxic T cell",
+      "In vitro"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

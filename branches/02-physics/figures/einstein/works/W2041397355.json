@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2041397355",
+    "canonical_url": "https://openalex.org/W2041397355",
+    "title": "Bacillisporins D and E, New Oxyphenalenone Dimers from <i>Talaromyces bacillisporus</i>",
+    "authors": [
+      "Tida Dethoup",
+      "Leka Manoch",
+      "Anake Kijjoa",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Prapawadee Puaparoj",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1055/s-2006-947188",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 36,
+    "type": "article",
+    "venue": "Planta Medica",
+    "concepts": [
+      "Cytotoxicity",
+      "Stereochemistry",
+      "Dimer",
+      "Fungus",
+      "Cancer cell lines"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

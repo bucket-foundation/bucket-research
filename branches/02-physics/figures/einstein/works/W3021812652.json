@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3021812652",
+    "canonical_url": "https://openalex.org/W3021812652",
+    "title": "Sustainable Amidation Reactions \u2013 Recent Advances",
+    "authors": [
+      "A. Sofia Santos",
+      "Artur M. S. Silva",
+      "M. Manuel B. Marques"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1002/ejoc.202000106",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 68,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Reagent",
+      "Moiety",
+      "Amide",
+      "Amine gas treating"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

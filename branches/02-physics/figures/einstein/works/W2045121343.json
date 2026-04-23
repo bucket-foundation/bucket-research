@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2045121343",
+    "canonical_url": "https://openalex.org/W2045121343",
+    "title": "Porphyrin derivatives: Synthesis and potential applications",
+    "authors": [
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "M. Amparo F. Faustino",
+      "Paula S. S. Lacerda",
+      "Ana M. G. Silva"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1002/jhet.5570370310",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Porphyrin",
+      "Chemistry",
+      "Chlorin",
+      "Photodynamic therapy",
+      "Reactivity (psychology)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

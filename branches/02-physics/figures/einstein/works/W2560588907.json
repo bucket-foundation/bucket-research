@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2560588907",
+    "canonical_url": "https://openalex.org/W2560588907",
+    "title": "Microwave-Assisted Tandem Reactions towards a New Synthesis of Cyclohepta[b]chromene-9,11-diones",
+    "authors": [
+      "Artur M. S. Silva",
+      "Joana L. C. Sousa"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1055/s-0036-1590059",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 30,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Tandem",
+      "Cascade reaction",
+      "Microwave",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4210279715",
+    "canonical_url": "https://openalex.org/W4210279715",
+    "title": "Evolution of Acridines and Xanthenes as a Core Structure for the Development of Antileishmanial Agents",
+    "authors": [
+      "Carlos F. M. Silva",
+      "Diana C. G. A. Pinto",
+      "Pedro Alexandrino Fernandes",
+      "Artur M. S. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/ph15020148",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "review",
+    "venue": "Pharmaceuticals",
+    "concepts": [
+      "Xanthene",
+      "Leishmaniasis",
+      "Acridine",
+      "Visceral leishmaniasis",
+      "Medicine"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4281558591",
+    "canonical_url": "https://openalex.org/W4281558591",
+    "title": "Brown Algae Fucus vesiculosus in Pasta: Effects on Textural Quality, Cooking Properties, and Sensorial Traits",
+    "authors": [
+      "Ana Ramalho Ribeiro",
+      "Tiago Madeira",
+      "Goreti Botelho",
+      "Diana Martins",
+      "Ricardo M. Ferreira",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso",
+      "Rui Costa"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/foods11111561",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 34,
+    "type": "article",
+    "venue": "Foods",
+    "concepts": [
+      "Food science",
+      "Fucus vesiculosus",
+      "Brown algae",
+      "Recipe",
+      "Health benefits"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

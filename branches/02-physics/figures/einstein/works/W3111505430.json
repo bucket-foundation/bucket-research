@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3111505430",
+    "canonical_url": "https://openalex.org/W3111505430",
+    "title": "Application of Hydroxytyrosol in the Functional Foods Field: From Ingredient to Dietary Supplements",
+    "authors": [
+      "Andreia F. R. Silva",
+      "Daniela Resende",
+      "Mariana Monteiro",
+      "Manuel A. Coimbra",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/antiox9121246",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 46,
+    "type": "review",
+    "venue": "Antioxidants",
+    "concepts": [
+      "Hydroxytyrosol",
+      "Ingredient",
+      "Food science",
+      "Functional food",
+      "Olive oil"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

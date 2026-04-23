@@ -1,0 +1,49 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2889989054",
+    "canonical_url": "https://openalex.org/W2889989054",
+    "title": "Hydroxycoumarin OT-55 kills CML cells alone or in synergy with imatinib or Synribo: Involvement of ER stress and DAMP release",
+    "authors": [
+      "Aloran Mazumder",
+      "Jin\u2010Young Lee",
+      "Oualid Talhi",
+      "Claudia Cerella",
+      "S\u00e9bastien Chateauvieux",
+      "Anthoula Gaigneaux",
+      "Che Ry Hong",
+      "Hyoung Jin Kang",
+      "Youngjo Lee",
+      "Kyu-Won Kim",
+      "Dong\u2010Wook Kim",
+      "Hee-Young Shin",
+      "Mario Dicato",
+      "Khaldoun Bachar\u0131",
+      "Artur M. S. Silva",
+      "Barbora Orlikova-Boyer",
+      "Marc Diederich"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.canlet.2018.07.041",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "article",
+    "venue": "Cancer Letters",
+    "concepts": [
+      "Imatinib",
+      "Imatinib mesylate",
+      "Zebrafish",
+      "Apoptosis",
+      "Pharmacology"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

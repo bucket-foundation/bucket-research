@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3111844358",
+    "canonical_url": "https://openalex.org/W3111844358",
+    "title": "Styrylpyrazoles: Properties, Synthesis and Transformations",
+    "authors": [
+      "P. Gomes",
+      "Pedro Ouro",
+      "Artur M. S. Silva",
+      "Vera L. M. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/molecules25245886",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "review",
+    "venue": "Molecules",
+    "concepts": [
+      "Pyrazole",
+      "Combinatorial chemistry",
+      "Chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

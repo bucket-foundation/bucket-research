@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951572254",
+    "canonical_url": "https://openalex.org/W2951572254",
+    "title": "Synthesis of novel 2H,8H-pyrano[2,3-f]chromene-2,8-diones from 8-formyl-7-hydroxy-4-methylcoumarin",
+    "authors": [
+      "Ahmed Al\u2010Kawkabani",
+      "Baya Boutemeur\u2010Kheddis",
+      "Malika Makhloufi\u2010Chebli",
+      "Ma\u00e2mar Hamdi",
+      "Oualid Talhi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.tetlet.2013.07.047",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Knoevenagel condensation",
+      "Methylene",
+      "Tandem",
+      "Mass spectrometry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4381190538",
+    "canonical_url": "https://openalex.org/W4381190538",
+    "title": "Methodologies for Assessing Pancreatic Lipase Catalytic Activity: A Review",
+    "authors": [
+      "S\u00edlvia Rocha",
+      "Ana T. Rufino",
+      "Marisa Freitas",
+      "Artur M. S. Silva",
+      "F\u00e9lix Carvalho",
+      "Eduarda Fernandes"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1080/10408347.2023.2221731",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "review",
+    "venue": "Critical Reviews in Analytical Chemistry",
+    "concepts": [
+      "Lipase",
+      "Pancreatic lipase",
+      "Pancreatic enzymes",
+      "Chemistry",
+      "Substrate (aquarium)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

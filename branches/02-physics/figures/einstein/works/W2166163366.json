@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2166163366",
+    "canonical_url": "https://openalex.org/W2166163366",
+    "title": "Ion Specific Effects on the Mutual Solubilities of Water and Hydrophobic Ionic Liquids",
+    "authors": [
+      "Mara G. Freire",
+      "Pedro J. Carvalho",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos",
+      "Lu\u00eds Paulo N. Rebelo",
+      "Isabel M. Marrucho",
+      "Jo\u00e3o A. P. Coutinho"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1021/jp8080035",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 187,
+    "type": "article",
+    "venue": "The Journal of Physical Chemistry B",
+    "concepts": [
+      "Chemistry",
+      "Solubility",
+      "Hofmeister series",
+      "Ionic liquid",
+      "Ion"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

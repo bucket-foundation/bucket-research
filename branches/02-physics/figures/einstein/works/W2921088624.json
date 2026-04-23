@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2921088624",
+    "canonical_url": "https://openalex.org/W2921088624",
+    "title": "Hemi-Synthesis of Chiral Imine, Benzimidazole and Benzodiazepines from Essential Oil of Ammodaucus leucotrichus subsp. leucotrichus",
+    "authors": [
+      "Farid Chebrouk",
+      "Khodir Madani",
+      "Brahim Cherfaoui",
+      "Le\u00efla Boukenna",
+      "M\u00f3nica V\u00e1lega",
+      "Ricardo F. Mendes",
+      "Filipe A. Almeida Paz",
+      "Khaldoun Bachar\u0131",
+      "Oualid Talhi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/molecules24050975",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Benzimidazole",
+      "Imine",
+      "Chemistry",
+      "Stereochemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

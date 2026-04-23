@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2135633538",
+    "canonical_url": "https://openalex.org/W2135633538",
+    "title": "Solid-phase synthesis of 2\u2032-hydroxychalcones. Effects on cell growth inhibition, cell cycle and apoptosis of human tumor cell lines",
+    "authors": [
+      "Marta Perro Neves",
+      "Sara Cravo",
+      "Raquel T. Lima",
+      "M. Helena Vasconcelos",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Honorina Cidade",
+      "Arlene G. Corr\u00eaa"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.bmc.2011.11.042",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 48,
+    "type": "article",
+    "venue": "Bioorganic & Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Chalcone",
+      "Apoptosis",
+      "Cell growth",
+      "Cell cycle"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

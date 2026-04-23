@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1988929895",
+    "canonical_url": "https://openalex.org/W1988929895",
+    "title": "Indigo dye production by enzymatic mimicking based on an iron(III)porphyrin",
+    "authors": [
+      "Susana L.H. Rebelo",
+      "Margarida Linhares",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Cristina Freire"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.jcat.2014.04.012",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 42,
+    "type": "article",
+    "venue": "Journal of Catalysis",
+    "concepts": [
+      "Indigo",
+      "Chemistry",
+      "Porphyrin",
+      "Catalysis",
+      "Hydrogen peroxide"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

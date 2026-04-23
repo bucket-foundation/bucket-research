@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2026564199",
+    "canonical_url": "https://openalex.org/W2026564199",
+    "title": "Flavonoids as Therapeutic Compounds Targeting Key Proteins Involved in Alzheimer\u2019s Disease",
+    "authors": [
+      "Filipa I. Baptista",
+      "Ana Gabriela Henriques",
+      "Artur M. S. Silva",
+      "Jens Wiltfang",
+      "Odete A. B. da Cruz e Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1021/cn400213r",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 188,
+    "type": "review",
+    "venue": "ACS Chemical Neuroscience",
+    "concepts": [
+      "GSK-3",
+      "Neuroprotection",
+      "Tau protein",
+      "Amyloid precursor protein",
+      "Kinase"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

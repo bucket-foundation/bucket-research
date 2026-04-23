@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3097691034",
+    "canonical_url": "https://openalex.org/W3097691034",
+    "title": "1,3-Dioxepine and spiropyran derivatives of viomellein and other dimeric naphthopyranones from cultures of Aspergillus elegans KUFA0015 and their antibacterial activity",
+    "authors": [
+      "Decha Kumla",
+      "Em\u0131\u0301lia Sousa",
+      "Alessia Marengo",
+      "Tida Dethoup",
+      "Jos\u00e9 A. Pereira",
+      "Lu\u0131\u0301s Gales",
+      "Joana Freitas\u2010Silva",
+      "Paulo Martins da Costa",
+      "Sharad Mistry",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.phytochem.2020.112575",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Ochratoxin A",
+      "Ochratoxin",
+      "Aspergillus",
+      "Stereochemistry",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

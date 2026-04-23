@@ -1,0 +1,46 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4406849196",
+    "canonical_url": "https://openalex.org/W4406849196",
+    "title": "Hemisynthesis of monoterpene-containing pyridin-2-one, pyrano[2,3-c]pyrazole and dicarbamate derivatives: in vitro and in silico anti-inflammatory activity",
+    "authors": [
+      "Maamar Haffas",
+      "Na\u00efma Benkiki",
+      "Farid Chebrouk",
+      "Ramzi Maadadi",
+      "Rafik Menacer",
+      "Chaima Mouffouk",
+      "Zahia Kabouche",
+      "Ricardo F. Mendes",
+      "Filipe A. Almeida Paz",
+      "Liza Saher",
+      "Khaldoun Bachar\u0131",
+      "Oualid Talhi",
+      "Artur M. S. Silva",
+      "Joana L. C. Sousa"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1016/j.molstruc.2025.141565",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Pyrazole",
+      "In silico",
+      "Monoterpene",
+      "In vitro"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

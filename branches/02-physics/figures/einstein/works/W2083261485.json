@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2083261485",
+    "canonical_url": "https://openalex.org/W2083261485",
+    "title": "Anti-inflammatory potential of 2-styrylchromones regarding their interference with arachidonic acid metabolic pathways",
+    "authors": [
+      "Ana Gomes",
+      "Eduarda Fernandes",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Clementina M.M. Santos",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 L. F. C. Lima"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1016/j.bcp.2009.03.028",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 37,
+    "type": "article",
+    "venue": "Biochemical Pharmacology",
+    "concepts": [
+      "Arachidonic acid",
+      "Chemistry",
+      "Enzyme",
+      "Biochemistry",
+      "Cyclooxygenase"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

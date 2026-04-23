@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2114906289",
+    "canonical_url": "https://openalex.org/W2114906289",
+    "title": "A critical approach to viscosity index",
+    "authors": [
+      "Sylvain Verdier",
+      "Jo\u00e3o A. P. Coutinho",
+      "Artur M. S. Silva",
+      "Ole Frej Alkilde",
+      "Jens \u00c5. Hansen"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1016/j.fuel.2009.05.016",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 72,
+    "type": "article",
+    "venue": "Fuel",
+    "concepts": [
+      "Viscosity index",
+      "Branching (polymer chemistry)",
+      "Viscosity",
+      "Activation energy",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

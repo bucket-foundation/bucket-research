@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2810591624",
+    "canonical_url": "https://openalex.org/W2810591624",
+    "title": "Titanium dioxide nanoparticles impaired both photochemical and non-photochemical phases of photosynthesis in wheat",
+    "authors": [
+      "Maria Celeste Dias",
+      "Concei\u00e7\u00e3o Santos",
+      "Gl\u00f3ria Pinto",
+      "Artur M. S. Silva",
+      "S\u00f3nia Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1007/s00709-018-1281-6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 64,
+    "type": "article",
+    "venue": "PROTOPLASMA",
+    "concepts": [
+      "Photosynthesis",
+      "Stomatal conductance",
+      "Chemistry",
+      "Chlorophyll fluorescence",
+      "Transpiration"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

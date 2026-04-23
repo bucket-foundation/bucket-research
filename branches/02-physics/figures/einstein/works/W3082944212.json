@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3082944212",
+    "canonical_url": "https://openalex.org/W3082944212",
+    "title": "Synthesis of New Chiral Derivatives of Xanthones with Enantioselective Effect on Tumor Cell Growth and DNA Crosslinking",
+    "authors": [
+      "Maria Let\u00edcia Carraro",
+      "Sandra Marques",
+      "Ana S. Silva",
+      "Bruno de Paula Freitas",
+      "Patr\u00edcia M. A. Silva",
+      "Joel Pedrosa",
+      "Paolo De Marco",
+      "Hassan Bousbaa",
+      "Carla Fernandes",
+      "Maria Elizabeth Tiritan",
+      "Artur M. S. Silva",
+      "Madalena Pinto"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1002/slct.202002588",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "ChemistrySelect",
+    "concepts": [
+      "Enantiomer",
+      "Enantioselective synthesis",
+      "Ether",
+      "In vitro",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

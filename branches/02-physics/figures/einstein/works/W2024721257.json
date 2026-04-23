@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2024721257",
+    "canonical_url": "https://openalex.org/W2024721257",
+    "title": "Synthesis and stereochemistry of \u03b2-aryl-\u03b2-haloacroleins: useful intermediates for the preparation of (Z\u200a) and (E\u200a)-2-en-4-ynecarbaldehydes and for the synthesis of rubrolides",
+    "authors": [
+      "Damien Prim",
+      "Alexia Fuss",
+      "Gilbert Kirsch",
+      "Artur M. S. Silva"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1039/a900286c",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 36,
+    "type": "article",
+    "venue": "Journal of the Chemical Society Perkin Transactions 2",
+    "concepts": [
+      "Aryl",
+      "Chemistry",
+      "Stereochemistry",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

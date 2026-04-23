@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2899808870",
+    "canonical_url": "https://openalex.org/W2899808870",
+    "title": "Monoamine Oxidase: Tunable Activity for Amine Resolution and Functionalization",
+    "authors": [
+      "Vasco F. Batista",
+      "James L. Galman",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Nicholas J. Turner"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1021/acscatal.8b03525",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 107,
+    "type": "article",
+    "venue": "ACS Catalysis",
+    "concepts": [
+      "Chemistry",
+      "Amine gas treating",
+      "Monoamine oxidase",
+      "Combinatorial chemistry",
+      "Benzylamine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

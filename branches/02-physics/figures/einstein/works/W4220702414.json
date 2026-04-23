@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4220702414",
+    "canonical_url": "https://openalex.org/W4220702414",
+    "title": "Push-pulling induces the excited-state intramolecular proton transfer in 2\u2032-aminochalcones",
+    "authors": [
+      "C\u00e1tia I. C. Esteves",
+      "Lu\u00eds F. B. Fontes",
+      "A. Filipa N. Borges",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.dyepig.2022.110275",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "Dyes and Pigments",
+    "concepts": [
+      "Tautomer",
+      "Photochemistry",
+      "Intramolecular force",
+      "Chemistry",
+      "Hydrogen bond"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

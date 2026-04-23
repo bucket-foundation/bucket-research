@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2795628118",
+    "canonical_url": "https://openalex.org/W2795628118",
+    "title": "Bis-Indolyl Benzenoids, Hydroxypyrrolidine Derivatives and Other Constituents from Cultures of the Marine Sponge-Associated Fungus Aspergillus candidus KUFA0062",
+    "authors": [
+      "Suradet Buttachon",
+      "Alice A. Ramos",
+      "\u00c2ngela In\u00e1cio",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Michael Lee",
+      "Paulo Martins da Costa",
+      "Artur M. S. Silva",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Eduardo Rocha",
+      "Madalena Pinto",
+      "Jos\u00e9 A. Pereira",
+      "Anake Kijjoa"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/md16040119",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 66,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Microbiology",
+      "Chemistry",
+      "Alkaloid",
+      "Stereochemistry",
+      "Cytotoxicity"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

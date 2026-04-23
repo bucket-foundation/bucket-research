@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2120997839",
+    "canonical_url": "https://openalex.org/W2120997839",
+    "title": "Designing Near\u2010Infrared and Visible Light Emitters by Postsynthetic Modification of Ln<sup>+3</sup>\u2013IRMOF\u20103",
+    "authors": [
+      "Reda M. Abdelhameed",
+      "Lu\u00eds D. Carlos",
+      "Pierre Rabu",
+      "S\u00e9rgio M. Santos",
+      "Artur M. S. Silva",
+      "Jo\u00e3o Rocha"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/ejic.201402789",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 60,
+    "type": "article",
+    "venue": "European Journal of Inorganic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Lanthanide",
+      "Luminescence",
+      "Metal-organic framework",
+      "Fourier transform infrared spectroscopy"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

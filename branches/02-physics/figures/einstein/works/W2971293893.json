@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2971293893",
+    "canonical_url": "https://openalex.org/W2971293893",
+    "title": "Vine Waste Valorisation: Integrated Approach for the Prospection of Bioactive Lipophilic Phytochemicals",
+    "authors": [
+      "\u00c2ngelo C. Salvador",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Artur M. S. Silva",
+      "S\u00f3nia A.O. Santos",
+      "S\u0131\u0301lvia M. Rocha",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/ijms20174239",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Valorisation",
+      "Prospection",
+      "Vine",
+      "Chemistry",
+      "Biotechnology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

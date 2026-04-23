@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2131993052",
+    "canonical_url": "https://openalex.org/W2131993052",
+    "title": "Characterization of an acetylated heteroxylan from Eucalyptus globulus Labill",
+    "authors": [
+      "Dmitry V. Evtuguin",
+      "Juan M. Tom\u00e1s",
+      "Artur M. S. Silva",
+      "Carlos Pascoal Neto"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1016/s0008-6215(02)00529-3",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 225,
+    "type": "article",
+    "venue": "Carbohydrate Research",
+    "concepts": [
+      "Chemistry",
+      "Eucalyptus globulus",
+      "Acetylation",
+      "Size-exclusion chromatography",
+      "Nuclear magnetic resonance spectroscopy"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

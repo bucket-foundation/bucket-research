@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2991081699",
+    "canonical_url": "https://openalex.org/W2991081699",
+    "title": "Phytochemical Composition and Bioactive Effects of Salvia africana, Salvia officinalis \u2018Icterina\u2019 and Salvia mexicana Aqueous Extracts",
+    "authors": [
+      "Andrea F. Afonso",
+      "Ol\u00edvia R. Pereira",
+      "\u00c2ngela Fernandes",
+      "Ricardo C. Calhelha",
+      "Artur M. S. Silva",
+      "Isabel C.F.R. Ferreira",
+      "Susana M. Cardoso"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/molecules24234327",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 92,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Salvia officinalis",
+      "Rosmarinic acid",
+      "Salvia",
+      "DPPH",
+      "Caffeic acid"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

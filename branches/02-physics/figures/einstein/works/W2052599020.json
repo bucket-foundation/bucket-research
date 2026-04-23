@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2052599020",
+    "canonical_url": "https://openalex.org/W2052599020",
+    "title": "Rhamnoarabinosyl and rhamnoarabinoarabinosyl side chains as structural features of coffee arabinogalactans",
+    "authors": [
+      "Fernando M. Nunes",
+      "Ana Reis",
+      "Artur M. S. Silva",
+      "M. Ros\u00e1rio Domingues",
+      "Manuel A. Coimbra"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1016/j.phytochem.2008.01.021",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 83,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Side chain",
+      "Chemistry",
+      "Stereochemistry",
+      "Organic chemistry",
+      "Polymer"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

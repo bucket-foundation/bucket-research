@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2128856401",
+    "canonical_url": "https://openalex.org/W2128856401",
+    "title": "Novel benzofuran\u2013chromone and \u2013coumarin derivatives: synthesis and biological activity in K562 human leukemia cells",
+    "authors": [
+      "Clemens Zwergel",
+      "S\u00e9rgio Valente",
+      "A Salvato",
+      "Zhanjie Xu",
+      "Oualid Talhi",
+      "Antonello Mai",
+      "Artur M. S. Silva",
+      "Lucia Altucci",
+      "Gilbert Kirsch"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1039/c3md00241a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 49,
+    "type": "article",
+    "venue": "MedChemComm",
+    "concepts": [
+      "Chromone",
+      "Benzofuran",
+      "Coumarin",
+      "K562 cells",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

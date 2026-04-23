@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4220966339",
+    "canonical_url": "https://openalex.org/W4220966339",
+    "title": "Recent <i>in vivo</i> advances of spirocyclic scaffolds for drug discovery",
+    "authors": [
+      "Vasco F. Batista",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1080/17460441.2022.2055544",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 46,
+    "type": "review",
+    "venue": "Expert Opinion on Drug Discovery",
+    "concepts": [
+      "Drug discovery",
+      "In vivo",
+      "Drug",
+      "Computational biology",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

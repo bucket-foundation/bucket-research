@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1997995038",
+    "canonical_url": "https://openalex.org/W1997995038",
+    "title": "Synthesis and structure elucidation of three series of nitro\u20102\u2010styrylchromones using 1D and 2D NMR spectroscopy",
+    "authors": [
+      "Ana Barros",
+      "Artur M. S. Silva"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/mrc.2472",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Magnetic Resonance in Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Heteronuclear single quantum coherence spectroscopy",
+      "Nitro",
+      "Two-dimensional nuclear magnetic resonance spectroscopy",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

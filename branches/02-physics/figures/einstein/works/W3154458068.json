@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3154458068",
+    "canonical_url": "https://openalex.org/W3154458068",
+    "title": "Pyrazoles as novel protein tyrosine phosphatase 1B (PTP1B) inhibitors: An in vitro and in silico study",
+    "authors": [
+      "S\u00f3nia Rocha",
+      "Mariana Lucas",
+      "Vera L. M. Silva",
+      "P. Gomes",
+      "Artur M. S. Silva",
+      "Alberto N. Ara\u00fajo",
+      "Nat\u00e1lia Aniceto",
+      "Rita C. Guedes",
+      "M. Lu\u00edsa Corvo",
+      "Eduarda Fernandes",
+      "Marisa Freitas"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1016/j.ijbiomac.2021.04.061",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 30,
+    "type": "article",
+    "venue": "International Journal of Biological Macromolecules",
+    "concepts": [
+      "Insulin receptor",
+      "Protein tyrosine phosphatase",
+      "Docking (animal)",
+      "Chemistry",
+      "Phosphatase"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

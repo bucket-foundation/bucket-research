@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4399914334",
+    "canonical_url": "https://openalex.org/W4399914334",
+    "title": "Exploring the fate of phlorotannins from Laminaria digitata across the gastrointestinal tract: Insights into susceptibility and bioactivity prior and post gastrointestinal digestion",
+    "authors": [
+      "Marcelo D. Catarino",
+      "C. Garc\u0131\u0301a",
+      "Roc\u00edo Garc\u0131\u0301a-Villalba",
+      "Artur M. S. Silva",
+      "D\u00e9bora A. Campos",
+      "Maria Manuela Pintado",
+      "Bruno Miguel Neves",
+      "Susana M. Cardoso",
+      "Francisco A. T\u00f3mas\u2010Barber\u00e1n"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1016/j.foodres.2024.114641",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Food Research International",
+    "concepts": [
+      "Laminaria digitata",
+      "Digestion (alchemy)",
+      "Gastrointestinal tract",
+      "Biology",
+      "Digestive tract"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

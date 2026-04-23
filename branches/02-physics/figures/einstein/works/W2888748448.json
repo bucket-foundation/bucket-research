@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2888748448",
+    "canonical_url": "https://openalex.org/W2888748448",
+    "title": "Chromone Derivatives and Other Constituents from Cultures of the Marine Sponge-Associated Fungus Penicillium erubescens KUFA0220 and Their Antibacterial Activity",
+    "authors": [
+      "Decha Kumla",
+      "Jos\u00e9 A. Pereira",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Joana Freitas\u2010Silva",
+      "Paulo Martins da Costa",
+      "Michael Lee",
+      "Artur M. S. Silva",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Madalena Pinto",
+      "Anake Kijjoa"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/md16080289",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 30,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Chromone",
+      "Sponge",
+      "Antibacterial activity",
+      "Ergosterol",
+      "Fungus"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2114032664",
+    "canonical_url": "https://openalex.org/W2114032664",
+    "title": "Bioactive meroditerpenes and indole alkaloids from the soil fungus Neosartorya fischeri (KUFC 6344), and the marine-derived fungi Neosartorya laciniosa (KUFC 7896) and Neosartorya tsunodae (KUFC 9213)",
+    "authors": [
+      "Amnat Eamvijarn",
+      "Nelson G. M. Gomes",
+      "Tida Dethoup",
+      "Jamrearn Buaruang",
+      "Leka Manoch",
+      "Artur M. S. Silva",
+      "Madalena Pedro",
+      "Ioulia Marini",
+      "Vassilios Roussis",
+      "Anake Kijjoa"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.tet.2013.07.078",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 76,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Fungus",
+      "Ethyl acetate",
+      "Indole test",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

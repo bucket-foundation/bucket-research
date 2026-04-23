@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950008773",
+    "canonical_url": "https://openalex.org/W2950008773",
+    "title": "Synthesis of Enantiopure 2-<i>C</i>-Glycosyl-3-nitrochromenes",
+    "authors": [
+      "Raquel G. Soengas",
+      "Humberto Rodr\u00edguez\u2010Solla",
+      "Artur M. S. Silva",
+      "Ricardo Llavona",
+      "Filipe A. Almeida Paz"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1021/jo4021634",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "The Journal of Organic Chemistry",
+    "concepts": [
+      "Enantiopure drug",
+      "Chemistry",
+      "Glycosyl",
+      "Sodium azide",
+      "Iodide"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

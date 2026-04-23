@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2918158687",
+    "canonical_url": "https://openalex.org/W2918158687",
+    "title": "Valorisation of bark lipophilic fractions from three Portuguese Salix species: A systematic study of the chemical composition and inhibitory activity on Escherichia coli",
+    "authors": [
+      "Patr\u00edcia Ramos",
+      "Catarina Moreirinha",
+      "S\u00f3nia A.O. Santos",
+      "Adelaide Almeida",
+      "Carmen S. R. Freire",
+      "Artur M. S. Silva",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/j.indcrop.2019.02.028",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "Industrial Crops and Products",
+    "concepts": [
+      "Bark (sound)",
+      "Chemistry",
+      "Terpene",
+      "Diterpene",
+      "Salix viminalis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2606624697",
+    "canonical_url": "https://openalex.org/W2606624697",
+    "title": "Temperature dependency of aqueous biphasic systems: an alternative approach for exploring the differences between Coulombic-dominated salts and ionic liquids",
+    "authors": [
+      "Francisca A. e Silva",
+      "Jorge F. B. Pereira",
+      "Kiki Adi Kurnia",
+      "S\u00f3nia P. M. Ventura",
+      "Artur M. S. Silva",
+      "Robin D. Rogers",
+      "Jo\u00e3o A. P. Coutinho",
+      "Mara G. Freire"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1039/c7cc02294h",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 37,
+    "type": "article",
+    "venue": "Chemical Communications",
+    "concepts": [
+      "Ionic liquid",
+      "Aqueous solution",
+      "Limit (mathematics)",
+      "Dependency (UML)",
+      "Function (biology)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

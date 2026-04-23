@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4400770665",
+    "canonical_url": "https://openalex.org/W4400770665",
+    "title": "High-Precision Optical Fiber-Based Lickometer",
+    "authors": [
+      "Artur M. S. Silva",
+      "Paulo Carri\u00e7o",
+      "Ana B. Fernandes",
+      "Tatiana Saraiva",
+      "Albino J. Oliveira\u2010Maia",
+      "Joaquim Alves da Silva"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1523/eneuro.0189-24.2024",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "eNeuro",
+    "concepts": [
+      "Licking",
+      "Computer science",
+      "Reliability (semiconductor)",
+      "Interference (communication)",
+      "Optical fiber"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

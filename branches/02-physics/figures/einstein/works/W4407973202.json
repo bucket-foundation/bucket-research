@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4407973202",
+    "canonical_url": "https://openalex.org/W4407973202",
+    "title": "Synthesis of novel quinoline-thiazolobenzimidazolone hybrids as anticancer agents through caspase-dependent apoptosis",
+    "authors": [
+      "Houria Bouria",
+      "Hayette Alliouche",
+      "Mohamed Imed Chouiter",
+      "Ali Belfaitah",
+      "Teresa Pacheco",
+      "Viktor Gala",
+      "David M. Pereira",
+      "Artur M. S. Silva"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1080/17568919.2025.2470112",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Future Medicinal Chemistry",
+    "concepts": [
+      "Quinoline",
+      "Apoptosis",
+      "Caspase",
+      "Caspase 3",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

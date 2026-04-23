@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1995078246",
+    "canonical_url": "https://openalex.org/W1995078246",
+    "title": "Ru(II) trithiacyclononane 5-(2-hydroxyphenyl)-3-[(4-methoxystyryl)pyrazole], a complex with facile synthesis and high cytotoxicity against PC-3 and MDA-MB-231 cells",
+    "authors": [
+      "Joana Marques",
+      "V.L.M. Silva",
+      "Artur M. S. Silva",
+      "M. Paula M. Marques",
+      "Susana S. Braga"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1080/2164232x.2013.873992",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Complex Metals",
+    "concepts": [
+      "Denticity",
+      "Pyrazole",
+      "Chemistry",
+      "Ruthenium",
+      "Cytotoxicity"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

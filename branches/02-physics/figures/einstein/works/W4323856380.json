@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4323856380",
+    "canonical_url": "https://openalex.org/W4323856380",
+    "title": "Applications of Antioxidant Secondary Metabolites of Sargassum spp.",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Rita Silva\u2010Reis",
+      "Amina Chouh",
+      "S\u00f3nia Silva",
+      "Susana S. Braga",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/md21030172",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 56,
+    "type": "review",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Sargassum",
+      "Carotenoid",
+      "Polyphenol",
+      "Antioxidant",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

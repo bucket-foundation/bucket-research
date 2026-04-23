@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2071849412",
+    "canonical_url": "https://openalex.org/W2071849412",
+    "title": "Halophyte plant colonization as a driver of the composition of bacterial communities in salt marshes chronically exposed to oil hydrocarbons",
+    "authors": [
+      "Vanessa Oliveira",
+      "Newton C. M. Gomes",
+      "Daniel F. R. Cleary",
+      "Adelaide Almeida",
+      "Artur M. S. Silva",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Helena Silva",
+      "\u00c2ngela Cunha"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1111/1574-6941.12425",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 33,
+    "type": "article",
+    "venue": "FEMS Microbiology Ecology",
+    "concepts": [
+      "Biology",
+      "Halophyte",
+      "Rhizosphere",
+      "Salt marsh",
+      "Temperature gradient gel electrophoresis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

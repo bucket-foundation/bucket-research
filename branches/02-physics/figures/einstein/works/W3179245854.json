@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3179245854",
+    "canonical_url": "https://openalex.org/W3179245854",
+    "title": "Antitumor Activity of Fucus vesiculosus-Derived Phlorotannins through Activation of Apoptotic Signals in Gastric and Colorectal Tumor Cell Lines",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Iva Fernandes",
+      "H\u00e9lder Oliveira",
+      "Myl\u00e8ne A. Carrascal",
+      "Rita Ferreira",
+      "Artur M. S. Silva",
+      "Maria Teresa Cruz",
+      "Nuno Mateus",
+      "Susana M. Cardoso"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/ijms22147604",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Apoptosis",
+      "Programmed cell death",
+      "Viability assay",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2343933566",
+    "canonical_url": "https://openalex.org/W2343933566",
+    "title": "Salicornia ramosissima: Secondary metabolites and protective effect against acute testicular toxicity",
+    "authors": [
+      "Daniela Ferreira",
+      "Vera M. S. Isca",
+      "Pedro Leal",
+      "Ana M. L. Seca",
+      "Helena Silva",
+      "Maria de Lourdes Pereira",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.arabjc.2016.04.012",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "Arabian Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Phytochemical",
+      "Toxicity",
+      "Carbon tetrachloride",
+      "Acute toxicity"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

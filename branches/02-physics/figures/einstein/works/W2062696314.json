@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2062696314",
+    "canonical_url": "https://openalex.org/W2062696314",
+    "title": "NMR structure characterization of a new vinylpyranoanthocyanin\u2013catechin pigment (a portisin)",
+    "authors": [
+      "Nuno Mateus",
+      "Joana Oliveira",
+      "Celestino Santos\u2010Buelga",
+      "Artur M. S. Silva",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1016/j.tetlet.2004.03.007",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 87,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Catechin",
+      "Acetaldehyde",
+      "Polyphenol",
+      "Pigment"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

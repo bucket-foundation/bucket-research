@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2308697294",
+    "canonical_url": "https://openalex.org/W2308697294",
+    "title": "Novel chromone and xanthone derivatives: Synthesis and ROS/RNS scavenging activities",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "H\u00e9lio M. T. Albuquerque",
+      "Daniela Ribeiro",
+      "Marisa Freitas",
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.ejmech.2016.03.043",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 50,
+    "type": "article",
+    "venue": "European Journal of Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Peroxynitrite",
+      "Chromone",
+      "Superoxide",
+      "Xanthone"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2041537593",
+    "canonical_url": "https://openalex.org/W2041537593",
+    "title": "Diterpene constituents of leaves from Juniperus brevifolia",
+    "authors": [
+      "Ana M. L. Seca",
+      "Artur M. S. Silva",
+      "Isabel L. Bazzocchi",
+      "Ignacio A. Jim\u00e9nez"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1016/j.phytochem.2007.07.026",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Diterpene",
+      "Chemistry",
+      "Terpenoid",
+      "Formate",
+      "Lipophilicity"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

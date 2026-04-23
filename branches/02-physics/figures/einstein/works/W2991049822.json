@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2991049822",
+    "canonical_url": "https://openalex.org/W2991049822",
+    "title": "The antioxidant system in Olea europaea to enhanced UV-B radiation also depends on flavonoids and secoiridoids",
+    "authors": [
+      "Maria Celeste Dias",
+      "Diana C. G. A. Pinto",
+      "Helena Freitas",
+      "Concei\u00e7\u00e3o Santos",
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/j.phytochem.2019.112199",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 77,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Olea",
+      "Chemistry",
+      "Antioxidant",
+      "Botany",
+      "Biochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

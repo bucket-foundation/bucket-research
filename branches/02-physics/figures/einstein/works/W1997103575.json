@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1997103575",
+    "canonical_url": "https://openalex.org/W1997103575",
+    "title": "Identification of Anthocyanin-Flavanol Pigments in Red Wines by NMR and Mass Spectrometry",
+    "authors": [
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "Celestino Santos\u2010Buelga",
+      "Juli\u00e1n C. Rivas\u2010Gonzalo",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1021/jf0111561",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 195,
+    "type": "article",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "concepts": [
+      "Anthocyanin",
+      "Chemistry",
+      "Pigment",
+      "Catechin",
+      "Wine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

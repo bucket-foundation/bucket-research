@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4317743592",
+    "canonical_url": "https://openalex.org/W4317743592",
+    "title": "Metabolomics as a Tool to Understand Nano-Plant Interactions: The Case Study of Metal-Based Nanoparticles",
+    "authors": [
+      "S\u00f3nia Silva",
+      "Maria Celeste Dias",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/plants12030491",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "review",
+    "venue": "Plants",
+    "concepts": [
+      "Metabolomics",
+      "Metabolome",
+      "Plant metabolism",
+      "Biochemical engineering",
+      "Biotechnology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

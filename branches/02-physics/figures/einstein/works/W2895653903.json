@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2895653903",
+    "canonical_url": "https://openalex.org/W2895653903",
+    "title": "Morphological, physico-chemical characteristics and effects of extraction solvents on UHPLC-DAD-ESI-MSn profiling of phenolic contents and antioxidant activities of five date cultivars (Phoenix dactylifera L.) growing in Algeria",
+    "authors": [
+      "Soumaya Hachani",
+      "Chahrazed Hamia",
+      "Sarah Boukhalkhal",
+      "Artur M. S. Silva",
+      "Amar Djeridane",
+      "Mohamed Yousfi"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.nfs.2018.10.001",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 42,
+    "type": "article",
+    "venue": "NFS Journal",
+    "concepts": [
+      "DPPH",
+      "Chemistry",
+      "Polyphenol",
+      "Antioxidant",
+      "Acetone"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

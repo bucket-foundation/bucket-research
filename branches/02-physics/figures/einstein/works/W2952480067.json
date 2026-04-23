@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952480067",
+    "canonical_url": "https://openalex.org/W2952480067",
+    "title": "Metal-Mediated Debromination of gem-Dibromoalkenes under Mild Conditions",
+    "authors": [
+      "Raquel G. Soengas",
+      "Artur M. S. Silva",
+      "Humberto Rodr\u00edguez\u2010Solla"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1055/s-0035-1561558",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Samarium diiodide",
+      "Metal",
+      "Indium",
+      "Samarium"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4307358194",
+    "canonical_url": "https://openalex.org/W4307358194",
+    "title": "New Alkylpyridinium Anthraquinone, Isocoumarin, C-Glucosyl Resorcinol Derivative and Prenylated Pyranoxanthones from the Culture of a Marine Sponge-Associated Fungus, Aspergillus stellatus KUFA 2017",
+    "authors": [
+      "F\u00e1tima P. Machado",
+      "In\u00eas C. Rodrigues",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Paulo Martins da Costa",
+      "Tida Dethoup",
+      "Sharad Mistry",
+      "Artur M. S. Silva",
+      "V\u0131\u0301tor Vasconcelos",
+      "Anake Kijjoa"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/md20110672",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Stereochemistry",
+      "Chemistry",
+      "Anthraquinone",
+      "Antibacterial activity",
+      "Isocoumarin"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

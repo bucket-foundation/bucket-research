@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1965415946",
+    "canonical_url": "https://openalex.org/W1965415946",
+    "title": "Equilibrium Forms of Vitisin B Pigments in an Aqueous System Studied by NMR and Visible Spectroscopy",
+    "authors": [
+      "Joana Oliveira",
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1021/jp904776k",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 48,
+    "type": "article",
+    "venue": "The Journal of Physical Chemistry B",
+    "concepts": [
+      "Spectroscopy",
+      "Aqueous solution",
+      "Nuclear magnetic resonance spectroscopy",
+      "Chemistry",
+      "Analytical Chemistry (journal)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2084433394",
+    "canonical_url": "https://openalex.org/W2084433394",
+    "title": "Bis(4-hydroxy-2H-chromen-2-one): Synthesis and effects on leukemic cell lines proliferation and NF-\u03baB regulation",
+    "authors": [
+      "Oualid Talhi",
+      "Micha\u00ebl Schnekenburger",
+      "Jana Panning",
+      "Diana G.C. Pinto",
+      "Jos\u00e9 A. Fernandes",
+      "Filipe A. Almeida Paz",
+      "Claus Jacob",
+      "Marc Diederich",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.bmc.2014.03.046",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 26,
+    "type": "article",
+    "venue": "Bioorganic & Medicinal Chemistry",
+    "concepts": [
+      "Jurkat cells",
+      "Chemistry",
+      "Cell culture",
+      "Chromone",
+      "Viability assay"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

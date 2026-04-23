@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2036053559",
+    "canonical_url": "https://openalex.org/W2036053559",
+    "title": "A convenient synthesis of new (E)-5-hydroxy-2-styrylchromones by modifications of the Baker\u2013Venkataraman method",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1039/a908539d",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 44,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Stereochemistry",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2958586634",
+    "canonical_url": "https://openalex.org/W2958586634",
+    "title": "Chalcones and Flavanones Bearing Hydroxyl and/or Methoxyl Groups: Synthesis and Biological Assessments",
+    "authors": [
+      "Gon\u00e7alo P. Rosa",
+      "Ana M. L. Seca",
+      "Maria do Carmo Barreto",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/app9142846",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 57,
+    "type": "article",
+    "venue": "Applied Sciences",
+    "concepts": [
+      "Flavanone",
+      "Chemistry",
+      "Chalcone",
+      "Sodium hydride",
+      "Amide"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

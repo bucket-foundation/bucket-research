@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4386412954",
+    "canonical_url": "https://openalex.org/W4386412954",
+    "title": "Synthesis, characterization of new \u03b1\u2010quinolin\u20103\u2010yl\u2010\u03b1\u2010(aminoamides, aminoesters) and <scp><i>bi</i></scp>\u2010heterocyclic aromatic systems from <scp><i>gem</i></scp>\u2010dicyanoepoxides and their pharmacological activity as antioxidant and antifungal agents",
+    "authors": [
+      "Houria Bouria",
+      "Hayette Alliouche",
+      "Mohamed Imed Chouiter",
+      "Abdelmalek Bouraiou",
+      "Hocine M\u00e9razig",
+      "Artur M. S. Silva",
+      "Ali Belfaitah"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1002/jhet.4720",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Quinoline",
+      "Quinoxaline",
+      "DPPH",
+      "ABTS"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

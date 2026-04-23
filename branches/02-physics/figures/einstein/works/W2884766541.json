@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2884766541",
+    "canonical_url": "https://openalex.org/W2884766541",
+    "title": "Phycochemical Constituents and Biological Activities of Fucus spp.",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/md16080249",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 189,
+    "type": "review",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Fucoidan",
+      "Fucus",
+      "Phytochemical",
+      "Fucus vesiculosus",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

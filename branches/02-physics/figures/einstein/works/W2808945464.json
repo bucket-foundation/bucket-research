@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2808945464",
+    "canonical_url": "https://openalex.org/W2808945464",
+    "title": "Metabolites and Biological Activities of Thymus zygis, Thymus pulegioides, and Thymus fragrantissimus Grown under Organic Cultivation",
+    "authors": [
+      "Andrea F. Afonso",
+      "Ol\u00edvia R. Pereira",
+      "M\u00f3nica V\u00e1lega",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/molecules23071514",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 54,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Rosmarinic acid",
+      "Food science",
+      "EC50",
+      "DPPH",
+      "Antioxidant"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

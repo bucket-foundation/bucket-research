@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4205300127",
+    "canonical_url": "https://openalex.org/W4205300127",
+    "title": "An In Silico and an In Vitro Inhibition Analysis of Glycogen Phosphorylase by Flavonoids, Styrylchromones, and Pyrazoles",
+    "authors": [
+      "S\u00f3nia Rocha",
+      "Nat\u00e1lia Aniceto",
+      "Rita C. Guedes",
+      "H\u00e9lio M. T. Albuquerque",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "M. Lu\u00edsa Corvo",
+      "Eduarda Fernandes",
+      "Marisa Freitas"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/nu14020306",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Nutrients",
+    "concepts": [
+      "In silico",
+      "Glycogen phosphorylase",
+      "In vitro",
+      "Glycogen",
+      "Glycogen synthase"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

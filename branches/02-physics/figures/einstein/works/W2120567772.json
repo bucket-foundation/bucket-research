@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2120567772",
+    "canonical_url": "https://openalex.org/W2120567772",
+    "title": "Hydrocarbon contamination and plant species determine the phylogenetic and functional diversity of endophytic degrading bacteria",
+    "authors": [
+      "Vanessa Oliveira",
+      "Newton C. M. Gomes",
+      "Adelaide Almeida",
+      "Artur M. S. Silva",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Kornelia Smalla",
+      "\u00c2ngela Cunha"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1111/mec.12559",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 63,
+    "type": "article",
+    "venue": "Molecular Ecology",
+    "concepts": [
+      "Biology",
+      "Salt marsh",
+      "Temperature gradient gel electrophoresis",
+      "Botany",
+      "Phytoremediation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

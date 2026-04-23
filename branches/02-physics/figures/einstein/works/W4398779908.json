@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4398779908",
+    "canonical_url": "https://openalex.org/W4398779908",
+    "title": "Pyrazoles have a multifaceted anti-inflammatory effect targeting prostaglandin E2, cyclooxygenases and leukocytes\u2019 oxidative burst",
+    "authors": [
+      "S\u00f3nia Rocha",
+      "Jorge Marques da Silva",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "M. Lu\u00edsa Corvo",
+      "Marisa Freitas",
+      "Eduarda Fernandes"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1016/j.biocel.2024.106599",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "The International Journal of Biochemistry & Cell Biology",
+    "concepts": [
+      "Prostaglandin E2",
+      "Respiratory burst",
+      "Oxidative phosphorylation",
+      "Inflammation",
+      "Oxidative stress"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

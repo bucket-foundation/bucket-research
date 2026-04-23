@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2912050580",
+    "canonical_url": "https://openalex.org/W2912050580",
+    "title": "Effect of Oven-Drying on the Recovery of Valuable Compounds from Ulva rigida, Gracilaria sp. and Fucus vesiculosus",
+    "authors": [
+      "Andreia F. R. Silva",
+      "Helena Abreu",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/md17020090",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 91,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Gracilaria",
+      "Fucus",
+      "Botany",
+      "Algae"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

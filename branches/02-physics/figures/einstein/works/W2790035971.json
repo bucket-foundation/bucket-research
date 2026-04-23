@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2790035971",
+    "canonical_url": "https://openalex.org/W2790035971",
+    "title": "UV-B radiation modulates physiology and lipophilic metabolite profile in Olea europaea",
+    "authors": [
+      "Maria Celeste Dias",
+      "Diana C. G. A. Pinto",
+      "Carlos M. Correia",
+      "Jos\u00e9 Moutinho\u2010Pereira",
+      "Helena Oliveira",
+      "Helena Freitas",
+      "Artur M. S. Silva",
+      "Concei\u00e7\u00e3o Santos"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.jplph.2018.01.004",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 59,
+    "type": "article",
+    "venue": "Journal of Plant Physiology",
+    "concepts": [
+      "Olea",
+      "Metabolite",
+      "Photosynthesis",
+      "Metabolome",
+      "Plant physiology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

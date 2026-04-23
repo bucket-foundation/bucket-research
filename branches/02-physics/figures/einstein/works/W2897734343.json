@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2897734343",
+    "canonical_url": "https://openalex.org/W2897734343",
+    "title": "Scabiosa Genus: A Rich Source of Bioactive Metabolites",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Naima Rahmouni",
+      "Noureddine Beghidja",
+      "Artur M. S. Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/medicines5040110",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 37,
+    "type": "review",
+    "venue": "Medicines",
+    "concepts": [
+      "Caprifoliaceae",
+      "Genus",
+      "Botany",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

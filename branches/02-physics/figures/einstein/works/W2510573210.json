@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2510573210",
+    "canonical_url": "https://openalex.org/W2510573210",
+    "title": "Chemical and structural characterization of Pholiota nameko extracts with biological properties",
+    "authors": [
+      "Dina Rodrigues",
+      "Ana C. Freitas",
+      "S\u00e9rgio Sousa",
+      "Manuela Amorim",
+      "Marta W. Vasconcelos",
+      "Jo\u00e3o Pinto da Costa",
+      "Artur M. S. Silva",
+      "Teresa Rocha\u2010Santos",
+      "Armando C. Duarte",
+      "Ana Gomes"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.foodchem.2016.08.030",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Cellulase",
+      "Chemistry",
+      "Polysaccharide",
+      "Monosaccharide",
+      "Mushroom"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2162458370",
+    "canonical_url": "https://openalex.org/W2162458370",
+    "title": "Synthesis and structural characterisation of ring B oxidised derivatives of dehydroabietic acid",
+    "authors": [
+      "S\u00edlvia Monteiro",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "V\u0131\u0301tor F\u00e9lix",
+      "Michael G. B. Drew"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1039/b103737b",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Ring (chemistry)",
+      "Stereochemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

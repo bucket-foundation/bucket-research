@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2049903880",
+    "canonical_url": "https://openalex.org/W2049903880",
+    "title": "Structural Characterization of Lignin from Leaf Sheaths of \u201cDwarf Cavendish\u201d Banana Plant",
+    "authors": [
+      "L\u00facia Oliveira",
+      "Dmitry V. Evtuguin",
+      "Nereida Cordeiro",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva",
+      "Isabel Torres"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1021/jf0528310",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 46,
+    "type": "article",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "concepts": [
+      "Lignin",
+      "Chemistry",
+      "Ether",
+      "Carbon-13 NMR",
+      "Cell wall"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

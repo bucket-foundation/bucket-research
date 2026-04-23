@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2139738258",
+    "canonical_url": "https://openalex.org/W2139738258",
+    "title": "Identification of oleuropein oligomers in olive pulp and pomace",
+    "authors": [
+      "Susana M. Cardoso",
+      "Sylvain Guyot",
+      "Nathalie Marnet",
+      "Jos\u00e9 A. Lopes\u2010da\u2010Silva",
+      "Artur M. S. Silva",
+      "Catherine M.G.C. Renard",
+      "Manuel A. Coimbra"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1002/jsfa.2532",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 31,
+    "type": "article",
+    "venue": "Journal of the Science of Food and Agriculture",
+    "concepts": [
+      "Oleuropein",
+      "Chemistry",
+      "Hydroxytyrosol",
+      "Pomace",
+      "Trimer"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

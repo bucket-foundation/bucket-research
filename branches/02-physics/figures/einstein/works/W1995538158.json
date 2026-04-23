@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1995538158",
+    "canonical_url": "https://openalex.org/W1995538158",
+    "title": "Antibacterial and Antibiofilm Activities of Tryptoquivalines and Meroditerpenes Isolated from the Marine-Derived Fungi Neosartorya paulistensis, N. laciniosa, N. tsunodae, and the Soil Fungi N. fischeri and N. siamensis",
+    "authors": [
+      "Nelson G. M. Gomes",
+      "Lucinda J. Bessa",
+      "Suradet Buttachon",
+      "Paulo Martins da Costa",
+      "Jamrearn Buaruang",
+      "Tida Dethoup",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.3390/md12020822",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 96,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Microbiology",
+      "Biology",
+      "Minimum inhibitory concentration",
+      "Antibacterial activity",
+      "Staphylococcus aureus"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

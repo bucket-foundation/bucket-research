@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2907172290",
+    "canonical_url": "https://openalex.org/W2907172290",
+    "title": "Synthesis, characterisation, estimation of ground-and excited-state dipole moments using solvatochromic shift and theoretical studies of new iminocoumarin derivatives",
+    "authors": [
+      "Amal Rabahi",
+      "Malika Makhloufi\u2010Chebli",
+      "Sihem Zaater",
+      "M\u00e9ziane Brahimi",
+      "Artur M. S. Silva",
+      "Baya Boutemeur"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.molstruc.2018.12.105",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Solvatochromism",
+      "Chemistry",
+      "Dipole",
+      "Excited state",
+      "Ground state"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

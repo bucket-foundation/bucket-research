@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2161638956",
+    "canonical_url": "https://openalex.org/W2161638956",
+    "title": "Wittig reactions of chromone-3-carboxaldehydes with benzylidenetriphenyl phosphoranes: a new synthesis of 3-styrylchromones",
+    "authors": [
+      "Angela Sandulache",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "L\ufffdcia M. P. M. Almeida",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1039/b303554a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 26,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Diastereomer",
+      "Wittig reaction",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

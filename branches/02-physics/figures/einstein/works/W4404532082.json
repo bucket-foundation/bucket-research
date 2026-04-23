@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4404532082",
+    "canonical_url": "https://openalex.org/W4404532082",
+    "title": "Bioprospecting a Natural Antioxidant Peptide for Tomato Biostimulation Under Water Limitations: Physiological Approach",
+    "authors": [
+      "S\u00f3nia Silva",
+      "C\u00e1tia Teixeira",
+      "Maria Celeste Dias",
+      "Renato B. Pereira",
+      "Paula Gomes",
+      "Artur M. S. Silva"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1007/s00344-024-11569-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Journal of Plant Growth Regulation",
+    "concepts": [
+      "Bioprospecting",
+      "Plant physiology",
+      "Biostimulation",
+      "Antioxidant",
+      "Peptide"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

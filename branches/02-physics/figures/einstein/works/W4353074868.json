@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4353074868",
+    "canonical_url": "https://openalex.org/W4353074868",
+    "title": "New Hybrid Phenalenone Dimer, Highly Conjugated Dihydroxylated C28 Steroid and Azaphilone from the Culture Extract of a Marine Sponge-Associated Fungus, Talaromyces pinophilus KUFA 1767",
+    "authors": [
+      "F\u00e1tima P. Machado",
+      "In\u00eas C. Rodrigues",
+      "Aikaterini Georgopolou",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Paulo Martins da Costa",
+      "Sharad Mistry",
+      "Salar Hafez Ghoran",
+      "Artur M. S. Silva",
+      "Tida Dethoup",
+      "Em\u0131\u0301lia Sousa",
+      "Anake Kijjoa"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/md21030194",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Enterococcus faecalis",
+      "Staphylococcus aureus",
+      "Dimer",
+      "Stereochemistry",
+      "Sponge"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

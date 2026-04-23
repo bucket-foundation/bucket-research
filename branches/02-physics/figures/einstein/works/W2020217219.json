@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2020217219",
+    "canonical_url": "https://openalex.org/W2020217219",
+    "title": "Characterization of galactooligosaccharides produced by \u03b2-galactosidase immobilized onto magnetized Dacron",
+    "authors": [
+      "David F. Neri",
+      "Victor M. Balc\u00e3o",
+      "Susana M. Cardoso",
+      "Artur M. S. Silva",
+      "M. Ros\u00e1rio Domingues",
+      "Duarte Torres",
+      "L. R. Rodrigues",
+      "Luiz B. Carvalho",
+      "J. A. Teixeira"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1016/j.idairyj.2010.10.009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 40,
+    "type": "article",
+    "venue": "International Dairy Journal",
+    "concepts": [
+      "Chemistry",
+      "Oligosaccharide",
+      "Lactose",
+      "Chromatography",
+      "Immobilized enzyme"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

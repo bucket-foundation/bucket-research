@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3004022041",
+    "canonical_url": "https://openalex.org/W3004022041",
+    "title": "Blanching impact on pigments, glucosinolates, and phenolics of dehydrated broccoli by-products",
+    "authors": [
+      "S\u00f3nia S. Ferreira",
+      "Filipa Monteiro",
+      "Cl\u00e1udia P. Passos",
+      "Artur M. S. Silva",
+      "Dulcineia F. Wessel",
+      "Manuel A. Coimbra",
+      "Susana M. Cardoso"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.foodres.2020.109055",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 60,
+    "type": "article",
+    "venue": "Food Research International",
+    "concepts": [
+      "Blanching",
+      "Dehydration",
+      "Chemistry",
+      "Glucosinolate",
+      "Glucoraphanin"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

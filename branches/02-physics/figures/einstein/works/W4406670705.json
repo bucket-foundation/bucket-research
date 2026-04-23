@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4406670705",
+    "canonical_url": "https://openalex.org/W4406670705",
+    "title": "1,3,5-Triazine: A Promising Molecular Scaffold for Novel Agents for the Treatment of Alzheimer\u2019s Disease",
+    "authors": [
+      "Carlos F. M. Silva",
+      "Ana P. D. de M. S. Guerrinha",
+      "Sofia Carvalho",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.3390/ijms26030882",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "review",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Senile plaques",
+      "Disease",
+      "Chemistry",
+      "Tau protein",
+      "Amyloid (mycology)"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

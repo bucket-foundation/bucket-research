@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3153647755",
+    "canonical_url": "https://openalex.org/W3153647755",
+    "title": "Chromeno[3,4-b]xanthones as First-in-Class AChE and A\u03b2 Aggregation Dual-Inhibitors",
+    "authors": [
+      "Daniela Malafaia",
+      "Ana Oliveira",
+      "Pedro Alexandrino Fernandes",
+      "Maria J. Ramos",
+      "H\u00e9lio M. T. Albuquerque",
+      "Artur M. S. Silva"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/ijms22084145",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Chemistry",
+      "Acetylcholinesterase",
+      "Ach\u00e9",
+      "Docking (animal)",
+      "Drug discovery"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3176592081",
+    "canonical_url": "https://openalex.org/W3176592081",
+    "title": "Brown Algae Phlorotannins: A Marine Alternative to Break the Oxidative Stress, Inflammation and Cancer Network",
+    "authors": [
+      "Marcelo D. Catarino",
+      "S\u00f3nia J. Amarante",
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/foods10071478",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 70,
+    "type": "review",
+    "venue": "Foods",
+    "concepts": [
+      "Cancer",
+      "Oxidative stress",
+      "Carcinogenesis",
+      "Disease",
+      "Inflammation"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

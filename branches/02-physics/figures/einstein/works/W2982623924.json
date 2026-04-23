@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2982623924",
+    "canonical_url": "https://openalex.org/W2982623924",
+    "title": "New complexes of manganese (II) and copper (II) derived from the two new furopyran-3, 4-dione ligands: Synthesis, spectral characterization, ESR, DFT studies and evaluation of antimicrobial activity",
+    "authors": [
+      "Yamina Abdi",
+      "Nadjia Bensouilah",
+      "Dhaouya Siziani",
+      "Ma\u00e2mar Hamdi",
+      "Artur M. S. Silva",
+      "Baya Boutemeur\u2010Kheddis"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/j.molstruc.2019.127307",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Octahedral molecular geometry",
+      "Copper",
+      "Manganese",
+      "Ligand (biochemistry)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

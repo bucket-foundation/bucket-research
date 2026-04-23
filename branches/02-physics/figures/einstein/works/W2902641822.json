@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2902641822",
+    "canonical_url": "https://openalex.org/W2902641822",
+    "title": "Salvia elegans, Salvia greggii and Salvia officinalis Decoctions: Antioxidant Activities and Inhibition of Carbohydrate and Lipid Metabolic Enzymes",
+    "authors": [
+      "Ol\u00edvia R. Pereira",
+      "Marcelo D. Catarino",
+      "Andrea F. Afonso",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/molecules23123169",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 89,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Salvia officinalis",
+      "Decoction",
+      "Salvia",
+      "Traditional medicine",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2022649142",
+    "canonical_url": "https://openalex.org/W2022649142",
+    "title": "Flavanol\u2013anthocyanin pigments in corn: NMR characterisation and presence in different purple corn varieties",
+    "authors": [
+      "Susana Gonz\u00e1lez\u2010Manzano",
+      "Jos\u00e9 P\u00e9rez-Alonso",
+      "Yolanda Salinas\u2010Moreno",
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "V\u00edctor de Freitas",
+      "Celestino Santos\u2010Buelga"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1016/j.jfca.2008.05.009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 63,
+    "type": "article",
+    "venue": "Journal of Food Composition and Analysis",
+    "concepts": [
+      "Anthocyanin",
+      "Pigment",
+      "Chemistry",
+      "Cyanidin",
+      "Food science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

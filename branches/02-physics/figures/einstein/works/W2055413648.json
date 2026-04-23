@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2055413648",
+    "canonical_url": "https://openalex.org/W2055413648",
+    "title": "Synthesis of New Chlorin\u2005<i>e</i><sub>6</sub> Trimethyl and Protoporphyrin\u2005IX Dimethyl Ester Derivatives and Their Photophysical and Electrochemical Characterizations",
+    "authors": [
+      "Jos\u00e9 C. J. M. D. S. Menezes",
+      "M. Amparo F. Faustino",
+      "Kl\u00e9ber T. de Oliveira",
+      "Marciana P. Uliana",
+      "V\u0131\u0301tor F. Ferreira",
+      "Steffen Hackbarth",
+      "Beate R\u00f6der",
+      "Thiago Teixeira Tasso",
+      "Taniyuki Furuyama",
+      "Nagao Kobayashi",
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/chem.201403214",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 41,
+    "type": "article",
+    "venue": "Chemistry - A European Journal",
+    "concepts": [
+      "Chemistry",
+      "Photochemistry",
+      "Intersystem crossing",
+      "Knoevenagel condensation",
+      "Quantum yield"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

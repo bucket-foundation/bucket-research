@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2086557358",
+    "canonical_url": "https://openalex.org/W2086557358",
+    "title": "Characterization of phenolic constituents and evaluation of antioxidant properties of leaves and stems of Eriocephalus africanus",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Artur M. S. Silva",
+      "Susana C. Saraiva",
+      "A.J.F.N. Sobral",
+      "Susana M. Cardoso"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1016/j.arabjc.2015.04.018",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 49,
+    "type": "article",
+    "venue": "Arabian Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "DPPH",
+      "Antioxidant",
+      "Ferulic acid",
+      "Eriodictyol"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

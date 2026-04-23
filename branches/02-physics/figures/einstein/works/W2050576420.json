@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2050576420",
+    "canonical_url": "https://openalex.org/W2050576420",
+    "title": "A new vinylpyranoanthocyanin pigment occurring in aged red wine",
+    "authors": [
+      "Nuno Mateus",
+      "Joana Oliveira",
+      "Jo\u00e3o Pissarra",
+      "Ana M. Gonzal\u00e9z\u2010Param\u00e1s",
+      "Juli\u00e1n C. Rivas\u2010Gonzalo",
+      "Celestino Santos\u2010Buelga",
+      "Artur M. S. Silva",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1016/j.foodchem.2005.05.051",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 69,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Pigment",
+      "Wine",
+      "Hue",
+      "Chemistry",
+      "Adduct"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

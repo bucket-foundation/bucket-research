@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2080877353",
+    "canonical_url": "https://openalex.org/W2080877353",
+    "title": "Dihydroxyxanthones prenylated derivatives: Synthesis, structure elucidation, and growth inhibitory activity on human tumor cell lines with improvement of selectivity for MCF-7",
+    "authors": [
+      "R.A.P. Castanheiro",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Sara Cravo",
+      "Lu\u0131\u0301s Gales",
+      "Ana M. Damas",
+      "Na\u00efr Nazareth",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Graham Eaton"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1016/j.bmc.2007.06.037",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 50,
+    "type": "article",
+    "venue": "Bioorganic & Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Prenylation",
+      "Stereochemistry",
+      "MCF-7",
+      "Structure\u2013activity relationship"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

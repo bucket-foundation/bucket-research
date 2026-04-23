@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2783107342",
+    "canonical_url": "https://openalex.org/W2783107342",
+    "title": "10-(4-Hydroxy-6-methyl-2-oxo-2H-pyran-3-yl)-3-methyl-1H,10H-pyrano[4,3-b] chromen-1-ones from a pseudo-multicomponent reaction and evaluation of their antioxidant activity",
+    "authors": [
+      "Liza Saher",
+      "Malika Makhloufi\u2010Chebli",
+      "Leila Dermeche",
+      "Samia Dermeche",
+      "Baya Boutemeur\u2010Khedis",
+      "C. Rabia",
+      "Ma\u00e2mar Hamdi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.tet.2018.01.009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Knoevenagel condensation",
+      "Moiety",
+      "Pyran"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

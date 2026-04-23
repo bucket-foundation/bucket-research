@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2103833656",
+    "canonical_url": "https://openalex.org/W2103833656",
+    "title": "<sup>1</sup>H NMR and Molecular Dynamics Evidence for an Unexpected Interaction on the Origin of Salting-In/Salting-Out Phenomena",
+    "authors": [
+      "Mara G. Freire",
+      "Catarina M. S. S. Neves",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos",
+      "Isabel M. Marrucho",
+      "Lu\u00eds Paulo N. Rebelo",
+      "Jindal K. Shah",
+      "Edward J. Maginn",
+      "Jo\u00e3o A. P. Coutinho"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1021/jp9095634",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 121,
+    "type": "article",
+    "venue": "The Journal of Physical Chemistry B",
+    "concepts": [
+      "Salting",
+      "Salting out",
+      "Molecular dynamics",
+      "Dynamics (music)",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

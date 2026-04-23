@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2621354747",
+    "canonical_url": "https://openalex.org/W2621354747",
+    "title": "Antibacterial and antibiofilm activities of the metabolites isolated from the culture of the mangrove-derived endophytic fungus Eurotium chevalieri KUFA 0006",
+    "authors": [
+      "War War May Zin",
+      "Suradet Buttachon",
+      "Tida Dethoup",
+      "Jos\u00e9 A. Pereira",
+      "Lu\u0131\u0301s Gales",
+      "\u00c2ngela In\u00e1cio",
+      "Paulo Martins da Costa",
+      "Michael Lee",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Anake Kijjoa"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.phytochem.2017.05.015",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 93,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Emodin",
+      "Antibacterial activity",
+      "Ergosterol",
+      "Stereochemistry",
+      "Bacteria"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

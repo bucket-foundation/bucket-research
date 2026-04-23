@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4313826101",
+    "canonical_url": "https://openalex.org/W4313826101",
+    "title": "CoFe2O4 spinel ferrite studies on permanent magnet application and cytotoxic effects on breast and prostate cancer cell lines",
+    "authors": [
+      "A. Benali",
+      "Liza Saher",
+      "M. Bejar",
+      "E. Dhahri",
+      "M.P.F. Gra\u00e7a",
+      "M.A. Valente",
+      "P. Sanguino",
+      "Lu\u00edsa A. Helguero",
+      "Khaldoun Bachar\u0131",
+      "Artur M. S. Silva",
+      "B. F. O. Costa"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1007/s10854-022-09398-w",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Journal of Materials Science Materials in Electronics",
+    "concepts": [
+      "Particle size",
+      "Cytotoxic T cell",
+      "Materials science",
+      "Cytotoxicity",
+      "Nanotechnology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

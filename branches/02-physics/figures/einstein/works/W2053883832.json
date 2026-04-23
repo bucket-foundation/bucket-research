@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2053883832",
+    "canonical_url": "https://openalex.org/W2053883832",
+    "title": "Modulation of human neutrophils' oxidative burst by flavonoids",
+    "authors": [
+      "Daniela Ribeiro",
+      "Marisa Freitas",
+      "Sara M. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Gra\u00e7a Porto",
+      "Eduarda Fernandes"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.ejmech.2013.06.019",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 57,
+    "type": "article",
+    "venue": "European Journal of Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Respiratory burst",
+      "Oxidative stress",
+      "Reactive oxygen species",
+      "Lipophilicity"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

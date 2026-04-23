@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2981060152",
+    "canonical_url": "https://openalex.org/W2981060152",
+    "title": "Puccinellia maritima, Spartina maritime, and Spartina patens Halophytic Grasses: Characterization of Polyphenolic and Chlorophyll Profiles and Evaluation of Their Biological Activities",
+    "authors": [
+      "Maria V. Faustino",
+      "M. Amparo F. Faustino",
+      "Helena Silva",
+      "\u00c2ngela Cunha",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/molecules24203796",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Botany",
+      "Biology",
+      "Halophyte",
+      "Tricin",
+      "Nutraceutical"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2041281370",
+    "canonical_url": "https://openalex.org/W2041281370",
+    "title": "A new xanthone from<i>Hedychium gardnerianum</i>",
+    "authors": [
+      "Maria Jo\u00e3o Carvalho",
+      "Lu\u00eds M. Carvalho",
+      "Ana Ferreira",
+      "Artur M. S. Silva"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1080/1478641031000118906",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "Natural Product Research",
+    "concepts": [
+      "Xanthone",
+      "Rhizome",
+      "Mangiferin",
+      "Stereochemistry",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3093979371",
+    "canonical_url": "https://openalex.org/W3093979371",
+    "title": "Chemical composition and insecticidal, repellent and antifungal activities of essential oil of Mentha rotundifolia (L.) from Algeria",
+    "authors": [
+      "Ghania Yakhlef",
+      "Leila Hambaba",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.indcrop.2020.112988",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "article",
+    "venue": "Industrial Crops and Products",
+    "concepts": [
+      "Sitophilus",
+      "Pesticide",
+      "PEST analysis",
+      "Fusarium culmorum",
+      "Essential oil"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

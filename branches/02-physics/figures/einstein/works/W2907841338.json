@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2907841338",
+    "canonical_url": "https://openalex.org/W2907841338",
+    "title": "Cholesterol-Based Compounds: Recent Advances in Synthesis and Applications",
+    "authors": [
+      "H\u00e9lio M. T. Albuquerque",
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/molecules24010116",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 72,
+    "type": "review",
+    "venue": "Molecules",
+    "concepts": [
+      "Nanotechnology",
+      "Cholesterol",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Drug delivery"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

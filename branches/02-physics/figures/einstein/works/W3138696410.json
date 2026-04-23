@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3138696410",
+    "canonical_url": "https://openalex.org/W3138696410",
+    "title": "Selection of Covalent Organic Framework Pore Functionalities for Differential Adsorption of Microcystin Toxin Analogues",
+    "authors": [
+      "Soraia P. S. Fernandes",
+      "Petr Kov\u00e1\u0159",
+      "Milan P\u0161eni\u010dka",
+      "Artur M. S. Silva",
+      "Laura M. Salonen",
+      "Bego\u00f1a Espi\u00f1a"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1021/acsami.0c18808",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 45,
+    "type": "article",
+    "venue": "ACS Applied Materials & Interfaces",
+    "concepts": [
+      "Adsorption",
+      "Desorption",
+      "Covalent bond",
+      "Microcystin",
+      "Microcystin-LR"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

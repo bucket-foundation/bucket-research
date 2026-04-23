@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2974124558",
+    "canonical_url": "https://openalex.org/W2974124558",
+    "title": "Water Extraction Kinetics of Bioactive Compounds of Fucus vesiculosus",
+    "authors": [
+      "Ricardo M. Ferreira",
+      "Ana Ramalho Ribeiro",
+      "Carla Patinha",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso",
+      "Rui Costa"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/molecules24183408",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 38,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Extraction (chemistry)",
+      "Chemistry",
+      "Polysaccharide",
+      "Iodine"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

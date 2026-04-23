@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1966047094",
+    "canonical_url": "https://openalex.org/W1966047094",
+    "title": "Comparative study of the degradation of real textile effluents by photocatalytic reactions involving UV/TiO2/H2O2 and UV/Fe2+/H2O2 systems",
+    "authors": [
+      "Jacqueline Oliveira Garcia",
+      "Jurandi Gon\u00e7alves de Oliveira",
+      "Artur M. S. Silva",
+      "Catarina R. Oliveira",
+      "Jorge Nozaki",
+      "N DESOUZA"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1016/j.jhazmat.2006.12.053",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 129,
+    "type": "article",
+    "venue": "Journal of Hazardous Materials",
+    "concepts": [
+      "Effluent",
+      "Chemistry",
+      "Photocatalysis",
+      "Mineralization (soil science)",
+      "Hydrogen peroxide"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2895443941",
+    "canonical_url": "https://openalex.org/W2895443941",
+    "title": "Aggregation-induced emission enhancement of chiral boranils",
+    "authors": [
+      "Patr\u00edcia A. A. M. Vaz",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1039/c8nj03228a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 25,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Aggregation-induced emission",
+      "Fluorescence",
+      "Physics",
+      "Quantum mechanics"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W814871581",
+    "canonical_url": "https://openalex.org/W814871581",
+    "title": "Influence of the temperature and oxygen exposure in red Port wine: A kinetic approach",
+    "authors": [
+      "Carla Oliveira",
+      "Ant\u00f3nio S. Barros",
+      "A. C. Silva Ferreira",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1016/j.foodres.2015.06.024",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 64,
+    "type": "article",
+    "venue": "Food Research International",
+    "concepts": [
+      "Wine",
+      "Oxygen",
+      "Chemistry",
+      "Kinetic energy",
+      "Port wine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4281565215",
+    "canonical_url": "https://openalex.org/W4281565215",
+    "title": "Phlorotannins of the Brown Algae Sargassum vulgare from the Mediterranean Sea Coast",
+    "authors": [
+      "Amina Chouh",
+      "Tahar Nouadri",
+      "Marcelo D. Catarino",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/antiox11061055",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 48,
+    "type": "article",
+    "venue": "Antioxidants",
+    "concepts": [
+      "Sargassum",
+      "Brown algae",
+      "Algae",
+      "Brown seaweed",
+      "Mediterranean climate"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4367315322",
+    "canonical_url": "https://openalex.org/W4367315322",
+    "title": "Antitumor Effects of Cannabis sativa Bioactive Compounds on Colorectal Carcinogenesis",
+    "authors": [
+      "Rita Silva\u2010Reis",
+      "Artur M. S. Silva",
+      "Paula A. Oliveira",
+      "Susana M. Cardoso"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/biom13050764",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "review",
+    "venue": "Biomolecules",
+    "concepts": [
+      "Terpene",
+      "Angiogenesis",
+      "Cannabis sativa",
+      "Colorectal cancer",
+      "Pharmacology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

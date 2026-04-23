@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4312056510",
+    "canonical_url": "https://openalex.org/W4312056510",
+    "title": "Structure-function relationships of pectic polysaccharides from broccoli by-products with in vitro B lymphocyte stimulatory activity",
+    "authors": [
+      "S\u00f3nia S. Ferreira",
+      "Alexandra Correia",
+      "Artur M. S. Silva",
+      "Dulcineia F. Wessel",
+      "Susana M. Cardoso",
+      "Manuel Vilanova",
+      "Manuel A. Coimbra"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.carbpol.2022.120432",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 42,
+    "type": "article",
+    "venue": "Carbohydrate Polymers",
+    "concepts": [
+      "Polysaccharide",
+      "Pectin",
+      "Chemistry",
+      "Pectinase",
+      "Uronic acid"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3021556221",
+    "canonical_url": "https://openalex.org/W3021556221",
+    "title": "Structural Specificity of Flavonoids in the Inhibition of Human Fructose 1,6-Bisphosphatase",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "Ana Oliveira",
+      "Marisa Freitas",
+      "Daniela Ribeiro",
+      "Joana L. C. Sousa",
+      "Maria J. Ramos",
+      "Artur M. S. Silva",
+      "Pedro Alexandrino Fernandes",
+      "Eduarda Fernandes"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1021/acs.jnatprod.0c00014",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 25,
+    "type": "article",
+    "venue": "Journal of Natural Products",
+    "concepts": [
+      "Fructose 1,6-bisphosphatase",
+      "Gluconeogenesis",
+      "Enzyme",
+      "Biochemistry",
+      "Fructose"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

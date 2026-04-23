@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2791996570",
+    "canonical_url": "https://openalex.org/W2791996570",
+    "title": "Advances in Spirocyclic Hybrids: Chemistry and Medicinal Actions",
+    "authors": [
+      "Mohammed Benabdallah",
+      "Oualid Talhi",
+      "Fatiha Nouali",
+      "Noureddine Choukchou\u2010Braham",
+      "Khaldoun Bachar\u0131",
+      "Artur M. S. Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.2174/0929867325666180309124821",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 64,
+    "type": "review",
+    "venue": "Current Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Pharmacophore",
+      "Oxindole",
+      "Small molecule",
+      "Structure\u2013activity relationship"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

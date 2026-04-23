@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2169676585",
+    "canonical_url": "https://openalex.org/W2169676585",
+    "title": "Influence of taro (Colocasia esculenta L. Shott) growth conditions on the phenolic composition and biological properties",
+    "authors": [
+      "Rui F. Gon\u00e7alves",
+      "Artur M. S. Silva",
+      "Ana M. G. Silva",
+      "Patr\u0131\u0301cia Valent\u00e3o",
+      "Federico Ferreres",
+      "\u00c1ngel Gil\u2010Izquierdo",
+      "Jo\u00e3o Baptista Pereira Silva",
+      "Delfim Santos",
+      "Paula B. Andrade"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.foodchem.2013.06.009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 53,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Colocasia esculenta",
+      "Food science",
+      "Composition (language)",
+      "Chemistry",
+      "Antioxidant"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

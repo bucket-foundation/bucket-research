@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2049078541",
+    "canonical_url": "https://openalex.org/W2049078541",
+    "title": "Synthesis and optical properties of coumarins and iminocoumarins: Estimation of ground- and excited-state dipole moments from a solvatochromic shift and theoretical methods",
+    "authors": [
+      "Amal Rabahi",
+      "Malika Makhloufi\u2010Chebli",
+      "Safouane M. Hamdi",
+      "Artur M. S. Silva",
+      "Djaffar Kheffache",
+      "Baya Boutemeur\u2010Kheddis",
+      "Ma\u00e2mar Hamdi"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.molliq.2014.02.029",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "article",
+    "venue": "Journal of Molecular Liquids",
+    "concepts": [
+      "Solvatochromism",
+      "Bathochromic shift",
+      "Excited state",
+      "Dipole",
+      "Ground state"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

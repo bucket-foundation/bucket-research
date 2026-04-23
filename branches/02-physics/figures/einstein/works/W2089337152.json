@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2089337152",
+    "canonical_url": "https://openalex.org/W2089337152",
+    "title": "Cytotoxic Activity of Lupane-Type Triterpenes from<i>Glochidion sphaerogynum</i>and<i>Glochidion eriocarpum</i>Two of which Induce Apoptosis",
+    "authors": [
+      "Prapawadee Puapairoj",
+      "Waree Naengchomnong",
+      "Anake Kijjoa",
+      "Madalena Pinto",
+      "Madalena Pedro",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Artur M. S. Silva",
+      "Werner Herz"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1055/s-2005-837818",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 71,
+    "type": "article",
+    "venue": "Planta Medica",
+    "concepts": [
+      "Triterpene",
+      "Lupeol",
+      "Terpene",
+      "Stereochemistry",
+      "Terpenoid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

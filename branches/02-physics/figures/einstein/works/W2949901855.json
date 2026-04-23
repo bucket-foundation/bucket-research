@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949901855",
+    "canonical_url": "https://openalex.org/W2949901855",
+    "title": null,
+    "authors": [
+      "Em\u0131\u0301lia Sousa",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Madalena Pedro",
+      "F\u00e1tima Cerqueira",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1002/1522-2675(200209)85:9<2862::aid-hlca2862>3.0.co;2-r",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 40,
+    "type": "article",
+    "venue": "Helvetica Chimica Acta",
+    "concepts": [
+      "Chemistry",
+      "Stereochemistry",
+      "Heteronuclear single quantum coherence spectroscopy",
+      "Xanthone",
+      "Two-dimensional nuclear magnetic resonance spectroscopy"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

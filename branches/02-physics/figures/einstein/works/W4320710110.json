@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4320710110",
+    "canonical_url": "https://openalex.org/W4320710110",
+    "title": "<i>Inula viscosa</i> (L.) Aiton Ethanolic Extract Inhibits the Growth of Human AGS and A549 Cancer Cell Lines",
+    "authors": [
+      "Habiba Rechek",
+      "Ammar Haouat",
+      "Kaouther Hamaidia",
+      "Diana C. G. A. Pinto",
+      "Tarek Boudiar",
+      "M\u00f3nica V\u00e1lega",
+      "David M. Pereira",
+      "Renato B. Pereira",
+      "Artur M. S. Silva"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1002/cbdv.202200890",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 25,
+    "type": "article",
+    "venue": "Chemistry & Biodiversity",
+    "concepts": [
+      "Chemistry",
+      "Traditional medicine",
+      "Maceration (sewage)",
+      "Cancer cell",
+      "A549 cell"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

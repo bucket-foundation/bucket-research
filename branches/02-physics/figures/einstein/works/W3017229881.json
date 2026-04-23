@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3017229881",
+    "canonical_url": "https://openalex.org/W3017229881",
+    "title": "A 1000-year-old mystery solved: Unlocking the molecular structure for the medieval blue from <i>Chrozophora tinctoria</i> , also known as folium",
+    "authors": [
+      "Paula Nabais",
+      "Joana Oliveira",
+      "Fernando Pi\u00f1a",
+      "Nat\u00e9rcia Teixeira",
+      "V\u00edctor de Freitas",
+      "Nat\u00e9rcia F. Br\u00e1s",
+      "Adelaide Clemente",
+      "Maria Rangel",
+      "Artur M. S. Silva",
+      "Maria Jo\u00e3o Melo"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1126/sciadv.aaz7772",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 26,
+    "type": "article",
+    "venue": "Science Advances",
+    "concepts": [
+      "Folium of Descartes",
+      "Botany",
+      "Traditional medicine",
+      "Biology",
+      "Medicine"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2051974094",
+    "canonical_url": "https://openalex.org/W2051974094",
+    "title": "Eurocristatine, a new diketopiperazine dimer from the marine sponge-associated fungus Eurotium cristatum",
+    "authors": [
+      "Nelson G. M. Gomes",
+      "Tida Dethoup",
+      "Narong Singburaudom",
+      "Lu\u0131\u0301s Gales",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1016/j.phytol.2012.07.010",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 60,
+    "type": "article",
+    "venue": "Phytochemistry Letters",
+    "concepts": [
+      "Sponge",
+      "Fungus",
+      "Stereochemistry",
+      "Emodin",
+      "Dimer"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

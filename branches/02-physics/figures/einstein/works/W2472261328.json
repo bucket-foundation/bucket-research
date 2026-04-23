@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2472261328",
+    "canonical_url": "https://openalex.org/W2472261328",
+    "title": "Synthesis of Quinolines: A Green Perspective",
+    "authors": [
+      "Vasco F. Batista",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1021/acssuschemeng.6b01010",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 144,
+    "type": "article",
+    "venue": "ACS Sustainable Chemistry & Engineering",
+    "concepts": [
+      "Atom economy",
+      "Biochemical engineering",
+      "Quinoline",
+      "Renewable energy",
+      "Environmentally friendly"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

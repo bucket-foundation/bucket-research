@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4389042338",
+    "canonical_url": "https://openalex.org/W4389042338",
+    "title": "Exploring <i>Thermomyces lanuginosus</i> Lipase (TLL)\u2010PdNPs Nanohybrid as Suitable Catalyst for One\u2010pot Synthesis of Bis(3\u2010indolyl)phenylmethane",
+    "authors": [
+      "A. Sofia Santos",
+      "Noelia Losada\u2010Garcia",
+      "Carla Garcia\u2010Sanz",
+      "Artur M. S. Silva",
+      "M. Manuel B. Marques",
+      "Jos\u00e9 M. Palomo"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1002/cctc.202300748",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "ChemCatChem",
+    "concepts": [
+      "Benzaldehyde",
+      "Benzyl alcohol",
+      "Catalysis",
+      "Chemistry",
+      "Toluene"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

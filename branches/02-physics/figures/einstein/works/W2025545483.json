@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2025545483",
+    "canonical_url": "https://openalex.org/W2025545483",
+    "title": "Phenolic constituents from the core of Kenaf (Hibiscus cannabinus)",
+    "authors": [
+      "Ana M. L. Seca",
+      "Artur M. S. Silva",
+      "Armando J. D. Silvestre",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Fernando M. J. Domingues",
+      "Carlos Pascoal Neto"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1016/s0031-9422(00)00473-8",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 64,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Hibiscus",
+      "Kenaf",
+      "Hydroxymethyl",
+      "Chemistry",
+      "Carbon-13 NMR"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

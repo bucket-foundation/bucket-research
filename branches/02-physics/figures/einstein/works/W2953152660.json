@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953152660",
+    "canonical_url": "https://openalex.org/W2953152660",
+    "title": "Chalcones as Versatile Synthons for the Synthesis of 5- and 6-membered Nitrogen Heterocycles",
+    "authors": [
+      "H\u00e9lio M. T. Albuquerque",
+      "Clementina M.M. Santos",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.2174/1385272819666141013224253",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 95,
+    "type": "article",
+    "venue": "Current Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Synthon",
+      "Cycloaddition",
+      "Chalcone",
+      "Electrophile"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

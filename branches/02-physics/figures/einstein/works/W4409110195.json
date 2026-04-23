@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4409110195",
+    "canonical_url": "https://openalex.org/W4409110195",
+    "title": "The Role of Flow Chemistry on the Synthesis of Pyrazoles, Pyrazolines and Pyrazole-Fused Scaffolds",
+    "authors": [
+      "Catarina M. Correia",
+      "Artur M. S. Silva",
+      "Vera L. M. Silva"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.3390/molecules30071582",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "review",
+    "venue": "Molecules",
+    "concepts": [
+      "Pyrazole",
+      "Chemistry",
+      "Flow chemistry",
+      "Combinatorial chemistry",
+      "Ring (chemistry)"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

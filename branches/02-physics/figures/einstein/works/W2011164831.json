@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2011164831",
+    "canonical_url": "https://openalex.org/W2011164831",
+    "title": "A New Cyclic Hexapeptide and a New Isocoumarin Derivative from the Marine Sponge-Associated Fungus Aspergillus similanensis KUFA 0013",
+    "authors": [
+      "Chadaporn Prompanya",
+      "Carla Fernandes",
+      "Sara Cravo",
+      "Madalena Pinto",
+      "Tida Dethoup",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.3390/md13031432",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 70,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Isocoumarin",
+      "Stereochemistry",
+      "Aspergillus fumigatus",
+      "Hydrolysate",
+      "Fungus"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

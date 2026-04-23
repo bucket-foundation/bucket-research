@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4313410436",
+    "canonical_url": "https://openalex.org/W4313410436",
+    "title": "Effect of High-Pressure and Thermal Pasteurization on Microbial and Physico-Chemical Properties of Opuntia ficus-indica Juices",
+    "authors": [
+      "Ricardo M. Ferreira",
+      "Renata A. Amaral",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso",
+      "Jorge A. Saraiva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/beverages8040084",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 31,
+    "type": "article",
+    "venue": "Beverages",
+    "concepts": [
+      "Pasteurization",
+      "Titratable acid",
+      "Browning",
+      "Shelf life",
+      "Food science"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

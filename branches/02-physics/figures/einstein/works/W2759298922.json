@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2759298922",
+    "canonical_url": "https://openalex.org/W2759298922",
+    "title": "\u03b1-Glucosidase inhibition by flavonoids: an<i>in vitro</i>and<i>in silico</i>structure\u2013activity relationship study",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "Marisa Freitas",
+      "Daniela Ribeiro",
+      "Eduardo F. Oliveira",
+      "Joana L. C. Sousa",
+      "Sara M. Tom\u00e9",
+      "Maria J. Ramos",
+      "Artur M. S. Silva",
+      "Pedro Alexandrino Fernandes",
+      "Eduarda Fernandes"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1080/14756366.2017.1368503",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 395,
+    "type": "article",
+    "venue": "Journal of Enzyme Inhibition and Medicinal Chemistry",
+    "concepts": [
+      "Acarbose",
+      "Flavonoid",
+      "In silico",
+      "IC50",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

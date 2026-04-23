@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3071285778",
+    "canonical_url": "https://openalex.org/W3071285778",
+    "title": "Chromene- and Quinoline-3-Carbaldehydes: Useful Intermediates in the Synthesis of Heterocyclic Scaffolds",
+    "authors": [
+      "Djenisa H. A. Rocha",
+      "Vasco F. Batista",
+      "Emanuel J. F. Balsa",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/molecules25173791",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Quinoline",
+      "Aryl",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

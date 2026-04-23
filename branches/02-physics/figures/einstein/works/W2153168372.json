@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2153168372",
+    "canonical_url": "https://openalex.org/W2153168372",
+    "title": "NMR structural elucidation of the arabinan from Prunus dulcis immunobiological active pectic polysaccharides",
+    "authors": [
+      "Fernando Dourado",
+      "Susana M. Cardoso",
+      "Artur M. S. Silva",
+      "Miguel Gama",
+      "Manuel A. Coimbra"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1016/j.carbpol.2006.02.020",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 90,
+    "type": "article",
+    "venue": "Carbohydrate Polymers",
+    "concepts": [
+      "Glycosidic bond",
+      "Polysaccharide",
+      "Chemistry",
+      "Stereochemistry",
+      "Moiety"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

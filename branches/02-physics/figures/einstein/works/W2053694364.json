@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2053694364",
+    "canonical_url": "https://openalex.org/W2053694364",
+    "title": "Chromones and flavanones from artemisia campestris subsp. maritima",
+    "authors": [
+      "Joao M. J. Vasconcelos",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1016/s0031-9422(98)00180-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 117,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Eriodictyol",
+      "Flavanone",
+      "Chemistry",
+      "Coumarin",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

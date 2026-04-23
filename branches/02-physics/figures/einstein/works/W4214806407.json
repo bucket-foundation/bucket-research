@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4214806407",
+    "canonical_url": "https://openalex.org/W4214806407",
+    "title": "Chemical Profiling of Two Italian Olea europaea (L.) Varieties Subjected to UV-B Stress",
+    "authors": [
+      "Chiara Piccini",
+      "Claudio Cantini",
+      "Giampiero Cai",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Marco Romi",
+      "Maria Celeste Dias"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/plants11050680",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Plants",
+    "concepts": [
+      "Olea",
+      "Chemistry",
+      "Food science",
+      "Oxidative stress",
+      "Botany"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

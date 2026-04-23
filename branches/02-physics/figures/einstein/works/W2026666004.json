@@ -1,0 +1,32 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2026666004",
+    "canonical_url": "https://openalex.org/W2026666004",
+    "title": "Efficient Synthesis of Nitroflavones by Cyclodehydrogenation of 2\u2032-Hydroxychalcones and by the Baker-Venkataraman Method",
+    "authors": [
+      "Ana Barros",
+      "Artur M. S. Silva"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1007/s00706-006-0550-9",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Chemistry",
+      "Benzoic acid",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

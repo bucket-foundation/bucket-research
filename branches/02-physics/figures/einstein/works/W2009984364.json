@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2009984364",
+    "canonical_url": "https://openalex.org/W2009984364",
+    "title": "New Isocoumarin Derivatives and Meroterpenoids from the Marine Sponge-Associated Fungus Aspergillus similanensis sp. nov. KUFA 0013",
+    "authors": [
+      "Chadaporn Prompanya",
+      "Tida Dethoup",
+      "Lucinda J. Bessa",
+      "Madalena Pinto",
+      "Lu\u0131\u0301s Gales",
+      "Paulo Martins da Costa",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.3390/md12105160",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 84,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Isocoumarin",
+      "Sponge",
+      "Fungus",
+      "Stereochemistry",
+      "Biology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

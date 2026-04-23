@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3123171997",
+    "canonical_url": "https://openalex.org/W3123171997",
+    "title": "Macroalgae-Fortified Sausages: Nutritional and Quality Aspects Influenced by Non-Thermal High-Pressure Processing",
+    "authors": [
+      "Catarina Mar\u00e7al",
+      "Carlos A. Pinto",
+      "Artur M. S. Silva",
+      "Carla Monteiro",
+      "Jorge A. Saraiva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/foods10020209",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 14,
+    "type": "article",
+    "venue": "Foods",
+    "concepts": [
+      "Food science",
+      "Pascalization",
+      "Pasteurization",
+      "Shelf life",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

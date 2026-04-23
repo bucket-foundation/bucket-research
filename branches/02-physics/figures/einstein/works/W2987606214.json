@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2987606214",
+    "canonical_url": "https://openalex.org/W2987606214",
+    "title": "Structural Features and Pro-Inflammatory Effects of Water-Soluble Organic Matter in Inhalable Fine Urban Air Particles",
+    "authors": [
+      "Antoine S. Almeida",
+      "Rita Ferreira",
+      "Artur M. S. Silva",
+      "Armando C. Duarte",
+      "Bruno Miguel Neves",
+      "Regina M.B.O. Duarte"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1021/acs.est.9b04596",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 33,
+    "type": "article",
+    "venue": "Environmental Science & Technology",
+    "concepts": [
+      "Environmental chemistry",
+      "Environmental science",
+      "Organic matter",
+      "Particulates",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

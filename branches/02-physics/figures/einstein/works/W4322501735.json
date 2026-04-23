@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4322501735",
+    "canonical_url": "https://openalex.org/W4322501735",
+    "title": "2-Styrylchromones Prevent IL-1\u03b2-Induced Pro-Inflammatory Activation of Fibroblast-like Synoviocytes while Increasing COX-2 Expression",
+    "authors": [
+      "Ana T. Rufino",
+      "Mariana Lucas",
+      "Artur M. S. Silva",
+      "Daniela Ribeiro",
+      "Eduarda Fernandes"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/pharmaceutics15030780",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Pharmaceutics",
+    "concepts": [
+      "Chemistry",
+      "Nitric oxide synthase",
+      "Nitric oxide",
+      "Inflammation",
+      "Fibroblast"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

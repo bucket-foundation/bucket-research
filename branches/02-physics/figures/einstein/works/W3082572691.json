@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3082572691",
+    "canonical_url": "https://openalex.org/W3082572691",
+    "title": "Using Spectroscopy and Support Vector Regression to Predict Gasoline Characteristics: A Comparison of<sup>1</sup>H NMR and NIR",
+    "authors": [
+      "Ana L. Leal",
+      "Artur M. S. Silva",
+      "Jorge C. Ribeiro",
+      "F.G. Martins"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1021/acs.energyfuels.0c01889",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Energy & Fuels",
+    "concepts": [
+      "Support vector machine",
+      "Gasoline",
+      "Linear regression",
+      "Regression analysis",
+      "Test set"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

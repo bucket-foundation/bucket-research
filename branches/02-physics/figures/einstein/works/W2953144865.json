@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953144865",
+    "canonical_url": "https://openalex.org/W2953144865",
+    "title": "1,6-Conjugate Addition of Nucleophiles to \u03b1,\u03b2,\u03b3,\u03b4-Diunsaturated Systems",
+    "authors": [
+      "Artur M. S. Silva",
+      "Eduarda M. P. Silva"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1055/s-0032-1316778",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 128,
+    "type": "article",
+    "venue": "Synthesis",
+    "concepts": [
+      "Conjugate",
+      "Chemistry",
+      "Nucleophile",
+      "Addition reaction",
+      "Iridium"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

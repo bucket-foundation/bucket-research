@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2766024508",
+    "canonical_url": "https://openalex.org/W2766024508",
+    "title": "Kinetic and equilibrium studies on the removal of 14C-ethion residues from wastewater by copper-based metal\u2013organic framework",
+    "authors": [
+      "Reda M. Abdelhameed",
+      "Hassan Abdel\u2010Gawad",
+      "Carlos M. Silva",
+      "Jo\u00e3o Rocha",
+      "Bahira Hegazi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1007/s13762-017-1624-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 68,
+    "type": "article",
+    "venue": "International Journal of Environmental Science and Technology",
+    "concepts": [
+      "Ethion",
+      "Adsorption",
+      "Chemistry",
+      "Copper",
+      "Wastewater"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2887431520",
+    "canonical_url": "https://openalex.org/W2887431520",
+    "title": "Antitumor Activity of Quinazolinone Alkaloids Inspired by Marine Natural Products",
+    "authors": [
+      "Solida Long",
+      "Diana I. S. P. Resende",
+      "Anake Kijjoa",
+      "Artur M. S. Silva",
+      "Andr\u00e9 F. Pina",
+      "Tamara Fern\u00e1ndez\u2010Marcelo",
+      "M. Helena Vasconcelos",
+      "Em\u0131\u0301lia Sousa",
+      "Madalena Pinto"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/md16080261",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 46,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Quinazolinone",
+      "Enantiomer",
+      "Anthranilic acid",
+      "Chemistry",
+      "Indole test"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

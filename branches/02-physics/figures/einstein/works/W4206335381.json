@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4206335381",
+    "canonical_url": "https://openalex.org/W4206335381",
+    "title": "Chemical Characterisation, Antioxidant and Antibacterial Activities of Pinus pinaster Ait. and Pinus pinea L. Bark Polar Extracts: Prospecting Forestry By-Products as Renewable Sources of Bioactive Compounds",
+    "authors": [
+      "Patr\u00edcia Ramos",
+      "Carla Pereira",
+      "Ana T. P. C. Gomes",
+      "Rodrigo T. Neto",
+      "Adelaide Almeida",
+      "S\u00f3nia A.O. Santos",
+      "Artur M. S. Silva",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/app12020784",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 37,
+    "type": "article",
+    "venue": "Applied Sciences",
+    "concepts": [
+      "Bark (sound)",
+      "DPPH",
+      "Chemistry",
+      "Quinic acid",
+      "Traditional medicine"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

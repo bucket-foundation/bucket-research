@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1993953190",
+    "canonical_url": "https://openalex.org/W1993953190",
+    "title": "Efficient Syntheses of New Polyhydroxylated 2,3\u2010Diaryl\u20109<i>H</i>\u2010xanthen\u20109\u2010ones",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/ejoc.200900026",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Cinnamates",
+      "Xanthene",
+      "Benzaldehyde",
+      "Aldol reaction"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2475876066",
+    "canonical_url": "https://openalex.org/W2475876066",
+    "title": "New Cyclotetrapeptides and a New Diketopiperzine Derivative from the Marine Sponge-Associated Fungus Neosartorya glabra KUFA 0702",
+    "authors": [
+      "War War May Zin",
+      "Suradet Buttachon",
+      "Tida Dethoup",
+      "Carla Fernandes",
+      "Sara Cravo",
+      "Madalena Pinto",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Artur M. S. Silva",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Anake Kijjoa"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.3390/md14070136",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 45,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Candida albicans",
+      "Aspergillus fumigatus",
+      "Stereochemistry",
+      "Antibacterial activity",
+      "Microbiology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

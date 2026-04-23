@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4387374116",
+    "canonical_url": "https://openalex.org/W4387374116",
+    "title": "Opuntia ficus-indica seed pomace extracts with high UV-screening ability in a circular economy approach for body lotions with solar protection",
+    "authors": [
+      "Ricardo M. Ferreira",
+      "No\u00e9lia Fl\u00f3rez-Fern\u00e1ndez",
+      "Artur M. S. Silva",
+      "Jorge A. Saraiva",
+      "F\u00e9lix L. Figueroa",
+      "Javier Mart\u00ednez Vega",
+      "Mar\u00eda Dolores Torres",
+      "Susana M. Cardoso",
+      "Herminia Dom\u0131\u0301nguez"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1016/j.jiec.2023.09.052",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Journal of Industrial and Engineering Chemistry",
+    "concepts": [
+      "Phytochemical",
+      "DPPH",
+      "Chemistry",
+      "Pomace",
+      "Extraction (chemistry)"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

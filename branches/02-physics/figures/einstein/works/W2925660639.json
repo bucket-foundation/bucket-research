@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2925660639",
+    "canonical_url": "https://openalex.org/W2925660639",
+    "title": "Sargassum muticum and Osmundea pinnatifida Enzymatic Extracts: Chemical, Structural, and Cytotoxic Characterization",
+    "authors": [
+      "Dina Rodrigues",
+      "Ana Rita Costa-Pinto",
+      "S\u00e9rgio Sousa",
+      "Marta W. Vasconcelos",
+      "Manuela Pintado",
+      "Leonel Pereira",
+      "Teresa Rocha\u2010Santos",
+      "Jo\u00e3o Pinto da Costa",
+      "Artur M. S. Silva",
+      "Armando C. Duarte",
+      "Ana Gomes",
+      "Ana C. Freitas"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/md17040209",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 43,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Polysaccharide",
+      "Fucose",
+      "Chemistry",
+      "Glucuronic acid",
+      "Xylose"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

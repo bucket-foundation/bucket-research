@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2774247745",
+    "canonical_url": "https://openalex.org/W2774247745",
+    "title": "A New Dihydrochromone Dimer and Other Secondary Metabolites from Cultures of the Marine Sponge-Associated Fungi Neosartorya fennelliae KUFA 0811 and Neosartorya tsunodae KUFC 9213",
+    "authors": [
+      "Decha Kumla",
+      "Tin Shine Aung",
+      "Suradet Buttachon",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "\u00c2ngela In\u00e1cio",
+      "Paulo Martins da Costa",
+      "Michael Lee",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Anake Kijjoa"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.3390/md15120375",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 40,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Sponge",
+      "Fungus",
+      "Stereochemistry",
+      "Microbiology",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

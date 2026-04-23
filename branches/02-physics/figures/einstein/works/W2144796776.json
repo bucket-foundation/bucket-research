@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2144796776",
+    "canonical_url": "https://openalex.org/W2144796776",
+    "title": "Synthesis of new amphiphilic chlorin derivatives from protoporphyrin-IX dimethyl ester",
+    "authors": [
+      "Kl\u00e9ber T. de Oliveira",
+      "Artur M. S. Silva",
+      "Augusto C. Tom\u00e9",
+      "Maria G. P. M. S. Neves",
+      "Claudio Neri",
+      "Vinicius S. Garcia",
+      "Osvaldo Ant\u00f4nio Serra",
+      "Yassuko Iamamoto",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1016/j.tet.2008.06.103",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 46,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Chlorin",
+      "Protoporphyrin IX",
+      "Regioselectivity",
+      "Amphiphile"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

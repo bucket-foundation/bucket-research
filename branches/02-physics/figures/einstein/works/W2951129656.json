@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951129656",
+    "canonical_url": "https://openalex.org/W2951129656",
+    "title": "Developments in the Synthesis of 1,2-Dihydropyridines",
+    "authors": [
+      "Artur M. S. Silva",
+      "Eduarda M. P. Silva",
+      "Pedro A. M. M. Varandas"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1055/s-0033-1338537",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 106,
+    "type": "article",
+    "venue": "Synthesis",
+    "concepts": [
+      "Chemistry",
+      "Pericyclic reaction",
+      "Pyridinium",
+      "Nucleophile",
+      "Condensation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

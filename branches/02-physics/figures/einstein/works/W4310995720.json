@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4310995720",
+    "canonical_url": "https://openalex.org/W4310995720",
+    "title": "Exploring the Physical and Biological Aspects of BNCT with a Carboranylmethylbenzo[b]acridone Compound in U87 Glioblastoma Cells",
+    "authors": [
+      "Ana Belchior",
+      "A.C. Fernandes",
+      "Maxime Lamotte",
+      "Andreia Filipa Ferreira Silva",
+      "Raquel S. G. R. Seixas",
+      "Artur M. S. Silva",
+      "Fernanda Marques"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/ijms232314929",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Acridone",
+      "Glioblastoma",
+      "U87",
+      "Cancer research",
+      "Glioma"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

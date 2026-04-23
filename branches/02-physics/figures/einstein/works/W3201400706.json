@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3201400706",
+    "canonical_url": "https://openalex.org/W3201400706",
+    "title": "Advances in Green Catalysis for the Synthesis of Medicinally Relevant N-Heterocycles",
+    "authors": [
+      "A. Sofia Santos",
+      "Daniel Raydan",
+      "Jos\u00e9 Cunha",
+      "Nuno Viduedo",
+      "Artur M. S. Silva",
+      "M. Manuel B. Marques"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/catal11091108",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Catalysts",
+    "concepts": [
+      "Scope (computer science)",
+      "Biochemical engineering",
+      "Context (archaeology)",
+      "Combinatorial chemistry",
+      "Homogeneous"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

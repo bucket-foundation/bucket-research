@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4378087136",
+    "canonical_url": "https://openalex.org/W4378087136",
+    "title": "Impact of Fermentation and Pasteurization on the Physico-Chemical and Phytochemical Composition of Opuntia ficus-indica Juices",
+    "authors": [
+      "Ricardo M. Ferreira",
+      "Adriana Monteiro da Costa",
+      "Carlos A. Pinto",
+      "Artur M. S. Silva",
+      "Jorge A. Saraiva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/foods12112096",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Foods",
+    "concepts": [
+      "Fermentation",
+      "Food science",
+      "Pasteurization",
+      "Organoleptic",
+      "Phytochemical"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

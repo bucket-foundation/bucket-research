@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2615756999",
+    "canonical_url": "https://openalex.org/W2615756999",
+    "title": "Photosynthetic performance and volatile organic compounds profile in Eucalyptus globulus after UVB radiation",
+    "authors": [
+      "Filipa Machado",
+      "Maria Celeste Dias",
+      "Paula Guedes de Pinho",
+      "Ana Margarida Ara\u00fajo",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Carlos M. Correia",
+      "Jos\u00e9 Moutinho\u2010Pereira",
+      "Concei\u00e7\u00e3o Santos"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.envexpbot.2017.05.008",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 36,
+    "type": "article",
+    "venue": "Environmental and Experimental Botany",
+    "concepts": [
+      "Eucalyptus globulus",
+      "Photosynthesis",
+      "Chemistry",
+      "Botany",
+      "Terpene"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

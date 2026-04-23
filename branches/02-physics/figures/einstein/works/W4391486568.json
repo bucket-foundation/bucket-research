@@ -1,0 +1,48 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4391486568",
+    "canonical_url": "https://openalex.org/W4391486568",
+    "title": "Influenza A virus propagation requires the activation of the unfolded protein response and the accumulation of insoluble protein aggregates",
+    "authors": [
+      "Mariana Marques",
+      "Bruno Ramos",
+      "H\u00e9lio M. T. Albuquerque",
+      "Marisa Pereira",
+      "Diana Ribeiro",
+      "Diana Ribeiro",
+      "Alexandre Nunes",
+      "J\u00e9ssica Sarabando",
+      "Daniela Br\u00e1s",
+      "Ana Ferreira",
+      "Rui Vitorino",
+      "Maria Jo\u00e3o Amorim",
+      "Artur M. S. Silva",
+      "Ana Raquel Soares",
+      "Daniela Ribeiro",
+      "Daniela Ribeiro"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1016/j.isci.2024.109100",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "iScience",
+    "concepts": [
+      "Proteostasis",
+      "Influenza A virus",
+      "Cell biology",
+      "Biology",
+      "Unfolded protein response"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

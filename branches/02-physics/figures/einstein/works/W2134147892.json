@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2134147892",
+    "canonical_url": "https://openalex.org/W2134147892",
+    "title": "Ohmic heating as a new efficient process for organic synthesis in water",
+    "authors": [
+      "Joana Pinto",
+      "Vera L. M. Silva",
+      "Ana M. G. Silva",
+      "Ana M. G. Silva",
+      "Artur M. S. Silva",
+      "Artur M. S. Silva",
+      "Jos\u00e9 C. S. Costa",
+      "Lu\u0131\u0301s M. N. B. F. Santos",
+      "Roger F. Enes",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Ant\u00f3nio A. Vicente",
+      "J. A. Teixeira"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1039/c3gc36881e",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 38,
+    "type": "article",
+    "venue": "Green Chemistry",
+    "concepts": [
+      "Ohmic contact",
+      "Joule heating",
+      "Nucleophile",
+      "Cycloaddition",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

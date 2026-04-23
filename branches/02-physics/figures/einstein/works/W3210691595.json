@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3210691595",
+    "canonical_url": "https://openalex.org/W3210691595",
+    "title": "Valuable Nutrients from Ulva rigida: Modulation by Seasonal and Cultivation Factors",
+    "authors": [
+      "Ana S. Queir\u00f3s",
+      "Ana R. Circuncis\u00e3o",
+      "Eduarda Pereira",
+      "M\u00f3nica V\u00e1lega",
+      "Helena Abreu",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/app11136137",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 44,
+    "type": "article",
+    "venue": "Applied Sciences",
+    "concepts": [
+      "Nutrient",
+      "Biology",
+      "Algae",
+      "Potassium",
+      "Ingredient"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

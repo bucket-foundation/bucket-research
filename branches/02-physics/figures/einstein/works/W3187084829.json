@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3187084829",
+    "canonical_url": "https://openalex.org/W3187084829",
+    "title": "How can artificial intelligence be used for peptidomics?",
+    "authors": [
+      "Lu\u00eds Perp\u00e9tuo",
+      "Julie Klein",
+      "Rita Ferreira",
+      "Sofia Guedes",
+      "Francisco Amado",
+      "Adelino Leite\u2010Moreira",
+      "Artur M. S. Silva",
+      "Visith Thongboonkerd",
+      "Rui Vitorino"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1080/14789450.2021.1962303",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Expert Review of Proteomics",
+    "concepts": [
+      "Computer science",
+      "Drug discovery",
+      "Artificial intelligence",
+      "Computational biology",
+      "Drug development"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

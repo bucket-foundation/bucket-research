@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2038938823",
+    "canonical_url": "https://openalex.org/W2038938823",
+    "title": "Phenolic constituents of Lamium album: Focus on isoscutellarein derivatives",
+    "authors": [
+      "Ol\u00edvia R. Pereira",
+      "M. Ros\u00e1rio Domingues",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1016/j.foodres.2012.04.009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 45,
+    "type": "article",
+    "venue": "Food Research International",
+    "concepts": [
+      "Verbascoside",
+      "Glucoside",
+      "Chemistry",
+      "Composition (language)",
+      "Phenols"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

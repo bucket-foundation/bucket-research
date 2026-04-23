@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2886829895",
+    "canonical_url": "https://openalex.org/W2886829895",
+    "title": "Antioxidant and pro-oxidant activities of carotenoids and their oxidation products",
+    "authors": [
+      "Daniela Ribeiro",
+      "Marisa Freitas",
+      "Artur M. S. Silva",
+      "F\u00e9lix Carvalho",
+      "Eduarda Fernandes"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.fct.2018.07.060",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 263,
+    "type": "review",
+    "venue": "Food and Chemical Toxicology",
+    "concepts": [
+      "Carotenoid",
+      "Antioxidant",
+      "Chemistry",
+      "Pro-oxidant",
+      "Oxidative stress"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

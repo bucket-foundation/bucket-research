@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2910282828",
+    "canonical_url": "https://openalex.org/W2910282828",
+    "title": "Palladium-Catalysed Synthesis and Transformation of Quinolones",
+    "authors": [
+      "Vera L. M. Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/molecules24020228",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 33,
+    "type": "review",
+    "venue": "Molecules",
+    "concepts": [
+      "Palladium",
+      "Transformation (genetics)",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Catalysis"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

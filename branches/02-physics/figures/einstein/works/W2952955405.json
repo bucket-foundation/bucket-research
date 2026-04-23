@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952955405",
+    "canonical_url": "https://openalex.org/W2952955405",
+    "title": "Synthesis and Transformation of Halochromones",
+    "authors": [
+      "Sara M. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Clementina M.M. Santos"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.2174/15701794113109990063",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 29,
+    "type": "article",
+    "venue": "Current Organic Synthesis",
+    "concepts": [
+      "Chemistry",
+      "Reactivity (psychology)",
+      "Halogenation",
+      "Flavones",
+      "Halogen"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

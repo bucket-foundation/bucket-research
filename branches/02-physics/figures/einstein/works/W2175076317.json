@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2175076317",
+    "canonical_url": "https://openalex.org/W2175076317",
+    "title": "Seaweeds as Preventive Agents for Cardiovascular Diseases: From Nutrients to Functional Foods",
+    "authors": [
+      "Susana M. Cardoso",
+      "Ol\u00edvia R. Pereira",
+      "Ana M. L. Seca",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.3390/md13116838",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 197,
+    "type": "review",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Dyslipidemia",
+      "Functional food",
+      "Oxidative stress",
+      "Nutraceutical",
+      "Cardiovascular health"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

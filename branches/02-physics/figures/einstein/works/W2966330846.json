@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2966330846",
+    "canonical_url": "https://openalex.org/W2966330846",
+    "title": "The hydrophobic polysaccharides of apple pomace",
+    "authors": [
+      "Pedro A.R. Fernandes",
+      "Artur M. S. Silva",
+      "Dmitry V. Evtuguin",
+      "Fernando M. Nunes",
+      "Dulcineia F. Wessel",
+      "Susana M. Cardoso",
+      "Manuel A. Coimbra"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/j.carbpol.2019.115132",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 56,
+    "type": "article",
+    "venue": "Carbohydrate Polymers",
+    "concepts": [
+      "Pomace",
+      "Polysaccharide",
+      "Chemistry",
+      "Ethanol precipitation",
+      "Polyphenol"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2155505029",
+    "canonical_url": "https://openalex.org/W2155505029",
+    "title": "Polyhydroxylated 2-styrylchromones as potent antioxidants",
+    "authors": [
+      "Paulo Filipe",
+      "Artur M. S. Silva",
+      "Patrice Morli\u00e8re",
+      "Cristela M. Brito",
+      "L. K. Patterson",
+      "Gordon L. Hug",
+      "Jo\u00e3o Maia Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jean\u2010Claude Mazi\u00e8re",
+      "Jo\u00e3o Freitas",
+      "Ren\u00e9 Sant\u00fas"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1016/j.bcp.2004.02.030",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 31,
+    "type": "article",
+    "venue": "Biochemical Pharmacology",
+    "concepts": [
+      "Chemistry",
+      "Computational biology",
+      "Biochemistry",
+      "Traditional medicine",
+      "Biology"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

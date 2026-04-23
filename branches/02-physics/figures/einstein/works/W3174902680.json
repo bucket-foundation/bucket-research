@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3174902680",
+    "canonical_url": "https://openalex.org/W3174902680",
+    "title": "Impact of Phlorotannin Extracts from Fucus vesiculosus on Human Gut Microbiota",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Catarina Mar\u00e7al",
+      "Teresa Bonif\u00e1cio-Lopes",
+      "D\u00e9bora A. Campos",
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "Maria Manuela Pintado",
+      "Susana M. Cardoso"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/md19070375",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 48,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Prebiotic",
+      "Biology",
+      "Polyphenol",
+      "Gastrointestinal tract"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

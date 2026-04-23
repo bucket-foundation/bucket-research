@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4205650248",
+    "canonical_url": "https://openalex.org/W4205650248",
+    "title": "Data driven models exploring the combination of NIR and 1H NMR spectroscopies in the determination of gasoline properties",
+    "authors": [
+      "Ana L. Leal",
+      "Artur M. S. Silva",
+      "Jorge C. Ribeiro",
+      "F.G. Martins"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.microc.2022.107217",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Microchemical Journal",
+    "concepts": [
+      "Gasoline",
+      "Octane rating",
+      "Boiling point",
+      "Octane",
+      "Reproducibility"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

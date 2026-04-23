@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4400303206",
+    "canonical_url": "https://openalex.org/W4400303206",
+    "title": "Comparative metabolomics of leaves and stems of three Italian olive cultivars under drought stress",
+    "authors": [
+      "Sara Parri",
+      "Giampiero Cai",
+      "Marco Romi",
+      "Claudio Cantini",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Maria Celeste Dias"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.3389/fpls.2024.1408731",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Frontiers in Plant Science",
+    "concepts": [
+      "Cultivar",
+      "Metabolomics",
+      "Irrigation",
+      "Biology",
+      "Horticulture"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

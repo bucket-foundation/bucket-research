@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2901373729",
+    "canonical_url": "https://openalex.org/W2901373729",
+    "title": "A new indole alkaloid, antioxidant and antibacterial activities of crude extracts from <i>Saccocalyx satureioides</i>",
+    "authors": [
+      "Hayat Kherkhache",
+      "Imane Benabdelaziz",
+      "Artur M. S. Silva",
+      "Mokhtar Boualem Lahrech",
+      "Mokhtar Benalia",
+      "Hamada Haba"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1080/14786419.2018.1519817",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Natural Product Research",
+    "concepts": [
+      "Chemistry",
+      "DPPH",
+      "Monoterpene",
+      "Lamiaceae",
+      "Glucoside"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2077803137",
+    "canonical_url": "https://openalex.org/W2077803137",
+    "title": "Chromatographic and spectroscopic analysis of heavy crude oil mixtures with emphasis in nuclear magnetic resonance spectroscopy: A review",
+    "authors": [
+      "Sandra L. Silva",
+      "Artur M. S. Silva",
+      "Jorge C. Ribeiro",
+      "F.G. Martins",
+      "Francisco A. Da Silva",
+      "Carlos M. Silva"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.aca.2011.09.010",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 137,
+    "type": "review",
+    "venue": "Analytica Chimica Acta",
+    "concepts": [
+      "Chemistry",
+      "Characterization (materials science)",
+      "Refining (metallurgy)",
+      "Spectroscopy",
+      "Nuclear magnetic resonance spectroscopy"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

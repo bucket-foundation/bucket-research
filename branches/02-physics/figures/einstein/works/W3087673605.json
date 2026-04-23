@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3087673605",
+    "canonical_url": "https://openalex.org/W3087673605",
+    "title": "Phlorotannins from Fucus vesiculosus: Modulation of Inflammatory Response by Blocking NF-\u03baB Signaling Pathway",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Ana Silva",
+      "Maria Teresa Cruz",
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/ijms21186897",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 65,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Blocking (statistics)",
+      "Inflammatory response",
+      "NF-\u03baB",
+      "Signal transduction"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

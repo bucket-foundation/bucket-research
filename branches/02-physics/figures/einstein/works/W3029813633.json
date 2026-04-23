@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3029813633",
+    "canonical_url": "https://openalex.org/W3029813633",
+    "title": "Modulation of phenolic and lipophilic compounds of olive fruits in response to combined drought and heat",
+    "authors": [
+      "Sim\u00e3o Valente",
+      "Beatriz Machado",
+      "Diana C. G. A. Pinto",
+      "Concei\u00e7\u00e3o Santos",
+      "Artur M. S. Silva",
+      "Maria Celeste Dias"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.foodchem.2020.127191",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 37,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Olea",
+      "Cultivar",
+      "Nutraceutical",
+      "Mediterranean climate",
+      "Olive trees"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

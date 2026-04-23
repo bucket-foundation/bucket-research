@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2612175689",
+    "canonical_url": "https://openalex.org/W2612175689",
+    "title": "Structural signatures of water-soluble organic aerosols in contrasting environments in South America and Western Europe",
+    "authors": [
+      "Regina M.B.O. Duarte",
+      "Jo\u00e3o T.V. Matos",
+      "Andreia S. Paula",
+      "S\u00f3nia P. Lopes",
+      "Guilherme Martins Pereira",
+      "P\u00e9rola de Castro Vasconcellos",
+      "Adriana Gioda",
+      "Renato S. Carreira",
+      "Artur M. S. Silva",
+      "Armando C. Duarte",
+      "Patricia Smichowski",
+      "N\u00e9stor Y. Rojas",
+      "Odon S\u00e1nchez-Ccoyllo"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.envpol.2017.05.011",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 33,
+    "type": "article",
+    "venue": "Environmental Pollution",
+    "concepts": [
+      "Environmental science",
+      "Environmental chemistry",
+      "Physical geography",
+      "Earth science",
+      "Geography"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

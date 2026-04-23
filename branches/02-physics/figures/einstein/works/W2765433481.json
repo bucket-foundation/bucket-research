@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2765433481",
+    "canonical_url": "https://openalex.org/W2765433481",
+    "title": "Gastroprotective effects and structural characterization of a pectic fraction isolated from Artemisia campestris subsp maritima",
+    "authors": [
+      "Mar\u00edlia Locatelli Corr\u00eaa-Ferreira",
+      "Daniele Maria\u2010Ferreira",
+      "Jorge Luiz Dallazen",
+      "Artur M. S. Silva",
+      "Maria Fernanda de Paula Werner",
+      "Carmen L\u00facia de Oliveira Petkowicz"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.ijbiomac.2017.10.127",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 26,
+    "type": "article",
+    "venue": "International Journal of Biological Macromolecules",
+    "concepts": [
+      "Chemistry",
+      "Glutathione",
+      "Antioxidant",
+      "Pectin",
+      "In vitro"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

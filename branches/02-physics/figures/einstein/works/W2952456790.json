@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952456790",
+    "canonical_url": "https://openalex.org/W2952456790",
+    "title": "Hydroxylated Polyfunctionalized Benzo[c]coumarins by an Organocatalyzed Tandem 1,4-Conjugate Addition, Decarboxylation and Aromatization Reaction",
+    "authors": [
+      "Ma\u00e2mar Hamdi",
+      "Artur M. S. Silva",
+      "Oualid Talhi",
+      "Malika Makhloufi\u2010Chebli",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1055/s-0033-1339895",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Decarboxylation",
+      "Aromatization",
+      "Michael reaction",
+      "Conjugate"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

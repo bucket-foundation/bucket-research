@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4386572836",
+    "canonical_url": "https://openalex.org/W4386572836",
+    "title": "Emergent technologies to improve protein extraction from fish and seafood by-products: An overview",
+    "authors": [
+      "Alireza Mousakhani Ganjeh",
+      "Jorge A. Saraiva",
+      "Carlos A. Pinto",
+      "Susana Casal",
+      "Artur M. S. Silva"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1016/j.afres.2023.100339",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 39,
+    "type": "article",
+    "venue": "Applied Food Research",
+    "concepts": [
+      "Extraction (chemistry)",
+      "Environmental science",
+      "Process engineering",
+      "Biochemical engineering",
+      "Supercritical fluid"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

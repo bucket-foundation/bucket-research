@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2606813442",
+    "canonical_url": "https://openalex.org/W2606813442",
+    "title": "Chlorinated Flavonoids Modulate the Inflammatory Process in Human Blood",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "Daniela Ribeiro",
+      "T\u00e2nia Soares",
+      "Sara M. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 L. F. C. Lima",
+      "Eduarda Fernandes",
+      "Marisa Freitas"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1007/s10753-017-0559-8",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "Inflammation",
+    "concepts": [
+      "Inflammation",
+      "Rheumatology",
+      "Process (computing)",
+      "Chemistry",
+      "Pharmacology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

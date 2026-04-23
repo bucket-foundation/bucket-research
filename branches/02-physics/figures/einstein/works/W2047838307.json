@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2047838307",
+    "canonical_url": "https://openalex.org/W2047838307",
+    "title": "Oxidation mechanisms occurring in wines",
+    "authors": [
+      "Carla Oliveira",
+      "A. C. Silva Ferreira",
+      "V\u00edctor de Freitas",
+      "Artur M. S. Silva"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.foodres.2011.03.050",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 388,
+    "type": "article",
+    "venue": "Food Research International",
+    "concepts": [
+      "Chemistry",
+      "Wine",
+      "Hydrogen peroxide",
+      "Ascorbic acid",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

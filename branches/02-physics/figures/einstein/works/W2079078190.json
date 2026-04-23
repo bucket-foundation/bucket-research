@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2079078190",
+    "canonical_url": "https://openalex.org/W2079078190",
+    "title": "A New Class of Blue Anthocyanin-Derived Pigments Isolated from Red Wines",
+    "authors": [
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "Juli\u00e1n C. Rivas\u2010Gonzalo",
+      "Celestino Santos\u2010Buelga",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1021/jf020943a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 186,
+    "type": "article",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "concepts": [
+      "Anthocyanin",
+      "Pigment",
+      "Chemistry",
+      "Adduct",
+      "High-performance liquid chromatography"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

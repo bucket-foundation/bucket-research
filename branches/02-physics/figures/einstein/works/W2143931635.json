@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2143931635",
+    "canonical_url": "https://openalex.org/W2143931635",
+    "title": "Photo-oxygenation of <i>meso</i>-Tetraphenylporphyrin Derivatives: the Influence of the Substitution Pattern and Characterization of the Reaction Products",
+    "authors": [
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Ros\u00e1lia R.L. Martins",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Tristano Boschi",
+      "Pietro Tagliatesta"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1002/(sici)1099-1409(199801/02)2:1<45::aid-jpp44>3.0.co;2-f",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 40,
+    "type": "article",
+    "venue": "Journal of Porphyrins and Phthalocyanines",
+    "concepts": [
+      "Chemistry",
+      "Tetraphenylporphyrin",
+      "Porphyrin",
+      "Steric effects",
+      "Singlet oxygen"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

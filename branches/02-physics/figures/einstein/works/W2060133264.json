@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2060133264",
+    "canonical_url": "https://openalex.org/W2060133264",
+    "title": "New noncellular fluorescence microplate screening assay for scavenging activity against singlet oxygen",
+    "authors": [
+      "David Costa",
+      "Eduarda Fernandes",
+      "Jo\u00e3o L.M. Santos",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 L. F. C. Lima"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1007/s00216-006-0998-9",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 53,
+    "type": "article",
+    "venue": "Analytical and Bioanalytical Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Ascorbic acid",
+      "Sodium azide",
+      "Singlet oxygen",
+      "Glutathione"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3087274609",
+    "canonical_url": "https://openalex.org/W3087274609",
+    "title": "Supported metalloporphyrins as reusable catalysts for the degradation of antibiotics: Synthesis, characterization, activity and ecotoxicity studies",
+    "authors": [
+      "Giusi Piccirillo",
+      "Matilde Moreira\u2010Santos",
+      "M\u00f3nica V\u00e1lega",
+      "M. Ermelinda S. Eus\u00e9bio",
+      "Artur M. S. Silva",
+      "Rui Ribeiro",
+      "Helena Freitas",
+      "Mariette M. Pereira",
+      "M\u00e1rio J. F. Calvete"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.apcatb.2020.119556",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 42,
+    "type": "article",
+    "venue": "Applied Catalysis B: Environmental",
+    "concepts": [
+      "Ecotoxicity",
+      "Catalysis",
+      "Nuclear chemistry",
+      "Chemistry",
+      "Thermogravimetry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

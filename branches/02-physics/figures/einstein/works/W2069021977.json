@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2069021977",
+    "canonical_url": "https://openalex.org/W2069021977",
+    "title": "Engineering lanthanide-optical centres in IRMOF-3 by post-synthetic modification",
+    "authors": [
+      "Reda M. Abdelhameed",
+      "Lu\u00eds D. Carlos",
+      "Artur M. S. Silva",
+      "Jo\u00e3o Rocha"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1039/c4nj02382j",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 58,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Lanthanide",
+      "Surface modification",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

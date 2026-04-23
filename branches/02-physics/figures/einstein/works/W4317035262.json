@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4317035262",
+    "canonical_url": "https://openalex.org/W4317035262",
+    "title": "Curcumin-based molecular probes for fluorescence imaging of fungi",
+    "authors": [
+      "Joana R. M. Ferreira",
+      "Mariana Alves",
+      "B\u00e1rbara M. de Sousa",
+      "Sandra I. Vieira",
+      "Artur M. S. Silva",
+      "Samuel Guieu",
+      "\u00c2ngela Cunha",
+      "Raquel Nunes da Silva"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1039/d2ob01872a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Organic & Biomolecular Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Curcumin",
+      "Fluorescence",
+      "Combinatorial chemistry",
+      "Nanotechnology"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

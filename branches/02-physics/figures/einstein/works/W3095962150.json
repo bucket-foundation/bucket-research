@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3095962150",
+    "canonical_url": "https://openalex.org/W3095962150",
+    "title": "Structural Characterization of Dissolved Organic Matter in Permafrost Peatland Lakes",
+    "authors": [
+      "Diogo Folhas",
+      "Armando C. Duarte",
+      "Martin Pilote",
+      "Warwick F. Vincent",
+      "Pedro Freitas",
+      "Gon\u00e7alo Vieira",
+      "Artur M. S. Silva",
+      "Regina M.B.O. Duarte",
+      "Jo\u00e3o Can\u00e1rio"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/w12113059",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 27,
+    "type": "article",
+    "venue": "Water",
+    "concepts": [
+      "Thermokarst",
+      "Permafrost",
+      "Peat",
+      "Dissolved organic carbon",
+      "Environmental chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

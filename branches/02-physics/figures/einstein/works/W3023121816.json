@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3023121816",
+    "canonical_url": "https://openalex.org/W3023121816",
+    "title": "Multicomponent and 1,3-dipolar cycloaddition synthesis of triazole- and isoxazole-acridinedione/xanthenedione heterocyclic hybrids: Cytotoxic effects on human cancer cells",
+    "authors": [
+      "Abdelkader Naouri",
+      "Amar Djemoui",
+      "Mouhamad Ridha Ouahrani",
+      "Mokhtar Boualem Lahrech",
+      "Najet Lemouari",
+      "Djenisa H. A. Rocha",
+      "H\u00e9lio M. T. Albuquerque",
+      "Ricardo F. Mendes",
+      "Filipe A. Almeida Paz",
+      "Lu\u00edsa A. Helguero",
+      "Khaldoun Bachar\u0131",
+      "Oualid Talhi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.molstruc.2020.128325",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 33,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Isoxazole",
+      "Cycloaddition",
+      "1,3-Dipolar cycloaddition",
+      "Stereochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

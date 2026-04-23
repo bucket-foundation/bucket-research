@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2025465278",
+    "canonical_url": "https://openalex.org/W2025465278",
+    "title": "Two-Dimensional NMR Studies of Water-Soluble Organic Matter in Atmospheric Aerosols",
+    "authors": [
+      "Regina M.B.O. Duarte",
+      "Artur M. S. Silva",
+      "Armando C. Duarte"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1021/es801298s",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 67,
+    "type": "article",
+    "venue": "Environmental Science & Technology",
+    "concepts": [
+      "Aerosol",
+      "Chemistry",
+      "Lignin",
+      "Particulates",
+      "Organic matter"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

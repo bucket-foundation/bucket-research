@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2006524017",
+    "canonical_url": "https://openalex.org/W2006524017",
+    "title": "Synthesis of a New (+)-Catechin-Derived Compound: 8-Vinylcatechin",
+    "authors": [
+      "Lu\u00eds Cruz",
+      "Enrique Borges",
+      "Artur M. S. Silva",
+      "Nuno Mateus",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.2174/157017808785982211",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "Letters in Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Pinacol",
+      "Halogenation",
+      "Catechin",
+      "Silylation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

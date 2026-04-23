@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952792477",
+    "canonical_url": "https://openalex.org/W2952792477",
+    "title": "A facile synthesis of new coumarin-3,4-dihydropyrimidin-2(1H)-ones/thiones dyads",
+    "authors": [
+      "Amina Benazzouz",
+      "Malika Makhloufi\u2010Chebli",
+      "Nejla Khatir\u2013Hamdi",
+      "Baya Boutemeur\u2010Khedis",
+      "Artur M. S. Silva",
+      "Ma\u00e2mar Hamdi"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1016/j.tet.2015.04.028",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Thiourea",
+      "Coumarin",
+      "Acetonitrile",
+      "Biginelli reaction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

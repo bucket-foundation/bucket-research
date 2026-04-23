@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2064406394",
+    "canonical_url": "https://openalex.org/W2064406394",
+    "title": "Horseradish peroxidase (HRP) as a tool in green chemistry",
+    "authors": [
+      "Guido R. Lopes",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1039/c4ra06094f",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 145,
+    "type": "article",
+    "venue": "RSC Advances",
+    "concepts": [
+      "Horseradish peroxidase",
+      "Chemistry",
+      "Peroxidase",
+      "Green chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

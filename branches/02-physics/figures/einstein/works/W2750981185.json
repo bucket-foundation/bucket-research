@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2750981185",
+    "canonical_url": "https://openalex.org/W2750981185",
+    "title": "Health-Promoting Effects of Thymus herba-barona, Thymus pseudolanuginosus, and Thymus caespititius Decoctions",
+    "authors": [
+      "Andrea F. Afonso",
+      "Ol\u00edvia R. Pereira",
+      "Rodrigo T. Neto",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.3390/ijms18091879",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 39,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Decoction",
+      "Traditional medicine",
+      "Biology",
+      "Medicine",
+      "Botany"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

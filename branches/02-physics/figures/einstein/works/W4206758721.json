@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4206758721",
+    "canonical_url": "https://openalex.org/W4206758721",
+    "title": "Inhibitory activity of flavonoids against human sucrase-isomaltase (\u03b1-glucosidase) activity in a Caco-2/TC7 cellular model",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "Ana T. Rufino",
+      "Jos\u00e9 Miguel P. Ferreira de Oliveira",
+      "Marisa Freitas",
+      "Pedro Alexandrino Fernandes",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1039/d1fo02995a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Food & Function",
+    "concepts": [
+      "Sucrase",
+      "Maltose",
+      "Alpha-glucosidase",
+      "IC50",
+      "Flavonoid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

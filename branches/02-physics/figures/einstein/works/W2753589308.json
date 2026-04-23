@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2753589308",
+    "canonical_url": "https://openalex.org/W2753589308",
+    "title": "The Antiinflammatory Potential of Flavonoids",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Oualid Talhi",
+      "Amal Rabahi",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/b978-0-444-63602-7.00003-5",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "book-chapter",
+    "venue": "Studies in natural products chemistry",
+    "concepts": [
+      "Proinflammatory cytokine",
+      "Chemistry",
+      "Transcription factor",
+      "Pyran",
+      "Biochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

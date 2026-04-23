@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4282929857",
+    "canonical_url": "https://openalex.org/W4282929857",
+    "title": "A Green Multicomponent Domino Mannich\u2010Michael Reaction to Synthesize Novel Naphthoquinone\u2010Polyphenols with Antiproliferative and Antioxidant Activities",
+    "authors": [
+      "\u00c9clair Venturini Filho",
+      "Mariana K. Antoniazi",
+      "Rafael de Queiroz Ferreira",
+      "Gabriel F. S. dos Santos",
+      "Cl\u00e1udia Pessoa",
+      "Celina J. Guimar\u00e3es",
+      "Jos\u00e9 Barros Neto",
+      "Artur M. S. Silva",
+      "Sandro J. Greco"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1002/ejoc.202200442",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Polyphenol",
+      "Michael reaction",
+      "Naphthoquinone",
+      "Resveratrol"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

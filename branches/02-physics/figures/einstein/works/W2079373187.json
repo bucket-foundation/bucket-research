@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2079373187",
+    "canonical_url": "https://openalex.org/W2079373187",
+    "title": "Lipophilic profile of the edible halophyte Salicornia ramosissima",
+    "authors": [
+      "Vera M. S. Isca",
+      "Ana M. L. Seca",
+      "Diana C. G. A. Pinto",
+      "Helena Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.foodchem.2014.05.117",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 62,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Palmitic acid",
+      "Halophyte",
+      "Chemistry",
+      "Fatty acid",
+      "Fatty alcohol"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

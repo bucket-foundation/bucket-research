@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2887967402",
+    "canonical_url": "https://openalex.org/W2887967402",
+    "title": "Comparative study of atmospheric water-soluble organic aerosols composition in contrasting suburban environments in the Iberian Peninsula Coast",
+    "authors": [
+      "Regina M.B.O. Duarte",
+      "M. Pi\u00f1eiro-Iglesias",
+      "Purificaci\u00f3n L\u00f3pez\u2010Mah\u00eda",
+      "Soledad Muniategui\u2010Lorenzo",
+      "Jorge Moreda\u2013Pi\u00f1eiro",
+      "Artur M. S. Silva",
+      "Armando C. Duarte"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.scitotenv.2018.08.171",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 45,
+    "type": "article",
+    "venue": "The Science of The Total Environment",
+    "concepts": [
+      "Environmental chemistry",
+      "Composition (language)",
+      "Organic matter",
+      "Total organic carbon",
+      "Particulates"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

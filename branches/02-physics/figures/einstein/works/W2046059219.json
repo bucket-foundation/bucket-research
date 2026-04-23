@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2046059219",
+    "canonical_url": "https://openalex.org/W2046059219",
+    "title": "Isolation and Structural Characterization of Anthocyanin-furfuryl Pigments",
+    "authors": [
+      "Andr\u00e9 Sousa",
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "Nicol\u00e1s Vivas",
+      "Marie\u2010Fran\u00e7oise Nonier",
+      "Isabelle Pianet",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1021/jf1000327",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "concepts": [
+      "Furfural",
+      "Anthocyanin",
+      "Aldehyde",
+      "Chemistry",
+      "Wine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

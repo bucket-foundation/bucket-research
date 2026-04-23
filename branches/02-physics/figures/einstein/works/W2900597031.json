@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2900597031",
+    "canonical_url": "https://openalex.org/W2900597031",
+    "title": "Synthesis, characterization, theoretical studies, ADMET and drug-Likeness analysis: Electrochemical and biological activities of metal complexes of 3-(2-hydroxybenzoyl)-2H-chromen-2-one",
+    "authors": [
+      "Drifa Belkhir-Talbi",
+      "Malika Makhloufi\u2010Chebli",
+      "Souhila Terrachet-Bouaziz",
+      "Djamila Hikem\u2010Oukacha",
+      "Naima Ghemmit",
+      "Lhassane Isma\u00efli",
+      "Artur M. S. Silva",
+      "Ma\u00e2mar Hamdi"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.molstruc.2018.11.035",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Cyclic voltammetry",
+      "Antimicrobial",
+      "Electrochemistry",
+      "Antioxidant"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

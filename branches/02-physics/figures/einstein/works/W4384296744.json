@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4384296744",
+    "canonical_url": "https://openalex.org/W4384296744",
+    "title": "Excited\u2010State Proton Transfer in Luminescent Dyes: From Theoretical Insight to Experimental Evidence",
+    "authors": [
+      "Lu\u00eds F. B. Fontes",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1002/chem.202301540",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "review",
+    "venue": "Chemistry - A European Journal",
+    "concepts": [
+      "Excited state",
+      "Luminescence",
+      "Proton",
+      "Photochemistry",
+      "State (computer science)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4206524325",
+    "canonical_url": "https://openalex.org/W4206524325",
+    "title": "Indole-Containing Pyrazino[2,1-<i>b</i>]quinazoline-3,6-diones Active against <i>Plasmodium</i> and Trypanosomatids",
+    "authors": [
+      "Solida Long",
+      "Denise Duarte",
+      "Carla Carvalho",
+      "Rafael Oliveira",
+      "Nuno Santar\u00e9m",
+      "Andreia Palmeira",
+      "Diana I. S. P. Resende",
+      "Artur M. S. Silva",
+      "Rui Moreira",
+      "Anake Kijjoa",
+      "Anabela Cordeiro\u2010da\u2010Silva",
+      "F\u00e1tima Nogueira",
+      "Em\u0131\u0301lia Sousa",
+      "Madalena Pinto"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1021/acsmedchemlett.1c00589",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "ACS Medicinal Chemistry Letters",
+    "concepts": [
+      "Antiparasitic",
+      "Plasmodium falciparum",
+      "Antiparasitic agent",
+      "Quinazoline",
+      "Leishmania infantum"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

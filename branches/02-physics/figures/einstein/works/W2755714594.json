@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2755714594",
+    "canonical_url": "https://openalex.org/W2755714594",
+    "title": "Optimization of bitumen formulations using mixture design of experiments (MDOE)",
+    "authors": [
+      "Catarina Varanda",
+      "In\u00eas Portugal",
+      "Jorge C. Ribeiro",
+      "Artur M. S. Silva",
+      "Carlos M. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.conbuildmat.2017.08.146",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 45,
+    "type": "article",
+    "venue": "Construction and Building Materials",
+    "concepts": [
+      "Asphalt",
+      "Softening point",
+      "Penetration (warfare)",
+      "Quadratic equation",
+      "Materials science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

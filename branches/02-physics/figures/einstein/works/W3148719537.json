@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3148719537",
+    "canonical_url": "https://openalex.org/W3148719537",
+    "title": "Antioxidant Adjustments of Olive Trees (Olea Europaea) under Field Stress Conditions",
+    "authors": [
+      "M\u00e1rcia Ara\u00fajo",
+      "Jo\u00e3o Prada",
+      "Nuno Mariz\u2010Ponte",
+      "Concei\u00e7\u00e3o Santos",
+      "Jos\u00e9 Alberto Pereira",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Maria Celeste Dias"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/plants10040684",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 27,
+    "type": "article",
+    "venue": "Plants",
+    "concepts": [
+      "Olea",
+      "Olive trees",
+      "Antioxidant",
+      "Oleuropein",
+      "Metabolite"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

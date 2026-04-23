@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3191514146",
+    "canonical_url": "https://openalex.org/W3191514146",
+    "title": "Hemi-synthesis of novel (S)-carvone hydrazone from Carum carvi\u00a0L. essential oils: Structural and crystal characterization, targeted bioassays and molecular docking on human protein kinase (CK2) and Epidermal Growth factor Kinase (EGFK)",
+    "authors": [
+      "Rima Tedjini",
+      "Borhane Eddine Ch\u00e9rif Ziani",
+      "Teresa Casimiro",
+      "Raquel Viveiros",
+      "Ricardo C. Calhelha",
+      "Lillian Barros",
+      "Le\u00efla Boukenna",
+      "Abderrezak Hamdi",
+      "Redouane Chebout",
+      "Khaldoun Bachar\u0131",
+      "Oualid Talhi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1016/j.molstruc.2021.131220",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Docking (animal)",
+      "HeLa",
+      "Stereochemistry",
+      "Kinase"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

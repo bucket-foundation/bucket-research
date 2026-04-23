@@ -1,0 +1,51 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2105590245",
+    "canonical_url": "https://openalex.org/W2105590245",
+    "title": "Unraveling the interactive effects of climate change and oil contamination on laboratory\u2010simulated estuarine benthic communities",
+    "authors": [
+      "Francisco J. R. C. Coelho",
+      "Daniel F. R. Cleary",
+      "Rui J. M. Rocha",
+      "Ricardo Calado",
+      "J. M. Castanheira",
+      "S\u0131\u0301lvia M. Rocha",
+      "Artur M. S. Silva",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Vanessa Oliveira",
+      "Ana I. Lilleb\u00f8",
+      "Adelaide Almeida",
+      "\u00c2ngela Cunha",
+      "Isabel Lopes",
+      "Rui Ribeiro",
+      "Matilde Moreira\u2010Santos",
+      "Catarina R. Marques",
+      "Rodrigo Costa",
+      "Ruth Pereira",
+      "Newton C. M. Gomes"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1111/gcb.12801",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 33,
+    "type": "article",
+    "venue": "Global Change Biology",
+    "concepts": [
+      "Microcosm",
+      "Benthic zone",
+      "Environmental chemistry",
+      "Environmental science",
+      "Contamination"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

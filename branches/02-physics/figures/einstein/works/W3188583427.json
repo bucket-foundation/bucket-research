@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3188583427",
+    "canonical_url": "https://openalex.org/W3188583427",
+    "title": "Benzimidazole-Based N,O Boron Complexes as Deep Blue Solid-State Fluorophores",
+    "authors": [
+      "Patr\u00edcia A. A. M. Vaz",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/ma14154298",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Materials",
+    "concepts": [
+      "Benzimidazole",
+      "Photoluminescence",
+      "Solid-state",
+      "Boron",
+      "Fluorescence"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

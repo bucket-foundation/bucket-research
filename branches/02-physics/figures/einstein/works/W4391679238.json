@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4391679238",
+    "canonical_url": "https://openalex.org/W4391679238",
+    "title": "Fucus vesiculosus-Rich Extracts as Potential Functional Food Ingredients: A Holistic Extraction Approach",
+    "authors": [
+      "Ana R. Circuncis\u00e3o",
+      "S\u00f3nia S. Ferreira",
+      "Artur M. S. Silva",
+      "Manuel A. Coimbra",
+      "Susana M. Cardoso"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.3390/foods13040540",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Foods",
+    "concepts": [
+      "Fucus vesiculosus",
+      "Brown algae",
+      "Extraction (chemistry)",
+      "Functional food",
+      "Hot water extraction"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

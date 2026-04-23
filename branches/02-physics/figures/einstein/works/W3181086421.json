@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3181086421",
+    "canonical_url": "https://openalex.org/W3181086421",
+    "title": "Secondary Metabolites from Marine Sources with Potential Use as Leads for Anticancer Applications",
+    "authors": [
+      "Ana C. S. Ver\u00edssimo",
+      "M\u00e1rio Pacheco",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/molecules26144292",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "review",
+    "venue": "Molecules",
+    "concepts": [
+      "Triol",
+      "Algae",
+      "Chemistry",
+      "Biology",
+      "Ecology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

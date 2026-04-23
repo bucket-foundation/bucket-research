@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4310382816",
+    "canonical_url": "https://openalex.org/W4310382816",
+    "title": "Overview of Phlorotannins\u2019 Constituents in Fucales",
+    "authors": [
+      "Marcelo D. Catarino",
+      "S\u00f3nia M.G. Pires",
+      "S\u00f3nia Silva",
+      "Filipa J. Costa",
+      "Susana S. Braga",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/md20120754",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 50,
+    "type": "review",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Fucales",
+      "Context (archaeology)",
+      "Algae",
+      "Biology",
+      "Ecology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

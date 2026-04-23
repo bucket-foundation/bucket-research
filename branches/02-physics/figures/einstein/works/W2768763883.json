@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2768763883",
+    "canonical_url": "https://openalex.org/W2768763883",
+    "title": "Inhibition of protein tyrosine phosphatase 1B by flavonoids: A structure - activity relationship study",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "Marisa Freitas",
+      "Daniela Ribeiro",
+      "Joana L. C. Sousa",
+      "F\u00e9lix Carvalho",
+      "Artur M. S. Silva",
+      "Pedro Alexandrino Fernandes",
+      "Eduarda Fernandes"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.fct.2017.11.039",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 59,
+    "type": "article",
+    "venue": "Food and Chemical Toxicology",
+    "concepts": [
+      "Flavonoid",
+      "Protein tyrosine phosphatase",
+      "Negative regulator",
+      "Chemistry",
+      "Insulin resistance"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4405420121",
+    "canonical_url": "https://openalex.org/W4405420121",
+    "title": "Effects of Summer Water Deficit Stress on Olive Fruits and Oil Quality",
+    "authors": [
+      "M\u00e1rcia Ara\u00fajo",
+      "Nuno Rodrigues",
+      "Concei\u00e7\u00e3o Santos",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 Alberto Pereira",
+      "Artur M. S. Silva",
+      "Maria Celeste Dias"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.3390/horticulturae10121349",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Horticulturae",
+    "concepts": [
+      "Olive oil",
+      "Water stress",
+      "Horticulture",
+      "Fight-or-flight response",
+      "Stress (linguistics)"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

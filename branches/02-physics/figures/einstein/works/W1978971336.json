@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1978971336",
+    "canonical_url": "https://openalex.org/W1978971336",
+    "title": "NMR characterisation of five isomeric \u03b2,\u03b2\u2032-diformyl-meso-tetraphenylporphyrins",
+    "authors": [
+      "Ana M. G. Silva",
+      "M. Amparo F. Faustino",
+      "T\u00e2nia M. P. C. Silva",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1039/b203850a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 26,
+    "type": "article",
+    "venue": "Journal of the Chemical Society Perkin Transactions 1",
+    "concepts": [
+      "Chemistry",
+      "Nickel",
+      "Proton NMR",
+      "Medicinal chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

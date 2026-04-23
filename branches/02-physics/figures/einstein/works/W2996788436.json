@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2996788436",
+    "canonical_url": "https://openalex.org/W2996788436",
+    "title": "UHPLC-DAD-ESI-MSn profiling variability of the phenolic constituents of Artemisia campestris L. populations growing in Algeria",
+    "authors": [
+      "Sarah Boukhalkhal",
+      "Nadhir Gourine",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Mohamed Yousfi"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/j.bcab.2019.101483",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Biocatalysis and Agricultural Biotechnology",
+    "concepts": [
+      "Flavones",
+      "Flavonols",
+      "Luteolin",
+      "Chemistry",
+      "Subspecies"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

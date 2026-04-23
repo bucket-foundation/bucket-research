@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2785919869",
+    "canonical_url": "https://openalex.org/W2785919869",
+    "title": "First intramolecular Diels\u2013Alder reactions using chromone derivatives: synthesis of chromeno[3,4-<i>b</i>]xanthones and 2-(benzo[<i>c</i>]chromenyl)chromones",
+    "authors": [
+      "H\u00e9lio M. T. Albuquerque",
+      "Clementina M.M. Santos",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Artur M. S. Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1039/c7nj05185a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Intramolecular force",
+      "Diels\u2013Alder reaction",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

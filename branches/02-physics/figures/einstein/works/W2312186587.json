@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2312186587",
+    "canonical_url": "https://openalex.org/W2312186587",
+    "title": "Secondary Metabolites from the Culture of the Marine Sponge-Associated Fungi Talaromyces tratensis and Sporidesmium circinophorum",
+    "authors": [
+      "Suradet Buttachon",
+      "War War May Zin",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1055/s-0042-103687",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 28,
+    "type": "article",
+    "venue": "Planta Medica",
+    "concepts": [
+      "Sponge",
+      "Chromobacterium violaceum",
+      "Microbiology",
+      "Stereochemistry",
+      "Fungus"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

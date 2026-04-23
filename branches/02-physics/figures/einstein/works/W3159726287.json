@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3159726287",
+    "canonical_url": "https://openalex.org/W3159726287",
+    "title": "Dual-target compounds for Alzheimer's disease: Natural and synthetic AChE and BACE-1 dual-inhibitors and their structure-activity relationship (SAR)",
+    "authors": [
+      "Jo\u00e3o P. S. Ferreira",
+      "H\u00e9lio M. T. Albuquerque",
+      "Susana M. Cardoso",
+      "Artur M. S. Silva",
+      "Vera L. M. Silva"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1016/j.ejmech.2021.113492",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 87,
+    "type": "review",
+    "venue": "European Journal of Medicinal Chemistry",
+    "concepts": [
+      "Acetylcholinesterase",
+      "Chemistry",
+      "Context (archaeology)",
+      "Cholinergic",
+      "Neuroscience"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}

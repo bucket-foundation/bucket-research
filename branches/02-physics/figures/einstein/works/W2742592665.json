@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2742592665",
+    "canonical_url": "https://openalex.org/W2742592665",
+    "title": "Persistence of urban organic aerosols composition: Decoding their structural complexity and seasonal variability",
+    "authors": [
+      "Jo\u00e3o T.V. Matos",
+      "Regina M.B.O. Duarte",
+      "S\u00f3nia P. Lopes",
+      "Artur M. S. Silva",
+      "Armando C. Duarte"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.envpol.2017.08.022",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 27,
+    "type": "article",
+    "venue": "Environmental Pollution",
+    "concepts": [
+      "Levoglucosan",
+      "Chemistry",
+      "Organic matter",
+      "Chemical composition",
+      "Environmental chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:14:37Z"
+  }
+}
