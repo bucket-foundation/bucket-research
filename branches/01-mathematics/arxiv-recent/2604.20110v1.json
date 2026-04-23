@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20110v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20110v1",
+    "title": "From Finite-Node Conifold Geometry to BPS Structures II: Functorial Incidence and Quiver Assembly",
+    "authors": [
+      "Abdul Rahman"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "In previous work, we extracted the intrinsic finite algebraic state data of a finite-node conifold degeneration in the form $A_\u03a3:= (V_\u03a3,E_\u03a3,c_\u03a3)$, where $V_\u03a3$ is the finite node-indexed vertex set, $E_\u03a3$ is the nodewise coupling space, and $c_\u03a3$ is the coefficient vector of the corrected global extension class. The purpose of the present paper is to construct the corresponding interaction and incidence layer. Starting from the finite-node schober package $S_\u03a3:= (\\mathcal C_{\\mathrm{bulk}},\\{\\mathcal C_{p_k}\\}_{k=1}^r,\\{\u03a6_k,\u03a8_k\\}_{k=1}^r,Sh(S_\u03a3))$, we define the extended vertex set $V_\u03a3^{\\mathrm{ext}} := V_\u03a3\\sqcup \\{v_{\\mathrm{bulk}}\\}$, the functorial coupling relation determined by the attachment functors, the resulting functorial incidence package $\\mathfrak{I}_\u03a3:= (V_\u03a3^{\\mathrm{ext}},\\rightsquigarrow_\u03a3)$, and its canonical binary decategorification $\\mathcal I_\u03a3:= (V_\u03a3^{\\mathrm{ext}},I_\u03a3)$. From these data we assemble the finite quiver-theoretic package $\\mathfrak Q_\u03a3:= (V_\u03a3,E_\u03a3,c_\u03a3,\\mathcal F_\u03a3,I_\u03a3)$, where $\\mathcal F_\u03a3:= \\{(\u03a6_k,\u03a8_k)\\}_{k=1}^r$ is the functorial coupling datum. We prove that this package is canonically determined by the finite-node schober datum, compatible with the corrected perverse extension and its mixed-Hodge-module refinement, and invariant under equivalence of finite-node schober realizations. This yields the interaction and incidence layer required for later graded interaction, stability, BPS, and wall-crossing structures.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

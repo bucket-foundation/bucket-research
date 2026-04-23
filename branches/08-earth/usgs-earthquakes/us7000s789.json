@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us7000s789",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s789",
+    "title": "M 7.5 - 148 km W of Neiafu, Tonga",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 7.5,
+    "place": "148 km W of Neiafu, Tonga",
+    "time": 1774327071514,
+    "coordinates": [
+      -175.3917,
+      -18.597,
+      234
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

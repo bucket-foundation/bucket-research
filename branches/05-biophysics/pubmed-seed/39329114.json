@@ -1,0 +1,27 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:39329114",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/39329114/",
+    "title": "TLR4 induced TRPM2 mediated neuropathic pain.",
+    "authors": [
+      "Mandlem VKK",
+      "Rivera A",
+      "Khan Z",
+      "Quazi SH",
+      "Deba F"
+    ],
+    "year": "2024",
+    "doi": "10.3389/fphar.2024.1472771",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Frontiers in pharmacology",
+    "pubdate": "2024"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

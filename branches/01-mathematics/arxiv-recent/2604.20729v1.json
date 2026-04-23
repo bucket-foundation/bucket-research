@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20729v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20729v1",
+    "title": "On the regularity index of the minimum distance function in projective nested Cartesian codes",
+    "authors": [
+      "Cicero Carvalho",
+      "Maria Vaz Pinto",
+      "Rafael H. Villarreal"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $X$ be a projective nested product of fields and let $\u03b4_X(d)$ be the minimum distance in degree $d\\geq 1$ of the projective nested Cartesian code $C_X(d)$. The regularity index ${\\rm reg}(\u03b4_X)$ of the minimum distance function $\u03b4_X$ is the minimum integer $d_0\\geq 0$ such that $\u03b4_X(d)=1$ for $d\\geq d_0$. We give a formula for ${\\rm reg}(\u03b4_X)$ by determining an indicator function of least degree for each point of $X$ and using the fact that ${\\rm reg}(\u03b4_X)$ is the ${\\rm v}$-number of the vanishing ideal $I_X$ of $X$. Then we give an arithmetical criterion that characterizes when $X$ is Cayley--Bacharach.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

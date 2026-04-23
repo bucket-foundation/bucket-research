@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20741v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20741v1",
+    "title": "Mellin transforms, transfinite diameter and rational approximations of integrals",
+    "authors": [
+      "Francis Brown"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We establish a higher-dimensional irrationality criterion for periods which are presented as Mellin integrals depending on many parameters. The criterion is stated as an upper bound on the multi-variate transfinite diameter of the image of the domain of integration under the Mellin arguments. Most of the paper is devoted to studying notions of transfinite diameter relative to very general multivariate Vandermonde matrices.\n  As a proof of principle, we illustrate how this approach works with detailed computations in the case of a 5-parameter family of integrals for $\u03b6(2)$\n  on $\\mathcal{M}_{0,5}$, the moduli space of curves of genus 0 with 5 marked points. This yields a `higher-dimensional' proof of the irrationality of $\u03b6(2)$, based on an upper bound for a certain kind of transfinite diameter associated to $\\mathcal{M}_{0,5}$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

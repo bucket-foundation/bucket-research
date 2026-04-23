@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:445154",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/445154",
+    "title": "resveratrol",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 445154,
+    "molecular_formula": "C14H12O3",
+    "molecular_weight": "228.24",
+    "iupac_name": "5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

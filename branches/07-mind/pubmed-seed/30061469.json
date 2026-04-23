@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:30061469",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/30061469/",
+    "title": "Dream experiences and the neural correlates of perceptual consciousness and cognitive access.",
+    "authors": [
+      "Fazekas P",
+      "Nemeth G"
+    ],
+    "year": "2018",
+    "doi": "10.1098/rstb.2017.0356",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+    "pubdate": "2018 Sep 19"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

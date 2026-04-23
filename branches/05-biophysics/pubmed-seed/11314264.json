@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:11314264",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/11314264/",
+    "title": "Measurement of mitochondrial pH in situ.",
+    "authors": [
+      "Takahashi A",
+      "Zhang Y",
+      "Centonze E",
+      "Herman B"
+    ],
+    "year": "2001",
+    "doi": "10.2144/01304rv01",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "BioTechniques",
+    "pubdate": "2001 Apr"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

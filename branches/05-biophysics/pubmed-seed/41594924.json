@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:41594924",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/41594924/",
+    "title": "Melatonin as a Guardian of Mitochondria: Mechanisms and Therapeutic Potential in Neurodegenerative Diseases.",
+    "authors": [
+      "Bao Y",
+      "Miao G",
+      "He N",
+      "Bao X",
+      "Shi Z",
+      "Hu C",
+      "Liu X",
+      "Wang B",
+      "Sun C"
+    ],
+    "year": "2026",
+    "doi": "10.3390/biology15020189",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Biology",
+    "pubdate": "2026 Jan 20"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

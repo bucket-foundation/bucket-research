@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:31106826",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/31106826/",
+    "title": "Current approaches to measure nitric oxide in plants.",
+    "authors": [
+      "Vishwakarma A",
+      "Wany A",
+      "Pandey S",
+      "Bulle M",
+      "Kumari A",
+      "Kishorekumar R",
+      "Igamberdiev AU",
+      "Mur LAJ",
+      "Gupta KJ"
+    ],
+    "year": "2019",
+    "doi": "10.1093/jxb/erz242",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Journal of experimental botany",
+    "pubdate": "2019 Aug 29"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

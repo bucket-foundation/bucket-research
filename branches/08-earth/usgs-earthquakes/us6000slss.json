@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us6000slss",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slss",
+    "title": "M 7.4 - 126 km WNW of Ternate, Indonesia",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 7.4,
+    "place": "126 km WNW of Ternate, Indonesia",
+    "time": 1775083693172,
+    "coordinates": [
+      126.2965,
+      1.1171,
+      35
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

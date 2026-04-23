@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:6089",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/6089",
+    "title": "DMT",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 6089,
+    "molecular_formula": "C12H16N2",
+    "molecular_weight": "188.27",
+    "iupac_name": "2-(1H-indol-3-yl)-N,N-dimethylethanamine",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

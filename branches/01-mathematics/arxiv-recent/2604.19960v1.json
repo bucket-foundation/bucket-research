@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.19960v1",
+    "canonical_url": "http://arxiv.org/abs/2604.19960v1",
+    "title": "Tonnetz Theory, Classical Harmony, and the Combinatorial Geometry of Abstract Musical Resources",
+    "authors": [
+      "Jeffrey R. Boland",
+      "Lane P. Hughston"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "In a previous submission, we established a fundamental relation between tone networks and configurations. It was shown that the Eulerian tonnetz can be represented by a $\\{12_3\\}$ of Daublebsky von Sterneck type D222. We also constructed a tonnetz for Tristan-genus chords (dominant sevenths and half-diminished sevenths) and we showed that this tonnetz can be represented by a $\\{12_3\\}$ of type D228. In both of these constructions the associated Levi graphs play an important role. Here we look at the tonnetze associated with some other musical systems, thereby offering several concrete examples of an abstract view of music as combinatorial geometry. First, we look at the tonal harmonies typical of the classical period. In the case of diatonic triads, we show the existence of a bipartite graph of type $\\{7_3\\}$ and girth four that represents the well-known relations between the seven diatonic degrees and their pitch classes. In the case of diatonic seventh chords, we obtain a Fano configuration $\\{7_3\\}$ which gives a complete characterization of the voice-leading relations that hold between such chords. Next, we construct a tonnetz for pentatonic music based on the Desargues configuration $\\{10_3\\}$ and we construct a tonnetz for the 12-tone system based on the Cremona-Richmond configuration $\\{15_3\\}$. Both can be used as a resource for musical compositions. Finally, we show that the relation between the chromatic pitch class set and the major triad set is also represented by a D222. The minor triads are in one-to-one correspondence with the members of a certain class of hexacycles in the Levi graph of this configuration. In this way, the characteristic duality between major and minor triads in the tonnetz can be broken.",
+    "published": "2026-04-21"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

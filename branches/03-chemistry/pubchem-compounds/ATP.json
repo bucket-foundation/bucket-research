@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:5957",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/5957",
+    "title": "ATP",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 5957,
+    "molecular_formula": "C10H16N5O13P3",
+    "molecular_weight": "507.18",
+    "iupac_name": "[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] phosphono hydrogen phosphate",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

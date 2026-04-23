@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20034v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20034v1",
+    "title": "On Uniqueness of Mock Theta Functions",
+    "authors": [
+      "Ovidiu Costin",
+      "Gerald V. Dunne",
+      "Ali Saraeb"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We develop a resurgent approach to the problem of unique continuation of mock theta functions across their natural boundary. The starting point is the representation of the associated Mordell-Appell integrals as Laplace transforms of resurgent functions, which serve as the primary analytic objects.\n  By rotating the Laplace contour by $\u03c0$, i.e. onto the Stokes line, one obtains, in all known cases, the mock-modular relations between the Mordell-Appell integrals and the corresponding unary series in $\\hat q=e^{-\u03c0i \u03c4}$ and $\\hat q_1=e^{-\u03c0i (-1/\u03c4)}$.\n  We then prove that these relations admit a unique solution on the $q$-side, expressed in terms of $q=e^{\u03c0i \u03c4}$ and $q_1=e^{\u03c0i (-1/\u03c4)}$, with coefficients determined by the corresponding Mordell-Appell integrals. This yields a canonical continuation across the natural boundary, given by a resurgent extension of the classical principle of permanence of relations, and singles out a distinguished family of mock theta functions in each group.\n  We present a complete analysis for the order 3 and 5 cases (mf3 and mf5). The method extends naturally to higher orders; a general theory will appear in a separate paper.",
+    "published": "2026-04-21"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

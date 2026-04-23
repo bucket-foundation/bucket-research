@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:21651927",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/21651927/",
+    "title": "The 'correlates' in neural correlates of consciousness.",
+    "authors": [
+      "de Graaf TA",
+      "Hsieh PJ",
+      "Sack AT"
+    ],
+    "year": "2012",
+    "doi": "10.1016/j.neubiorev.2011.05.012",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Neuroscience and biobehavioral reviews",
+    "pubdate": "2012 Jan"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

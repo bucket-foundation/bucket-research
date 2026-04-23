@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:38140883",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/38140883/",
+    "title": "Multimodal approaches supporting the diagnosis, prognosis and investigation of neural correlates of disorders of consciousness: A systematic review.",
+    "authors": [
+      "Gallucci A",
+      "Varoli E",
+      "Del Mauro L",
+      "Hassan G",
+      "Rovida M",
+      "Comanducci A",
+      "Casarotto S",
+      "Lo Re V",
+      "Romero Lauro LJ"
+    ],
+    "year": "2024",
+    "doi": "10.1111/ejn.16149",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "The European journal of neuroscience",
+    "pubdate": "2024 Mar"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

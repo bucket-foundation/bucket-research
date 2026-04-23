@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20250v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20250v1",
+    "title": "Higher rank Gelfand-Kapranov-Zelevinsky fans",
+    "authors": [
+      "Rocco Chiriv\u00ec",
+      "Martina Costa Cesari",
+      "Xin Fang",
+      "Peter Littelmann"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We define and study the higher rank GKZ-fans of point configurations, where the rank one cases coincide with the usual GKZ-fans. A point in a higher rank GKZ-fan is then used to construct higher rank quasi-valuations to degenerate the toric variety associated to the point configuration flatly to a reduced union of toric varieties. Such a union encodes the polytopal subdivision arising from the point in the higher rank GKZ-fan.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

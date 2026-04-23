@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:24454300",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/24454300/",
+    "title": "The olfactory system as the gateway to the neural correlates of consciousness.",
+    "authors": [
+      "Merrick C",
+      "Godwin CA",
+      "Geisler MW",
+      "Morsella E"
+    ],
+    "year": "2014",
+    "doi": "10.3389/fpsyg.2013.01011",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Frontiers in psychology",
+    "pubdate": "2014 Jan 10"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

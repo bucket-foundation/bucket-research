@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20565v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20565v1",
+    "title": "Real bordered Floer homology",
+    "authors": [
+      "Robert Lipshitz",
+      "Peter Ozsv\u00e1th"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Fix a 3-manifold $Y$ with boundary $F\\amalg F$ and an orientation-preserving involution $\u03c4: Y\\to Y$ exchanging the boundary components, with nonempty fixed set. To an appropriate kind of Heegaard diagram for $Y$, we describe how to associate a module over the bordered Heegaard Floer algebra of $F$. These modules satisfy a gluing, or pairing, theorem, and extend the \"hat\" variant of Guth-Manolescu's real Heegaard Floer homology, $\\widehat{HFR}(Y,\u03c4)$. Using these modules, we give a practical algorithm to compute $\\widehat{HFR}(Y,\u03c4)$ for real 3-manifolds $(Y,\u03c4)$ with connected fixed set.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

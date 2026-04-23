@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20440v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20440v1",
+    "title": "A Matsushima theorem for K-polystable polarised smooth Fano threefolds",
+    "authors": [
+      "Hamid Abban",
+      "Paolo Cascini",
+      "Ivan Cheltsov"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We prove that if $X$ is a smooth Fano threefold and $L$ is an ample $\\mathbb{Q}$-divisor such that $(X,L)$ is K-polystable, then the automorphism group $\\operatorname{Aut}(X)$ is reductive. This verifies the reductivity statement predicted by the Yau--Tian--Donaldson conjecture in the setting of smooth Fano threefolds with arbitrary ample polarisation.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

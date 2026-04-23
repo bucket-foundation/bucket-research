@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20624v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20624v1",
+    "title": "Topological Word for Non-Abelian Topological Insulators",
+    "authors": [
+      "Zhenming Zhang",
+      "Tianyu Li",
+      "Wei Yi"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We propose a unified framework, dubbed topological word, for the complete non-Abelian bulk-boundary correspondence in multigap non-Abelian topological insulators. Composed by an ordered sequence of letters, each a non-Abelian charge depicting the gap-resolved topology, the topological word captures both the global non-Abelian topology corresponding to the homotopy classification, and the band-adjacency information. The latter, though crucial for the edge-state pattern across multiple gaps, is often overlooked in previous studies. We confirm our framework using both static models and periodically driven Floquet systems, and discuss its connection and distinction with existing descriptions, such as the phase-band singularities and braiding representations. Intriguingly, topological word continues to provide insight regarding topology and edge states, even as the global non-Abelian topology becomes ill-defined under broken parity-time symmetry.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

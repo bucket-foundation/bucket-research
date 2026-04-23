@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20762v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20762v1",
+    "title": "Spontaneous Baryogenesis from Axions on Induced Electroweak Walls",
+    "authors": [
+      "Miguel Vanvlasselaer",
+      "Wen Yin"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We propose a baryogenesis mechanism in which an electroweak phase boundary is induced by a wall-like configuration of a scalar field, such as a domain wall or a shock wave, coupled to the Higgs field. If the Higgs mass parameter depends on the scalar field value, the wall locally separates the electroweak-symmetric and broken phases, thereby providing an induced electroweak wall. We focus on the case where the scalar field is an axion-like particle coupled to the SU(2) Chern--Simons density. The motion of the wall then generates a local effective chemical potential for B+L, realizing a spontaneous baryogenesis mechanism. In the presence of unsuppressed sphaleron transitions in front of the wall, this biases the plasma and leads to baryon asymmetry generation. We discuss the parametric conditions for the induced wall, cosmological realizations based on domain walls and shock waves, and the associated implications for baryon inhomogeneities and gravitational waves. The axion coupling is predicted to be sufficiently weak to evade current experimental and observational bounds.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

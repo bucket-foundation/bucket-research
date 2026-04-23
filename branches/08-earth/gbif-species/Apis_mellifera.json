@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "gbif:1341976",
+    "canonical_url": "https://www.gbif.org/species/1341976",
+    "title": "Apis mellifera",
+    "provider_url": "https://www.gbif.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "usage_key": 1341976,
+    "scientific_name": "Apis mellifera Linnaeus, 1758",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hymenoptera",
+    "family": "Apidae",
+    "genus": "Apis",
+    "rank": "SPECIES",
+    "status": "ACCEPTED"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

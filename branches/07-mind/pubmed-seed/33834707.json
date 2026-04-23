@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:33834707",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/33834707/",
+    "title": "Attention: Multiple types, brain resonances, psychological functions, and conscious states.",
+    "authors": [
+      "Grossberg S"
+    ],
+    "year": "2021",
+    "doi": "10.31083/j.jin.2021.01.406",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Journal of integrative neuroscience",
+    "pubdate": "2021 Mar 30"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

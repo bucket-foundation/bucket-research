@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20843v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20843v1",
+    "title": "Self-regulated galaxy evolution within a self-consistently varying galaxy-wide IMF",
+    "authors": [
+      "Lukas Hof",
+      "Pavel Kroupa",
+      "Gerhard Hensler",
+      "Jan Pflamm-Altenburg"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Semi-analytical evolution models of galaxies are a useful and computationally inexpensive tool for fast assessment of individual properties and their evolution. In this work, specifically the influence of a metallicity and star-formation rate (SFR) dependent galaxy-wide stellar initial mass function (IGIMF) on the self-regulation of star-formation in a galaxy is of interest. All models -- both non-varying gwIMFs and the IGIMF -- reproduce reasonable gas fractions, gas depletion timescales and the main sequence of star-forming galaxies. However, only the IGIMF model accurately predicts the mass-metallicity relation and provides a more comprehensive description of quenched elliptical galaxies. For massive ellipticals all models suggest the need for an additional gas heating source to reach a quenched state. Using a different stellar yield table in the IGIMF model does not significantly affect the results. In all models, the galaxies evolve self-regulated, determined by the accretion rate. The self-regulated constancy of the SFR reflects the constant SFRs of nearby star-forming galaxies. The specific gas-accretion rate of all galaxies appears to be comparable to the Hubble constant. The inclusion of outflows improves the results for the canonical gwIMF model, but not significantly, while for the IGIMF model it has no significant impact.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

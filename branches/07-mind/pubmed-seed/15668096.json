@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:15668096",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/15668096/",
+    "title": "Two neural correlates of consciousness.",
+    "authors": [
+      "Block N"
+    ],
+    "year": "2005",
+    "doi": "10.1016/j.tics.2004.12.006",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Trends in cognitive sciences",
+    "pubdate": "2005 Feb"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20054v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20054v1",
+    "title": "Non-Abelian p-Curvature and a Non-Abelian Katz's Formula",
+    "authors": [
+      "Michael Barz"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $k$ be a field of characteristic $p,$ and $f : X \\to S$ a smooth proper morphism of smooth $k$-schemes. Katz's formula gives a relationship between the Kodaira--Spencer map of $f,$ and an invariant called the $p$-curvature of the Gauss--Manin connection associated to $f.$ Recently, Lam--Litt proved a variant of Katz's formula in non-abelian Hodge theory, and suggested that it should be possible to give a more conceptual proof of their formula using the stacky approach to $p$-adic Hodge theory.\n  In this article, we realize their suggestion, explaining how the rather concrete phenomena observed by Katz and Lam--Litt can be explained in a conceptual way using sheared de Rham stacks, as developed by Bhatt--Kanaev--Vologodsky--Zhang and Drinfeld (though we prove a slightly different statement than Lam--Litt do). We do not assume the reader has any background in the theory of de Rham stacks.",
+    "published": "2026-04-21"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

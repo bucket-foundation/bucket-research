@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20014v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20014v1",
+    "title": "Explicit density computations for certain sets of primes in Lucas sequences",
+    "authors": [
+      "Joaquim Cera Da Concei\u00e7\u00e3o"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $U$ be a Lucas sequence, $p$ be prime, and $\u03c1_U(p)$ be the rank of appearance of $p$ in $U$. We derive closed-form formulas for the Dirichlet density of primes $p$ for which $d\\mid \u03c1_U(p)$, where $d\\geq 1$ is a fixed integer. Our results complete the work of Sanna ($2022$) by covering all $U$ and all $d\\geq 1$.",
+    "published": "2026-04-21"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

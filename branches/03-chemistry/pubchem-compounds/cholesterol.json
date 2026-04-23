@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:5997",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/5997",
+    "title": "cholesterol",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 5997,
+    "molecular_formula": "C27H46O",
+    "molecular_weight": "386.7",
+    "iupac_name": "(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

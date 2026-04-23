@@ -1,0 +1,32 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:30160607",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/30160607/",
+    "title": "Necrotic, apoptotic and autophagic cell fates triggered by nanoparticles.",
+    "authors": [
+      "Mohammadinejad R",
+      "Moosavi MA",
+      "Tavakol S",
+      "Vardar D\u00d6",
+      "Hosseini A",
+      "Rahmati M",
+      "Dini L",
+      "Hussain S",
+      "Mandegary A",
+      "Klionsky DJ"
+    ],
+    "year": "2019",
+    "doi": "10.1080/15548627.2018.1509171",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Autophagy",
+    "pubdate": "2019 Jan"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

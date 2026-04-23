@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:5202",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/5202",
+    "title": "serotonin",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 5202,
+    "molecular_formula": "C10H12N2O",
+    "molecular_weight": "176.21",
+    "iupac_name": "3-(2-aminoethyl)-1H-indol-5-ol",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

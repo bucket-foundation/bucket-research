@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20768v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20768v1",
+    "title": "Primordial Magnetogenesis and Gravitational Waves from ALP-assisted Phase Transition",
+    "authors": [
+      "Pankaj Borah",
+      "P. S. Bhupal Dev",
+      "Anish Ghoshal"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Sufficiently strong first-order phase transitions (FOPTs) in the early Universe can simultaneously produce an observable stochastic gravitational wave background (SGWB) and a large-scale primordial magnetic field (PMF). The recent $3.8\u03c3$ evidence for a non-zero intergalactic MF from anisotropic pair-halo searches using \\textit{Fermi}-LAT data further motivates a cosmological origin of this MF. We investigate an FOPT-origin of both cosmic signatures, namely, PMF and SGWB, and the correlation between them, within a minimal axion-like particle (ALP) framework in which a global $U(1)$ symmetry is spontaneously broken through radiative corrections, with the ALP sector coupled to the Standard Model (SM) via Higgs-portal. We compute the present-day PMF amplitude and coherence length for both maximally helical and non-helical configurations, accounting for inverse cascade effects. For maximally helical configurations, we find peak field strengths up to $B_0 \\sim 10^{-9}$ G at coherence length $\u03bb_0 \\sim 10^{-3}-10^{-1}$ Mpc, consistent with lower bounds on the IGMF inferred from blazar observations by MAGIC, H.E.S.S. and {\\it Fermi}-LAT. We show that the ALP parameter region consistent with $\u03b3$-ray blazar data (assuming maximal helicity) simultaneously produces SGWB detectable at future space-based interferometers, such as LISA, etc., over the ALP decay constant range $10^3~\\text{GeV} \\lesssim f_a \\lesssim 10^5~\\text{GeV}$. We directly map these onto effective ALP couplings to SM particles, e.g., photons, gluons, and fermions. This establishes a multi-messenger complementarity between cosmological observables and laboratory/astrophysical ALP searches, with the combined constraints preferring relatively heavy ALPs, $m_a \\gtrsim 0.1~\\text{GeV}$, in a regime accessible to next-generation intensity and energy-frontier experiments.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:586",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/586",
+    "title": "creatine",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 586,
+    "molecular_formula": "C4H9N3O2",
+    "molecular_weight": "131.13",
+    "iupac_name": "2-[carbamimidoyl(methyl)amino]acetic acid",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

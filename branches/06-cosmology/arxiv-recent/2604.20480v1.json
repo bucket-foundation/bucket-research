@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20480v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20480v1",
+    "title": "The January 2010 flare of Mrk421: Insights from a stochastic acceleration model",
+    "authors": [
+      " MAGIC collaboration",
+      "K. Abe",
+      "S. Abe",
+      "J. Abhir",
+      "A. Abhishek",
+      "V. A. Acciari",
+      "A. Aguasca-Cabot",
+      "I. Agudo",
+      "I. Albanese",
+      "T. Aniello"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Mrk421 displayed its highest flux state ever observed in February of 2010 with very high TeV fluxes and interesting cross-band correlations and a spectral energy distribution (SED) evolution not entirely consistent with the standard single zone leptonic synchrotron self-Compton model. The source was already in a high state in January 2010 and displayed strong variability in the days preceding the highest state. We study the temporal evolution of the spectra in January to extract information about the particle dynamics and the physical properties of the emission region. We build up on the temporal variability and correlations studied in the previous work (MAGIC collaboration - Abe et al. 2025) and attempt to improve the SED model fits with a physics oriented approach. The multi-wavelength data was processed and the SEDs were fit using JetSeT. The SED evolution and cross band correlations were modelled using leptonic log-parabola with a low energy power-law branch (LPPL) and pile-up distributions that are predicted in a stochastic acceleration scenario. A simplified temporal evolution model was developed and fit to the SEDs and the resulting trends and phenomenology were characterised in context of theoretical literature. An expanding emission region model was also tested. We find the spectral variability to be well in agreement with stochastic acceleration. Our analysis suggests that the standard LPPL distribution develops a Maxwellian pile-up component at the transition from acceleration to cooling dominated phase on 3 nights in the dataset, as also hinted by the very-high energy and X-ray light curves. The resulting phenomenology of our sequential snapshot evolution SED model agrees well with theoretical and numerical simulation studies on temporal evolution using the diffusion equation approach.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

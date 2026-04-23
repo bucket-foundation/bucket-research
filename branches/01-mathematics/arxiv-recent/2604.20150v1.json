@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20150v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20150v1",
+    "title": "Epimorphisms of local cohomology modules, a general Peskine-Szpiro theorem, and an application to sheaf cohomology vanishing for thickenings",
+    "authors": [
+      "Andr\u00e9 Dosea",
+      "Majid Eghbali",
+      "Cleto B. Miranda-Neto"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We study the surjectivity of certain maps involving local cohomology modules, which we can realize as a dual version of part of the investigation developed by Bhatt, Blickle, Lyubeznik, Singh and Zhang on the sheaf cohomology of thickenings (i.e., subschemes defined by powers of ideals), where injectivity played a central role. To this end, we introduce and investigate properties of cohomologically Mittag-Leffler (cML) rings, associated to a given flat local endomorphism (for instance the Frobenius map of a regular ring of prime characteristic), a class which we show to contain, in our setting, the so-called cohomologically full rings of Dao, De Stefani and Ma (in particular, Cohen-Macaulay, Stanley-Reisner, and Du Bois singularities) as well as rings with an ideal inducing a pure endomorphism of the quotient. Our two major specific goals rely upon the prime characteristic setting. First, we extend for the class of cML rings a classical result of Peskine and Szpiro that relates the cohomological dimension and the height of a given Cohen-Macaulay ideal. Second, we prove and illustrate a Kodaira type vanishing result on the sheaf cohomology of thickenings.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

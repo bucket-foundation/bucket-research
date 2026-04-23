@@ -1,0 +1,28 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:30558644",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/30558644/",
+    "title": "Rejuvenation by cell reprogramming: a new horizon in gerontology.",
+    "authors": [
+      "Goya RG",
+      "Lehmann M",
+      "Chiavellini P",
+      "Canatelli-Mallat M",
+      "Here\u00f1\u00fa CB",
+      "Brown OA"
+    ],
+    "year": "2018",
+    "doi": "10.1186/s13287-018-1075-y",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Stem cell research & therapy",
+    "pubdate": "2018 Dec 17"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

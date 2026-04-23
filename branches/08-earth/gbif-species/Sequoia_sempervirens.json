@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "gbif:2683909",
+    "canonical_url": "https://www.gbif.org/species/2683909",
+    "title": "Sequoia sempervirens",
+    "provider_url": "https://www.gbif.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "usage_key": 2683909,
+    "scientific_name": "Sequoia sempervirens (D.Don) Endl.",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae",
+    "genus": "Sequoia",
+    "rank": "SPECIES",
+    "status": "ACCEPTED"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

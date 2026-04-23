@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:896",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/896",
+    "title": "melatonin",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 896,
+    "molecular_formula": "C13H16N2O2",
+    "molecular_weight": "232.28",
+    "iupac_name": "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

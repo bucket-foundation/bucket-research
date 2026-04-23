@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:16399806",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/16399806/",
+    "title": "The precuneus: a review of its functional anatomy and behavioural correlates.",
+    "authors": [
+      "Cavanna AE",
+      "Trimble MR"
+    ],
+    "year": "2006",
+    "doi": "10.1093/brain/awl004",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Brain : a journal of neurology",
+    "pubdate": "2006 Mar"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

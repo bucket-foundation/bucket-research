@@ -1,0 +1,28 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:32395484",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/32395484/",
+    "title": "Quantum biology in low level light therapy: death of a dogma.",
+    "authors": [
+      "Sommer AP",
+      "Schemmer P",
+      "Pavl\u00e1th AE",
+      "F\u00f6rsterling HD",
+      "Mester \u00c1R",
+      "Trelles MA"
+    ],
+    "year": "2020",
+    "doi": "10.21037/atm.2020.03.159",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Annals of translational medicine",
+    "pubdate": "2020 Apr"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20167v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20167v1",
+    "title": "Root numbers for twisted Fermat quotient curves II",
+    "authors": [
+      "Ryosuke Yanagihara"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "This is a sequel to the previous work of the author Yanagihara (2025). Let $\\ell$ be an odd prime, let $N \\geq 1$ be an integer, and let $\u03b4\\geq 1$ be an $\\ell^N$-th-power-free integer. Let $r,s,t>0$ be integers satisfying $r+s+t=\\ell^N$. In Yanagihara (2025), the author computed the root number of the Fermat quotient curve $y^{\\ell^N}=x^r(\u03b4-x)^s$ under the assumptions that $\\ell\\nmid rst$ and that $\\operatorname{ord}_{\\ell}(\u03b4)=0$ or $\\ell\\nmid \\operatorname{ord}_{\\ell}(\u03b4)$. In this paper, we study the case where the technical assumption $\\ell\\nmid rst$ is dropped. As one such case, we compute the root number when $\\ell^{N-1}\\| r$ and $\\ell\\nmid st\u03b4$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

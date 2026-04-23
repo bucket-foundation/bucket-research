@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20411v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20411v1",
+    "title": "The Evolution of the SFR-M_* relation at 0.1<z<4: Environmental and Morphological Dependencies",
+    "authors": [
+      "Kaimin He",
+      "Ke Shi",
+      "Jun Toshikawa",
+      "Xianzhong Zheng",
+      "Xiaopeng You"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We present a comprehensive study of the relationship between star formation rate (SFR) and stellar mass (M_*) from z = 0.1 to z = 4 using a mass-complete sample of approximately 290,000 galaxies from the COSMOS2020 catalog. We find that the SFR-M_* relation exhibits a pronounced high-mass decline that becomes increasingly evident at lower redshifts. Examining environmental and morphological dependencies, we find strikingly different patterns. For all galaxies, we find galaxies in high-density environments exhibit suppressed star formation rates at z < 1 especially at high-mass end, while for star-forming galaxies no apparent environmental effect is found at all redshifts. In contrast, galaxy morphology exerts strong influence on the SFR-M_* relation at z < 2, in a sense that early-type galaxies exhibit systematically lower star formation rates at fixed mass compared to spirals and irregulars, with this trend persisting even within the star-forming population. These results suggest that internal structural properties (bulge components in particular) continuously regulate star formation efficiency independently of whether galaxies are classified as active or quiescent, whereas external environmental processes primarily serve as rapid quenching mechanisms that increase the fraction of quiescent galaxies at low redshifts. We attribute the observed high-mass decline of the SFR-M_* relation to COSMOS2020's superior capability for detecting massive star-forming galaxies undergoing \"morphological quenching\" processes.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

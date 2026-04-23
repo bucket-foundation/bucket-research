@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:8691353",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/8691353/",
+    "title": "Slow fluorescent indicators of membrane potential: a survey of different approaches to probe response analysis.",
+    "authors": [
+      "Pl\u00e1sek J",
+      "Sigler K"
+    ],
+    "year": "1996",
+    "doi": "10.1016/1011-1344(96)07283-1",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Journal of photochemistry and photobiology. B, Biology",
+    "pubdate": "1996 Apr"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

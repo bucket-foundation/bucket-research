@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "gbif:3052436",
+    "canonical_url": "https://www.gbif.org/species/3052436",
+    "title": "Arabidopsis thaliana",
+    "provider_url": "https://www.gbif.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "usage_key": 3052436,
+    "scientific_name": "Arabidopsis thaliana (L.) Heynh.",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Brassicales",
+    "family": "Brassicaceae",
+    "genus": "Arabidopsis",
+    "rank": "SPECIES",
+    "status": "ACCEPTED"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

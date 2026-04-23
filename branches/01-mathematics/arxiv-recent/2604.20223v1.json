@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20223v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20223v1",
+    "title": "Representability of codimension three cycles",
+    "authors": [
+      "Kalyan Banerjee"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "In this paper, we develop the notion of representability of co-dimension three cycles on a fourfold in terms of zero cycles modulo rational equivalence on surfaces.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

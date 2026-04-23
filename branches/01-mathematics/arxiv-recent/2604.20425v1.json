@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20425v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20425v1",
+    "title": "Birational geometry of actions on del Pezzo surfaces",
+    "authors": [
+      "Ivan Cheltsov",
+      "Yuri Tschinkel",
+      "Zhijia Zhang"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We complete the classification of regular generically free actions of finite groups on del Pezzo surfaces, up to birational equivalence. As a byproduct, we settle several open problems in equivariant birational geometry, e.g., we classify birationally rigid actions on del Pezzo surfaces.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

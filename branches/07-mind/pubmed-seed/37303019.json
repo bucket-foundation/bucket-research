@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:37303019",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/37303019/",
+    "title": "The Current of Consciousness: Neural Correlates and Clinical Aspects.",
+    "authors": [
+      "Friedman G",
+      "Turk KW",
+      "Budson AE"
+    ],
+    "year": "2023",
+    "doi": "10.1007/s11910-023-01276-0",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Current neurology and neuroscience reports",
+    "pubdate": "2023 Jul"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

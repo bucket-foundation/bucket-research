@@ -1,0 +1,29 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:41093259",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/41093259/",
+    "title": "A systematic review and meta-analysis on the neural correlates of bodily self-consciousness.",
+    "authors": [
+      "Brunello N",
+      "Diana L",
+      "Sritharan J",
+      "Glisic M",
+      "Nef T",
+      "Verma RK",
+      "Zito GA"
+    ],
+    "year": "2025",
+    "doi": "10.1016/j.neubiorev.2025.106420",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Neuroscience and biobehavioral reviews",
+    "pubdate": "2025 Dec"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

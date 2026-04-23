@@ -1,0 +1,28 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:41030539",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/41030539/",
+    "title": "Isotope-specific lithium bioactivity - physiological reality or laboratory oddity?",
+    "authors": [
+      "Delacour C",
+      "Deline M",
+      "Hermannsd\u00f3ttir H",
+      "Lu Z",
+      "Gingras MJP",
+      "Fromme T"
+    ],
+    "year": "2025",
+    "doi": "10.3389/fpsyt.2025.1664092",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Frontiers in psychiatry",
+    "pubdate": "2025"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20113v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20113v1",
+    "title": "Fractal transference principle for continued fractions of Laurent series",
+    "authors": [
+      "Yuto Nakajima"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We establish a fractal transference principle for continued fraction expansions over the field of Laurent series. Let $S$ be an infinite subset of the set of all polynomials over a finite field of $q$ elements of positive degree with growth density exponent $\u03b1\\ge 1$, and let $U \\subset S$ be a subset of positive relative upper density. We prove that there exists a subset $E_{S,U}$ of the set of points whose continued fraction digits are pairwise distinct and belong to $S$ such that \\[\\dim_{\\rm H} E_{S,U}=\\frac{1}{2\u03b1}.\\] Moreover, the set of digits appearing in the continued fraction expansions of points in $E_{S,U}$ recovers the relative upper density of $U$ in $S$. We also show that the same construction preserves the relative upper density of the corresponding degree sets in $\\mathbb N$. As a consequence, combinatorial statements for subsets of $\\mathbb N$ of positive upper density can be transferred to degree sets arising from continued fraction expansions of Laurent series on sets of optimal Hausdorff dimension.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

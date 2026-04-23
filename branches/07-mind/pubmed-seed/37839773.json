@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:37839773",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/37839773/",
+    "title": "Epistemological challenges for neural correlates of consciousness: A defense of medical research on consciousness.",
+    "authors": [
+      "Neveu A",
+      "Degos V",
+      "Barberousse A"
+    ],
+    "year": "2023",
+    "doi": "10.1016/j.lpm.2023.104183",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Presse medicale (Paris, France : 1983)",
+    "pubdate": "2023 Jun"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "gbif:2440483",
+    "canonical_url": "https://www.gbif.org/species/2440483",
+    "title": "Orcinus orca",
+    "provider_url": "https://www.gbif.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "usage_key": 2440483,
+    "scientific_name": "Orcinus orca (Linnaeus, 1758)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetacea",
+    "family": "Delphinidae",
+    "genus": "Orcinus",
+    "rank": "SPECIES",
+    "status": "ACCEPTED"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20839v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20839v1",
+    "title": "Beyond Hagedorn: A Harmonic Approach to $T\\bar{T}$-deformation",
+    "authors": [
+      "Jie Gu",
+      "Jue Hou",
+      "Yunfeng Jiang"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We apply harmonic analysis to study the $T\\bar{T}$-deformed torus partition function. We first express the CFT partition functions in terms of Maass waveforms, including the Eisenstein series and cusp forms. These basis functions turn out to deform in a very simple way under the $T\\bar{T}$-deformation. The spectral decomposition provides a numerically stable and efficient method to compute the partition function at finite values of the deformation parameter $\u03bb$, allowing us to clearly resolve the analytic structure of the partition function as a function of $\u03bb$. The resulting deformed partition function exhibits a Hagedorn singularity. Building on harmonic analysis approach, we propose a natural analytic continuation beyond the Hagedorn singularity, which enables us to compute the full partition function for any value of $\u03bb$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20809v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20809v1",
+    "title": "Geodesic Completeness in General Cosmological Scenarios",
+    "authors": [
+      "William H. Kinney"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "The well-known Borde-Guth-Vilenkin Theorem shows that inflationary spacetimes are generically geodesically past-incomplete, necessitating the existence of a pre-inflationary boundary of some sort, possibly singular. I discuss the generalization of the BGV theorem to spacetimes beyond inflation, including inhomogeneous and cyclic models. As an example, I show that the cyclic model proposed by Ijjas and Steinhardt is geodesically incomplete.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

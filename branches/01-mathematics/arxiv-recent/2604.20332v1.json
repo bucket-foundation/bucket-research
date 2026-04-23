@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20332v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20332v1",
+    "title": "On the singularities of differential equations satisfied by $E$-functions",
+    "authors": [
+      "St\u00e9phane Fischler",
+      "Tanguy Rivoal"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $\u03be$ be a value, at an algebraic point, of a Siegel $E$-function. As a special case of a very general interpolation result, we prove that there exists an $E$-function $f$ such that $f(1)=\u03be$, and such that 1 is not a singularity of the minimal differential equation satisfied by $f$. We prove that the same property does not hold at the point $0$, when $\u03be$ is the value at a non-zero algebraic number of the Bessel function. This answers an analogue of a question asked by Yves Andr{\u00e9} for $G$-functions.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

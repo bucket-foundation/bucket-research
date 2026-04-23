@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us6000sqjb",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqjb",
+    "title": "M 6.0 - south of the Kermadec Islands",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 6,
+    "place": "south of the Kermadec Islands",
+    "time": 1776346201088,
+    "coordinates": [
+      -178.0541,
+      -32.2098,
+      10
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

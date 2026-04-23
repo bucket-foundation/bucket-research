@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:36636557",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/36636557/",
+    "title": "Bioelectric Fields at the Beginnings of Life.",
+    "authors": [
+      "Nunn AVW",
+      "Guy GW",
+      "Bell JD"
+    ],
+    "year": "2022",
+    "doi": "10.1089/bioe.2022.0012",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Bioelectricity",
+    "pubdate": "2022 Dec 1"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

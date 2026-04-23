@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20426v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20426v1",
+    "title": "G-birationally rigid cubic threefolds",
+    "authors": [
+      "Ivan Cheltsov",
+      "Igor Krylov",
+      "Sione Ma'u"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We classify pairs $(X,G)$ consisting of a (possibly singular) cubic threefold $X\\subset\\mathbb{P}^4$ and a finite subgroup $G\\subset\\mathrm{Aut}(X)$ such that $X$ is $G$-birationally rigid, i.e., $X$ is a $G$-Mori fiber space (over a point), and $X$ is not $G$-birational to any $G$-Mori fibre space that is not $G$-biregular to $X$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

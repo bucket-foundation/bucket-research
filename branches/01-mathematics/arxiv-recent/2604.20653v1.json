@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20653v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20653v1",
+    "title": "On sums of two squares and a basis of order $2$",
+    "authors": [
+      "Artyom Radomskii"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $\\mathcal{R}$ denote the set of integers $n$ that can be represented as the sum $n = x^2 + y^2$ with $(x,y) = 1$. Let $a$ and $b$ be integers with $a>0$, $a \\nmid b$. We show that for sufficiently large positive integer $N$ there are two strings of consecutive positive integers $I_{1}=\\{n_1-m,\\ldots, n_1+m\\}$ and $I_{2}=\\{n_2-m, \\ldots, n_2+m\\}$ such that $m = [(\\log N) (\\log \\log N)^{1/325525}]$, $I_{1}\\cup I_{2} \\subset [1, N]$, $N = n_1 + n_2$, and for any $n\\in I_{1}\\cup I_{2}$ at least one of $n$ or $an+b$ does not lie in $\\mathcal{R}$. In particular, we have $n(an+b)\\notin \\mathcal{R}$ for all $n\\in I_{1}\\cup I_{2}$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

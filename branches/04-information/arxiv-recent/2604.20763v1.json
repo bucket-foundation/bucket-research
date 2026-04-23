@@ -1,0 +1,27 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20763v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20763v1",
+    "title": "Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation",
+    "authors": [
+      "Andrew Klearman",
+      "Radu Revutchi",
+      "Rohin Garg",
+      "Rishav Chakravarti",
+      "Samuel Marc Denton",
+      "Yuan Xue"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Retrieval quality is the primary bottleneck for accuracy and robustness in retrieval-augmented generation (RAG). Current evaluation relies on heuristically constructed query sets, which introduce a hidden intrinsic bias. We formalize retrieval evaluation as a statistical estimation problem, showing that metric reliability is fundamentally limited by the evaluation-set construction. We further introduce \\emph{semantic stratification}, which grounds evaluation in corpus structure by organizing documents into an interpretable global space of entity-based clusters and systematically generating queries for missing strata. This yields (1) formal semantic coverage guarantees across retrieval regimes and (2) interpretable visibility into retrieval failure modes.\n  Experiments across multiple benchmarks and retrieval methods validate our framework. The results expose systematic coverage gaps, identify structural signals that explain variance in retrieval performance, and show that stratified evaluation yields more stable and transparent assessments while supporting more trustworthy decision-making than aggregate metrics.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

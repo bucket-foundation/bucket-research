@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:30324609",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/30324609/",
+    "title": "Non-REM sleep and the neural correlates of consciousness: more than meets the eyes.",
+    "authors": [
+      "Olcese U"
+    ],
+    "year": "2018",
+    "doi": "10.12871/00039829201835",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Archives italiennes de biologie",
+    "pubdate": "2018 Sep 1"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

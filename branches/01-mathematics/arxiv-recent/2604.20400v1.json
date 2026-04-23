@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20400v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20400v1",
+    "title": "On the Hyperbolic Fractional Sum of the Divisor Function",
+    "authors": [
+      "Ling Li"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $\u03c4(n)$ denote the classical divisor function. In this paper, we consider the hyperbolic fractional sum of the divisor function defined by $$ T(x) = \\sum_{n_1 n_2 \\leqslant x} \u03c4\\left( \\left[ \\frac{x}{n_1 n_2} \\right] \\right) = \\sum_{n \\leqslant x} \u03c4\\left( \\left[ \\frac{x}{n} \\right] \\right) \u03c4(n), $$ where $[t]$ denotes the integral part of the real number $t$. By establishing new estimates for a class of three-dimensional exponential sums with constant perturbation, we obtain an improved asymptotic formula for $T(x)$. In particular, we show that for any $\\varepsilon > 0$, the error term in the asymptotic expansion of $T(x)$ is bounded by $O(x^{17/30+\\varepsilon})$. This result breaks the $4/7$-barrier which corresponds to the application of the classical divisor problem conjecture $1/4+\\varepsilon$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

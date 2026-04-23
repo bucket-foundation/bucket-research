@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "gbif:9797255",
+    "canonical_url": "https://www.gbif.org/species/9797255",
+    "title": "Danio rerio",
+    "provider_url": "https://www.gbif.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "usage_key": 9797255,
+    "scientific_name": "Danio rerio (Hamilton, 1822)",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": null,
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Danio",
+    "rank": "SPECIES",
+    "status": "ACCEPTED"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20114v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20114v1",
+    "title": "Maximally nodal sextic surfaces and linear determinantal representations",
+    "authors": [
+      "Yonghwa Cho"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We prove that every maximally nodal sextic surface\\,(with 65 nodes) $X \\subset \\mathbb{P}_{\\mathbb{C}}^3$ contains a symmetric half-even set of nodes of cardinality 35. It follows that the associated half-quadratic sheaf is the cokernel of a symmetric $6 \\times 6$ matrix of linear forms, yielding a linear determinantal representation of $X$. In particular, after a suitable Serre twist, the half-quadratic sheaf is an Ulrich sheaf of rank 1. As an example, we exhibit an explicit $6 \\times 6$ matrix of linear forms whose determinant defines the Barth sextic surface.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20280v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20280v1",
+    "title": "Ancient 'ghost' planetary nebulae discovered with amateur telescopes",
+    "authors": [
+      "J. A. Manuel",
+      "D. Jones",
+      "M. Santander-Garc\u00eda",
+      "N. Reindl"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "As planetary nebulae evolve, they fade and dissipate into the surrounding interstellar medium making them harder to detect. Modern, advanced amateur equipment can help to uncover this hidden population of ancient 'ghost' planetary nebulae. Via careful processing of long-integration, narrow-band imagery with modest aperture telescopes at a dark-sky site, we reveal three new candidate planetary nebulae (JAM 2, JAM 3 and JAM 4). Each measures several arcminutes across with [O iii] surface brightnesses of order 30 mag arcsec$^{-2}$. For each nebula, we identify a candidate central star, the parallaxes of which lead to nebular age estimates in the range 50-100 thousand years. The candidate central star of JAM 2 also shows indications of photometric variability, potentially due to spots on the stellar surface.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

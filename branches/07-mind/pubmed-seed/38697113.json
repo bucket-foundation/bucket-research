@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:38697113",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/38697113/",
+    "title": "Consciousness and sleep.",
+    "authors": [
+      "Tononi G",
+      "Boly M",
+      "Cirelli C"
+    ],
+    "year": "2024",
+    "doi": "10.1016/j.neuron.2024.04.011",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Neuron",
+    "pubdate": "2024 May 15"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

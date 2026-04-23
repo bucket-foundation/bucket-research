@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:41985410",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/41985410/",
+    "title": "Oxidative stress biomarkers in assisted reproductive technologies: From follicular redox biology to clinical translation.",
+    "authors": [
+      "Lin N",
+      "van Zomeren K",
+      "Plosch T",
+      "Hofsink N",
+      "Zhou X",
+      "Tietge UJF",
+      "Cantineau A",
+      "Schirhagl R",
+      "Hoek A"
+    ],
+    "year": "2026",
+    "doi": "10.1016/j.redox.2026.104167",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Redox biology",
+    "pubdate": "2026 Apr 13"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

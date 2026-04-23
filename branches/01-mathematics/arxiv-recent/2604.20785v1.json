@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20785v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20785v1",
+    "title": "Twisted Alexander Polynomials, Ribbon Homology Cobordisms, and the Thurston Norm",
+    "authors": [
+      "Brian Sun"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $Y_-$ and $Y_+$ be two compact 3-manifolds with empty or toroidal boundary. A 4-dimensional ribbon homology cobordism is a homologically trivial cobordism built with 1-handles and 2-handles. In this note, following the work of Friedl and collaborators, we apply twisted Alexander polynomials to show that if there is a ribbon homology cobordism from $Y_-$ to $Y_+$ with $Y_-$ irreducible, then the unit ball of the Thurston norm of $Y_-$ contains that of $Y_+$. Moreover, we show in general that the fibered classes of $Y_+$ correspond to those of $Y_-$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

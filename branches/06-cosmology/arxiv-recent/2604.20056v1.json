@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20056v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20056v1",
+    "title": "MAUVE-MUSE: Ionization and Kinematic Signatures of Environmental Effects on Virgo Cluster Disks",
+    "authors": [
+      "Toby Brown",
+      "Luca Cortese",
+      "Barbara Catinella",
+      "A. Fraser-McKelvie",
+      "Adam B. Watts",
+      "Amirnezam Amiri",
+      "Alessandro Boselli",
+      "Woorak Choi",
+      "Aeree Chung",
+      "Timothy A. Davis"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We present early science results from the MAUVE (Multiphase Astrophysics to Unveil the Virgo Environment) program which targets 40 Virgo Cluster galaxies to investigate the effect of environment on the interstellar medium (ISM) at ~100 pc scales. From 12 galaxies in the MAUVE-MUSE early sample, we find systematically elevated line ratios compared to PHANGS-MUSE field disks, with higher medians of [N II]/H$\u03b1$ (0.75 vs. 0.50), [S II]/H$\u03b1$ (0.57 vs. 0.49), and [O III]/H$\u03b2$ (1.04 vs. 0.68). Spatially resolved BPT diagrams show 74% of MAUVE-MUSE spaxels ionized by sources other than H II regions, versus 61% in the field, and we find these ionization differences to be closely coupled to broadened kinematics. 44% of MAUVE-MUSE spaxels exceed H$\u03b1$ $\u03c3_{LOS} = 40$ km/s (vs. 26% in the field), driven mainly by non-star-forming gas with $\u03c3_{LOS}$ between 40 and 80 km/s, consistent with enhanced contribution of diffuse ionized gas (DIG). A subdominant tail of 5% of spaxels at $\u03c3_{LOS} > 100$ km/s, largely absent in PHANGS-MUSE (1%), points to shocks or turbulent mixing layers from intracluster interactions. Our results show that environmental quenching primarily suppresses star formation, unveiling DIG as the dominant ionized component in cluster disks. The elevated line ratios and broadened kinematics observed in the MAUVE sample reflect the physical state of the ISM in the absence of vigorous star formation, rather than widespread direct environmental excitation. The observed shock-like emission provides an additional, secondary contribution likely driven by active interactions with the intracluster medium.",
+    "published": "2026-04-21"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

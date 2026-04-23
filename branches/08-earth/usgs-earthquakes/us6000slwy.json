@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us6000slwy",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwy",
+    "title": "M 6.2 - 111 km WNW of Ternate, Indonesia",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 6.2,
+    "place": "111 km WNW of Ternate, Indonesia",
+    "time": 1775100233642,
+    "coordinates": [
+      126.474,
+      1.2031,
+      35
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

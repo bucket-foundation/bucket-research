@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20663v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20663v1",
+    "title": "Towering Gravitons in AdS$_3$/CFT$_2$",
+    "authors": [
+      "Marcel R. R. Hughes",
+      "Kohei Jin",
+      "Daiki Matsumoto",
+      "Leon Miyahara",
+      "Masaki Shigemori"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "BPS states in holographic CFTs are usually classified into supergravitons, namely BPS fluctuations around empty AdS, and black-hole microstates, which appear above an energy threshold. In AdS$_3$/CFT$_2$, however, this picture is incomplete because of additional degrees of freedom, called singletons, associated with boundary diffeomorphisms. We present a general procedure for extending the BPS spectrum of supergravitons by dressing them with singletons, thereby defining a generalized, gravity-sector Hilbert space that admits decomposition into affine multiplets of the full superconformal algebra. This extends the procedure previously proposed in arXiv:2505.14888 which was applicable only at low levels, by removing that limitation. We apply the new procedure to the D1-D5 CFT ${\\rm Sym}^N(T^4)$ and explicitly construct affine multiplets in the gravity sector for the $N=2$ theory up to level $h=2$. We find that, at the free orbifold point, the gravity-sector spectrum agrees with the CFT up to $h=\\frac12$. Upon turning on a deformation, however, states at $h=1$ lift and the agreement improves to $h=\\frac32$. Interestingly, the lifting occurs between states in the gravity sector, involving mixtures of supergravitons and singletons, and stringy states. We conjecture that, upon deformation, the gravity-sector Hilbert space becomes the monotone Hilbert space while its complement becomes the fortuitous Hilbert space.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

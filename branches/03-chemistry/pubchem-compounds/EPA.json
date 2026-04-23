@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:446284",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/446284",
+    "title": "EPA",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 446284,
+    "molecular_formula": "C20H30O2",
+    "molecular_weight": "302.5",
+    "iupac_name": "(5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoic acid",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

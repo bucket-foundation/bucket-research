@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:19504573",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/19504573/",
+    "title": "ER stress response, peroxisome proliferation, mitochondrial unfolded protein response and Golgi stress response.",
+    "authors": [
+      "Yoshida H"
+    ],
+    "year": "2009",
+    "doi": "10.1002/iub.229",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "IUBMB life",
+    "pubdate": "2009 Sep"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20810v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20810v1",
+    "title": "DNA storage approaching the information-theoretic ceiling",
+    "authors": [
+      "James L. Banal"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Synthetic DNA approaches 227.5 exabytes per gram of storage density with stability over millennial timescales. Realising this capacity requires error-correction codes that recover data from substantial synthesis and sequencing errors. Existing codecs convert noisy sequencer output into discrete base calls before error correction, discarding probabilistic information about which positions are reliable. Here we present a coding scheme that retains the sequencer's per-position posterior distributions through an integrated decoder of profile hidden Markov model alignment, log-product fusion across reads, and ordered-statistics decoding. On the DT4DDS channel simulator, the codec recovers 155.8 and 25.9 exabytes per gram of dsDNA under high- and low-fidelity conditions, exceeding the highest prior-art density on each channel by 11 and 52 percent. Under a single-encode-then-degrade protocol mapped to depurination kinetics at 25 \u00b0C in the dry state, the codec projects 282 years of decodable storage at 17.1 exabytes per gram. These results place DNA storage density within reach of the Shannon bound of the underlying channel.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

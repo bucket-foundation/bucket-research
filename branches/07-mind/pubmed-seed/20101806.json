@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:20101806",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/20101806/",
+    "title": "Neural correlates of consciousness.",
+    "authors": [
+      "Negrao BL",
+      "Viljoen M"
+    ],
+    "year": "2009",
+    "doi": "10.4314/ajpsy.v12i4.49040",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "African journal of psychiatry",
+    "pubdate": "2009 Nov"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

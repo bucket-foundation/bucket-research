@@ -1,0 +1,28 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:31749675",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/31749675/",
+    "title": "The Neural Correlates of Consciousness and Attention: Two Sister Processes of the Brain.",
+    "authors": [
+      "Nani A",
+      "Manuello J",
+      "Mancuso L",
+      "Liloia D",
+      "Costa T",
+      "Cauda F"
+    ],
+    "year": "2019",
+    "doi": "10.3389/fnins.2019.01169",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Frontiers in neuroscience",
+    "pubdate": "2019"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

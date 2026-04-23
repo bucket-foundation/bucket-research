@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:35271856",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/35271856/",
+    "title": "The neural hierarchy of consciousness: A theoretical model and review on neurophysiology and NCCs.",
+    "authors": [
+      "Almeida VN"
+    ],
+    "year": "2022",
+    "doi": "10.1016/j.neuropsychologia.2022.108202",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Neuropsychologia",
+    "pubdate": "2022 May 3"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

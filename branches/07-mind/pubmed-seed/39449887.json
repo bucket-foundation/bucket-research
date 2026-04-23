@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:39449887",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/39449887/",
+    "title": "Understanding Digital Dementia and Cognitive Impact in the Current Era of the Internet: A Review.",
+    "authors": [
+      "Ali Z",
+      "Janarthanan J",
+      "Mohan P"
+    ],
+    "year": "2024",
+    "doi": "10.7759/cureus.70029",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Cureus",
+    "pubdate": "2024 Sep"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

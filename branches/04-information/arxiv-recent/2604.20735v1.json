@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20735v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20735v1",
+    "title": "Fast Bayesian equipment condition monitoring via simulation based inference: applications to heat exchanger health",
+    "authors": [
+      "Peter Collett",
+      "Alexander Johannes Stasik",
+      "Simone Casolo",
+      "Signe Riemer-S\u00f8rensen"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Accurate condition monitoring of industrial equipment requires inferring latent degradation parameters from indirect sensor measurements under uncertainty. While traditional Bayesian methods like Markov Chain Monte Carlo (MCMC) provide rigorous uncertainty quantification, their heavy computational bottlenecks render them impractical for real-time process control. To overcome this limitation, we propose an AI-driven framework utilizing Simulation-Based Inference (SBI) powered by amortized neural posterior estimation to diagnose complex failure modes in heat exchangers. By training neural density estimators on a simulated dataset, our approach learns a direct, likelihood-free mapping from thermal-fluid observations to the full posterior distribution of degradation parameters. We benchmark this framework against an MCMC baseline across various synthetic fouling and leakage scenarios, including challenging low-probability, sparse-event failures. The results show that SBI achieves comparable diagnostic accuracy and reliable uncertainty quantification, while accelerating inference time by a factor of82$\\times$ compared to traditional sampling. The amortized nature of the neural network enables near-instantaneous inference, establishing SBI as a highly scalable, real-time alternative for probabilistic fault diagnosis and digital twin realization in complex engineering systems.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

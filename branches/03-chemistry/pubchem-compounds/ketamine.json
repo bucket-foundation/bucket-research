@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:3821",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/3821",
+    "title": "ketamine",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 3821,
+    "molecular_formula": "C13H16ClNO",
+    "molecular_weight": "237.72",
+    "iupac_name": "2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

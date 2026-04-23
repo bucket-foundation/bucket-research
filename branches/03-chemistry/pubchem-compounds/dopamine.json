@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:681",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/681",
+    "title": "dopamine",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 681,
+    "molecular_formula": "C8H11NO2",
+    "molecular_weight": "153.18",
+    "iupac_name": "4-(2-aminoethyl)benzene-1,2-diol",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

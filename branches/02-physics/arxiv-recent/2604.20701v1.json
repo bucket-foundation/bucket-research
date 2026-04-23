@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20701v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20701v1",
+    "title": "Divide-and-Conquer Neural Network Surrogates for Quantum Sampling: Accelerating Markov Chain Monte Carlo in Large-Scale Constrained Optimization Problems",
+    "authors": [
+      "Yuya Kawamata",
+      "Yuichiro Nakano",
+      "Keisuke Fujii"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Sampling problems are promising candidates for demonstrating quantum advantage, and one approach known as quantum-enhanced Markov chain Monte Carlo [Layden, D. et al., Nature 619, 282-287 (2023)] uses quantum samples as a proposal distribution to accelerate convergence to a target distribution. On the other hand, many practical problems are large-scale and constrained, making it difficult to construct efficient proposal distributions in classical methods and slowing down MCMC mixing. In this work, we propose a divide-and-conquer neural network surrogate framework for quantum sampling to accelerate MCMC under fixed Hamming weight constraints. Our method divides the interaction graph for an Ising problem into subgraphs, generates samples using QAOA for those subproblems with an XY mixer, and trains neural network surrogates conditioned on the Hamming weight to provide proposal distributions for each subset while preserving the constraint. In numerical experiments of Boltzmann sampling on 3-regular graphs, our method consistently accelerated mixing as the system size $N$ increased, with average improvements in the autocorrelation decay rate constant by speedup factors of about $20.3$ and $7.6$ over classical pair-flip methods based on nearest-neighbor and non-nearest-neighbor exchanges, respectively. We also applied the method to an MNIST feature mask optimization problem with $N=784$, obtaining faster energy convergence and a $2.03\\%$ higher classification accuracy. These results show that our method enables efficient and scalable MCMC and can outperform classical methods for practical applications on NISQ devices.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

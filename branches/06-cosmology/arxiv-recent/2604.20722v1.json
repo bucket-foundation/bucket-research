@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20722v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20722v1",
+    "title": "Photometric Identification of Unresolved Binary Stars in Nearby Open Star Clusters",
+    "authors": [
+      "Varvara O. Mikhnevich",
+      "Anastasiia Plotnikova",
+      "Giovanni Carraro",
+      "Anton F. Seleznev"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "This paper introduces a new method to search for unresolved binary stars in open star clusters. The work aims at improving the approach introduced previously, which employs the (H-W2)-W1 versus W2-(BP-K) photometric diagram. This diagram, in tandem with the Gaia Color Magnitude Diagram (CMD) and using theoretical isochrones as reference sequences, is used to estimate the binary star fraction and the distribution of the component mass ratio $q$ in eight nearby open star clusters, including Pleiades, Alpha Per, and Praesepe, which we investigated in previous studies. In this study, to alleviate the uncertainties associated with the use of theoretical isochrones, we propose an empirical isochrones approach. We show that this is an effective approach to exploring a wider primary-mass interval, in particular for the region of low-mass sources.\n  Box-and-whisker plots are used to present the distribution of the component mass ratio $q$. The mode of distribution turns out to be in the range $0.43-0.83$ and $0.38-0.63$ for Gaia and infrared-visible photometry, respectively. In addition, we update the algorithm to obtain the binary fraction, whose estimate lies in the range $0.16 - 0.36$ and $0.21 - 0.44$, depending on the adopted method, and show that in previous studies the binary fraction was overestimated. We do not find evidence that the variable spatial resolution of the employed catalogs (Gaia, 2MASS, and WISE) affects the precision of the binary fraction estimate.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

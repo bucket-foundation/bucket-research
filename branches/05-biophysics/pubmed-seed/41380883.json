@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:41380883",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/41380883/",
+    "title": "The curious life of human mitochondrial SOD2.",
+    "authors": [
+      "Dasgupta M",
+      "Graham ML",
+      "Borgstahl GEO"
+    ],
+    "year": "2026",
+    "doi": "10.1016/j.ijbiomac.2025.149592",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "International journal of biological macromolecules",
+    "pubdate": "2026 Jan"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

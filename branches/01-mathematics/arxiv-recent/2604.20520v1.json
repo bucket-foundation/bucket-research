@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20520v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20520v1",
+    "title": "Non-vanishing of the $p$-adic constant for mock modular forms associated to a newform with real Fourier coefficients",
+    "authors": [
+      "Ryota Tajima"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $F^{+}$ be a mock modular form associated to a normalized newform $g$. K. Bringmann et. al. obtained a $p$-adic modular form starting from $F^{+}$ by adding a suitable linear combination of Eichler integrals of $g(q)$ and $g(q^{p})$. We denote the coefficients of the Eichler integrals of $g(q)$ and $g(q^{p})$ by $\u03b3_{g}$ and $\u03b4_{g}$. These constants are important in the $p$-adic theory of mock modular forms, but relatively little is known about them at present. For instance, K. Bringmann et. al. raised the question of whether $\u03b4_{g}$ vanishes when $g$ has CM by an imaginary quadratic field in which $p$ is inert. In previous work, the non-vanishing of $\u03b4_{g}$ has been proved mainly when $g$ is associated to an elliptic curve. In higher weight, only one example was known for which $\u03b4_{g}\\neq 0$. In this paper, we show that $\u03b4_{g}\\neq 0$ under mild assumptions when all the Fourier coefficients of $g \\in S_{k}(\u0393_{0}(N), \u03c7)$ are real, without assuming that $g$ has CM. In particular, this provides a class of higher-weight examples for which $\u03b4_{g}\\neq 0$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

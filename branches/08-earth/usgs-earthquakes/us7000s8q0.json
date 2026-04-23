@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us7000s8q0",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8q0",
+    "title": "M 7.3 - 48 km ENE of Luganville, Vanuatu",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 7.3,
+    "place": "48 km ENE of Luganville, Vanuatu",
+    "time": 1774860253823,
+    "coordinates": [
+      167.5616,
+      -15.3139,
+      121.28
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

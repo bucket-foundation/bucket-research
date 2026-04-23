@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us6000sri7",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7",
+    "title": "M 7.4 - 100 km ENE of Miyako, Japan",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 7.4,
+    "place": "100 km ENE of Miyako, Japan",
+    "time": 1776671580185,
+    "coordinates": [
+      143.0462,
+      39.9532,
+      35
+    ],
+    "tsunami": 1
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

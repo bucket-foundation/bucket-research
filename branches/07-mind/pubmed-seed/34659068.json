@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:34659068",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/34659068/",
+    "title": "The Neural Correlates of Access Consciousness and Phenomenal Consciousness Seem to Coincide and Would Correspond to a Memory Center, an Activation Center and Eight Parallel Convergence Centers.",
+    "authors": [
+      "Frigato G"
+    ],
+    "year": "2021",
+    "doi": "10.3389/fpsyg.2021.749610",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Frontiers in psychology",
+    "pubdate": "2021"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

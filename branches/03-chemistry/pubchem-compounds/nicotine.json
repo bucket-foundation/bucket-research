@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:89594",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/89594",
+    "title": "nicotine",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 89594,
+    "molecular_formula": "C10H14N2",
+    "molecular_weight": "162.23",
+    "iupac_name": "3-[(2S)-1-methylpyrrolidin-2-yl]pyridine",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

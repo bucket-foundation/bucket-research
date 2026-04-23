@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20264v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20264v1",
+    "title": "Asymptotically Z-stable bundles over projective surfaces",
+    "authors": [
+      "Luiz Lara",
+      "Henrique N. S\u00e1 Earp"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We study the existence of asymptotically $Z$-stable (a.Z stable) bundles over polycyclic surfaces. Our choice of polynomial central charge is related to the existence of solutions of the deformed Hermitian--Yang--Mills equations, with vanishing $B$-field, in the large-volume limit. The main result is a technique to construct rank $3$, strictly a.Z-stable bundles as extensions of a line bundle by a $\u03bc$-stable bundle of rank $2$. In particular, this leads to new examples of strictly a.Z-stable bundles over $\\mathbb{P}^2$, the product $\\mathbb{P}^1\\times \\mathbb{P}^1$, and the blow-up $\\mathrm{Bl}_q\\mathbb{P}^2$. We also present an analogue of the Hoppe criterion for the a.Z-stability of vector bundles of rank $2$, which may be of independent interest.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

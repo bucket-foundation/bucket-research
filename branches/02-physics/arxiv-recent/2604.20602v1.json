@@ -1,0 +1,22 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20602v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20602v1",
+    "title": "Bound, antibound and resonance two-photon states in chiral waveguide QED",
+    "authors": [
+      "Alexander Poddubny"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "We present a theoretical study of the two-particle spectrum $\u03c9(K)$ for the chiral waveguide QED setup of an array of two-level atoms directionally interacting with photons propagating along the waveguide. We demonstrate that for each pair center-of-mass momentum $K$ there exist distinct solutions with $\\Im\u03c9\\le 0$ in the two-particle spectrum, corresponding to bound, antibound and resonance states, in addition to the continuum of scattering states. Contrary to previous studies, which showed the bound and resonance-state spectra only over a limited range of $K$, the calculated spectrum is consistent across all $K$ values. An interesting finding is that the real part of the spectrum $\\Re \u03c9(K)$ in the chiral model is gapless.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

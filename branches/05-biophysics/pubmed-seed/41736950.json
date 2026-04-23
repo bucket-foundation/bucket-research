@@ -1,0 +1,28 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:41736950",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/41736950/",
+    "title": "Enzymes that generate and regulate intracellular persulfides and polysulfides: mechanistic insights and inhibitors.",
+    "authors": [
+      "Hirabayashi K",
+      "Sasaki E",
+      "Ohno H",
+      "Takayama O",
+      "Yamada S",
+      "Hanaoka K"
+    ],
+    "year": "2026",
+    "doi": "10.3389/fphys.2026.1764165",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Frontiers in physiology",
+    "pubdate": "2026"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

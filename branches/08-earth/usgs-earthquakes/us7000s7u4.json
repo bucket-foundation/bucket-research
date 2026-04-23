@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us7000s7u4",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7u4",
+    "title": "M 6.5 - 123 km E of Yamada, Japan",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 6.5,
+    "place": "123 km E of Yamada, Japan",
+    "time": 1774534731927,
+    "coordinates": [
+      143.3826,
+      39.4377,
+      16
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

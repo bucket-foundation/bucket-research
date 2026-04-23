@@ -1,0 +1,32 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:34051246",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/34051246/",
+    "title": "Neural correlates of consciousness and related disorders: From phenotypic descriptors of behavioral and relative consciousness to cortico-subcortical circuitry.",
+    "authors": [
+      "Lemaire JJ",
+      "Pontier B",
+      "Chaix R",
+      "El Ouadih Y",
+      "Khalil T",
+      "Sinardet D",
+      "Achim V",
+      "Postelnicu A",
+      "Coste J",
+      "Germain V"
+    ],
+    "year": "2022",
+    "doi": "10.1016/j.neuchi.2021.05.003",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Neuro-Chirurgie",
+    "pubdate": "2022 Feb"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us6000smj4",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smj4",
+    "title": "M 6.0 - 95 km SE of Sarangani, Philippines",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 6,
+    "place": "95 km SE of Sarangani, Philippines",
+    "time": 1775298868266,
+    "coordinates": [
+      126.1392,
+      4.8733,
+      67
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

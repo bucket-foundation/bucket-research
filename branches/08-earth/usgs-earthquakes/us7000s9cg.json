@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "usgs:us7000s9cg",
+    "canonical_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9cg",
+    "title": "M 6.0 - 18 km SE of Picota, Peru",
+    "provider_url": "https://earthquake.usgs.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "magnitude": 6,
+    "place": "18 km SE of Picota, Peru",
+    "time": 1775042427357,
+    "coordinates": [
+      -76.1931,
+      -7.0198,
+      126
+    ],
+    "tsunami": 0
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

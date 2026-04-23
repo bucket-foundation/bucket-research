@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:31173773",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/31173773/",
+    "title": "Toward a theory of consciousness: A review of the neural correlates of inattentional blindness.",
+    "authors": [
+      "Hutchinson BT"
+    ],
+    "year": "2019",
+    "doi": "10.1016/j.neubiorev.2019.06.003",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Neuroscience and biobehavioral reviews",
+    "pubdate": "2019 Sep"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

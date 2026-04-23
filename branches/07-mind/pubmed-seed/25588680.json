@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:25588680",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/25588680/",
+    "title": "Neural correlates of consciousness: what we know and what we have to learn!",
+    "authors": [
+      "Calabr\u00f2 RS",
+      "Cacciola A",
+      "Bramanti P",
+      "Milardi D"
+    ],
+    "year": "2015",
+    "doi": "10.1007/s10072-015-2072-x",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+    "pubdate": "2015 Apr"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

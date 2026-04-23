@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20775v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20775v1",
+    "title": "Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference",
+    "authors": [
+      "Chao Wang",
+      "Luca Nepote",
+      "Giulio Franzese",
+      "Pietro Michiardi"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Trajectory Inference (TI) seeks to recover latent dynamical processes from snapshot data, where only independent samples from time-indexed marginals are observed. In applications such as single-cell genomics, destructive measurements make path-space laws non-identifiable from finitely many marginals, leaving held-out marginal prediction as the dominant but limited evaluation protocol. We introduce a general framework for estimating the Kullback-Leibler divergence (KL) divergence between probability measures on function space, yielding a tractable, data-driven estimator that is scalable to realistic snapshot datasets. We validate the accuracy of our estimator on a benchmark suite, where the estimated functional KL closely matches the analytic KL. Applying this framework to synthetic and real scRNA-seq datasets, we show that current evaluation metrics often give inconsistent assessments, whereas path-space KL enables a coherent comparison of trajectory inference methods and exposes discrepancies in inferred dynamics, especially in regions with sparse or missing data. These results support functional KL as a principled criterion for evaluating trajectory inference under partial observability.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

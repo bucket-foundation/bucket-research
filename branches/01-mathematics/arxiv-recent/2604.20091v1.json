@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20091v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20091v1",
+    "title": "Minimal $a$-numbers of Artin--Schreier covers of ordinary curves",
+    "authors": [
+      "Bryden Cais",
+      "Douglas Ulmer"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $k$ be a perfect field of characteristic $p>0$, and let $d$ be a positive integer not divisible by $p$. We define a non-empty Zariski open subset $U$ of the space of polynomials of degree $d$, and for $f(x)\\in U(k)$, we compute the $a$-number of the curve defined by $y^p-y=f(x)$. This $a$-number realizes a lower bound given by Booher and Cais, so the latter is tight. Our result also implies that the bound of Booher and Cais for minimal $a$-numbers of Artin-Schreier covers of ordinary curves is tight.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

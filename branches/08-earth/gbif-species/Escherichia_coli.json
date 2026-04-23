@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "gbif:11286021",
+    "canonical_url": "https://www.gbif.org/species/11286021",
+    "title": "Escherichia coli",
+    "provider_url": "https://www.gbif.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "usage_key": 11286021,
+    "scientific_name": "Escherichia coli E",
+    "kingdom": "Bacteria",
+    "phylum": "Proteobacteria",
+    "class": "Gammaproteobacteria",
+    "order": "Enterobacterales",
+    "family": "Enterobacteriaceae",
+    "genus": "Escherichia",
+    "rank": "SPECIES",
+    "status": "ACCEPTED"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

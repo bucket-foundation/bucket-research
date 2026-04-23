@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20427v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20427v1",
+    "title": "On G-birational rigidity of projective spaces",
+    "authors": [
+      "Ivan Cheltsov",
+      "Frederic Mangolte",
+      "Constantin Shramov"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "In this paper, we study finite subgroups $G\\subset\\mathrm{Aut}(\\mathbb{P}^n)$ such that $\\mathbb{P}^n$ is $G$-birationally rigid. For each $n\\geqslant 3$, we prove that $\\mathrm{Aut}(\\mathbb{P}^n)$ contains at most finitely many such subgroups up to conjugation. For $n=4$, we prove that $\\mathbb{P}^4$ is $G$-birationally superrigid if $G\\simeq\\mathrm{PSp}_{4}(\\mathbf{F}_3)$.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

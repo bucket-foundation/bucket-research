@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20672v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20672v1",
+    "title": "Attosecond Nonlinear Quantum Electrodynamics in Laser-Driven Plasmas via Two-Photon Synchrotron Emission",
+    "authors": [
+      "Vedin Dewan",
+      "Aleksei M. Zheltikov",
+      "Julia M. Mikhailova"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Ultrafast strong-field laser--plasma physics is shown to offer a promising framework for relativistic nonlinear quantum electrodynamics (QED). As one of its key advantages, this approach to relativistic nonlinear QED does not require an external beam of relativistic particles. Instead, high-energy electrons are produced in this setting as a part of ultrafast strong-field laser--plasma interactions. An intense ultrashort laser pulse generates and accelerates dense electron bunches to relativistic energies, giving rise to photon-pair emission confined to the nanometer scale in space and the attosecond scale in time. As a lowest-order nonlinear QED process, relativistic electrons in laser-driven plasmas are shown to give rise to attosecond bursts of two-photon emission, providing an ultrabroadband source of correlated photon pairs. As a physically insightful estimate, the rate of this two-photon emission is expressed via a product $ \u03b1^2 \u03b3\u03c9_{turn}$, where $\u03b1$ is the fine-structure constant, $\u03b3$ is the Lorentz factor, and $ \u03c9_{turn}$ is the local relativistic curvature frequency. Photon pairs with strongest correlations, providing a resource for photon entanglement, are emitted at a much lower rate, estimated as $ \u03b1^2 \u03b3^2 \u03c9_{turn} E_{\\perp} /E_S$, where $E_{\\perp}$ is the laser electromagnetic field, determining the transverse Lorentz force, and $E_S$ is the Schwinger critical field. Our study offers a clear guidance on how quantum aspects of laser-driven relativistic plasma electrodynamics can be isolated from their classical counterparts, enabling a physically justifiable approach to the analysis of nonlinear QED phenomena in complex laser--plasma interactions driven by ultrashort high-intensity laser pulses.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

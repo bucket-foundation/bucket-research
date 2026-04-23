@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20005v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20005v1",
+    "title": "$F$-finite schemes have a dualizing complex",
+    "authors": [
+      "Bhargav Bhatt",
+      "Manuel Blickle",
+      "Karl Schwede",
+      "Kevin Tucker"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "In this paper we show that any Noetherian $F$-finite scheme has a dualizing complex $\u03c9^{\\bullet}_{X}$ with the property that for all finite type maps $f \\colon X \\to Y$ between $F$-finite Noetherian schemes there is a canonical isomorphism $\u03c9^{\\bullet}_{X} \\xrightarrow{\\cong} f^!\u03c9^{\\bullet}_{Y}$ in $D^b_{coh}(X)$. This, in particular, applies to the Frobenius morphism $F \\colon X \\to X$ so that we obtain a canonical isomorphism $\u03c9^{\\bullet}_{X} \\xrightarrow{\\cong} F^!\u03c9^{\\bullet}_{X}$.\n  To prove this, we rely on a result of Gabber that every Noetherian $F$-finite ring is a quotient of a regular ring, from which it follows that every $F$-finite Noetherian scheme has a (potentially non-canonical) dualizing complex. To make this canonical, we identify the dualizing complex of any $F$-finite Noetherian scheme as a unit of an alternate symmetric monoidal structure on $D^b_{coh}(X)$ we call the $!$-tensor product. We also sketch an alternate approach to finding this canonical dualizing complex following the more classical approach to Grothendieck duality.",
+    "published": "2026-04-21"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

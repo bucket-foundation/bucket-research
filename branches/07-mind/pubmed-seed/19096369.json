@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:19096369",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/19096369/",
+    "title": "How do you feel--now? The anterior insula and human awareness.",
+    "authors": [
+      "Craig AD"
+    ],
+    "year": "2009",
+    "doi": "10.1038/nrn2555",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Nature reviews. Neuroscience",
+    "pubdate": "2009 Jan"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

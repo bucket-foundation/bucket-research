@@ -1,0 +1,23 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:11408323",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/11408323/",
+    "title": "Consciousness.",
+    "authors": [
+      "Zeman A"
+    ],
+    "year": "2001",
+    "doi": "10.1093/brain/124.7.1263",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Brain : a journal of neurology",
+    "pubdate": "2001 Jul"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

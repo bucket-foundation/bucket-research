@@ -1,0 +1,21 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubchem:3028194",
+    "canonical_url": "https://pubchem.ncbi.nlm.nih.gov/compound/3028194",
+    "title": "lithium",
+    "provider_url": "https://pubchem.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "cid": 3028194,
+    "molecular_formula": "Li",
+    "molecular_weight": "7.0",
+    "iupac_name": "lithium",
+    "canonical_smiles": null
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "pubmed:35240243",
+    "canonical_url": "https://pubmed.ncbi.nlm.nih.gov/35240243/",
+    "title": "Natural computation and its limits: Efim Liberman at the dawn of a new science.",
+    "authors": [
+      "Shklovskiy-Kordi NE",
+      "Igamberdiev AU"
+    ],
+    "year": "2022",
+    "doi": "10.1016/j.biosystems.2022.104653",
+    "provider_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "license": "public-domain"
+  },
+  "data": {
+    "journal": "Bio Systems",
+    "pubdate": "2022 Jun"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}

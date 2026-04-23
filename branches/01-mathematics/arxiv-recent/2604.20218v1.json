@@ -1,0 +1,24 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "arxiv:2604.20218v1",
+    "canonical_url": "http://arxiv.org/abs/2604.20218v1",
+    "title": "On the $I(1)$-invariants: Non-abelian Hecke algebra case",
+    "authors": [
+      "Anand Chitrao",
+      "Arindam Jana",
+      "Asfak Soneji"
+    ],
+    "year": "2026",
+    "provider_url": "https://arxiv.org/",
+    "license": "arXiv-nonexclusive"
+  },
+  "data": {
+    "abstract": "Let $F$ be a finite extension of $\\mathbb{Q}_p$. The so-called supersingular representations are the basic building blocks in the theory of mod $p$ representations of ${\\rm GL}_2(F)$. The space of pro-$p$-Iwahori invariants of a universal module played a crucial role in the construction of the supersingular representations of ${\\rm GL}_2(\\mathbb{Q}_p)$. In this paper, we give an explicit description of the pro-$p$-Iwahori invariants of the universal module $\u03c0_r$ for $r = 0, q - 1$ using the Iwahori-Hecke model. We also determine the action of the pro-$p$-Iwahori-Hecke algebra on these newly found invariants. As an application, we recover $\u03c0_r$ functorially from its space of $I(1)$-invariants and extend a theorem of Ollivier for any totally ramified extension of $\\mathbb{Q}_p$ other than itself.",
+    "published": "2026-04-22"
+  },
+  "receipt": {
+    "tier": "seed",
+    "fetched_at": "2026-04-23T03:12:25Z"
+  }
+}
