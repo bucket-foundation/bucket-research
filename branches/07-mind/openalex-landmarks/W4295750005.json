@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4295750005",
+    "canonical_url": "https://openalex.org/W4295750005",
+    "title": "The organization of the human cerebral cortex estimated by intrinsic functional connectivity",
+    "authors": [
+      "B.T. Thomas Yeo",
+      "Fenna M. Krienen",
+      "Jorge Sepulcre",
+      "Mert R. Sabuncu",
+      "Danial Lashkari",
+      "Marisa O. Hollinshead",
+      "Joshua L. Roffman",
+      "Jordan W. Smoller",
+      "Lilla Z\u00f6llei",
+      "Jon\u0308athan R. Polimeni"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1152/jn.00338.2011",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 9590,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C169760540",
+        "name": "Neuroscience",
+        "score": 0.7555232048034668
+      },
+      {
+        "id": "https://openalex.org/C94487597",
+        "name": "Sensory system",
+        "score": 0.6206983923912048
+      },
+      {
+        "id": "https://openalex.org/C2780368226",
+        "name": "Frontal eye fields",
+        "score": 0.5050166249275208
+      },
+      {
+        "id": "https://openalex.org/C6757342",
+        "name": "Posterior parietal cortex",
+        "score": 0.5044411420822144
+      },
+      {
+        "id": "https://openalex.org/C3018011982",
+        "name": "Functional connectivity",
+        "score": 0.47101864218711853
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://doi.org/10.1152/jn.00338.2011",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

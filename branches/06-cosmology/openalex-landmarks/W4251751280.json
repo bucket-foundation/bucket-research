@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4251751280",
+    "canonical_url": "https://openalex.org/W4251751280",
+    "title": "MEGA11: Molecular Evolutionary Genetics Analysis Version 11",
+    "authors": [
+      "Koichiro Tamura",
+      "Glen Stecher",
+      "Sudhir Kumar"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1093/molbev/msab120",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 21252,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.5286983251571655
+      },
+      {
+        "id": "https://openalex.org/C140779682",
+        "name": "Sampling (signal processing)",
+        "score": 0.4835231304168701
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.4766945540904999
+      },
+      {
+        "id": "https://openalex.org/C37789001",
+        "name": "Graphical user interface",
+        "score": 0.47235047817230225
+      },
+      {
+        "id": "https://openalex.org/C62611344",
+        "name": "Node (physics)",
+        "score": 0.45716392993927
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://academic.oup.com/mbe/article-pdf/38/7/3022/38827102/msab120.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

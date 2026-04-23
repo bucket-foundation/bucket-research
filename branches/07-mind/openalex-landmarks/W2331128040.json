@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2331128040",
+    "canonical_url": "https://openalex.org/W2331128040",
+    "title": "Perceptual Losses for Real-Time Style Transfer and Super-Resolution",
+    "authors": [
+      "Justin Johnson",
+      "Alexandre Alahi",
+      "Li Fei-Fei"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1007/978-3-319-46475-6_43",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 9925,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.8374624252319336
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.6507644653320312
+      },
+      {
+        "id": "https://openalex.org/C81363708",
+        "name": "Convolutional neural network",
+        "score": 0.6175628900527954
+      },
+      {
+        "id": "https://openalex.org/C115961682",
+        "name": "Image (mathematics)",
+        "score": 0.5739848613739014
+      },
+      {
+        "id": "https://openalex.org/C160633673",
+        "name": "Pixel",
+        "score": 0.5320680141448975
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "http://infoscience.epfl.ch/record/230259",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2134967712",
+    "canonical_url": "https://openalex.org/W2134967712",
+    "title": "AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading",
+    "authors": [
+      "Oleg Trott",
+      "Arthur J. Olson"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/jcc.21334",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 36043,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780152424",
+        "name": "AutoDock",
+        "score": 0.9046612977981567
+      },
+      {
+        "id": "https://openalex.org/C201410400",
+        "name": "Multithreading",
+        "score": 0.8171991109848022
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.758578896522522
+      },
+      {
+        "id": "https://openalex.org/C173608175",
+        "name": "Parallel computing",
+        "score": 0.6117604970932007
+      },
+      {
+        "id": "https://openalex.org/C187691185",
+        "name": "Grid",
+        "score": 0.5036661028862
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.21334",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

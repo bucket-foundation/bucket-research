@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2046752514",
+    "canonical_url": "https://openalex.org/W2046752514",
+    "title": "Consumer Perceptions of Price, Quality, and Value: A Means-End Model and Synthesis of Evidence",
+    "authors": [
+      "Valarie A. Zeithaml"
+    ],
+    "year": 1988,
+    "doi": "https://doi.org/10.2307/1251446",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12720,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776291640",
+        "name": "Value (mathematics)",
+        "score": 0.7017533779144287
+      },
+      {
+        "id": "https://openalex.org/C2779530757",
+        "name": "Quality (philosophy)",
+        "score": 0.6419177055358887
+      },
+      {
+        "id": "https://openalex.org/C26760741",
+        "name": "Perception",
+        "score": 0.6180596351623535
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "name": "Marketing",
+        "score": 0.5727412104606628
+      },
+      {
+        "id": "https://openalex.org/C13606891",
+        "name": "Conceptual model",
+        "score": 0.5633516907691956
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://repositorio.unal.edu.co/handle/unal/80431",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

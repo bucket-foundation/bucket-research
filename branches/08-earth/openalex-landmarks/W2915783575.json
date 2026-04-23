@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2915783575",
+    "canonical_url": "https://openalex.org/W2915783575",
+    "title": "A Description of the Advanced Research WRF Version 3",
+    "authors": [
+      "C. Skamarock",
+      "B. Klemp",
+      "Jimy Dudhia",
+      "Gill, David",
+      "Dale Barker",
+      "Wei Wang",
+      "Xiang\u2010Yu Huang",
+      "Duda, Michael"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.5065/d68s4mvh",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 9387,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.4413858950138092
+      },
+      {
+        "id": "https://openalex.org/C153294291",
+        "name": "Meteorology",
+        "score": 0.36737823486328125
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.3374169170856476
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "name": "Geography",
+        "score": 0.2491297423839569
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doi.org/10.5065/d68s4mvh",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

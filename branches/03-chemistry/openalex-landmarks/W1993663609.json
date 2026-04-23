@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1993663609",
+    "canonical_url": "https://openalex.org/W1993663609",
+    "title": "The iron cage revisited institutional isomorphism and collective rationality in organizational fields",
+    "authors": [
+      "Paul DiMaggio",
+      "Walter W. Powell"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1016/s0742-3322(00)17011-1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 25969,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C52438962",
+        "name": "Rationalization (economics)",
+        "score": 0.817317008972168
+      },
+      {
+        "id": "https://openalex.org/C2780522230",
+        "name": "Ambiguity",
+        "score": 0.7525370121002197
+      },
+      {
+        "id": "https://openalex.org/C44725695",
+        "name": "Normative",
+        "score": 0.6920415163040161
+      },
+      {
+        "id": "https://openalex.org/C51575053",
+        "name": "Bureaucracy",
+        "score": 0.6704528331756592
+      },
+      {
+        "id": "https://openalex.org/C2778804568",
+        "name": "Organizational field",
+        "score": 0.6290954947471619
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://bibliotecadigital.fgv.br/ojs/index.php/rae/article/view/37123",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

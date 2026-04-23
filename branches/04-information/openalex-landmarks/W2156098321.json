@@ -1,0 +1,61 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2156098321",
+    "canonical_url": "https://openalex.org/W2156098321",
+    "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+    "authors": [
+      "David Moher",
+      "A. Liberati",
+      "Jennifer Tetzlaff",
+      "Douglas G. Altman",
+      "for the PRISMA Group"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1136/bmj.b2535",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 82997,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C189708586",
+        "name": "Systematic review",
+        "score": 0.7104284167289734
+      },
+      {
+        "id": "https://openalex.org/C2777026412",
+        "name": "Statement (logic)",
+        "score": 0.6835535764694214
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.535333514213562
+      },
+      {
+        "id": "https://openalex.org/C23123220",
+        "name": "Information retrieval",
+        "score": 0.4949745535850525
+      },
+      {
+        "id": "https://openalex.org/C2522767166",
+        "name": "Data science",
+        "score": 0.4716935455799103
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.bmj.com/content/bmj/339/bmj.b2535.full.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

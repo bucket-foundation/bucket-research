@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2132454074",
+    "canonical_url": "https://openalex.org/W2132454074",
+    "title": "<i>SHELXT</i>\u2013 Integrated space-group and crystal-structure determination",
+    "authors": [
+      "George M. Sheldrick"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1107/s2053273314026370",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 27958,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781311116",
+        "name": "Group (periodic table)",
+        "score": 0.693602442741394
+      },
+      {
+        "id": "https://openalex.org/C2778572836",
+        "name": "Space (punctuation)",
+        "score": 0.6718230247497559
+      },
+      {
+        "id": "https://openalex.org/C176932811",
+        "name": "Space group",
+        "score": 0.5206865072250366
+      },
+      {
+        "id": "https://openalex.org/C115624301",
+        "name": "Crystal structure",
+        "score": 0.506614089012146
+      },
+      {
+        "id": "https://openalex.org/C184050105",
+        "name": "Isotropy",
+        "score": 0.4932333827018738
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "http://journals.iucr.org/a/issues/2015/01/00/sc5086/sc5086.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

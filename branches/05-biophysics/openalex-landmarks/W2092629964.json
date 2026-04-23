@@ -1,0 +1,60 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2092629964",
+    "canonical_url": "https://openalex.org/W2092629964",
+    "title": "A simple technique for quantitation of low levels of DNA damage in individual cells",
+    "authors": [
+      "Narendra P. Singh",
+      "Michael T. McCoy",
+      "Raymond R. Tice",
+      "Edward L. Schneider"
+    ],
+    "year": 1988,
+    "doi": "https://doi.org/10.1016/0014-4827(88)90265-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 10727,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.7807426452636719
+      },
+      {
+        "id": "https://openalex.org/C552990157",
+        "name": "DNA",
+        "score": 0.746362030506134
+      },
+      {
+        "id": "https://openalex.org/C143425029",
+        "name": "DNA damage",
+        "score": 0.733514666557312
+      },
+      {
+        "id": "https://openalex.org/C134935766",
+        "name": "DNA repair",
+        "score": 0.6475122570991516
+      },
+      {
+        "id": "https://openalex.org/C153911025",
+        "name": "Molecular biology",
+        "score": 0.5900734663009644
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/0014482788902650",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

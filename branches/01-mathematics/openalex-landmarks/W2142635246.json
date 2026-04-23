@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2142635246",
+    "canonical_url": "https://openalex.org/W2142635246",
+    "title": "A new look at the statistical model identification",
+    "authors": [
+      "Hirotugu Akaike"
+    ],
+    "year": 1974,
+    "doi": "https://doi.org/10.1109/tac.1974.1100705",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 50237,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C116834253",
+        "name": "Identification (biology)",
+        "score": 0.6903277635574341
+      },
+      {
+        "id": "https://openalex.org/C87007009",
+        "name": "Statistical hypothesis testing",
+        "score": 0.6076122522354126
+      },
+      {
+        "id": "https://openalex.org/C114289077",
+        "name": "Statistical model",
+        "score": 0.5947930812835693
+      },
+      {
+        "id": "https://openalex.org/C49781872",
+        "name": "Maximum likelihood",
+        "score": 0.5825235247612
+      },
+      {
+        "id": "https://openalex.org/C143724316",
+        "name": "Series (stratigraphy)",
+        "score": 0.5414995551109314
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://repositorio.unal.edu.co/handle/unal/75703",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

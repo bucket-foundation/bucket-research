@@ -1,0 +1,60 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2125121305",
+    "canonical_url": "https://openalex.org/W2125121305",
+    "title": "MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) Software Version 4.0",
+    "authors": [
+      "Koichiro Tamura",
+      "Joel T. Dudley",
+      "M Nei",
+      "Sudhir Kumar"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1093/molbev/msm092",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 28802,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781078984",
+        "name": "Mega-",
+        "score": 0.7402401566505432
+      },
+      {
+        "id": "https://openalex.org/C193252679",
+        "name": "Phylogenetic tree",
+        "score": 0.7204042077064514
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.6203033924102783
+      },
+      {
+        "id": "https://openalex.org/C64872895",
+        "name": "Transversion",
+        "score": 0.6177272796630859
+      },
+      {
+        "id": "https://openalex.org/C2777904410",
+        "name": "Software",
+        "score": 0.5804351568222046
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/mbe/article-pdf/24/8/1596/3858330/msm092.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

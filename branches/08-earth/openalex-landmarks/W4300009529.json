@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4300009529",
+    "canonical_url": "https://openalex.org/W4300009529",
+    "title": "Summary for Policymakers",
+    "authors": [
+      "Intergovernmental Panel on Climate Change"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1017/cbo9781107415324.004",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 23925,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C132651083",
+        "name": "Climate change",
+        "score": 0.6928252577781677
+      },
+      {
+        "id": "https://openalex.org/C49204034",
+        "name": "Climatology",
+        "score": 0.650741457939148
+      },
+      {
+        "id": "https://openalex.org/C139807058",
+        "name": "Adaptation (eye)",
+        "score": 0.5570489168167114
+      },
+      {
+        "id": "https://openalex.org/C2778851808",
+        "name": "Climate change adaptation",
+        "score": 0.41556739807128906
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "name": "Geography",
+        "score": 0.4084908366203308
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://repositorio.unal.edu.co/handle/unal/79827",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

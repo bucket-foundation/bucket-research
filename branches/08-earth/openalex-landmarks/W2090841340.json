@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2090841340",
+    "canonical_url": "https://openalex.org/W2090841340",
+    "title": "Toward a New Conception of the Environment-Competitiveness Relationship",
+    "authors": [
+      "Michael E. Porter",
+      "Claas van der Linde"
+    ],
+    "year": 1995,
+    "doi": "https://doi.org/10.1257/jep.9.4.97",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12221,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C204983608",
+        "name": "Productivity",
+        "score": 0.8077306151390076
+      },
+      {
+        "id": "https://openalex.org/C2985274072",
+        "name": "Environmental regulation",
+        "score": 0.5765640735626221
+      },
+      {
+        "id": "https://openalex.org/C206345919",
+        "name": "Resource (disambiguation)",
+        "score": 0.5574319362640381
+      },
+      {
+        "id": "https://openalex.org/C2777463520",
+        "name": "Porter hypothesis",
+        "score": 0.5564422011375427
+      },
+      {
+        "id": "https://openalex.org/C40700",
+        "name": "Industrial organization",
+        "score": 0.5228574275970459
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.9.4.97",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

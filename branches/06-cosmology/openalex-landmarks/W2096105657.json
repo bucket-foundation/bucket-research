@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2096105657",
+    "canonical_url": "https://openalex.org/W2096105657",
+    "title": "The determination of the elastic field of an ellipsoidal inclusion, and related problems",
+    "authors": [
+      "J. D. Eshelby"
+    ],
+    "year": 1957,
+    "doi": "https://doi.org/10.1098/rspa.1957.0133",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12796,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C57489055",
+        "name": "Ellipsoid",
+        "score": 0.8907357454299927
+      },
+      {
+        "id": "https://openalex.org/C184050105",
+        "name": "Isotropy",
+        "score": 0.6578868627548218
+      },
+      {
+        "id": "https://openalex.org/C9652623",
+        "name": "Field (mathematics)",
+        "score": 0.5411235094070435
+      },
+      {
+        "id": "https://openalex.org/C2778414698",
+        "name": "Stress field",
+        "score": 0.4950243830680847
+      },
+      {
+        "id": "https://openalex.org/C2780586882",
+        "name": "Simple (philosophy)",
+        "score": 0.44810783863067627
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://hal.science/hal-03619957/document",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

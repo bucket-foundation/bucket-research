@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2112778345",
+    "canonical_url": "https://openalex.org/W2112778345",
+    "title": "The CES-D Scale",
+    "authors": [
+      "Lenore Sawyer Radloff"
+    ],
+    "year": 1977,
+    "doi": "https://doi.org/10.1177/014662167700100306",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 53030,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15744967",
+        "name": "Psychology",
+        "score": 0.7352833151817322
+      },
+      {
+        "id": "https://openalex.org/C2778755073",
+        "name": "Scale (ratio)",
+        "score": 0.6583134531974792
+      },
+      {
+        "id": "https://openalex.org/C49453240",
+        "name": "Construct validity",
+        "score": 0.6379531025886536
+      },
+      {
+        "id": "https://openalex.org/C43214815",
+        "name": "Reliability (semiconductor)",
+        "score": 0.5669506788253784
+      },
+      {
+        "id": "https://openalex.org/C116211729",
+        "name": "Test validity",
+        "score": 0.5561448931694031
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://conservancy.umn.edu/bitstreams/048971e8-d975-4685-8b22-d5f57231a77f/download",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

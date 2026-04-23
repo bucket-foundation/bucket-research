@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2170852633",
+    "canonical_url": "https://openalex.org/W2170852633",
+    "title": "Biological properties of extracellular vesicles and their physiological functions",
+    "authors": [
+      "Mar\u0131\u0301a Y\u00e1\u00f1ez-M\u00f3",
+      "Pia Siljander",
+      "Zoraida Andreu",
+      "Apolonija Bedina Zavec",
+      "Francesc E. Borr\u00e0s",
+      "Edit I. Buz\u00e1s",
+      "Krisztina Buz\u00e1s",
+      "Enriqueta Casal",
+      "Francesco Cappello",
+      "Joana Carvalho"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.3402/jev.v4.27066",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 5828,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2992929900",
+        "name": "Extracellular vesicles",
+        "score": 0.8860201835632324
+      },
+      {
+        "id": "https://openalex.org/C20518536",
+        "name": "Microvesicles",
+        "score": 0.6163956522941589
+      },
+      {
+        "id": "https://openalex.org/C28406088",
+        "name": "Extracellular",
+        "score": 0.5398465991020203
+      },
+      {
+        "id": "https://openalex.org/C130316041",
+        "name": "Vesicle",
+        "score": 0.5204699039459229
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "name": "Cell biology",
+        "score": 0.4573485553264618
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.3402/jev.v4.27066?needAccess=true&role=button",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

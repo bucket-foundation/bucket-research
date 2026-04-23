@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2065853716",
+    "canonical_url": "https://openalex.org/W2065853716",
+    "title": "Use of a free radical method to evaluate antioxidant activity",
+    "authors": [
+      "Wendy Brand-Williams",
+      "Marie\u2010Elisabeth Cuvelier",
+      "Claudette Berset"
+    ],
+    "year": 1995,
+    "doi": "https://doi.org/10.1016/s0023-6438(95)80008-5",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 24872,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781401929",
+        "name": "DPPH",
+        "score": 0.9426740407943726
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.8270043730735779
+      },
+      {
+        "id": "https://openalex.org/C2780028989",
+        "name": "Isoeugenol",
+        "score": 0.6674879193305969
+      },
+      {
+        "id": "https://openalex.org/C2986274086",
+        "name": "Ascorbic acid",
+        "score": 0.6161065101623535
+      },
+      {
+        "id": "https://openalex.org/C2778004101",
+        "name": "Antioxidant",
+        "score": 0.6149225831031799
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://hal.inrae.fr/hal-04417761",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

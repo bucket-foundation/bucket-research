@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2067174909",
+    "canonical_url": "https://openalex.org/W2067174909",
+    "title": "Particle mesh Ewald: An <i>N</i>\u22c5log(<i>N</i>) method for Ewald sums in large systems",
+    "authors": [
+      "Tom Darden",
+      "Darrin M. York",
+      "Lee G. Pedersen"
+    ],
+    "year": 1993,
+    "doi": "https://doi.org/10.1063/1.464397",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 30240,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C143551052",
+        "name": "Ewald summation",
+        "score": 0.9437853097915649
+      },
+      {
+        "id": "https://openalex.org/C137800194",
+        "name": "Interpolation (computer graphics)",
+        "score": 0.6400070190429688
+      },
+      {
+        "id": "https://openalex.org/C75172450",
+        "name": "Fast Fourier transform",
+        "score": 0.4602791965007782
+      },
+      {
+        "id": "https://openalex.org/C2778572836",
+        "name": "Space (punctuation)",
+        "score": 0.44213610887527466
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "name": "Mathematics",
+        "score": 0.43772491812705994
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://zenodo.org/record/1232936",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

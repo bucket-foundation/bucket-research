@@ -1,0 +1,65 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2014918593",
+    "canonical_url": "https://openalex.org/W2014918593",
+    "title": "p62/SQSTM1 Binds Directly to Atg8/LC3 to Facilitate Degradation of Ubiquitinated Protein Aggregates by Autophagy",
+    "authors": [
+      "Serhiy Pankiv",
+      "Terje H\u00f8yvarde Clausen",
+      "Trond Lamark",
+      "Andreas Brech",
+      "Jack\u2010Ansgar Bruun",
+      "Heidi Outzen",
+      "Aud \u00d8vervatn",
+      "Geir Bj\u00f8rk\u00f8y",
+      "Terje Johansen"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1074/jbc.m702824200",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 4521,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780042272",
+        "name": "ATG8",
+        "score": 0.9220306277275085
+      },
+      {
+        "id": "https://openalex.org/C203522944",
+        "name": "Autophagy",
+        "score": 0.867289662361145
+      },
+      {
+        "id": "https://openalex.org/C25602115",
+        "name": "Ubiquitin",
+        "score": 0.7418864965438843
+      },
+      {
+        "id": "https://openalex.org/C2779679103",
+        "name": "Degradation (telecommunications)",
+        "score": 0.6425820589065552
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "name": "Cell biology",
+        "score": 0.6062767505645752
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1074/jbc.m702824200",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

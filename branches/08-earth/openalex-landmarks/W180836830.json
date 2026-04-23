@@ -1,0 +1,61 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W180836830",
+    "canonical_url": "https://openalex.org/W180836830",
+    "title": "K\u00f6ppen's climate classification map for Brazil",
+    "authors": [
+      "Clayton Alcarde \u00c1lvares",
+      "Jos\u00e9 Luiz Stape",
+      "Paulo C\u00e9sar Sentelhas",
+      "Jos\u00e9 Leonardo de Moraes Gon\u00e7alves",
+      "Gerd Sparovek"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1127/0941-2948/2013/0507",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 11545,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C49204034",
+        "name": "Climatology",
+        "score": 0.5349133610725403
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.4876781702041626
+      },
+      {
+        "id": "https://openalex.org/C2994001127",
+        "name": "Climate zones",
+        "score": 0.45443031191825867
+      },
+      {
+        "id": "https://openalex.org/C153294291",
+        "name": "Meteorology",
+        "score": 0.4323109984397888
+      },
+      {
+        "id": "https://openalex.org/C205649164",
+        "name": "Geography",
+        "score": 0.3829898238182068
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doaj.org/article/ae89996ce12148c0ad99ce009d65e6a4",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1999167944",
+    "canonical_url": "https://openalex.org/W1999167944",
+    "title": "Planetary boundaries: Guiding human development on a changing planet",
+    "authors": [
+      "Will Steffen",
+      "Katherine Richardson",
+      "Johan Rockstr\u00f6m",
+      "Sarah Cornell",
+      "Ingo Fetzer",
+      "Elena M. Bennett",
+      "Reinette Biggs",
+      "Stephen R. Carpenter",
+      "W. de Vries",
+      "Cynthia A. de Wit"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1126/science.1259855",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 11959,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C32334204",
+        "name": "Planetary boundaries",
+        "score": 0.9372525215148926
+      },
+      {
+        "id": "https://openalex.org/C51244244",
+        "name": "Planet",
+        "score": 0.7737194895744324
+      },
+      {
+        "id": "https://openalex.org/C2780422510",
+        "name": "Humanity",
+        "score": 0.7351984977722168
+      },
+      {
+        "id": "https://openalex.org/C66204764",
+        "name": "Sustainability",
+        "score": 0.7059869766235352
+      },
+      {
+        "id": "https://openalex.org/C80368990",
+        "name": "Earth system science",
+        "score": 0.6292919516563416
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.science.org/cms/asset/1d5f4d98-8da4-4e48-b570-4b1d0c420d6c/pap.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

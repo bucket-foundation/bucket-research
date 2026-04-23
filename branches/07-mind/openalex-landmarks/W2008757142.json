@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2008757142",
+    "canonical_url": "https://openalex.org/W2008757142",
+    "title": "Apoptosis: A Review of Programmed Cell Death",
+    "authors": [
+      "Susan A. Elmore"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1080/01926230701320337",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 13464,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C190283241",
+        "name": "Apoptosis",
+        "score": 0.8194047212600708
+      },
+      {
+        "id": "https://openalex.org/C31573885",
+        "name": "Programmed cell death",
+        "score": 0.757481575012207
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.5553325414657593
+      },
+      {
+        "id": "https://openalex.org/C29537977",
+        "name": "Cell cycle",
+        "score": 0.5265995264053345
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "name": "Cell biology",
+        "score": 0.49962806701660156
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://journals.sagepub.com/doi/pdf/10.1080/01926230701320337",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

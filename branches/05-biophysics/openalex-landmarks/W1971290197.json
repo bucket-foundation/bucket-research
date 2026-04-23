@@ -1,0 +1,65 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1971290197",
+    "canonical_url": "https://openalex.org/W1971290197",
+    "title": "Lipofection: a highly efficient, lipid-mediated DNA-transfection procedure.",
+    "authors": [
+      "Philip L. Felgner",
+      "Thomas R. Gadek",
+      "Mai Marie Holm",
+      "R. M. Roman",
+      "Hardy Chan",
+      "M Wenz",
+      "Jeffrey P. Northrop",
+      "G M Ringold",
+      "Mark Danielsen"
+    ],
+    "year": 1987,
+    "doi": "https://doi.org/10.1073/pnas.84.21.7413",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 4973,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C54009773",
+        "name": "Transfection",
+        "score": 0.8723113536834717
+      },
+      {
+        "id": "https://openalex.org/C185154212",
+        "name": "Liposome",
+        "score": 0.7693125009536743
+      },
+      {
+        "id": "https://openalex.org/C552990157",
+        "name": "DNA",
+        "score": 0.7576401233673096
+      },
+      {
+        "id": "https://openalex.org/C155887181",
+        "name": "Cationic liposome",
+        "score": 0.6137136816978455
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.4669039845466614
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/299306",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

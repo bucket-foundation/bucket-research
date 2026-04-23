@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2109491705",
+    "canonical_url": "https://openalex.org/W2109491705",
+    "title": "The role of pattern-recognition receptors in innate immunity: update on Toll-like receptors",
+    "authors": [
+      "Taro Kawai",
+      "Shizuo Akira"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1038/ni.1863",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 8986,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C136449434",
+        "name": "Innate immune system",
+        "score": 0.8466854691505432
+      },
+      {
+        "id": "https://openalex.org/C111289621",
+        "name": "Pattern recognition receptor",
+        "score": 0.6935315132141113
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.6820246577262878
+      },
+      {
+        "id": "https://openalex.org/C193419808",
+        "name": "Acquired immune system",
+        "score": 0.6331462860107422
+      },
+      {
+        "id": "https://openalex.org/C170493617",
+        "name": "Receptor",
+        "score": 0.6287565231323242
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.nature.com/articles/ni.1863.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

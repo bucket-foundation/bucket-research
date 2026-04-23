@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2052729098",
+    "canonical_url": "https://openalex.org/W2052729098",
+    "title": "Intrinsic Motivation and Self-Determination in Human Behavior",
+    "authors": [
+      "Edward L. Deci",
+      "Richard M. Ryan"
+    ],
+    "year": 1985,
+    "doi": "https://doi.org/10.1007/978-1-4899-2271-7",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 25567,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C177264268",
+        "name": "Set (abstract data type)",
+        "score": 0.6125161051750183
+      },
+      {
+        "id": "https://openalex.org/C2985564149",
+        "name": "Intrinsic motivation",
+        "score": 0.5732501149177551
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "name": "Psychology",
+        "score": 0.5722256302833557
+      },
+      {
+        "id": "https://openalex.org/C146854351",
+        "name": "Self-determination theory",
+        "score": 0.5560380220413208
+      },
+      {
+        "id": "https://openalex.org/C188147891",
+        "name": "Cognitive science",
+        "score": 0.40521153807640076
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://eduq.info/xmlui/handle/11515/34618",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

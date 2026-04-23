@@ -1,0 +1,60 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2194775991",
+    "canonical_url": "https://openalex.org/W2194775991",
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "Xiangyu Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1109/cvpr.2016.90",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 218223,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C155512373",
+        "name": "Residual",
+        "score": 0.9132882356643677
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.7827218770980835
+      },
+      {
+        "id": "https://openalex.org/C21780288",
+        "name": "Coco",
+        "score": 0.7302752137184143
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.7211458086967468
+      },
+      {
+        "id": "https://openalex.org/C2776151529",
+        "name": "Object detection",
+        "score": 0.6077329516410828
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://repositorio.unal.edu.co/handle/unal/81443",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4293584584",
+    "canonical_url": "https://openalex.org/W4293584584",
+    "title": "A Multi-Modal Distributed Real-Time IoT System for Urban Traffic Control (Invited Paper)",
+    "authors": [
+      "Khanam, Zeba",
+      "Achari, Vejey Pradeep Suresh",
+      "Boukhennoufa, Issam",
+      "Jindal, Anish",
+      "Singh, Amit Kumar"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.4230/oasics.ng-res.2024.2",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 14280,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.7080686688423157
+      },
+      {
+        "id": "https://openalex.org/C2776760102",
+        "name": "Code (set theory)",
+        "score": 0.6448283195495605
+      },
+      {
+        "id": "https://openalex.org/C50805821",
+        "name": "Titan (rocket family)",
+        "score": 0.6060750484466553
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.5358532667160034
+      },
+      {
+        "id": "https://openalex.org/C176217482",
+        "name": "Metric (unit)",
+        "score": 0.5311632752418518
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://drops.dagstuhl.de/storage/01oasics/oasics-vol117-ng-res2024/OASIcs.NG-RES.2024.2/OASIcs.NG-RES.2024.2.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

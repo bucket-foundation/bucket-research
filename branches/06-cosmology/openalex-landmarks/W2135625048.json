@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2135625048",
+    "canonical_url": "https://openalex.org/W2135625048",
+    "title": "Astropy: A community Python package for astronomy",
+    "authors": [
+      "Thomas Robitaille",
+      "Erik Tollerud",
+      "P. Greenfield",
+      "Michael Droettboom",
+      "Erik M. Bray",
+      "Tom Aldcroft",
+      "M. Ryleigh Davis",
+      "Adam Ginsburg",
+      "Adrian M. Price-Whelan",
+      "Wolfgang Kerzendorf"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1051/0004-6361/201322068",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 14124,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C519991488",
+        "name": "Python (programming language)",
+        "score": 0.8673492670059204
+      },
+      {
+        "id": "https://openalex.org/C196832560",
+        "name": "ASCII",
+        "score": 0.8562746644020081
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.6354647874832153
+      },
+      {
+        "id": "https://openalex.org/C2781109611",
+        "name": "Virtual observatory",
+        "score": 0.4766943156719208
+      },
+      {
+        "id": "https://openalex.org/C121684516",
+        "name": "Computer graphics (images)",
+        "score": 0.47242438793182373
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.aanda.org/articles/aa/pdf/2013/10/aa22068-13.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

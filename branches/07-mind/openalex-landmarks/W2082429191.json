@@ -1,0 +1,64 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2082429191",
+    "canonical_url": "https://openalex.org/W2082429191",
+    "title": "Amyloid Oligomers Exacerbate Tau Pathology in a Mouse Model of Tauopathy",
+    "authors": [
+      "Maj-Linda B. Selenica",
+      "Milene L. Brownlow",
+      "Jeffy P. Jimenez",
+      "Daniel C. Lee",
+      "Gabriela Pe\u00f1a",
+      "Chad A. Dickey",
+      "Marcia N. Gordon",
+      "Dave Morgan"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1159/000337230",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10399,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777739294",
+        "name": "Tauopathy",
+        "score": 0.9370654821395874
+      },
+      {
+        "id": "https://openalex.org/C141035611",
+        "name": "Genetically modified mouse",
+        "score": 0.594679057598114
+      },
+      {
+        "id": "https://openalex.org/C177738377",
+        "name": "Tangle",
+        "score": 0.574775218963623
+      },
+      {
+        "id": "https://openalex.org/C2778670691",
+        "name": "Tau protein",
+        "score": 0.5744530558586121
+      },
+      {
+        "id": "https://openalex.org/C16613235",
+        "name": "Endogeny",
+        "score": 0.5596616268157959
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3739054",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2152207030",
+    "canonical_url": "https://openalex.org/W2152207030",
+    "title": "MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0",
+    "authors": [
+      "Koichiro Tamura",
+      "Glen Stecher",
+      "Daniel S. Peterson",
+      "Alan Filipski",
+      "Sudhir Kumar"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1093/molbev/mst197",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 47768,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.6660643815994263
+      },
+      {
+        "id": "https://openalex.org/C193252679",
+        "name": "Phylogenetic tree",
+        "score": 0.6090471744537354
+      },
+      {
+        "id": "https://openalex.org/C2781078984",
+        "name": "Mega-",
+        "score": 0.5820974111557007
+      },
+      {
+        "id": "https://openalex.org/C90132467",
+        "name": "Phylogenetics",
+        "score": 0.5538314580917358
+      },
+      {
+        "id": "https://openalex.org/C207390915",
+        "name": "Divergence (linguistics)",
+        "score": 0.5443888902664185
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/mbe/article-pdf/30/12/2725/19498310/mst197.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2159306398",
+    "canonical_url": "https://openalex.org/W2159306398",
+    "title": "Coefficient Alpha and the Internal Structure of Tests",
+    "authors": [
+      "Lee J. Cronbach"
+    ],
+    "year": 1951,
+    "doi": "https://doi.org/10.1007/bf02310555",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 42788,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C96715788",
+        "name": "Guttman scale",
+        "score": 0.8825186491012573
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "name": "Mathematics",
+        "score": 0.7183713912963867
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "name": "Statistics",
+        "score": 0.6912470459938049
+      },
+      {
+        "id": "https://openalex.org/C2780069185",
+        "name": "Equivalence (formal languages)",
+        "score": 0.682934582233429
+      },
+      {
+        "id": "https://openalex.org/C142259097",
+        "name": "Homogeneity (statistics)",
+        "score": 0.5614259243011475
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/BF02310555.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

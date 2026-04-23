@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2134251287",
+    "canonical_url": "https://openalex.org/W2134251287",
+    "title": "Inflationary universe: A possible solution to the horizon and flatness problems",
+    "authors": [
+      "Alan H. Guth"
+    ],
+    "year": 1981,
+    "doi": "https://doi.org/10.1103/physrevd.23.347",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 9828,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C13560167",
+        "name": "Flatness problem",
+        "score": 0.7267705798149109
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.7162023186683655
+      },
+      {
+        "id": "https://openalex.org/C2778530986",
+        "name": "Flatness (cosmology)",
+        "score": 0.6254642009735107
+      },
+      {
+        "id": "https://openalex.org/C44752778",
+        "name": "Particle horizon",
+        "score": 0.576854407787323
+      },
+      {
+        "id": "https://openalex.org/C33332235",
+        "name": "Theoretical physics",
+        "score": 0.5410081744194031
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://link.aps.org/pdf/10.1103/PhysRevD.23.347",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1997087247",
+    "canonical_url": "https://openalex.org/W1997087247",
+    "title": "Methods for Dietary Fiber, Neutral Detergent Fiber, and Nonstarch Polysaccharides in Relation to Animal Nutrition",
+    "authors": [
+      "P.J. Van Soest",
+      "James B. Robertson",
+      "B.A. Lewis"
+    ],
+    "year": 1991,
+    "doi": "https://doi.org/10.3168/jds.s0022-0302(91)78551-2",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 27855,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C100817775",
+        "name": "Polysaccharide",
+        "score": 0.6473653316497803
+      },
+      {
+        "id": "https://openalex.org/C2780756937",
+        "name": "Pectin",
+        "score": 0.6247358918190002
+      },
+      {
+        "id": "https://openalex.org/C529335014",
+        "name": "Starch",
+        "score": 0.5951594114303589
+      },
+      {
+        "id": "https://openalex.org/C70262065",
+        "name": "Rumen",
+        "score": 0.5937983393669128
+      },
+      {
+        "id": "https://openalex.org/C2992741425",
+        "name": "Dietary fiber",
+        "score": 0.566066324710846
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://doi.org/10.3168/jds.s0022-0302(91)78551-2",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

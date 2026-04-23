@@ -1,0 +1,62 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2162010696",
+    "canonical_url": "https://openalex.org/W2162010696",
+    "title": "A default mode of brain function",
+    "authors": [
+      "Marcus E. Raichle",
+      "Ann Mary MacLeod",
+      "Abraham Z. Snyder",
+      "William J. Powers",
+      "Debra A. Gusnard",
+      "Gordon L. Shulman"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1073/pnas.98.2.676",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12326,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C141516989",
+        "name": "Default mode network",
+        "score": 0.8263999223709106
+      },
+      {
+        "id": "https://openalex.org/C2777670902",
+        "name": "Human brain",
+        "score": 0.6527467370033264
+      },
+      {
+        "id": "https://openalex.org/C12725497",
+        "name": "Baseline (sea)",
+        "score": 0.6349610090255737
+      },
+      {
+        "id": "https://openalex.org/C66324658",
+        "name": "Resting state fMRI",
+        "score": 0.6007161736488342
+      },
+      {
+        "id": "https://openalex.org/C2775842073",
+        "name": "Positron emission tomography",
+        "score": 0.5692309737205505
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": null,
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

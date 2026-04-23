@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2125872855",
+    "canonical_url": "https://openalex.org/W2125872855",
+    "title": "Membrane lipids: where they are and how they behave",
+    "authors": [
+      "Gerrit van Meer",
+      "Dennis R. Voelker",
+      "Gerald W. Feigenson"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1038/nrm2330",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 7032,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41625074",
+        "name": "Membrane",
+        "score": 0.7174122333526611
+      },
+      {
+        "id": "https://openalex.org/C125501631",
+        "name": "Biological membrane",
+        "score": 0.594414472579956
+      },
+      {
+        "id": "https://openalex.org/C39944091",
+        "name": "Lipid bilayer",
+        "score": 0.5911950469017029
+      },
+      {
+        "id": "https://openalex.org/C96942376",
+        "name": "Catabolism",
+        "score": 0.5908294320106506
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.5019841194152832
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2642958",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3208261418",
+    "canonical_url": "https://openalex.org/W3208261418",
+    "title": "IOP Conference Series: Earth and Environmental Science",
+    "authors": [
+      "Hermansah, Hermansah",
+      "Sandi, Nofrita",
+      "Naspendra, Zuldadan"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1088/issn.1755-1315",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12783,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C143724316",
+        "name": "Series (stratigraphy)",
+        "score": 0.7062873840332031
+      },
+      {
+        "id": "https://openalex.org/C26148502",
+        "name": "Earth (classical element)",
+        "score": 0.4770963788032532
+      },
+      {
+        "id": "https://openalex.org/C87355193",
+        "name": "Astrobiology",
+        "score": 0.46177682280540466
+      },
+      {
+        "id": "https://openalex.org/C127313418",
+        "name": "Geology",
+        "score": 0.22646522521972656
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.11661222577095032
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://doi.org/10.1088/issn.1755-1315",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

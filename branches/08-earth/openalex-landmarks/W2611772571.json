@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2611772571",
+    "canonical_url": "https://openalex.org/W2611772571",
+    "title": "The Modern-Era Retrospective Analysis for Research and Applications, Version 2 (MERRA-2)",
+    "authors": [
+      "Ronald Gelaro",
+      "Will McCarty",
+      "Max J. Su\u00e1rez",
+      "Ricardo Todling",
+      "Andrea Molod",
+      "Lawrence L. Takacs",
+      "Cynthia A. Randles",
+      "Anton Darmenov",
+      "Michael G. Bosilovich",
+      "Rolf H. Reichle"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1175/jcli-d-16-0758.1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 9217,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.6019430160522461
+      },
+      {
+        "id": "https://openalex.org/C24552861",
+        "name": "Data assimilation",
+        "score": 0.5967572331428528
+      },
+      {
+        "id": "https://openalex.org/C153294291",
+        "name": "Meteorology",
+        "score": 0.5767659544944763
+      },
+      {
+        "id": "https://openalex.org/C2779067591",
+        "name": "Atmospheric Infrared Sounder",
+        "score": 0.5423581600189209
+      },
+      {
+        "id": "https://openalex.org/C49204034",
+        "name": "Climatology",
+        "score": 0.5277683734893799
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6999672",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

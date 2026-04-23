@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2116360511",
+    "canonical_url": "https://openalex.org/W2116360511",
+    "title": "Receptive fields, binocular interaction and functional architecture in the cat's visual cortex",
+    "authors": [
+      "David H. Hubel",
+      "T. N. Wiesel"
+    ],
+    "year": 1962,
+    "doi": "https://doi.org/10.1113/jphysiol.1962.sp006837",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 13781,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C19071747",
+        "name": "Receptive field",
+        "score": 0.5917713642120361
+      },
+      {
+        "id": "https://openalex.org/C2779345533",
+        "name": "Visual cortex",
+        "score": 0.5736984610557556
+      },
+      {
+        "id": "https://openalex.org/C2778805511",
+        "name": "Citation",
+        "score": 0.4984431266784668
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.4757632613182068
+      },
+      {
+        "id": "https://openalex.org/C123657996",
+        "name": "Architecture",
+        "score": 0.4641050100326538
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": null,
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2101108516",
+    "canonical_url": "https://openalex.org/W2101108516",
+    "title": "Updated world map of the K\u00f6ppen-Geiger climate classification",
+    "authors": [
+      "Murray Peel",
+      "Brian Finlayson",
+      "Thomas A. McMahon"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.5194/hess-11-1633-2007",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12573,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C88033656",
+        "name": "Geiger counter",
+        "score": 0.743411123752594
+      },
+      {
+        "id": "https://openalex.org/C49204034",
+        "name": "Climatology",
+        "score": 0.6118601560592651
+      },
+      {
+        "id": "https://openalex.org/C122523270",
+        "name": "Latitude",
+        "score": 0.5249324440956116
+      },
+      {
+        "id": "https://openalex.org/C132651083",
+        "name": "Climate change",
+        "score": 0.4677586257457733
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.46173155307769775
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://hess.copernicus.org/articles/11/1633/2007/hess-11-1633-2007.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

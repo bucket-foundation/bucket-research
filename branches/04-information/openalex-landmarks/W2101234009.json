@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2101234009",
+    "canonical_url": "https://openalex.org/W2101234009",
+    "title": "Scikit-learn: Machine Learning in Python",
+    "authors": [
+      "Fabi\u00e1n Pedregosa",
+      "Ga\u00ebl Varoquaux",
+      "Alexandre Gramfort",
+      "Vincent Michel",
+      "Bertrand Thirion",
+      "Olivier Grisel",
+      "Mathieu Blondel",
+      "M\u00fcller, Andreas",
+      "Nothman, Joel",
+      "Louppe, Gilles"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.48550/arxiv.1201.0490",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 63562,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C519991488",
+        "name": "Python (programming language)",
+        "score": 0.8748029470443726
+      },
+      {
+        "id": "https://openalex.org/C56666940",
+        "name": "Documentation",
+        "score": 0.834846019744873
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.7323822975158691
+      },
+      {
+        "id": "https://openalex.org/C174183944",
+        "name": "MIT License",
+        "score": 0.5501254796981812
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.511991560459137
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://arxiv.org/pdf/1201.0490",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3118615836",
+    "canonical_url": "https://openalex.org/W3118615836",
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "authors": [
+      "Matthew J. Page",
+      "Joanne E. McKenzie",
+      "Patrick M. Bossuyt",
+      "Isabelle Boutron",
+      "Tammy Hoffmann",
+      "Cynthia D. Mulrow",
+      "Larissa Shamseer",
+      "Jennifer Tetzlaff",
+      "Elie A. Akl",
+      "Sue Brennan"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1136/bmj.n71",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 88814,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779356329",
+        "name": "Checklist",
+        "score": 0.8825289011001587
+      },
+      {
+        "id": "https://openalex.org/C189708586",
+        "name": "Systematic review",
+        "score": 0.8597397804260254
+      },
+      {
+        "id": "https://openalex.org/C2780182762",
+        "name": "Guideline",
+        "score": 0.6794942617416382
+      },
+      {
+        "id": "https://openalex.org/C2777026412",
+        "name": "Statement (logic)",
+        "score": 0.6102980971336365
+      },
+      {
+        "id": "https://openalex.org/C547195049",
+        "name": "Terminology",
+        "score": 0.5911567807197571
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.bmj.com/content/bmj/372/bmj.n71.full.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

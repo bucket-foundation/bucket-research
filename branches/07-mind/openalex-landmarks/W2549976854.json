@@ -1,0 +1,64 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2549976854",
+    "canonical_url": "https://openalex.org/W2549976854",
+    "title": "Ultrastructural Characterization of the Lower Motor System in a Mouse Model of Krabbe Disease",
+    "authors": [
+      "Valentina Cappello",
+      "Laura Marchetti",
+      "Paola Parlanti",
+      "Silvia Landi",
+      "Ilaria Tonazzini",
+      "Marco Cecchini",
+      "Vincenzo Piazza",
+      "Mauro Gemmi"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1038/s41598-016-0001-8",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 13267,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777585455",
+        "name": "Krabbe disease",
+        "score": 0.7952787280082703
+      },
+      {
+        "id": "https://openalex.org/C87555872",
+        "name": "Ultrastructure",
+        "score": 0.7295079231262207
+      },
+      {
+        "id": "https://openalex.org/C2781149210",
+        "name": "Sciatic nerve",
+        "score": 0.5597279071807861
+      },
+      {
+        "id": "https://openalex.org/C2776805190",
+        "name": "Denervation",
+        "score": 0.527057409286499
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.45949652791023254
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/s41598-016-0001-8.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

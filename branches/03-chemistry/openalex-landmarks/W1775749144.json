@@ -1,0 +1,60 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1775749144",
+    "canonical_url": "https://openalex.org/W1775749144",
+    "title": "PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT",
+    "authors": [
+      "OliverH. Lowry",
+      "NiraJ. Rosebrough",
+      "A. Farr",
+      "RoseJ. Randall"
+    ],
+    "year": 1951,
+    "doi": "https://doi.org/10.1016/s0021-9258(19)52451-6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 317840,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C40875361",
+        "name": "Reagent",
+        "score": 0.974293053150177
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.8413830995559692
+      },
+      {
+        "id": "https://openalex.org/C2777702071",
+        "name": "Phenol",
+        "score": 0.5679616332054138
+      },
+      {
+        "id": "https://openalex.org/C43617362",
+        "name": "Chromatography",
+        "score": 0.5565454959869385
+      },
+      {
+        "id": "https://openalex.org/C178790620",
+        "name": "Organic chemistry",
+        "score": 0.27057263255119324
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.jbc.org/article/S0021-9258(19)52451-6/pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

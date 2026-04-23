@@ -1,0 +1,60 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2157823046",
+    "canonical_url": "https://openalex.org/W2157823046",
+    "title": "Bias in meta-analysis detected by a simple, graphical test",
+    "authors": [
+      "Matthias Egger",
+      "George Davey Smith",
+      "Martin Schneider",
+      "C. Minder"
+    ],
+    "year": 1997,
+    "doi": "https://doi.org/10.1136/bmj.315.7109.629",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 55482,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C82605166",
+        "name": "Funnel plot",
+        "score": 0.977001428604126
+      },
+      {
+        "id": "https://openalex.org/C2780439572",
+        "name": "Publication bias",
+        "score": 0.875644326210022
+      },
+      {
+        "id": "https://openalex.org/C95190672",
+        "name": "Meta-analysis",
+        "score": 0.867306113243103
+      },
+      {
+        "id": "https://openalex.org/C160798450",
+        "name": "Concordance",
+        "score": 0.6982810497283936
+      },
+      {
+        "id": "https://openalex.org/C124936440",
+        "name": "Meta-regression",
+        "score": 0.6592282056808472
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": null,
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

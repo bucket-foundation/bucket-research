@@ -1,0 +1,63 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2344644350",
+    "canonical_url": "https://openalex.org/W2344644350",
+    "title": "Analysis of nanoparticle delivery to tumours",
+    "authors": [
+      "Stefan Wilhelm",
+      "Anthony J. Tavares",
+      "Qin Dai",
+      "Seiichi Ohta",
+      "Julie Audet",
+      "Harold F. Dvorak",
+      "Warren C. W. Chan"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1038/natrevmats.2016.14",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 4785,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15083742",
+        "name": "Nanomedicine",
+        "score": 0.819571852684021
+      },
+      {
+        "id": "https://openalex.org/C155672457",
+        "name": "Nanoparticle",
+        "score": 0.7179563641548157
+      },
+      {
+        "id": "https://openalex.org/C171250308",
+        "name": "Nanotechnology",
+        "score": 0.5405799746513367
+      },
+      {
+        "id": "https://openalex.org/C176285220",
+        "name": "Transcellular",
+        "score": 0.4913581907749176
+      },
+      {
+        "id": "https://openalex.org/C2779820397",
+        "name": "Drug delivery",
+        "score": 0.4497527778148651
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://utoronto.scholaris.ca/bitstreams/f472d85d-eae3-4dc1-a8ad-b3d8057ce04c/download",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

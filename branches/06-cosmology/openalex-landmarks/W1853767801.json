@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1853767801",
+    "canonical_url": "https://openalex.org/W1853767801",
+    "title": "Measurements of \u03a9 and \u039b from 42 High\u2010Redshift Supernovae",
+    "authors": [
+      "S. Perlmutter",
+      "G. Aldering",
+      "G. Goldhaber",
+      "R. A. Knop",
+      "P. Nugent",
+      "P. G. Castro",
+      "Susana E. Deustua",
+      "S. Fabbro",
+      "A. Goobar",
+      "D. E. Groom"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1086/307221",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 17777,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C127592171",
+        "name": "Supernova",
+        "score": 0.7418440580368042
+      },
+      {
+        "id": "https://openalex.org/C33024259",
+        "name": "Redshift",
+        "score": 0.7012439966201782
+      },
+      {
+        "id": "https://openalex.org/C44870925",
+        "name": "Astrophysics",
+        "score": 0.6518036723136902
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.49654513597488403
+      },
+      {
+        "id": "https://openalex.org/C1276947",
+        "name": "Astronomy",
+        "score": 0.44533729553222656
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://iopscience.iop.org/article/10.1086/307221/pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

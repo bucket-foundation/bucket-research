@@ -1,0 +1,64 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2058046532",
+    "canonical_url": "https://openalex.org/W2058046532",
+    "title": "Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain",
+    "authors": [
+      "N. Tzourio-Mazoyer",
+      "Brigitte Landeau",
+      "Dimitri Papathanassiou",
+      "Fabrice Crivello",
+      "Olivier Etard",
+      "Nicolas Delcroix",
+      "Bernard Mazoyer",
+      "Marc Joliot"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1006/nimg.2001.0978",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 16665,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C54170458",
+        "name": "Voxel",
+        "score": 0.7666248083114624
+      },
+      {
+        "id": "https://openalex.org/C39313694",
+        "name": "Statistical parametric mapping",
+        "score": 0.7204750776290894
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.6450714468955994
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.5873947143554688
+      },
+      {
+        "id": "https://openalex.org/C58693492",
+        "name": "Neuroimaging",
+        "score": 0.5529600977897644
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://normandie-univ.hal.science/hal-05462925/document",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

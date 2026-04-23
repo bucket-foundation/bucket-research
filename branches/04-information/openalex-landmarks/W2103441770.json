@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2103441770",
+    "canonical_url": "https://openalex.org/W2103441770",
+    "title": "Fast and accurate short read alignment with Burrows\u2013Wheeler transform",
+    "authors": [
+      "Heng Li",
+      "Richard Durbin"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1093/bioinformatics/btp324",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 62047,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.731576681137085
+      },
+      {
+        "id": "https://openalex.org/C2777904410",
+        "name": "Software",
+        "score": 0.5981895923614502
+      },
+      {
+        "id": "https://openalex.org/C180384323",
+        "name": "Alignment-free sequence analysis",
+        "score": 0.5813172459602356
+      },
+      {
+        "id": "https://openalex.org/C67388219",
+        "name": "Hash table",
+        "score": 0.5203908681869507
+      },
+      {
+        "id": "https://openalex.org/C192953774",
+        "name": "Reference genome",
+        "score": 0.5142509341239929
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://academic.oup.com/bioinformatics/article-pdf/25/14/1754/48994219/bioinformatics_25_14_1754.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

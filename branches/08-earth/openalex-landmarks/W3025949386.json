@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3025949386",
+    "canonical_url": "https://openalex.org/W3025949386",
+    "title": "The ERA5 global reanalysis",
+    "authors": [
+      "Hans Hersbach",
+      "Bill Bell",
+      "Paul Berrisford",
+      "Shoji Hirahara",
+      "\u00c1ndr\u00e1s Hor\u00e1nyi",
+      "Joaqu\u0131\u0301n Mu\u00f1oz-Sabater",
+      "Julien P. Nicolas",
+      "Carole Peubey",
+      "Raluca Radu",
+      "Dinand Schepers"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1002/qj.3803",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 29188,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C49204034",
+        "name": "Climatology",
+        "score": 0.6750792264938354
+      },
+      {
+        "id": "https://openalex.org/C24552861",
+        "name": "Data assimilation",
+        "score": 0.627224326133728
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.6012821793556213
+      },
+      {
+        "id": "https://openalex.org/C153294291",
+        "name": "Meteorology",
+        "score": 0.5660305023193359
+      },
+      {
+        "id": "https://openalex.org/C2779847632",
+        "name": "Buoy",
+        "score": 0.5339748859405518
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/qj.3803",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

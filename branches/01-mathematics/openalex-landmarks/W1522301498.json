@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1522301498",
+    "canonical_url": "https://openalex.org/W1522301498",
+    "title": "Adam: A Method for Stochastic Optimization",
+    "authors": [
+      "Diederik P. Kingma",
+      "Jimmy Ba"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.48550/arxiv.1412.6980",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 84662,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C50817715",
+        "name": "Regret",
+        "score": 0.6160476803779602
+      },
+      {
+        "id": "https://openalex.org/C126255220",
+        "name": "Mathematical optimization",
+        "score": 0.5732983946800232
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.5631313920021057
+      },
+      {
+        "id": "https://openalex.org/C130367717",
+        "name": "Diagonal",
+        "score": 0.5125696659088135
+      },
+      {
+        "id": "https://openalex.org/C2777303404",
+        "name": "Convergence (economics)",
+        "score": 0.508216381072998
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://handle.uba.uva.nl/personal/pure/en/publications/adam-a-method-for-stochastic-optimization(a20791d3-1aff-464a-8544-268383c33a75).html",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

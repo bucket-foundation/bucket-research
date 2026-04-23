@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2019126938",
+    "canonical_url": "https://openalex.org/W2019126938",
+    "title": "A SIMPLIFIED LEAD CITRATE STAIN FOR USE IN ELECTRON MICROSCOPY",
+    "authors": [
+      "John H. Venable",
+      "Richard E. Coggeshall"
+    ],
+    "year": 1965,
+    "doi": "https://doi.org/10.1083/jcb.25.2.407",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 4608,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.798477053642273
+      },
+      {
+        "id": "https://openalex.org/C2781294515",
+        "name": "Stain",
+        "score": 0.7084037065505981
+      },
+      {
+        "id": "https://openalex.org/C93877712",
+        "name": "Electron microscope",
+        "score": 0.6917672157287598
+      },
+      {
+        "id": "https://openalex.org/C147080431",
+        "name": "Microscopy",
+        "score": 0.5295796394348145
+      },
+      {
+        "id": "https://openalex.org/C166029249",
+        "name": "Negative stain",
+        "score": 0.4569672644138336
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://rupress.org/jcb/article-pdf/25/2/407/1382462/407.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

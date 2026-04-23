@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2150697053",
+    "canonical_url": "https://openalex.org/W2150697053",
+    "title": "The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals",
+    "authors": [
+      "Yan Zhao",
+      "Donald G. Truhlar"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1007/s00214-007-0310-x",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 29588,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C29563950",
+        "name": "Thermochemistry",
+        "score": 0.9066148996353149
+      },
+      {
+        "id": "https://openalex.org/C152365726",
+        "name": "Density functional theory",
+        "score": 0.5699945092201233
+      },
+      {
+        "id": "https://openalex.org/C168900304",
+        "name": "Valence (chemistry)",
+        "score": 0.5389429330825806
+      },
+      {
+        "id": "https://openalex.org/C181500209",
+        "name": "Excited state",
+        "score": 0.52242112159729
+      },
+      {
+        "id": "https://openalex.org/C22693506",
+        "name": "Hybrid functional",
+        "score": 0.4893495440483093
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00214-007-0310-x.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

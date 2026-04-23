@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2230728100",
+    "canonical_url": "https://openalex.org/W2230728100",
+    "title": "Self-Consistent Equations Including Exchange and Correlation Effects",
+    "authors": [
+      "W. Kohn",
+      "L. J. Sham"
+    ],
+    "year": 1965,
+    "doi": "https://doi.org/10.1103/physrev.140.a1133",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 62560,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.6478919982910156
+      },
+      {
+        "id": "https://openalex.org/C113630233",
+        "name": "Hartree\u2013Fock method",
+        "score": 0.5939865112304688
+      },
+      {
+        "id": "https://openalex.org/C147120987",
+        "name": "Electron",
+        "score": 0.5808104276657104
+      },
+      {
+        "id": "https://openalex.org/C85867844",
+        "name": "Fermi gas",
+        "score": 0.5562978982925415
+      },
+      {
+        "id": "https://openalex.org/C145196801",
+        "name": "Hartree",
+        "score": 0.5167864561080933
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://link.aps.org/pdf/10.1103/PhysRev.140.A1133",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

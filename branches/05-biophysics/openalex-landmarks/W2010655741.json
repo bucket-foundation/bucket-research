@@ -1,0 +1,63 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2010655741",
+    "canonical_url": "https://openalex.org/W2010655741",
+    "title": "A versatile vector for gene and oligonucleotide transfer into cells in culture and in vivo: polyethylenimine.",
+    "authors": [
+      "Otmane Boussif",
+      "Frank Lezoualc\u2019h",
+      "Maria Antonietta Zanta",
+      "M D Mergny",
+      "Daniel Scherman",
+      "Barbara Demeneix",
+      "Jean\u2010Paul Behr"
+    ],
+    "year": 1995,
+    "doi": "https://doi.org/10.1073/pnas.92.16.7297",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 6204,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2775925850",
+        "name": "Polyethylenimine",
+        "score": 0.9485812187194824
+      },
+      {
+        "id": "https://openalex.org/C54009773",
+        "name": "Transfection",
+        "score": 0.8206757307052612
+      },
+      {
+        "id": "https://openalex.org/C135983454",
+        "name": "Gene delivery",
+        "score": 0.7084203958511353
+      },
+      {
+        "id": "https://openalex.org/C161733203",
+        "name": "Reporter gene",
+        "score": 0.6227093935012817
+      },
+      {
+        "id": "https://openalex.org/C129312508",
+        "name": "Oligonucleotide",
+        "score": 0.6173121333122253
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": null,
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

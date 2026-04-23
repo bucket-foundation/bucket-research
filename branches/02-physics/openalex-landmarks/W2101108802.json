@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2101108802",
+    "canonical_url": "https://openalex.org/W2101108802",
+    "title": "Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications.",
+    "authors": [
+      "Harry Towbin",
+      "T. Staehelin",
+      "J. Gordon"
+    ],
+    "year": 1979,
+    "doi": "https://doi.org/10.1073/pnas.76.9.4350",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 53798,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778954975",
+        "name": "Nitrocellulose",
+        "score": 0.9392459392547607
+      },
+      {
+        "id": "https://openalex.org/C2778862431",
+        "name": "Polyacrylamide",
+        "score": 0.7815088033676147
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.666802167892456
+      },
+      {
+        "id": "https://openalex.org/C162008176",
+        "name": "Peroxidase",
+        "score": 0.5725484490394592
+      },
+      {
+        "id": "https://openalex.org/C2780365088",
+        "name": "Urea",
+        "score": 0.5710579752922058
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/411572",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

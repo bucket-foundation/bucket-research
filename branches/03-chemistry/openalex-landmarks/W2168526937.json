@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2168526937",
+    "canonical_url": "https://openalex.org/W2168526937",
+    "title": "A SIMPLE METHOD FOR THE ISOLATION AND PURIFICATION OF TOTAL LIPIDES FROM ANIMAL TISSUES",
+    "authors": [
+      "Jordi Folch",
+      "Marjorie B. Lees",
+      "G H S Stanley"
+    ],
+    "year": 1957,
+    "doi": "https://doi.org/10.1016/s0021-9258(18)64849-5",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 64689,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2775941552",
+        "name": "Isolation (microbiology)",
+        "score": 0.7818199992179871
+      },
+      {
+        "id": "https://openalex.org/C2780586882",
+        "name": "Simple (philosophy)",
+        "score": 0.6611568927764893
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.455557644367218
+      },
+      {
+        "id": "https://openalex.org/C43617362",
+        "name": "Chromatography",
+        "score": 0.4195118546485901
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.4125024378299713
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/s0021-9258(18)64849-5",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

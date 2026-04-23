@@ -1,0 +1,64 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2939474406",
+    "canonical_url": "https://openalex.org/W2939474406",
+    "title": "Climate change 2007: the physical science basis",
+    "authors": [
+      "Susan L. Solomon",
+      "Dahe Qin",
+      "Martin Manning",
+      "Melinda Marquis",
+      "Kristen Averyt",
+      "Melinda Tignor",
+      "H. L. Miller",
+      "Zhenlin Chen"
+    ],
+    "year": 2007,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 23473,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C132651083",
+        "name": "Climate change",
+        "score": 0.7152025699615479
+      },
+      {
+        "id": "https://openalex.org/C49204034",
+        "name": "Climatology",
+        "score": 0.6331238746643066
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.5505313873291016
+      },
+      {
+        "id": "https://openalex.org/C168754636",
+        "name": "Climate model",
+        "score": 0.471633642911911
+      },
+      {
+        "id": "https://openalex.org/C48999079",
+        "name": "Climate commitment",
+        "score": 0.42075997591018677
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://digital.library.unt.edu/ark:/67531/metadc950228/",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

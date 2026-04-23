@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2118919126",
+    "canonical_url": "https://openalex.org/W2118919126",
+    "title": "The Construct of Resilience: A Critical Evaluation and Guidelines for Future Work",
+    "authors": [
+      "Suniya S. Luthar",
+      "Dante Cicchetti",
+      "Bronwyn E. Becker"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1111/1467-8624.00164",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 9080,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780801425",
+        "name": "Construct (python library)",
+        "score": 0.8209168910980225
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "name": "Psychology",
+        "score": 0.5827171206474304
+      },
+      {
+        "id": "https://openalex.org/C547195049",
+        "name": "Terminology",
+        "score": 0.5549743175506592
+      },
+      {
+        "id": "https://openalex.org/C100521375",
+        "name": "Competence (human resources)",
+        "score": 0.5051215291023254
+      },
+      {
+        "id": "https://openalex.org/C100609095",
+        "name": "Embodied cognition",
+        "score": 0.49040651321411133
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8624.00164",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

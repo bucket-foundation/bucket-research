@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3022903699",
+    "canonical_url": "https://openalex.org/W3022903699",
+    "title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration",
+    "authors": [
+      "Alessandro Liberati",
+      "Douglas G. Altman",
+      "Jennifer Tetzlaff",
+      "Cynthia D. Mulrow",
+      "Peter C G\u00f8tzsche",
+      "John P. A. Ioannidis",
+      "Mike Clarke",
+      "P.J. Devereaux",
+      "Jos Kleijnen",
+      "David Moher"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1371/journal.pmed.1000100",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 27741,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C189708586",
+        "name": "Systematic review",
+        "score": 0.8697757720947266
+      },
+      {
+        "id": "https://openalex.org/C2779356329",
+        "name": "Checklist",
+        "score": 0.7904539108276367
+      },
+      {
+        "id": "https://openalex.org/C27415008",
+        "name": "Psychological intervention",
+        "score": 0.6515398025512695
+      },
+      {
+        "id": "https://openalex.org/C2780182762",
+        "name": "Guideline",
+        "score": 0.527374267578125
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "name": "MEDLINE",
+        "score": 0.5089313983917236
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1000100&type=printable",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

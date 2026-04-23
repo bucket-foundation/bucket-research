@@ -1,0 +1,63 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3128646645",
+    "canonical_url": "https://openalex.org/W3128646645",
+    "title": "Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries",
+    "authors": [
+      "Hyuna Sung",
+      "Jacques Ferlay",
+      "Rebecca L. Siegel",
+      "Mathieu Laversanne",
+      "Isabelle Soerjomataram",
+      "Ahmedin Jemal",
+      "Freddie Bray"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3322/caac.21660",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 111115,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C71924100",
+        "name": "Medicine",
+        "score": 0.7026069760322571
+      },
+      {
+        "id": "https://openalex.org/C121608353",
+        "name": "Cancer",
+        "score": 0.6876381635665894
+      },
+      {
+        "id": "https://openalex.org/C530470458",
+        "name": "Breast cancer",
+        "score": 0.6682701706886292
+      },
+      {
+        "id": "https://openalex.org/C2777789703",
+        "name": "Skin cancer",
+        "score": 0.5792765021324158
+      },
+      {
+        "id": "https://openalex.org/C2776256026",
+        "name": "Lung cancer",
+        "score": 0.5768730044364929
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3322/caac.21660",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

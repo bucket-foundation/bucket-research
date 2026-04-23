@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2171332611",
+    "canonical_url": "https://openalex.org/W2171332611",
+    "title": "Ultrasensitive fluorescent proteins for imaging neuronal activity",
+    "authors": [
+      "Tsai\u2010Wen Chen",
+      "Trevor J. Wardill",
+      "Yi Sun",
+      "Stefan R. Pulver",
+      "Sabine L. Renninger",
+      "Amy Baohan",
+      "Eric R. Schreiter",
+      "Rex Kerr",
+      "Michael B. Orger",
+      "Vivek Jayaraman"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1038/nature12354",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 7014,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776032975",
+        "name": "Calcium imaging",
+        "score": 0.8209995627403259
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "name": "Neuroscience",
+        "score": 0.6164795160293579
+      },
+      {
+        "id": "https://openalex.org/C2779177108",
+        "name": "GABAergic",
+        "score": 0.6087496280670166
+      },
+      {
+        "id": "https://openalex.org/C174884520",
+        "name": "Dendritic spine",
+        "score": 0.584705650806427
+      },
+      {
+        "id": "https://openalex.org/C118403218",
+        "name": "Biological neural network",
+        "score": 0.574891984462738
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.nature.com/articles/nature12354.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

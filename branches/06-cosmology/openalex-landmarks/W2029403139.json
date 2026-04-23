@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2029403139",
+    "canonical_url": "https://openalex.org/W2029403139",
+    "title": "The Large Scale Structure of Space-Time",
+    "authors": [
+      "S. W. Hawking",
+      "George Ellis"
+    ],
+    "year": 1973,
+    "doi": "https://doi.org/10.1017/cbo9780511524646",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10318,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C147452769",
+        "name": "General relativity",
+        "score": 0.7552088499069214
+      },
+      {
+        "id": "https://openalex.org/C33332235",
+        "name": "Theoretical physics",
+        "score": 0.5828467607498169
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.5808684825897217
+      },
+      {
+        "id": "https://openalex.org/C146846114",
+        "name": "Einstein",
+        "score": 0.5665560960769653
+      },
+      {
+        "id": "https://openalex.org/C149324446",
+        "name": "Theory of relativity",
+        "score": 0.538939356803894
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/08C536512F193018A985B4FAA7DD4F07/9780511524646pre_pi-vi_CBO.pdf/frontmatter.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

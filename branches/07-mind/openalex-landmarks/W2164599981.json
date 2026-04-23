@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2164599981",
+    "canonical_url": "https://openalex.org/W2164599981",
+    "title": "Situated Cognition and the Culture of Learning",
+    "authors": [
+      "John Seely Brown",
+      "Allan Collins",
+      "Paul Duguid"
+    ],
+    "year": 1989,
+    "doi": "https://doi.org/10.3102/0013189x018001032",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12917,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C132829578",
+        "name": "Situated",
+        "score": 0.9292742609977722
+      },
+      {
+        "id": "https://openalex.org/C80944243",
+        "name": "Situated cognition",
+        "score": 0.9042314291000366
+      },
+      {
+        "id": "https://openalex.org/C2778573382",
+        "name": "Cognitive apprenticeship",
+        "score": 0.7704870700836182
+      },
+      {
+        "id": "https://openalex.org/C200380349",
+        "name": "Situated learning",
+        "score": 0.7375581860542297
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "name": "Context (archaeology)",
+        "score": 0.629527747631073
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ideals.illinois.edu/items/18064/bitstreams/64664/data.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

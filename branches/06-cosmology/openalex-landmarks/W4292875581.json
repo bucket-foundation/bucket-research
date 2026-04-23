@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4292875581",
+    "canonical_url": "https://openalex.org/W4292875581",
+    "title": "<i>Planck</i>2015 results",
+    "authors": [
+      "P. A. R. Ade",
+      "N. Aghanim",
+      "M. Arnaud",
+      "M. Ashdown",
+      "J. Aumont",
+      "C. Baccigalupi",
+      "A. J. Banday",
+      "R. B. Barreiro",
+      "J. G. Bartlett",
+      "N. Bartolo"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1051/0004-6361/201525830",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10544,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.9672896862030029
+      },
+      {
+        "id": "https://openalex.org/C166126730",
+        "name": "Planck",
+        "score": 0.9072690010070801
+      },
+      {
+        "id": "https://openalex.org/C207297109",
+        "name": "Cosmic microwave background",
+        "score": 0.7568891048431396
+      },
+      {
+        "id": "https://openalex.org/C44870925",
+        "name": "Astrophysics",
+        "score": 0.7157378196716309
+      },
+      {
+        "id": "https://openalex.org/C103874350",
+        "name": "Hubble's law",
+        "score": 0.6991049647331238
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.aanda.org/articles/aa/pdf/2016/10/aa25830-15.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1976982219",
+    "canonical_url": "https://openalex.org/W1976982219",
+    "title": "Standard methods for the examination of water and waste water.",
+    "authors": [
+      "F. W. Gilcreas"
+    ],
+    "year": 1966,
+    "doi": "https://doi.org/10.2105/ajph.56.3.387",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 9605,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.49046918749809265
+      },
+      {
+        "id": "https://openalex.org/C548081761",
+        "name": "Waste management",
+        "score": 0.440212607383728
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "name": "Engineering",
+        "score": 0.22794026136398315
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": null,
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

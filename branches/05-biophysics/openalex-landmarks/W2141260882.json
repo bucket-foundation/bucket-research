@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2141260882",
+    "canonical_url": "https://openalex.org/W2141260882",
+    "title": "A new generation of Ca2+ indicators with greatly improved fluorescence properties.",
+    "authors": [
+      "Grzegorz Grynkiewicz",
+      "Martin Poenie",
+      "Roger Y. Tsien"
+    ],
+    "year": 1985,
+    "doi": "https://doi.org/10.1016/s0021-9258(19)83641-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 21706,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C91881484",
+        "name": "Fluorescence",
+        "score": 0.5622739195823669
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.5007178783416748
+      },
+      {
+        "id": "https://openalex.org/C12554922",
+        "name": "Biophysics",
+        "score": 0.4412795901298523
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.2016080617904663
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.08941802382469177
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/s0021-9258(19)83641-4",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

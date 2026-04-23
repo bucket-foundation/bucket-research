@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2100592123",
+    "canonical_url": "https://openalex.org/W2100592123",
+    "title": "In vitro scratch assay: a convenient and inexpensive method for analysis of cell migration in vitro",
+    "authors": [
+      "Chun-Chi Liang",
+      "Ann Y. Park",
+      "Jun\u2010Lin Guan"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1038/nprot.2007.30",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 4641,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781235140",
+        "name": "Scratch",
+        "score": 0.926817774772644
+      },
+      {
+        "id": "https://openalex.org/C137738243",
+        "name": "Cell migration",
+        "score": 0.8210785388946533
+      },
+      {
+        "id": "https://openalex.org/C202751555",
+        "name": "In vitro",
+        "score": 0.7277226448059082
+      },
+      {
+        "id": "https://openalex.org/C1491633281",
+        "name": "Cell",
+        "score": 0.577967643737793
+      },
+      {
+        "id": "https://openalex.org/C207001950",
+        "name": "In vivo",
+        "score": 0.5285155773162842
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.nature.com/articles/nprot.2007.30.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2164777277",
+    "canonical_url": "https://openalex.org/W2164777277",
+    "title": "The Measurement of Observer Agreement for Categorical Data",
+    "authors": [
+      "J. Richard Landis",
+      "Gary G. Koch"
+    ],
+    "year": 1977,
+    "doi": "https://doi.org/10.2307/2529310",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 77670,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C5274069",
+        "name": "Categorical variable",
+        "score": 0.8692288398742676
+      },
+      {
+        "id": "https://openalex.org/C2778724333",
+        "name": "Kappa",
+        "score": 0.7041875720024109
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "name": "Statistics",
+        "score": 0.6827325820922852
+      },
+      {
+        "id": "https://openalex.org/C142259097",
+        "name": "Homogeneity (statistics)",
+        "score": 0.6136261820793152
+      },
+      {
+        "id": "https://openalex.org/C161584116",
+        "name": "Multivariate statistics",
+        "score": 0.5648215413093567
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://hdl.handle.net/2027.42/171116",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

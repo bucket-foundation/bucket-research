@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1990513740",
+    "canonical_url": "https://openalex.org/W1990513740",
+    "title": "Diffusion of Innovations 1",
+    "authors": [
+      "Everett M. Rogers",
+      "Arvind Singhal",
+      "Margaret M. Quinlan"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.4324/9780203710753-35",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 37198,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780031656",
+        "name": "Glossary",
+        "score": 0.7233963012695312
+      },
+      {
+        "id": "https://openalex.org/C3017618536",
+        "name": "Innovation diffusion",
+        "score": 0.6975291967391968
+      },
+      {
+        "id": "https://openalex.org/C69357855",
+        "name": "Diffusion",
+        "score": 0.6513327956199646
+      },
+      {
+        "id": "https://openalex.org/C2777382242",
+        "name": "Index (typography)",
+        "score": 0.645104169845581
+      },
+      {
+        "id": "https://openalex.org/C2780917687",
+        "name": "Diffusion of innovations",
+        "score": 0.6446710824966431
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=1496176",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

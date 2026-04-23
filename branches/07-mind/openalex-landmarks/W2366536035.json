@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2366536035",
+    "canonical_url": "https://openalex.org/W2366536035",
+    "title": "The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary",
+    "authors": [
+      "David N. Louis",
+      "Arie Perry",
+      "Guido Reifenberger",
+      "Andreas von Deimling",
+      "Dominique Figarella-Branger",
+      "Webster K. Cavenee",
+      "Hiroko Ohgaki",
+      "Otmar D. Wiestler",
+      "Paul Kleihues",
+      "David W. Ellison"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1007/s00401-016-1545-1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 15789,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C529278444",
+        "name": "Central nervous system",
+        "score": 0.5318906903266907
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "name": "Medicine",
+        "score": 0.39972400665283203
+      },
+      {
+        "id": "https://openalex.org/C142724271",
+        "name": "Pathology",
+        "score": 0.3742324411869049
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "name": "Neuroscience",
+        "score": 0.33983534574508667
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.31654566526412964
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00401-016-1545-1.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

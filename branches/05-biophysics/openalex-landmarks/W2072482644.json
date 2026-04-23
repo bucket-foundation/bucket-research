@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2072482644",
+    "canonical_url": "https://openalex.org/W2072482644",
+    "title": "HIGH-YIELD PREPARATION OF ISOLATED RAT LIVER PARENCHYMAL CELLS",
+    "authors": [
+      "Michael N. Berry",
+      "Daniel S. Friend"
+    ],
+    "year": 1969,
+    "doi": "https://doi.org/10.1083/jcb.43.3.506",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 4433,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.761198878288269
+      },
+      {
+        "id": "https://openalex.org/C102568950",
+        "name": "Vacuole",
+        "score": 0.7187474966049194
+      },
+      {
+        "id": "https://openalex.org/C190062978",
+        "name": "Cytoplasm",
+        "score": 0.6761111617088318
+      },
+      {
+        "id": "https://openalex.org/C2780070996",
+        "name": "Trypan blue",
+        "score": 0.5714371204376221
+      },
+      {
+        "id": "https://openalex.org/C2778394429",
+        "name": "Collagenase",
+        "score": 0.5621750950813293
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://rupress.org/jcb/article-pdf/43/3/506/1069297/506.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

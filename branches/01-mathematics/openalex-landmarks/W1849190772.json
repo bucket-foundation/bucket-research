@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1849190772",
+    "canonical_url": "https://openalex.org/W1849190772",
+    "title": "Introduction to Mediation, Moderation, and Conditional Process Analysis: A Regression-Based Approach",
+    "authors": [
+      "Andrew F. Hayes"
+    ],
+    "year": 2013,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 45130,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C134261354",
+        "name": "Statistical inference",
+        "score": 0.6023044586181641
+      },
+      {
+        "id": "https://openalex.org/C149782125",
+        "name": "Econometrics",
+        "score": 0.5627254247665405
+      },
+      {
+        "id": "https://openalex.org/C71104824",
+        "name": "Structural equation modeling",
+        "score": 0.5512321591377258
+      },
+      {
+        "id": "https://openalex.org/C149769383",
+        "name": "Simple linear regression",
+        "score": 0.5373289585113525
+      },
+      {
+        "id": "https://openalex.org/C179420905",
+        "name": "Mediation",
+        "score": 0.5314105153083801
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://ci.nii.ac.jp/ncid/BB1323391X",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

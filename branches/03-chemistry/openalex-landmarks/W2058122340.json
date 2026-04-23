@@ -1,0 +1,64 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2058122340",
+    "canonical_url": "https://openalex.org/W2058122340",
+    "title": "Electric Field Effect in Atomically Thin Carbon Films",
+    "authors": [
+      "Kostya S. Novoselov",
+      "A. K. Ge\u01d0m",
+      "\u0421. \u0412. \u041c\u043e\u0440\u043e\u0437\u043e\u0432",
+      "Da Jiang",
+      "Y. Zhang",
+      "S. V. Dubonos",
+      "I. V. Grigorieva",
+      "\u0410. \u0410. Firsov"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1126/science.1102896",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 65665,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C60799052",
+        "name": "Electric field",
+        "score": 0.6693694591522217
+      },
+      {
+        "id": "https://openalex.org/C30080830",
+        "name": "Graphene",
+        "score": 0.6429572105407715
+      },
+      {
+        "id": "https://openalex.org/C192562407",
+        "name": "Materials science",
+        "score": 0.6354798078536987
+      },
+      {
+        "id": "https://openalex.org/C162862793",
+        "name": "Fullerene",
+        "score": 0.6278103590011597
+      },
+      {
+        "id": "https://openalex.org/C145598152",
+        "name": "Field-effect transistor",
+        "score": 0.5099684000015259
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://arxiv.org/pdf/cond-mat/0410550",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

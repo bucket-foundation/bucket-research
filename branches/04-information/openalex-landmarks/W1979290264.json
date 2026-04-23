@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1979290264",
+    "canonical_url": "https://openalex.org/W1979290264",
+    "title": "Using thematic analysis in psychology",
+    "authors": [
+      "Virginia Braun",
+      "Victoria Clarke"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1191/1478088706qp063oa",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 177010,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C74196892",
+        "name": "Thematic analysis",
+        "score": 0.9175432920455933
+      },
+      {
+        "id": "https://openalex.org/C93692415",
+        "name": "Thematic map",
+        "score": 0.7838783264160156
+      },
+      {
+        "id": "https://openalex.org/C3018587665",
+        "name": "Qualitative analysis",
+        "score": 0.6558132171630859
+      },
+      {
+        "id": "https://openalex.org/C190248442",
+        "name": "Qualitative research",
+        "score": 0.631189227104187
+      },
+      {
+        "id": "https://openalex.org/C25343380",
+        "name": "Relation (database)",
+        "score": 0.6303358674049377
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.tandfonline.com/doi/abs/10.1191/1478088706qp063oa",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

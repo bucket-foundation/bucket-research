@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2085261163",
+    "canonical_url": "https://openalex.org/W2085261163",
+    "title": "Random sample consensus",
+    "authors": [
+      "Martin A. Fischler",
+      "Robert C. Bolles"
+    ],
+    "year": 1981,
+    "doi": "https://doi.org/10.1145/358669.358692",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 25171,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C114744707",
+        "name": "RANSAC",
+        "score": 0.9966862797737122
+      },
+      {
+        "id": "https://openalex.org/C3770464",
+        "name": "Smoothing",
+        "score": 0.718184232711792
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.6771417856216431
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.6203285455703735
+      },
+      {
+        "id": "https://openalex.org/C2780297707",
+        "name": "Landmark",
+        "score": 0.6108582019805908
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://dl.acm.org/doi/pdf/10.1145/358669.358692",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

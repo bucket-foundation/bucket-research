@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2163605009",
+    "canonical_url": "https://openalex.org/W2163605009",
+    "title": "ImageNet classification with deep convolutional neural networks",
+    "authors": [
+      "Alex Krizhevsky",
+      "Ilya Sutskever",
+      "Geoffrey E. Hinton"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1145/3065386",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 75671,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C188441871",
+        "name": "Softmax function",
+        "score": 0.881705641746521
+      },
+      {
+        "id": "https://openalex.org/C81363708",
+        "name": "Convolutional neural network",
+        "score": 0.811793327331543
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.7891139984130859
+      },
+      {
+        "id": "https://openalex.org/C70437156",
+        "name": "Pooling",
+        "score": 0.6898125410079956
+      },
+      {
+        "id": "https://openalex.org/C2776145597",
+        "name": "Dropout (neural networks)",
+        "score": 0.629219651222229
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://dl.acm.org/ft_gateway.cfm?id=3065386&type=pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

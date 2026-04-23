@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2737217596",
+    "canonical_url": "https://openalex.org/W2737217596",
+    "title": "Production, use, and fate of all plastics ever made",
+    "authors": [
+      "Roland Geyer",
+      "Jenna Jambeck",
+      "Kara Lavender Law"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1126/sciadv.1700782",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 16985,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778348673",
+        "name": "Production (economics)",
+        "score": 0.6935082077980042
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "name": "Business",
+        "score": 0.4409100115299225
+      },
+      {
+        "id": "https://openalex.org/C183696295",
+        "name": "Biochemical engineering",
+        "score": 0.41669905185699463
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.3323057293891907
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.3252931833267212
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://advances.sciencemag.org/content/advances/3/7/e1700782.full.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

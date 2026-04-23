@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1551533759",
+    "canonical_url": "https://openalex.org/W1551533759",
+    "title": "Ecosystems and Human Well-being: Synthesis",
+    "authors": [
+      "Millenium Ecosystem Assessment"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.5281/zenodo.18167309",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10727,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C110872660",
+        "name": "Ecosystem",
+        "score": 0.5808348655700684
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "name": "Business",
+        "score": 0.3707888126373291
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.3614831864833832
+      },
+      {
+        "id": "https://openalex.org/C107826830",
+        "name": "Environmental resource management",
+        "score": 0.3576350212097168
+      },
+      {
+        "id": "https://openalex.org/C18903297",
+        "name": "Ecology",
+        "score": 0.24562695622444153
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doi.org/10.5281/zenodo.18167309",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

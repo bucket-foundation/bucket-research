@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2030966943",
+    "canonical_url": "https://openalex.org/W2030966943",
+    "title": "CONFIDENCE LIMITS ON PHYLOGENIES: AN APPROACH USING THE BOOTSTRAP",
+    "authors": [
+      "Joseph Felsenstein"
+    ],
+    "year": 1985,
+    "doi": "https://doi.org/10.1111/j.1558-5646.1985.tb00420.x",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 41256,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.9157255291938782
+      },
+      {
+        "id": "https://openalex.org/C44249647",
+        "name": "Confidence interval",
+        "score": 0.5249143242835999
+      },
+      {
+        "id": "https://openalex.org/C78458016",
+        "name": "Evolutionary biology",
+        "score": 0.4292137026786804
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "name": "Statistics",
+        "score": 0.3476625680923462
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "name": "Mathematics",
+        "score": 0.0
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1558-5646.1985.tb00420.x",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

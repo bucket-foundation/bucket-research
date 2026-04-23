@@ -1,0 +1,61 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2106787323",
+    "canonical_url": "https://openalex.org/W2106787323",
+    "title": "Global cancer statistics",
+    "authors": [
+      "Ahmedin Jemal",
+      "Freddie Bray",
+      "Jacques Ferlay",
+      "Elizabeth Ward",
+      "David Forman"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.3322/caac.20107",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 55018,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C71924100",
+        "name": "Medicine",
+        "score": 0.8977848291397095
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "name": "Statistics",
+        "score": 0.6058022379875183
+      },
+      {
+        "id": "https://openalex.org/C2992704333",
+        "name": "Cancer incidence",
+        "score": 0.6050009727478027
+      },
+      {
+        "id": "https://openalex.org/C61511704",
+        "name": "Incidence (geometry)",
+        "score": 0.5758281946182251
+      },
+      {
+        "id": "https://openalex.org/C121608353",
+        "name": "Cancer",
+        "score": 0.5480802059173584
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3322/caac.20107",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

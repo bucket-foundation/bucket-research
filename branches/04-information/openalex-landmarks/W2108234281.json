@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2108234281",
+    "canonical_url": "https://openalex.org/W2108234281",
+    "title": "The Sequence Alignment/Map format and SAMtools",
+    "authors": [
+      "Heng Li",
+      "Bob Handsaker",
+      "Alec Wysoker",
+      "Tim Fennell",
+      "Jue Ruan",
+      "Nils Homer",
+      "G\u00e1bor Marth",
+      "Gon\u00e7alo R. Abecasis",
+      "Richard Durbin",
+      "1000 Genome Project Data Processing Subgroup"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1093/bioinformatics/btp352",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 66577,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.6548399925231934
+      },
+      {
+        "id": "https://openalex.org/C75165309",
+        "name": "Search engine indexing",
+        "score": 0.6382876634597778
+      },
+      {
+        "id": "https://openalex.org/C45484198",
+        "name": "Sequence alignment",
+        "score": 0.578029990196228
+      },
+      {
+        "id": "https://openalex.org/C2279292",
+        "name": "k-mer",
+        "score": 0.5592251420021057
+      },
+      {
+        "id": "https://openalex.org/C88031987",
+        "name": "Multiple sequence alignment",
+        "score": 0.5495407581329346
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://academic.oup.com/bioinformatics/article-pdf/25/16/2078/48994296/bioinformatics_25_16_2078.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

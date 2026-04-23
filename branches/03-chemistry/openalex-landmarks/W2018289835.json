@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2018289835",
+    "canonical_url": "https://openalex.org/W2018289835",
+    "title": "Short-Term Effects of Nose-Only Cigarette Smoke Exposure on Glutathione Redox Homeostasis, Cytochrome P450 1A1/2 and Respiratory Enzyme Activities in Mice Tissues",
+    "authors": [
+      "Haider Raza",
+      "Annie John",
+      "Abderrahim Nemmar"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1159/000350087",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 47289,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.5956186652183533
+      },
+      {
+        "id": "https://openalex.org/C17991360",
+        "name": "Tumor necrosis factor alpha",
+        "score": 0.5606574416160583
+      },
+      {
+        "id": "https://openalex.org/C48349386",
+        "name": "Reactive oxygen species",
+        "score": 0.5502974987030029
+      },
+      {
+        "id": "https://openalex.org/C51551487",
+        "name": "p38 mitogen-activated protein kinases",
+        "score": 0.5481685400009155
+      },
+      {
+        "id": "https://openalex.org/C2779719074",
+        "name": "NADPH oxidase",
+        "score": 0.5189856886863708
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://karger.com/cpb/article-pdf/31/4-5/683/2424835/000350087.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

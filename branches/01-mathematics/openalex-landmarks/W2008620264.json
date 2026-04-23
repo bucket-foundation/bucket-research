@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2008620264",
+    "canonical_url": "https://openalex.org/W2008620264",
+    "title": "Emergence of Scaling in Random Networks",
+    "authors": [
+      "Albert-\u0139aszl\u00f3 Barab\u00e1si",
+      "R\u00e9ka Albert"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1126/science.286.5439.509",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 36159,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C80899671",
+        "name": "Vertex (graph theory)",
+        "score": 0.6619867086410522
+      },
+      {
+        "id": "https://openalex.org/C34947359",
+        "name": "Complex network",
+        "score": 0.6535643339157104
+      },
+      {
+        "id": "https://openalex.org/C99844830",
+        "name": "Scaling",
+        "score": 0.6077470779418945
+      },
+      {
+        "id": "https://openalex.org/C25580894",
+        "name": "Scale-free network",
+        "score": 0.5824725031852722
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.5255807042121887
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://arxiv.org/pdf/cond-mat/9910332",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

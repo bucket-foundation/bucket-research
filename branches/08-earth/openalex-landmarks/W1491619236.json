@@ -1,0 +1,53 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1491619236",
+    "canonical_url": "https://openalex.org/W1491619236",
+    "title": "A practical hand-book of seawater analysis",
+    "authors": [
+      "John Strickland",
+      "TIMOTHY R. PARSONS"
+    ],
+    "year": 1968,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 9036,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C197248824",
+        "name": "Seawater",
+        "score": 0.6726614832878113
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.45014458894729614
+      },
+      {
+        "id": "https://openalex.org/C111368507",
+        "name": "Oceanography",
+        "score": 0.3579689860343933
+      },
+      {
+        "id": "https://openalex.org/C127313418",
+        "name": "Geology",
+        "score": 0.22349804639816284
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://epic.awi.de/id/eprint/39262/1/Strickland-Parsons_1972.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

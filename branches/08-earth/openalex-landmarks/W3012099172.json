@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3012099172",
+    "canonical_url": "https://openalex.org/W3012099172",
+    "title": "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1",
+    "authors": [
+      "Neeltje van Doremalen",
+      "Trenton Bushmaker",
+      "Dylan H. Morris",
+      "Myndi G. Holbrook",
+      "Amandine Gamble",
+      "Brandi N. Williamson",
+      "Azaibi Tamin",
+      "Jennifer L. Harcourt",
+      "Natalie J. Thornburg",
+      "Susan I. Gerber"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1056/nejmc2004973",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10178,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C3007834351",
+        "name": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "score": 0.8382591009140015
+      },
+      {
+        "id": "https://openalex.org/C2779345167",
+        "name": "Aerosol",
+        "score": 0.8359718322753906
+      },
+      {
+        "id": "https://openalex.org/C3008058167",
+        "name": "Coronavirus disease 2019 (COVID-19)",
+        "score": 0.6717368364334106
+      },
+      {
+        "id": "https://openalex.org/C3020799909",
+        "name": "Sars virus",
+        "score": 0.6441599726676941
+      },
+      {
+        "id": "https://openalex.org/C3006700255",
+        "name": "2019-20 coronavirus outbreak",
+        "score": 0.6377502679824829
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://eprints.gla.ac.uk/294942/",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

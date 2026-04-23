@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2146396346",
+    "canonical_url": "https://openalex.org/W2146396346",
+    "title": "MEGA3: Integrated software for Molecular Evolutionary Genetics Analysis and sequence alignment",
+    "authors": [
+      "Sudhir Kumar"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1093/bib/5.2.150",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 11796,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C88031987",
+        "name": "Multiple sequence alignment",
+        "score": 0.5066888928413391
+      },
+      {
+        "id": "https://openalex.org/C166393388",
+        "name": "Molecular evolution",
+        "score": 0.5044423341751099
+      },
+      {
+        "id": "https://openalex.org/C193252679",
+        "name": "Phylogenetic tree",
+        "score": 0.5023074150085449
+      },
+      {
+        "id": "https://openalex.org/C180384323",
+        "name": "Alignment-free sequence analysis",
+        "score": 0.4931938052177429
+      },
+      {
+        "id": "https://openalex.org/C51679486",
+        "name": "DNA sequencing",
+        "score": 0.48878952860832214
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/bib/article-pdf/5/2/150/9731818/150.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

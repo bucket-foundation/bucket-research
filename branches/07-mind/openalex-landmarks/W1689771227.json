@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1689771227",
+    "canonical_url": "https://openalex.org/W1689771227",
+    "title": "SERVQUAL: A multiple-Item Scale for measuring consumer perceptions of service quality",
+    "authors": [
+      "A. Parasuraman",
+      "Leonard L. Berry",
+      "Valarie A. Zeithaml"
+    ],
+    "year": 1988,
+    "doi": "https://doi.org/10.5281/zenodo.14579729",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 21206,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C136703025",
+        "name": "SERVQUAL",
+        "score": 0.9588627815246582
+      },
+      {
+        "id": "https://openalex.org/C140781008",
+        "name": "Service quality",
+        "score": 0.6905156970024109
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "name": "Business",
+        "score": 0.6652695536613464
+      },
+      {
+        "id": "https://openalex.org/C2778755073",
+        "name": "Scale (ratio)",
+        "score": 0.6437773108482361
+      },
+      {
+        "id": "https://openalex.org/C26760741",
+        "name": "Perception",
+        "score": 0.588639497756958
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doi.org/10.5281/zenodo.14579729",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

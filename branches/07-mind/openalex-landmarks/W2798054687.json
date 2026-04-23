@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2798054687",
+    "canonical_url": "https://openalex.org/W2798054687",
+    "title": "NIA\u2010AA Research Framework: Toward a biological definition of Alzheimer's disease",
+    "authors": [
+      "Clifford R. Jack",
+      "David A. Bennett",
+      "Kaj Blennow",
+      "Mar\u00eda C. Carrillo",
+      "Billy Dunn",
+      "Samantha Budd Haeberlein",
+      "David M. Holtzman",
+      "William J. Jagust",
+      "Frank Jessen",
+      "Jason Karlawish"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.jalz.2018.02.018",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10052,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779134260",
+        "name": "Disease",
+        "score": 0.600470244884491
+      },
+      {
+        "id": "https://openalex.org/C502032728",
+        "name": "Alzheimer's disease",
+        "score": 0.4319360852241516
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "name": "Psychology",
+        "score": 0.37062305212020874
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "name": "Neuroscience",
+        "score": 0.3403348922729492
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "name": "Medicine",
+        "score": 0.31433865427970886
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/j.jalz.2018.02.018",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

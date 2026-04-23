@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3174246647",
+    "canonical_url": "https://openalex.org/W3174246647",
+    "title": "The 2021 WHO Classification of Tumors of the Central Nervous System: a summary",
+    "authors": [
+      "David N. Louis",
+      "Arie Perry",
+      "Pieter Wesseling",
+      "Daniel J. Brat",
+      "Ian A. Cree",
+      "Dominique Figarella\u2010Branger",
+      "Cynthia Hawkins",
+      "Ho\u2010Keung Ng",
+      "Stefan M. Pfister",
+      "Guido Reifenberger"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1093/neuonc/noab106",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 11299,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777286243",
+        "name": "Grading (engineering)",
+        "score": 0.6542907357215881
+      },
+      {
+        "id": "https://openalex.org/C514705636",
+        "name": "Nomenclature",
+        "score": 0.5144286751747131
+      },
+      {
+        "id": "https://openalex.org/C529278444",
+        "name": "Central nervous system",
+        "score": 0.5064455270767212
+      },
+      {
+        "id": "https://openalex.org/C534262118",
+        "name": "Medical diagnosis",
+        "score": 0.4860694706439972
+      },
+      {
+        "id": "https://openalex.org/C2779130545",
+        "name": "Brain tumor",
+        "score": 0.4719637632369995
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/neuro-oncology/article-pdf/23/8/1231/39535372/noab106.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

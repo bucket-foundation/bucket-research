@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1981368803",
+    "canonical_url": "https://openalex.org/W1981368803",
+    "title": "Generalized Gradient Approximation Made Simple",
+    "authors": [
+      "John P. Perdew",
+      "Kieron Burke",
+      "Matthias Ernzerhof"
+    ],
+    "year": 1996,
+    "doi": "https://doi.org/10.1103/physrevlett.77.3865",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 207668,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780586882",
+        "name": "Simple (philosophy)",
+        "score": 0.8251444697380066
+      },
+      {
+        "id": "https://openalex.org/C99844830",
+        "name": "Scaling",
+        "score": 0.6654375195503235
+      },
+      {
+        "id": "https://openalex.org/C121864883",
+        "name": "Statistical physics",
+        "score": 0.6102828979492188
+      },
+      {
+        "id": "https://openalex.org/C170122806",
+        "name": "Linear scale",
+        "score": 0.5540857315063477
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.4933842718601227
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "http://www.landingpage.org",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:13Z"
+  }
+}

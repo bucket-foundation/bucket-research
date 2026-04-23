@@ -1,0 +1,60 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1973782344",
+    "canonical_url": "https://openalex.org/W1973782344",
+    "title": "Transformation of intact yeast cells treated with alkali cations",
+    "authors": [
+      "Hisao Ito",
+      "Y Fukuda",
+      "Kousaku Murata",
+      "Akira Kimura"
+    ],
+    "year": 1983,
+    "doi": "https://doi.org/10.1128/jb.153.1.163-168.1983",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 7674,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C22744801",
+        "name": "Plasmid",
+        "score": 0.8742632865905762
+      },
+      {
+        "id": "https://openalex.org/C204241405",
+        "name": "Transformation (genetics)",
+        "score": 0.7598047256469727
+      },
+      {
+        "id": "https://openalex.org/C173749725",
+        "name": "Protoplast",
+        "score": 0.7228689193725586
+      },
+      {
+        "id": "https://openalex.org/C2777576037",
+        "name": "Saccharomyces cerevisiae",
+        "score": 0.7140284180641174
+      },
+      {
+        "id": "https://openalex.org/C178050479",
+        "name": "Transformation efficiency",
+        "score": 0.7052969932556152
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://jb.asm.org/content/jb/153/1/163.full.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

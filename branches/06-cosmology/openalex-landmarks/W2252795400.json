@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2252795400",
+    "canonical_url": "https://openalex.org/W2252795400",
+    "title": "Observation of Gravitational Waves from a Binary Black Hole Merger",
+    "authors": [
+      "B. P. Abbott",
+      "R. Abbott",
+      "T. D. Abbott",
+      "M. R. Abernathy",
+      "F. Acernese",
+      "K. Ackley",
+      "C. Adams",
+      "T. Adams",
+      "P. Addesso",
+      "R. X. Adhikari"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1103/physrevlett.116.061102",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 14042,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C190330329",
+        "name": "Gravitational wave",
+        "score": 0.810257613658905
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.7101846933364868
+      },
+      {
+        "id": "https://openalex.org/C48372109",
+        "name": "Binary number",
+        "score": 0.5858436226844788
+      },
+      {
+        "id": "https://openalex.org/C32602459",
+        "name": "Binary black hole",
+        "score": 0.5722618103027344
+      },
+      {
+        "id": "https://openalex.org/C50341732",
+        "name": "Black hole (networking)",
+        "score": 0.48641061782836914
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "http://link.aps.org/pdf/10.1103/PhysRevLett.116.061102",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

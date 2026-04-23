@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2146687568",
+    "canonical_url": "https://openalex.org/W2146687568",
+    "title": "IntCal13 and Marine13 Radiocarbon Age Calibration Curves 0\u201350,000 Years cal BP",
+    "authors": [
+      "Paula J Reimer",
+      "Edouard Bard",
+      "Alex Bayliss",
+      "J Warren Beck",
+      "Paul G Blackwell",
+      "Christopher Bronk Ramsey",
+      "Caitlin E Buck",
+      "Hai Cheng",
+      "R Lawrence Edwards",
+      "Michael Friedrich"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.2458/azu_js_rc.55.16947",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10003,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C100134115",
+        "name": "Radiocarbon dating",
+        "score": 0.9749000072479248
+      },
+      {
+        "id": "https://openalex.org/C165838908",
+        "name": "Calibration",
+        "score": 0.7382000088691711
+      },
+      {
+        "id": "https://openalex.org/C127313418",
+        "name": "Geology",
+        "score": 0.5874000191688538
+      },
+      {
+        "id": "https://openalex.org/C23531484",
+        "name": "Calibration curve",
+        "score": 0.5479999780654907
+      },
+      {
+        "id": "https://openalex.org/C100970517",
+        "name": "Physical geography",
+        "score": 0.413100004196167
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FB97C1341F452BD6A410C6FE4E28E090/S0033822200048864a.pdf/div-class-title-intcal13-and-marine13-radiocarbon-age-calibration-curves-0-50-000-years-cal-bp-div.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

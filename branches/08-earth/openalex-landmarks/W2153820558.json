@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2153820558",
+    "canonical_url": "https://openalex.org/W2153820558",
+    "title": "Global Consequences of Land Use",
+    "authors": [
+      "Jonathan A. Foley",
+      "Ruth DeFries",
+      "Gregory P. Asner",
+      "Carol Barford",
+      "Gordon B. Bonan",
+      "Stephen R. Carpenter",
+      "F. Stuart Chapin",
+      "Michael T. Coe",
+      "Gretchen C. Daily",
+      "Holly Gibbs"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1126/science.1111772",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12801,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C130217890",
+        "name": "Biodiversity",
+        "score": 0.6081764101982117
+      },
+      {
+        "id": "https://openalex.org/C175605778",
+        "name": "Natural resource economics",
+        "score": 0.5819584131240845
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "name": "Business",
+        "score": 0.5581625699996948
+      },
+      {
+        "id": "https://openalex.org/C58941895",
+        "name": "Ecosystem services",
+        "score": 0.535994827747345
+      },
+      {
+        "id": "https://openalex.org/C4792198",
+        "name": "Land use",
+        "score": 0.5282598733901978
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doi.org/10.5281/zenodo.19668591",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

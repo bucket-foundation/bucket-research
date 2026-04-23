@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2091160252",
+    "canonical_url": "https://openalex.org/W2091160252",
+    "title": "AN EXAMINATION OF THE DEGTJAREFF METHOD FOR DETERMINING SOIL ORGANIC MATTER, AND A PROPOSED MODIFICATION OF THE CHROMIC ACID TITRATION METHOD",
+    "authors": [
+      "Allan Walkley",
+      "I. ARMSTRONG BLACK"
+    ],
+    "year": 1934,
+    "doi": "https://doi.org/10.1097/00010694-193401000-00003",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 21283,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C184866935",
+        "name": "Titration",
+        "score": 0.8175709247589111
+      },
+      {
+        "id": "https://openalex.org/C2780340842",
+        "name": "Chromic acid",
+        "score": 0.7293782234191895
+      },
+      {
+        "id": "https://openalex.org/C48743137",
+        "name": "Organic matter",
+        "score": 0.5688469409942627
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.4715549945831299
+      },
+      {
+        "id": "https://openalex.org/C107872376",
+        "name": "Environmental chemistry",
+        "score": 0.42930108308792114
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://hdl.handle.net/11323/8879",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

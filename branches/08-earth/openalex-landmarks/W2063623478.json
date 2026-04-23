@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2063623478",
+    "canonical_url": "https://openalex.org/W2063623478",
+    "title": "Red and photographic infrared linear combinations for monitoring vegetation",
+    "authors": [
+      "Compton J. Tucker"
+    ],
+    "year": 1979,
+    "doi": "https://doi.org/10.1016/0034-4257(79)90013-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 11209,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C23690007",
+        "name": "Radiance",
+        "score": 0.8183031678199768
+      },
+      {
+        "id": "https://openalex.org/C48921125",
+        "name": "Linear regression",
+        "score": 0.5840063691139221
+      },
+      {
+        "id": "https://openalex.org/C2776133958",
+        "name": "Vegetation (pathology)",
+        "score": 0.5775377154350281
+      },
+      {
+        "id": "https://openalex.org/C39432304",
+        "name": "Environmental science",
+        "score": 0.5154820084571838
+      },
+      {
+        "id": "https://openalex.org/C58395597",
+        "name": "Red soil",
+        "score": 0.5108558535575867
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://ntrs.nasa.gov/api/citations/19780024582/downloads/19780024582.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

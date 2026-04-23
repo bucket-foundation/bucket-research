@@ -1,0 +1,63 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2193503481",
+    "canonical_url": "https://openalex.org/W2193503481",
+    "title": "Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization",
+    "authors": [
+      "Veronika Eyring",
+      "Sandrine Bony",
+      "Gerald A. Meehl",
+      "C. A. Senior",
+      "Bj\u00f6rn Stevens",
+      "Ronald J. Stouffer",
+      "Karl E. Taylor"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.5194/gmd-9-1937-2016",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 11686,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C25022447",
+        "name": "Coupled model intercomparison project",
+        "score": 0.7981557846069336
+      },
+      {
+        "id": "https://openalex.org/C56666940",
+        "name": "Documentation",
+        "score": 0.5577556490898132
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.5033790469169617
+      },
+      {
+        "id": "https://openalex.org/C204323151",
+        "name": "Range (aeronautics)",
+        "score": 0.42836815118789673
+      },
+      {
+        "id": "https://openalex.org/C2776436953",
+        "name": "Consistency (knowledge bases)",
+        "score": 0.42257818579673767
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.geosci-model-dev.net/9/1937/2016/gmd-9-1937-2016.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:20Z"
+  }
+}

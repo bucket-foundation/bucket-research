@@ -1,0 +1,65 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4385245566",
+    "canonical_url": "https://openalex.org/W4385245566",
+    "title": "MizAR 60 for Mizar 50",
+    "authors": [
+      "Jakub\u016fv, Jan",
+      "Chvalovsk\u00fd, Karel",
+      "Goertzel, Zarathustra",
+      "Kaliszyk, Cezary",
+      "Ol\u0161\u00e1k, Mirek",
+      "Piotrowski, Bartosz",
+      "Schulz, Stephan",
+      "Suda, Martin",
+      "Urban, Josef"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.4230/lipics.itp.2023.19",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 74914,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.8551121950149536
+      },
+      {
+        "id": "https://openalex.org/C203005215",
+        "name": "Machine translation",
+        "score": 0.8304240703582764
+      },
+      {
+        "id": "https://openalex.org/C66322947",
+        "name": "Transformer",
+        "score": 0.7824931144714355
+      },
+      {
+        "id": "https://openalex.org/C622187",
+        "name": "BLEU",
+        "score": 0.6924161911010742
+      },
+      {
+        "id": "https://openalex.org/C118505674",
+        "name": "Encoder",
+        "score": 0.6585307121276855
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol268-itp2023/LIPIcs.ITP.2023.19/LIPIcs.ITP.2023.19.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

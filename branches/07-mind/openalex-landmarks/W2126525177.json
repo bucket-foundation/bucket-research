@@ -1,0 +1,61 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2126525177",
+    "canonical_url": "https://openalex.org/W2126525177",
+    "title": "The Hallmarks of Aging",
+    "authors": [
+      "Carlos L\u00f3pez-Ot\u0131\u0301n",
+      "Mar\u0131\u0301a A. Blasco",
+      "Linda Partridge",
+      "Manuel Serrano",
+      "Guido Kroemer"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.cell.2013.05.039",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 14613,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C86803240",
+        "name": "Biology",
+        "score": 0.8177527785301208
+      },
+      {
+        "id": "https://openalex.org/C2781452922",
+        "name": "Proteostasis",
+        "score": 0.7095831036567688
+      },
+      {
+        "id": "https://openalex.org/C178169997",
+        "name": "Genome instability",
+        "score": 0.6726404428482056
+      },
+      {
+        "id": "https://openalex.org/C177336024",
+        "name": "Telomere",
+        "score": 0.6318578720092773
+      },
+      {
+        "id": "https://openalex.org/C522857546",
+        "name": "Senescence",
+        "score": 0.5450499653816223
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://www.cell.com/article/S0092867413006454/pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

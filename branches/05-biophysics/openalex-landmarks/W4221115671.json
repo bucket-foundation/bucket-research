@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4221115671",
+    "canonical_url": "https://openalex.org/W4221115671",
+    "title": "Copper induces cell death by targeting lipoylated TCA cycle proteins",
+    "authors": [
+      "Peter Tsvetkov",
+      "Shannon Coy",
+      "Boryana Petrova",
+      "Margaret Dreishpoon",
+      "Ana Verma",
+      "Mai Abdusamad",
+      "Jordan Rossen",
+      "Lena Joesch-Cohen",
+      "Ranad Humeidi",
+      "Ryan D. Spangler"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1126/science.abf0529",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 4450,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C31573885",
+        "name": "Programmed cell death",
+        "score": 0.8033075332641602
+      },
+      {
+        "id": "https://openalex.org/C544778455",
+        "name": "Copper",
+        "score": 0.7078617811203003
+      },
+      {
+        "id": "https://openalex.org/C95444343",
+        "name": "Cell biology",
+        "score": 0.6543882489204407
+      },
+      {
+        "id": "https://openalex.org/C28859421",
+        "name": "Mitochondrion",
+        "score": 0.5795581936836243
+      },
+      {
+        "id": "https://openalex.org/C165135838",
+        "name": "Citric acid cycle",
+        "score": 0.5534055829048157
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9273333",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

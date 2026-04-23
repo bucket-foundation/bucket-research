@@ -1,0 +1,62 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3010441732",
+    "canonical_url": "https://openalex.org/W3010441732",
+    "title": "Structural basis for the recognition of SARS-CoV-2 by full-length human ACE2",
+    "authors": [
+      "Renhong Yan",
+      "Yuanyuan Zhang",
+      "Yaning Li",
+      "Lu Xia",
+      "Yingying Guo",
+      "Qiang Zhou"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1126/science.abb2762",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 5579,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777648638",
+        "name": "Coronavirus",
+        "score": 0.7622810006141663
+      },
+      {
+        "id": "https://openalex.org/C3007834351",
+        "name": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "score": 0.5927329063415527
+      },
+      {
+        "id": "https://openalex.org/C2775946041",
+        "name": "Angiotensin-converting enzyme 2",
+        "score": 0.5071063041687012
+      },
+      {
+        "id": "https://openalex.org/C28406088",
+        "name": "Extracellular",
+        "score": 0.5034419894218445
+      },
+      {
+        "id": "https://openalex.org/C37407028",
+        "name": "Angstrom",
+        "score": 0.4895864427089691
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.science.org/cms/asset/9a6163c6-9842-44dc-b150-cb7f55aea49c/pap.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

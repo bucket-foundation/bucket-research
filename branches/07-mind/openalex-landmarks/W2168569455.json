@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2168569455",
+    "canonical_url": "https://openalex.org/W2168569455",
+    "title": "A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studies",
+    "authors": [
+      "Viswanath Venkatesh",
+      "Fred D. Davis"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1287/mnsc.46.2.186.11926",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 21944,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777249218",
+        "name": "Voluntariness",
+        "score": 0.724172830581665
+      },
+      {
+        "id": "https://openalex.org/C2776185967",
+        "name": "Technology acceptance model",
+        "score": 0.6215393543243408
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "name": "Psychology",
+        "score": 0.5624494552612305
+      },
+      {
+        "id": "https://openalex.org/C196083921",
+        "name": "Variance (accounting)",
+        "score": 0.5534920692443848
+      },
+      {
+        "id": "https://openalex.org/C170130773",
+        "name": "Usability",
+        "score": 0.5078449845314026
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://repositorio.unal.edu.co/handle/unal/81108",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:19Z"
+  }
+}

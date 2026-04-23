@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2142220522",
+    "canonical_url": "https://openalex.org/W2142220522",
+    "title": "The Two Micron All Sky Survey (2MASS)",
+    "authors": [
+      "Michael F. Skrutskie",
+      "R. M. Cutri",
+      "R. Stiening",
+      "Martin D. Weinberg",
+      "Stephen E. Schneider",
+      "John M. Carpenter",
+      "Charles Beichman",
+      "R. W. Capps",
+      "T. J. Chester",
+      "J. H. Elias"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1086/498708",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 12066,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C73329638",
+        "name": "Sky",
+        "score": 0.9360193014144897
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.7984611392021179
+      },
+      {
+        "id": "https://openalex.org/C103783831",
+        "name": "Point source",
+        "score": 0.7350283861160278
+      },
+      {
+        "id": "https://openalex.org/C186467627",
+        "name": "Celestial sphere",
+        "score": 0.6326955556869507
+      },
+      {
+        "id": "https://openalex.org/C1276947",
+        "name": "Astronomy",
+        "score": 0.4885598123073578
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://iopscience.iop.org/article/10.1086/498708/pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

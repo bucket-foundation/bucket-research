@@ -1,0 +1,62 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1511198581",
+    "canonical_url": "https://openalex.org/W1511198581",
+    "title": "The capsaicin receptor: a heat-activated ion channel in the pain pathway",
+    "authors": [
+      "Michael J. Caterina",
+      "Mark Schumacher",
+      "Makoto Tominaga",
+      "Tobias A. Rosen",
+      "Jon D. Levine",
+      "David Julius"
+    ],
+    "year": 1997,
+    "doi": "https://doi.org/10.1038/39807",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 9036,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780051329",
+        "name": "Capsaicin",
+        "score": 0.8271607160568237
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.5285612344741821
+      },
+      {
+        "id": "https://openalex.org/C50254741",
+        "name": "Ion channel",
+        "score": 0.5238078832626343
+      },
+      {
+        "id": "https://openalex.org/C170493617",
+        "name": "Receptor",
+        "score": 0.48628437519073486
+      },
+      {
+        "id": "https://openalex.org/C155164980",
+        "name": "Transient receptor potential channel",
+        "score": 0.4274982511997223
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.nature.com/articles/39807.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

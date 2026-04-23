@@ -1,0 +1,59 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1901129140",
+    "canonical_url": "https://openalex.org/W1901129140",
+    "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+    "authors": [
+      "Olaf Ronneberger",
+      "Philipp Fischer",
+      "Thomas Brox"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1007/978-3-319-24574-4_28",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": false,
+    "cited_by_count": 87001,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.8862078189849854
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.7002106308937073
+      },
+      {
+        "id": "https://openalex.org/C89600930",
+        "name": "Segmentation",
+        "score": 0.6719903945922852
+      },
+      {
+        "id": "https://openalex.org/C774472",
+        "name": "Margin (machine learning)",
+        "score": 0.661852240562439
+      },
+      {
+        "id": "https://openalex.org/C102392041",
+        "name": "Sliding window protocol",
+        "score": 0.6273837685585022
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

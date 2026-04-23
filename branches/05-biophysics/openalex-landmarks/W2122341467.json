@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2122341467",
+    "canonical_url": "https://openalex.org/W2122341467",
+    "title": "How mitochondria produce reactive oxygen species",
+    "authors": [
+      "Michael P. Murphy"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1042/bj20081386",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 7919,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C28859421",
+        "name": "Mitochondrion",
+        "score": 0.860426664352417
+      },
+      {
+        "id": "https://openalex.org/C75520062",
+        "name": "NAD+ kinase",
+        "score": 0.7419744729995728
+      },
+      {
+        "id": "https://openalex.org/C11701378",
+        "name": "Mitochondrial matrix",
+        "score": 0.6590801477432251
+      },
+      {
+        "id": "https://openalex.org/C2780795997",
+        "name": "Superoxide",
+        "score": 0.595486581325531
+      },
+      {
+        "id": "https://openalex.org/C48349386",
+        "name": "Reactive oxygen species",
+        "score": 0.5873581767082214
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://portlandpress.com/biochemj/article-pdf/417/1/1/659886/bj4170001.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2296319761",
+    "canonical_url": "https://openalex.org/W2296319761",
+    "title": "Convex Optimization",
+    "authors": [
+      "Stephen Boyd",
+      "Lieven Vandenberghe"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1017/cbo9780511804441",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 31261,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778449503",
+        "name": "Appeal",
+        "score": 0.6870809197425842
+      },
+      {
+        "id": "https://openalex.org/C2777855551",
+        "name": "Subject (documents)",
+        "score": 0.5542862415313721
+      },
+      {
+        "id": "https://openalex.org/C192209626",
+        "name": "Focus (optics)",
+        "score": 0.5449867844581604
+      },
+      {
+        "id": "https://openalex.org/C112680207",
+        "name": "Regular polygon",
+        "score": 0.544857919216156
+      },
+      {
+        "id": "https://openalex.org/C157972887",
+        "name": "Convex optimization",
+        "score": 0.5240316987037659
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doi.org/10.17023/etpt-7q23",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:14Z"
+  }
+}

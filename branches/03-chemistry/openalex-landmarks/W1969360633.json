@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1969360633",
+    "canonical_url": "https://openalex.org/W1969360633",
+    "title": "Crystal structure refinement with<i>SHELXL</i>",
+    "authors": [
+      "George M. Sheldrick"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1107/s2053229614024218",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 41739,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.6852735877037048
+      },
+      {
+        "id": "https://openalex.org/C115624301",
+        "name": "Crystal structure",
+        "score": 0.5937033891677856
+      },
+      {
+        "id": "https://openalex.org/C97250363",
+        "name": "File format",
+        "score": 0.5746297836303711
+      },
+      {
+        "id": "https://openalex.org/C162319229",
+        "name": "Data structure",
+        "score": 0.5282788872718811
+      },
+      {
+        "id": "https://openalex.org/C8010536",
+        "name": "Crystallography",
+        "score": 0.5056142807006836
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "http://journals.iucr.org/c/issues/2015/01/00/fa3356/fa3356.pdf",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2105668062",
+    "canonical_url": "https://openalex.org/W2105668062",
+    "title": "AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility",
+    "authors": [
+      "Garrett M. Morris",
+      "Ruth Huey",
+      "William Lindstrom",
+      "Michel F. Sanner",
+      "Richard K. Belew",
+      "David S. Goodsell",
+      "Arthur J. Olson"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/jcc.21256",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 24396,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41685203",
+        "name": "Docking (animal)",
+        "score": 0.9083515405654907
+      },
+      {
+        "id": "https://openalex.org/C44695244",
+        "name": "Searching the conformational space for docking",
+        "score": 0.6099008321762085
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.5443756580352783
+      },
+      {
+        "id": "https://openalex.org/C77319485",
+        "name": "Protein\u2013ligand docking",
+        "score": 0.5314454436302185
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.5205374956130981
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2760638",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}

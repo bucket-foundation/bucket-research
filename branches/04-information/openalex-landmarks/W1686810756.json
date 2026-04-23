@@ -1,0 +1,58 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1686810756",
+    "canonical_url": "https://openalex.org/W1686810756",
+    "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+    "authors": [
+      "Karen Simonyan",
+      "Andrew Zisserman"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.48550/arxiv.1409.1556",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 75502,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "name": "Computer science",
+        "score": 0.8173214197158813
+      },
+      {
+        "id": "https://openalex.org/C45347329",
+        "name": "Convolution (computer science)",
+        "score": 0.7872858047485352
+      },
+      {
+        "id": "https://openalex.org/C81363708",
+        "name": "Convolutional neural network",
+        "score": 0.7299412488937378
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "name": "Artificial intelligence",
+        "score": 0.6969326734542847
+      },
+      {
+        "id": "https://openalex.org/C108583219",
+        "name": "Deep learning",
+        "score": 0.6201232075691223
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://arxiv.org/pdf/1409.1556",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:16Z"
+  }
+}

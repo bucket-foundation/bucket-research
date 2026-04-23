@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2105874120",
+    "canonical_url": "https://openalex.org/W2105874120",
+    "title": "Comparative physiology of salt and water stress",
+    "authors": [
+      "Rana Munns"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1046/j.0016-8025.2001.00808.x",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 6315,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C32652394",
+        "name": "Plasmolysis",
+        "score": 0.7582241296768188
+      },
+      {
+        "id": "https://openalex.org/C2776371256",
+        "name": "Salt (chemistry)",
+        "score": 0.6748740077018738
+      },
+      {
+        "id": "https://openalex.org/C129513315",
+        "name": "Salinity",
+        "score": 0.6496020555496216
+      },
+      {
+        "id": "https://openalex.org/C102568950",
+        "name": "Vacuole",
+        "score": 0.6421552896499634
+      },
+      {
+        "id": "https://openalex.org/C183688256",
+        "name": "Photosynthesis",
+        "score": 0.5620701313018799
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.0016-8025.2001.00808.x",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:17Z"
+  }
+}

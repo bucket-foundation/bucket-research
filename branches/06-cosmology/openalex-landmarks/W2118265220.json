@@ -1,0 +1,66 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2118265220",
+    "canonical_url": "https://openalex.org/W2118265220",
+    "title": "First\u2010Year <i>Wilkinson Microwave Anisotropy Probe</i> ( <i>WMAP</i> ) Observations: Determination of Cosmological Parameters",
+    "authors": [
+      "David N. Spergel",
+      "Licia Verde",
+      "Hiranya V. Peiris",
+      "Eiichiro Komatsu",
+      "M. R. Nolta",
+      "C. L. Bennett",
+      "M. Halpern",
+      "G. Hinshaw",
+      "N. Jarosik",
+      "A. Kogut"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1086/377226",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 10978,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C87485669",
+        "name": "CMB cold spot",
+        "score": 0.9784407019615173
+      },
+      {
+        "id": "https://openalex.org/C207297109",
+        "name": "Cosmic microwave background",
+        "score": 0.7705901861190796
+      },
+      {
+        "id": "https://openalex.org/C121332964",
+        "name": "Physics",
+        "score": 0.704323410987854
+      },
+      {
+        "id": "https://openalex.org/C85725439",
+        "name": "Anisotropy",
+        "score": 0.683824360370636
+      },
+      {
+        "id": "https://openalex.org/C44870925",
+        "name": "Astrophysics",
+        "score": 0.571422815322876
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://arxiv.org/pdf/astro-ph/0302209",
+      "any_repository_has_fulltext": true
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:18Z"
+  }
+}

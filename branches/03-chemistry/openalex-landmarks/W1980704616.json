@@ -1,0 +1,57 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1980704616",
+    "canonical_url": "https://openalex.org/W1980704616",
+    "title": "Reporting physisorption data for gas/solid systems with special reference to the determination of surface area and porosity (Recommendations 1984)",
+    "authors": [
+      "K. S. W. Sing"
+    ],
+    "year": 1985,
+    "doi": "https://doi.org/10.1351/pac198557040603",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "abstract_inverted_index_present": true,
+    "cited_by_count": 23870,
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2780050857",
+        "name": "Physisorption",
+        "score": 0.9708741903305054
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "name": "Chemistry",
+        "score": 0.9457917213439941
+      },
+      {
+        "id": "https://openalex.org/C6648577",
+        "name": "Porosity",
+        "score": 0.7307280898094177
+      },
+      {
+        "id": "https://openalex.org/C2776799497",
+        "name": "Surface (topology)",
+        "score": 0.554888129234314
+      },
+      {
+        "id": "https://openalex.org/C150581940",
+        "name": "Specific surface area",
+        "score": 0.4650289714336395
+      }
+    ],
+    "oa": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.degruyter.com/document/doi/10.1351/pac198557040603/pdf",
+      "any_repository_has_fulltext": false
+    }
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-direct-fetch",
+    "fetched_at": "2026-04-23T03:06:15Z"
+  }
+}
