@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1990274257",
+    "canonical_url": "https://openalex.org/W1990274257",
+    "title": "Constituents of<i>Schisandra verruculosa</i>. and Their Cytotoxic Effect on Human Cancer Cell Lines",
+    "authors": [
+      "Rujida Wilairat",
+      "Anake Kijjoa",
+      "Madalena Pinto",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1080/13880200600794105",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Pharmaceutical Biology",
+    "concepts": [
+      "Schisandra",
+      "DPPH",
+      "Ascorbic acid",
+      "Chemistry",
+      "Vanillic acid"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

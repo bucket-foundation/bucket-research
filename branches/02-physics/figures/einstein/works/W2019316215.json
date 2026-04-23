@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2019316215",
+    "canonical_url": "https://openalex.org/W2019316215",
+    "title": "Synthesis and characterization of ruthenium(II) complexes of 2\u2032-hydroxychalcones",
+    "authors": [
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "G. Tarrago",
+      "Claude Marzin"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1039/a809005j",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Ruthenium",
+      "Dimethyl sulfoxide",
+      "Sulfoxide",
+      "Potassium"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

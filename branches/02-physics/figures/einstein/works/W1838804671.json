@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1838804671",
+    "canonical_url": "https://openalex.org/W1838804671",
+    "title": "Ohmic heating assisted synthesis of coumarinyl porphyrin derivatives",
+    "authors": [
+      "Mariana Cardoso",
+      "Ana T. P. C. Gomes",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Fernando de Carvalho da Silva",
+      "V\u0131\u0301tor F. Ferreira",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1039/c5ra11156k",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "RSC Advances",
+    "concepts": [
+      "Porphyrin",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Joule heating",
+      "Ohmic contact"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

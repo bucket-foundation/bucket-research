@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4313651707",
+    "canonical_url": "https://openalex.org/W4313651707",
+    "title": "In Vitro Cytotoxicity of 7,3\u2032,4\u2032-Trihydroxyflavones in Lung Fibroblasts",
+    "authors": [
+      "Isabela Santos",
+      "H\u00e9lio M. T. Albuquerque",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes",
+      "Jos\u00e9 Miguel P. Ferreira de Oliveira"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/ecmc2022-13254",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ECMC 2022",
+    "concepts": [
+      "Cytotoxicity",
+      "In vitro",
+      "Fibroblast",
+      "Cell biology",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

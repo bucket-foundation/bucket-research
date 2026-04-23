@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2086786175",
+    "canonical_url": "https://openalex.org/W2086786175",
+    "title": "From Single\u2010Molecule Precursors to Coupled Ag<sub>2</sub>S/TiO<sub>2</sub> Nanocomposites",
+    "authors": [
+      "M\u00e1rcia C. Neves",
+      "Olinda C. Monteiro",
+      "Rolf Hempelmann",
+      "Artur M. S. Silva",
+      "Tito Trindade"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1002/ejic.200800110",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 26,
+    "type": "article",
+    "venue": "European Journal of Inorganic Chemistry",
+    "concepts": [
+      "Nanocomposite",
+      "Chemistry",
+      "Anatase",
+      "Sulfide",
+      "Metal"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3114949262",
+    "canonical_url": "https://openalex.org/W3114949262",
+    "title": "Chalcones as Scavengers of HOCl and Inhibitors of Oxidative Burst: Structure-Activity Relationship Studies",
+    "authors": [
+      "Thaise S. Martins",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Jos\u00e9 L. F. C. Lima",
+      "Eduarda Fernandes",
+      "Daniela Ribeiro"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.2174/1573406417666201230093207",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Medicinal Chemistry",
+    "concepts": [
+      "Hypochlorous acid",
+      "Chalcone",
+      "Chemistry",
+      "Respiratory burst",
+      "Oxidative phosphorylation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2910929063",
+    "canonical_url": "https://openalex.org/W2910929063",
+    "title": "Fluorescent Light\u2010up Probe for the Detection of Protein Aggregates",
+    "authors": [
+      "Raquel Nunes da Silva",
+      "Catarina Costa",
+      "Maria J. G. Santos",
+      "Mariana Alves",
+      "Susana S. Braga",
+      "Sandra I. Vieira",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1002/asia.201801606",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 14,
+    "type": "article",
+    "venue": "Chemistry - An Asian Journal",
+    "concepts": [
+      "Fluorescence",
+      "Pyridinium",
+      "Chemistry",
+      "Stain",
+      "Biophysics"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949454069",
+    "canonical_url": "https://openalex.org/W2949454069",
+    "title": "Synthesis of Novel 1-Aryl-9H-xanthen-9-ones",
+    "authors": [
+      "Artur M. S. Silva",
+      "C\u00e1tia I. C. Esteves",
+      "Clementina M.M. Santos",
+      "Cristela M. Brito",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1055/s-0030-1260567",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Aryl",
+      "Condensation",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950501808",
+    "canonical_url": "https://openalex.org/W2950501808",
+    "title": "Towards the Synthesis of Platachromone B, a Bioactive Natural Prenylated (E)-2-Styrychromone",
+    "authors": [
+      "Artur M. S. Silva",
+      "Frederico R. Baptista",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1055/s-0033-1340989",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Prenylation",
+      "Natural product",
+      "Stereochemistry",
+      "Total synthesis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4380046868",
+    "canonical_url": "https://openalex.org/W4380046868",
+    "title": "A Comparative Analysis between the Phenolic Content, Key Enzyme Inhibitory Potential, and Cytotoxic Activity of Arum italicum Miller in Two Different Organs",
+    "authors": [
+      "Habiba Rechek",
+      "Ammar Haouat",
+      "Diana C. G. A. Pinto",
+      "David M. Pereira",
+      "Renato B. Pereira",
+      "M\u00f3nica V\u00e1lega",
+      "Susana M. Cardoso",
+      "Artur M. S. Silva"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/ijpb14020041",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "International Journal of Plant Biology",
+    "concepts": [
+      "Phytochemical",
+      "Glycoside",
+      "Biology",
+      "Amylase",
+      "Acarbose"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

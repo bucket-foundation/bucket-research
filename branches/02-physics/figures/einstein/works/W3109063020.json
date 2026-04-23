@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3109063020",
+    "canonical_url": "https://openalex.org/W3109063020",
+    "title": "Exploiting Response Surface Methodology (RSM) as a Novel Approach for the Optimization of Phenolic and Antioxidant Activity of Date Palm Fruit",
+    "authors": [
+      "Laboratoire des Sciences Fondamentale, Universit\u00e9 Amar Telidji, Laghouat, Alg\u00e9rie",
+      "Soumaya Hachani",
+      "Sarah Boukhalkhal",
+      "Laboratoire des Sciences Fondamentale, Universit\u00e9 Amar Telidji, Laghouat, Alg\u00e9rie",
+      "Ziyad Ben Ahmed",
+      "Laboratoire des Sciences Fondamentale, Universit\u00e9 Amar Telidji, Laghouat, Alg\u00e9rie",
+      "Mohamed Harrat",
+      "Laboratoire des Sciences Fondamentale, Universit\u00e9 Amar Telidji, Laghouat, Alg\u00e9rie",
+      "Artur M. S. Silva",
+      "Mohamed Yousfi",
+      "Laboratoire des Sciences Fondamentale, Universit\u00e9 Amar Telidji, Laghouat, Alg\u00e9rie"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.23939/chcht14.04.572",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Chemistry & Chemical Technology",
+    "concepts": [
+      "Response surface methodology",
+      "DPPH",
+      "Antioxidant",
+      "Extraction (chemistry)",
+      "Antioxidant capacity"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

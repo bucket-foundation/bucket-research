@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4200220763",
+    "canonical_url": "https://openalex.org/W4200220763",
+    "title": "[Retracted] Styrylchromones: Biological Activities and Structure\u2010Activity Relationship",
+    "authors": [
+      "Mariana Lucas",
+      "Marisa Freitas",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes",
+      "Daniela Ribeiro"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1155/2021/2804521",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "review",
+    "venue": "Oxidative Medicine and Cellular Longevity",
+    "concepts": [
+      "Computational biology",
+      "Structure\u2013activity relationship",
+      "Biology",
+      "Biochemistry",
+      "In vitro"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

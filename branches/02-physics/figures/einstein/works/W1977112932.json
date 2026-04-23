@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1977112932",
+    "canonical_url": "https://openalex.org/W1977112932",
+    "title": "Synthesis of 3-Benzoyl-4-styryl-2-pyrazolines and Their Oxidation to the Corresponding Pyrazoles",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Albert L\u00e9vai",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Tam\u00e1s Patonay",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1002/1099-0690(200007)2000:14<2593::aid-ejoc2593>3.0.co;2-y",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 40,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Regioselectivity",
+      "Diazomethane",
+      "Cycloaddition",
+      "Benzoyl peroxide"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

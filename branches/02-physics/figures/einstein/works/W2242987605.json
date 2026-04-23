@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2242987605",
+    "canonical_url": "https://openalex.org/W2242987605",
+    "title": "Novel 2-Styrylchromones with high anti-inflammatory potencial through prevention of LTB4 production by human leukocytes, inhibition of COX-1 activity and scavenging of ROS and RNS",
+    "authors": [
+      "Ana Gomes",
+      "Eduarda Fernandes",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Clementina M.M. Santos",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 L. F. C. Lima"
+    ],
+    "year": 2008,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Chemistry",
+      "Immunology",
+      "Pharmacology",
+      "Medicine"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

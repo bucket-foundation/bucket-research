@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1993389059",
+    "canonical_url": "https://openalex.org/W1993389059",
+    "title": "Novel Diels-Alder and Thermal [4+4] Cycloadditions of Corroles",
+    "authors": [
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Joana F. B. Barata",
+      "Ana M. G. Silva",
+      "M. Amparo F. Faustino",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1055/s-2004-822916",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Diels\u2013Alder reaction",
+      "Alder",
+      "Thermal",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

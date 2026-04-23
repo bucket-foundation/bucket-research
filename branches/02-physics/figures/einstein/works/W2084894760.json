@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2084894760",
+    "canonical_url": "https://openalex.org/W2084894760",
+    "title": "Microwave\u2010Induced Synthesis and Regio\u2010 and Stereoselective Epoxidation of 3\u2010Styrylchromones",
+    "authors": [
+      "Tam\u00e1s Patonay",
+      "Attila Kiss\u2010Szikszai",
+      "Vera M. L. Silva",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "J\u00f3zsef Jek\u0151"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1002/ejoc.200701081",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Dimethyldioxirane",
+      "Regioselectivity",
+      "Stereoselectivity",
+      "Hydrogen peroxide"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2956980185",
+    "canonical_url": "https://openalex.org/W2956980185",
+    "title": "Synthesis of 4,5-disubstituted-1H-1,2,3-triazoles",
+    "authors": [
+      "Djenisa H. A. Rocha",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1007/s00706-019-02463-x",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Sodium azide",
+      "Aryl",
+      "Sonogashira coupling",
+      "Cycloaddition",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

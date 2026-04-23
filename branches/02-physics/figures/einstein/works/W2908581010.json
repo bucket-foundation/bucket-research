@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2908581010",
+    "canonical_url": "https://openalex.org/W2908581010",
+    "title": "Erubescensoic Acid, a New Polyketide and a Xanthonopyrone SPF-3059-26 from the Culture of the Marine Sponge-Associated Fungus Penicillium erubescens KUFA 0220 and Antibacterial Activity Evaluation of Some of Its Constituents",
+    "authors": [
+      "Decha Kumla",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Joana Freitas\u2010Silva",
+      "Paulo Martins da Costa",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Anake Kijjoa"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/molecules24010208",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Polyketide",
+      "Fungus",
+      "Stereochemistry",
+      "Antibacterial activity",
+      "Penicillium"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4361007790",
+    "canonical_url": "https://openalex.org/W4361007790",
+    "title": "Exploiting the Integrated Valorization of Eucalyptus globulus Leaves: Chemical Composition and Biological Potential of the Lipophilic Fraction before and after Hydrodistillation",
+    "authors": [
+      "C\u00e1tia S. D. Oliveira",
+      "Patr\u00edcia Moreira",
+      "Maria Teresa Cruz",
+      "Cl\u00e1udia Pereira",
+      "Artur M. S. Silva",
+      "S\u00f3nia A.O. Santos",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/ijms24076226",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Eucalyptus globulus",
+      "Chemistry",
+      "Ursolic acid",
+      "Terpene",
+      "Composition (language)"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

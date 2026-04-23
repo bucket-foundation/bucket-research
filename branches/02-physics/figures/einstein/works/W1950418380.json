@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1950418380",
+    "canonical_url": "https://openalex.org/W1950418380",
+    "title": "Characterisation of ( <i>E</i> )\u20102\u2010styrylchromones by electrospray ionisation mass spectrometry: singular gas\u2010phase formation of benzoxanthenones",
+    "authors": [
+      "Eduarda M. P. Silva",
+      "M. Ros\u00e1rio Domingues",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1002/rcm.6345",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Rapid Communications in Mass Spectrometry",
+    "concepts": [
+      "Chemistry",
+      "Analytical Chemistry (journal)",
+      "Ion",
+      "Mass spectrometry",
+      "Electrospray"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

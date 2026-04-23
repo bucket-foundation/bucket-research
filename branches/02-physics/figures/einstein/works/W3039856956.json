@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3039856956",
+    "canonical_url": "https://openalex.org/W3039856956",
+    "title": "Unsymmetrical 2,4,6\u2010Triarylpyridines as Versatile Scaffolds for Deep\u2010Blue and Dual\u2010Emission Fluorophores",
+    "authors": [
+      "Lu\u00eds F. B. Fontes",
+      "Raquel Nunes da Silva",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1002/cptc.202000134",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "ChemPhotoChem",
+    "concepts": [
+      "Intramolecular force",
+      "Pyridine",
+      "Photochemistry",
+      "Anisole",
+      "Excited state"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

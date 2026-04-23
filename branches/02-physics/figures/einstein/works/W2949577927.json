@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949577927",
+    "canonical_url": "https://openalex.org/W2949577927",
+    "title": "ChemInform Abstract: New Syntheses of Flavones from Diels\u2014Alder Reactions of 2\u2010Styrylchromones with ortho\u2010Benzoquinodimethanes.",
+    "authors": [
+      "Artur M. S. Silva",
+      "Ana M. G. Silva",
+      "Augusto C. Tom\u00e9",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1002/chin.199921133",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Flavones",
+      "Combinatorial chemistry",
+      "Diels\u2013Alder reaction",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

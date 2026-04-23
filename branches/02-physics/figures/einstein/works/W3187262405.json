@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3187262405",
+    "canonical_url": "https://openalex.org/W3187262405",
+    "title": "Anthraquinones, Diphenyl Ethers, and Their Derivatives from the Culture of the Marine Sponge-Associated Fungus Neosartorya spinosa KUFA 1047",
+    "authors": [
+      "Joana D. M. de S\u00e1",
+      "Jos\u00e9 A. Pereira",
+      "Tida Dethoup",
+      "Honorina Cidade",
+      "Em\u0131\u0301lia Sousa",
+      "In\u00eas C. Rodrigues",
+      "Paulo Martins da Costa",
+      "Sharad Mistry",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/md19080457",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Stereochemistry",
+      "Anthraquinones",
+      "Anthraquinone",
+      "Fungus",
+      "Sponge"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

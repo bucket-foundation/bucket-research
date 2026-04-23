@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W179541730",
+    "canonical_url": "https://openalex.org/W179541730",
+    "title": "New Methyl Dehydroabietate Derivatives: Synthesis and Structural Characterization",
+    "authors": [
+      "Armando J. D. Silvestre",
+      "S\u00edlvia Monteiro",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "V\u0131\u0301tor F\u00e9lix",
+      "Paula Ferreira",
+      "Michael G. B. Drew"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1007/pl00010130",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Chemistry",
+      "Substituent",
+      "Steric effects",
+      "Isopropyl",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

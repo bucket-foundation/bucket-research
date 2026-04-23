@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397786377",
+    "canonical_url": "https://openalex.org/W4397786377",
+    "title": "CCDC 1898158: Experimental Crystal Structure Determination",
+    "authors": [
+      "Vera Silva",
+      "Artur M. S. Silva",
+      "Rosa M. Claramunt",
+      "Concepci\u00f3n L\u00f3pez",
+      "Dion\u00edsia Sanz",
+      "Lourdes Infantes",
+      "\u00c1ngela Mart\u00ednez L\u00f3pez",
+      "Felipe Reviriego",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc21q5xw",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Geography",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

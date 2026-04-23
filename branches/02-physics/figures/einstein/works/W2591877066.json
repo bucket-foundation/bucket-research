@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2591877066",
+    "canonical_url": "https://openalex.org/W2591877066",
+    "title": "Effects of the Inoculant Strain Pseudomonas sp. SPN31 nah + and of 2-Methylnaphthalene Contamination on the Rhizosphere and Endosphere Bacterial Communities of Halimione portulacoides",
+    "authors": [
+      "Vanessa Oliveira",
+      "Newton C. M. Gomes",
+      "Magda Santos",
+      "Adelaide Almeida",
+      "Ana I. Lilleb\u00f8",
+      "Jo\u00e3o Ezequiel",
+      "Jo\u00e3o Ser\u00f4dio",
+      "Artur M. S. Silva",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "S\u0131\u0301lvia M. Rocha",
+      "\u00c2ngela Cunha"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1007/s00284-017-1197-y",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "Current Microbiology",
+    "concepts": [
+      "Rhizosphere",
+      "Biology",
+      "Microbial inoculant",
+      "Pseudomonas",
+      "Inoculation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3111776973",
+    "canonical_url": "https://openalex.org/W3111776973",
+    "title": "Selective separation of hibiscus acid from Roselle extracts by an amino-functionalized Metal Organic Framework",
+    "authors": [
+      "Reda M. Abdelhameed",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.chroma.2020.461789",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Journal of Chromatography A",
+    "concepts": [
+      "Hibiscus sabdariffa",
+      "Chemistry",
+      "Hibiscus",
+      "Chromatography",
+      "Ascorbic acid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2278027035",
+    "canonical_url": "https://openalex.org/W2278027035",
+    "title": "Keggin and Dawson-type polyoxometalates as efficient catalysts for the synthesis of 3,4-dihydropyrimidinones: experimental and theoretical studies",
+    "authors": [
+      "Liza Saher",
+      "Malika Makhloufi\u2010Chebli",
+      "Leila Dermeche",
+      "Baya Boutemeur\u2010Khedis",
+      "C. Rabia",
+      "Artur M. S. Silva",
+      "Ma\u00e2mar Hamdi"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.tetlet.2016.02.077",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Acetonitrile",
+      "Catalysis",
+      "Aldehyde",
+      "Urea"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

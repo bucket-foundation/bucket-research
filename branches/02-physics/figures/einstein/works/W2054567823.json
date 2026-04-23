@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2054567823",
+    "canonical_url": "https://openalex.org/W2054567823",
+    "title": "2,5-Diaryl-3,4-dimethyltetrahydrofuran lignans from Talauma hodgsonii",
+    "authors": [
+      "Lu\u00eds M. M. Vieira",
+      "Anake Kijjoa",
+      "Artur M. S. Silva",
+      "Ing\u2010On Mondranondra",
+      "Werner Herz"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1016/s0031-9422(97)01029-7",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Lignan",
+      "Stereochemistry",
+      "Chemistry",
+      "Traditional medicine",
+      "Medicine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

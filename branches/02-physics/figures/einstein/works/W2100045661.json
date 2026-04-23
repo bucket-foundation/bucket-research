@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2100045661",
+    "canonical_url": "https://openalex.org/W2100045661",
+    "title": "Diels\u2013Alder reactions of chromone-3-carboxaldehydes with ortho-benzoquinodimethane. New synthesis of benzo[b]xanthones",
+    "authors": [
+      "Angela Sandulache",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1016/s0040-4020(01)01131-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 43,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Cycloaddition",
+      "Xanthone",
+      "Diastereomer"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

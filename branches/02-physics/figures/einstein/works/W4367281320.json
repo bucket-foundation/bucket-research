@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4367281320",
+    "canonical_url": "https://openalex.org/W4367281320",
+    "title": "4.1.1.3. Bromination of (<i>E</i>)-chalcones [(<i>E</i>)-1,3-Diarylprop-2-en-1-ones]",
+    "authors": [
+      "Artur M. S. Silva",
+      "Augusto C. Tom\u00e9",
+      "Diana C. G. A. Pinto",
+      "Fernando M. J. Domingues",
+      "Gra\u00e7a M. Oliveira Rocha",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "M. Gra\u00e7a P. M. S. Neves",
+      "M. Amparo F. Faustino",
+      "M\u00e1rio M.Q. Sim\u00f5es"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1039/9781849739634-00229",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": null,
+    "concepts": [
+      "Halogenation",
+      "Medicinal chemistry",
+      "Chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

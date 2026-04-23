@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2113165586",
+    "canonical_url": "https://openalex.org/W2113165586",
+    "title": "ChemInform Abstract: 5\u2010Hydroxy\u20102\u2010(phenyl or styryl)chromones: One\u2010Pot Synthesis and C\u20106, C\u2010 8 13C NMR Assignments.",
+    "authors": [
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1994,
+    "doi": "https://doi.org/10.1002/chin.199452157",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Carbon-13 NMR",
+      "Combinatorial chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

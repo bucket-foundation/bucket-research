@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2921906534",
+    "canonical_url": "https://openalex.org/W2921906534",
+    "title": "Dual application of chiral derivatives of xanthones in medicinal chemistry and liquid chromatography",
+    "authors": [
+      "Carla Fernandes",
+      "Ye\u2019 Zaw Phyo",
+      "Jo\u00e3o Ribeiro",
+      "Sara Cravo",
+      "Maria Elizabeth Tiritan",
+      "Artur M. S. Silva",
+      "Anake Kijjoa",
+      "Madalena Pinto"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/ecmc-4-05604",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": null,
+    "concepts": [
+      "Xanthone",
+      "Chemistry",
+      "European union",
+      "Stereochemistry",
+      "Business"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

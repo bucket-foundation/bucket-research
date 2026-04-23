@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4376126524",
+    "canonical_url": "https://openalex.org/W4376126524",
+    "title": "Microwave-assisted extraction optimization and conventional extraction of phenolic compounds from coriander leaves: UHPLC characterization and antioxidant activity",
+    "authors": [
+      "Khokha Mouhoubi",
+      "Lila Boulekbache\u2010Makhlouf",
+      "Khodir Madani",
+      "Mohamed Lamine Freidja",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.51745/najfnr.7.15.69-83",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 14,
+    "type": "article",
+    "venue": "The North African Journal of Food and Nutrition Research",
+    "concepts": [
+      "Coriandrum",
+      "Extraction (chemistry)",
+      "Chemistry",
+      "Antioxidant",
+      "Sativum"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

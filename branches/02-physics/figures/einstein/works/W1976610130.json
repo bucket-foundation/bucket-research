@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1976610130",
+    "canonical_url": "https://openalex.org/W1976610130",
+    "title": "Synthesis and characterization of ruthenium(ii) complexes of 5\u2010hydroxyflavones",
+    "authors": [
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "G. Tarrago",
+      "Claude Marzin"
+    ],
+    "year": 1994,
+    "doi": "https://doi.org/10.1002/jhet.5570310118",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Ruthenium",
+      "Dimethyl sulfoxide",
+      "Sulfoxide",
+      "Cyclic voltammetry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

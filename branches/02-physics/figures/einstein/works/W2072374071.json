@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2072374071",
+    "canonical_url": "https://openalex.org/W2072374071",
+    "title": "Facile synthesis of oxo-/thioxopyrimidines and tetrazoles C\u2013C linked to sugars as novel non-toxic antioxidant acetylcholinesterase inhibitors",
+    "authors": [
+      "Jos\u00e9 A. Figueiredo",
+      "Maria I. Ismael",
+      "Jorge M. Pinheiro",
+      "Artur M. S. Silva",
+      "Jorge Justino",
+      "Filipa Silva",
+      "M. Goulart",
+      "D. Mira",
+      "Maria Eduarda Ara\u00fajo",
+      "R. Campoy",
+      "Am\u00e9lia P. Rauter"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.carres.2011.11.006",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "Carbohydrate Research",
+    "concepts": [
+      "Chemistry",
+      "Sodium azide",
+      "Thiourea",
+      "Triethylamine",
+      "Gallic acid"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

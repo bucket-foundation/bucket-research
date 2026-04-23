@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4398000984",
+    "canonical_url": "https://openalex.org/W4398000984",
+    "title": "CCDC 2204631: Experimental Crystal Structure Determination",
+    "authors": [
+      "F\u00e1tima P. Machado",
+      "In\u00eas C. Rodrigues",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Paulo Martins da Costa",
+      "Tida Dethoup",
+      "Sharad Mistry",
+      "Artur M. S. Silva",
+      "V\u0131\u0301tor Vasconcelos",
+      "Anake Kijjoa"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc2d034p",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystal structure",
+      "Crystallography",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4411992926",
+    "canonical_url": "https://openalex.org/W4411992926",
+    "title": "Design, synthesis, and comprehensive evaluation of novel imidazole\u2013chromone hybrids as potent cholinesterase and \u03b1-glucosidase inhibitors",
+    "authors": [
+      "Massaab Khalfaoui",
+      "Wahiba Frites",
+      "Arif Mermer",
+      "Dursun K\u0131sa",
+      "Buket Y\u0131ld\u0131r\u0131m",
+      "Mohamed Imed Chouiter",
+      "Artur M. S. Silva",
+      "Houssem Boulebd"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1016/j.ejmech.2025.117927",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "European Journal of Medicinal Chemistry",
+    "concepts": [
+      "Chromone",
+      "Chemistry",
+      "Imidazole",
+      "Cholinesterase",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

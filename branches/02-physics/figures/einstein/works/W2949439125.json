@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949439125",
+    "canonical_url": "https://openalex.org/W2949439125",
+    "title": "Synthesis and Structural Elucidation of Xanthonolignoids: trans-(\u00b1)-Kielcorin B and trans-(\u00b1)-Isokielcorin B",
+    "authors": [
+      "Madalena Pinto",
+      "Eduarda Fernandes",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Otto R. Gottlieb"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.3987/com-98-8371",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Heterocycles",
+    "concepts": [
+      "Chemistry",
+      "Heteronuclear molecule",
+      "Homonuclear molecule",
+      "Two-dimensional nuclear magnetic resonance spectroscopy",
+      "Nuclear Overhauser effect"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4402258780",
+    "canonical_url": "https://openalex.org/W4402258780",
+    "title": "Flavonoids as Potential Modulators of Pancreatic Lipase Catalytic Activity",
+    "authors": [
+      "S\u00edlvia Rocha",
+      "Carina Proen\u00e7a",
+      "Alberto N. Ara\u00fajo",
+      "Marisa Freitas",
+      "Ismael Rufino",
+      "Nat\u00e1lia Aniceto",
+      "Artur M. S. Silva",
+      "F\u00e9lix Carvalho",
+      "Rita C. Guedes",
+      "Eduarda Fernandes"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.2139/ssrn.4937721",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "preprint",
+    "venue": "SSRN Electronic Journal",
+    "concepts": [
+      "Pancreatic lipase",
+      "Lipase",
+      "Chemistry",
+      "Catalysis",
+      "Biochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

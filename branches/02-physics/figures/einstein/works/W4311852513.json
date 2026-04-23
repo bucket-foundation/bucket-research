@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4311852513",
+    "canonical_url": "https://openalex.org/W4311852513",
+    "title": "Metabolite Profiling, Antioxidant and Key Enzymes Linked to Hyperglycemia Inhibitory Activities of Satureja hispidula: An Underexplored Species from Algeria",
+    "authors": [
+      "Ammar Haouat",
+      "Habiba Rechek",
+      "Diana C. G. A. Pinto",
+      "Susana M. Cardoso",
+      "M\u00f3nica V\u00e1lega",
+      "Abdelhamid Boudjerda",
+      "Artur M. S. Silva",
+      "Ratiba Mekkiou"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/molecules27248657",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Antioxidant",
+      "Chemistry",
+      "Satureja",
+      "Metabolite",
+      "Chromatography"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

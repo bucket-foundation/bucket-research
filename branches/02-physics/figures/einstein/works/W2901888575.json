@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2901888575",
+    "canonical_url": "https://openalex.org/W2901888575",
+    "title": "Chromones: privileged scaffolds for the production of multi-target-directed-ligand agents for the treatment of Alzheimer\u2019s disease",
+    "authors": [
+      "Carlos F. M. Silva",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1080/17460441.2018.1543267",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "review",
+    "venue": "Expert Opinion on Drug Discovery",
+    "concepts": [
+      "Disease",
+      "Ligand (biochemistry)",
+      "Production (economics)",
+      "Neuroscience",
+      "Medicine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

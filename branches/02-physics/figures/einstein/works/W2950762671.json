@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950762671",
+    "canonical_url": "https://openalex.org/W2950762671",
+    "title": "New Developments in the Synthesis of (E)-8-Styrylflavones",
+    "authors": [
+      "Raquel S. G. R. Seixas",
+      "Artur M. S. Silva",
+      "Orlando D. C. C. de Azevedo"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1055/s-0034-1380208",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Regioselectivity",
+      "Stereoselectivity",
+      "Heck reaction",
+      "Iodine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

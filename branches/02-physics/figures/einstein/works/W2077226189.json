@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2077226189",
+    "canonical_url": "https://openalex.org/W2077226189",
+    "title": "Spectroscopic and electrochemical studies of cocaine\u2013opioid interactions",
+    "authors": [
+      "Jorge Garrido",
+      "M. Paula M. Marques",
+      "Artur M. S. Silva",
+      "Tice R. A. Macedo",
+      "Ana Maria Oliveira\u2010Brett",
+      "Fernanda Borges"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1007/s00216-007-1375-z",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 37,
+    "type": "article",
+    "venue": "Analytical and Bioanalytical Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Heroin",
+      "Morphine",
+      "Opioid",
+      "Electrochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

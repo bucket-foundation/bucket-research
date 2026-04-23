@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2761443666",
+    "canonical_url": "https://openalex.org/W2761443666",
+    "title": "Lipophilic composition of Scabiosa stellata L.: an underexploited plant from Batna (Algeria)",
+    "authors": [
+      "Naima Rahmouni",
+      "Diana C. G. A. Pinto",
+      "S\u00f3nia A.O. Santos",
+      "Noureddine Beghidja",
+      "Artur M. S. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1007/s11696-017-0308-3",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Chemical Papers",
+    "concepts": [
+      "Stigmasterol",
+      "Botany",
+      "Phytochemical",
+      "Glycerol",
+      "Ursolic acid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

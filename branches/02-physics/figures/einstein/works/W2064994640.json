@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2064994640",
+    "canonical_url": "https://openalex.org/W2064994640",
+    "title": "Synthesis of Novel 3-Alkyl-3',4',5,7-Tetrahydroxyflavones",
+    "authors": [
+      "Raquel S. G. R. Seixas",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1071/ch08162",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 14,
+    "type": "article",
+    "venue": "Australian Journal of Chemistry",
+    "concepts": [
+      "Phloroglucinol",
+      "Chemistry",
+      "Alkyl",
+      "Biocatalysis",
+      "Green chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

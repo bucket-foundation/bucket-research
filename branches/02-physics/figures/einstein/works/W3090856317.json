@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3090856317",
+    "canonical_url": "https://openalex.org/W3090856317",
+    "title": "Chalcones as Modulators of Neutrophil Oxidative Burst under Physiological and High Glucose Conditions",
+    "authors": [
+      "Adelaide Sousa",
+      "Mariana Lucas",
+      "Daniela Ribeiro",
+      "Catarina M. Correia",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes",
+      "Marisa Freitas"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1021/acs.jnatprod.0c00728",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Journal of Natural Products",
+    "concepts": [
+      "Chalcone",
+      "Respiratory burst",
+      "Oxidative phosphorylation",
+      "Neutrophil extracellular traps",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

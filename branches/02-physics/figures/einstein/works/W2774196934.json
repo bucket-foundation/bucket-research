@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2774196934",
+    "canonical_url": "https://openalex.org/W2774196934",
+    "title": "Six-Membered Ring Systems",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/b978-0-08-099406-2.00016-9",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "book-chapter",
+    "venue": "Progress in heterocyclic chemistry",
+    "concepts": [
+      "Benzopyrans",
+      "Ring (chemistry)",
+      "Chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4414983531",
+    "canonical_url": "https://openalex.org/W4414983531",
+    "title": "MAPEAMENTO DE ROTAS DE ATENDIMENTO POR AGENTES COMUNIT\u00c1RIOS DE SA\u00daDE DAS UNIDADES B\u00c1SICAS DE SA\u00daDE (UBS\\'S) DE UMARIZAL-RN",
+    "authors": [
+      "Artur M. S. Silva",
+      "JOSEANE DUNGA DA COSTA",
+      "Guido Ara\u00fajo",
+      "JACINEUMO FALC\u00c3O DE OLIVEIRA"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.51189/vi-coninters/62555",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": null,
+    "concepts": [
+      "Measure (data warehouse)",
+      "Process (computing)",
+      "Mathematics",
+      "Function (biology)",
+      "Field (mathematics)"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

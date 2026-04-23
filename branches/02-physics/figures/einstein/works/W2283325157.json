@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2283325157",
+    "canonical_url": "https://openalex.org/W2283325157",
+    "title": "Chemical and biological studies from an Azorean macroalga: Ulva rigida",
+    "authors": [
+      "Madalena Silva",
+      "Lu\u00eds M. M. Vieira",
+      "Ana Paula de Almeida",
+      "Artur M. S. Silva",
+      "Anake Kijjoa",
+      "Ana M. L. Seca",
+      "Maria do Carmo Barreto"
+    ],
+    "year": 2012,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Biology",
+      "Botany"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

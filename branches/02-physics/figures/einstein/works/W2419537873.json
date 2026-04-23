@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2419537873",
+    "canonical_url": "https://openalex.org/W2419537873",
+    "title": "The antioxidant activity of novel chromones and xanthones: a structure-activity relationship",
+    "authors": [
+      "Carina Proen\u00e7a",
+      "Daniela Ribeiro",
+      "Marisa Freitas",
+      "H\u00e9lio M. T. Albuquerque",
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes"
+    ],
+    "year": 2015,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Biblioteca Digital do IPB (Instituto Politecnico De Braganca)",
+    "concepts": [
+      "Chemistry",
+      "Antioxidant",
+      "Structure\u2013activity relationship",
+      "Biochemistry",
+      "In vitro"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

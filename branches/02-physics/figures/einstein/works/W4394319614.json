@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4394319614",
+    "canonical_url": "https://openalex.org/W4394319614",
+    "title": "Cecum perforation associated with a calcium polystyrene sulfonate bezoar - a rare entity",
+    "authors": [
+      "David Fiel",
+      "Iolanda Santos",
+      "Joana Eug\u00e9nio Santos",
+      "Rita Vicente",
+      "Susana Ribeiro",
+      "Artur M. S. Silva",
+      "Beatriz Malvar",
+      "Carlos Pires"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.6084/m9.figshare.7452737",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "Figshare",
+    "concepts": [
+      "Bezoar",
+      "Perforation",
+      "Calcium",
+      "Cecum",
+      "Sulfonate"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

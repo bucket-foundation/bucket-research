@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2113226928",
+    "canonical_url": "https://openalex.org/W2113226928",
+    "title": "Synthesis of 4-Aryl-3(5)-(2-hydroxyphenyl)pyrazoles by Reaction of Isoflavones and their 4-Thio Analogues with Hydrazine Derivatives",
+    "authors": [
+      "Albert L\u00e9vai",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 Elguero",
+      "Ib\u00f3n Alkorta",
+      "J\u00f3zsef Jek\u0151"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1071/ch07268",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Australian Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Tautomer",
+      "Phenylhydrazine",
+      "Thio-",
+      "Hydrazine (antidepressant)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

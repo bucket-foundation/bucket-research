@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1524665483",
+    "canonical_url": "https://openalex.org/W1524665483",
+    "title": "The structures of two aldazines: [1,1\u2032\u2010(1<i>E</i>,1\u2032<i>E</i>)\u2010hydrazine\u20101,2\u2010diylidenebis(methan\u20101\u2010yl\u20101\u2010ylidene)dinaphthalen\u20102\u2010ol] (Lumogen) and 2,2\u2032\u2010(1<i>E</i>,1\u2032<i>E</i>)\u2010hydrazine\u20101,2\u2010diylidenebis(methan\u20101\u2010yl\u20101\u2010ylidene)diphenol (salicylaldazine) in the solid state and in solution",
+    "authors": [
+      "Artur M. S. Silva",
+      "Vera L. M. Silva",
+      "Rosa M. Claramunt",
+      "Dolores Santa Mar\u00eda",
+      "Marta B. Ferraro",
+      "Felipe Reviriego",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1002/mrc.3983",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Magnetic Resonance in Chemistry",
+    "concepts": [
+      "Tautomer",
+      "Chemistry",
+      "Azine",
+      "Hydrazone",
+      "Density functional theory"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

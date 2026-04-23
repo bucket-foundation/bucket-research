@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397242372",
+    "canonical_url": "https://openalex.org/W4397242372",
+    "title": "CCDC 1030711: Experimental Crystal Structure Determination",
+    "authors": [
+      "Omar Bouaziz",
+      "Mohamed Amari",
+      "Rebat Bachar",
+      "Nawal Khier",
+      "Mokhtar Fodili",
+      "Filipe A. Almeida Paz",
+      "Oualid Talhi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.5517/cc13ljrz",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

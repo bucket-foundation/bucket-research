@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953222034",
+    "canonical_url": "https://openalex.org/W2953222034",
+    "title": "One-Pot Synthesis of 3-Methylflavones and Their Transformation into (E)-3-Styrylflavones via Wittig Reactions",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Djenisa H. A. Rocha"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1055/s-0033-1340013",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Wittig reaction",
+      "Chemistry",
+      "Transformation (genetics)",
+      "Phosphorus",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

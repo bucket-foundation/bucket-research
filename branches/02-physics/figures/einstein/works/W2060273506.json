@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2060273506",
+    "canonical_url": "https://openalex.org/W2060273506",
+    "title": "A new natural spiro heterocyclic compound and the cytotoxic activity of the secondary metabolites from Juniperus brevifolia leaves",
+    "authors": [
+      "Laila Moujir",
+      "Ana M. L. Seca",
+      "Liliana Araujo",
+      "Artur M. S. Silva",
+      "Maria do Carmo Barreto"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1016/j.fitote.2010.10.001",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 25,
+    "type": "article",
+    "venue": "Fitoterapia",
+    "concepts": [
+      "HeLa",
+      "Bacillus cereus",
+      "Cereus",
+      "Antimicrobial",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

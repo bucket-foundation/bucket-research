@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2065169113",
+    "canonical_url": "https://openalex.org/W2065169113",
+    "title": "Further constituents of Achillea ageratum",
+    "authors": [
+      "Anake Kijjoa",
+      "Lu\u00eds M. M. Vieira",
+      "Jos\u00e9 A. Pereira",
+      "Artur M. S. Silva",
+      "Werner Herz"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1016/s0031-9422(99)00054-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Achillea",
+      "Botany",
+      "Ageratum conyzoides",
+      "Biology",
+      "Asteraceae"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

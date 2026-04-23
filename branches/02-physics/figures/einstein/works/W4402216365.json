@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4402216365",
+    "canonical_url": "https://openalex.org/W4402216365",
+    "title": "Ultrasensitive Raman Gas Spectroscopy for Dinitrogen Sensing at the Parts-per-Billion Level",
+    "authors": [
+      "Andreas Merian",
+      "Artur M. S. Silva",
+      "Sebastian Wolf",
+      "Timea Frosch",
+      "Torsten Frosch"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1021/acs.analchem.4c02828",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Analytical Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Parts-per notation",
+      "Raman spectroscopy",
+      "Spectroscopy",
+      "Environmental chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

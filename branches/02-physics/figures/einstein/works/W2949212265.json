@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949212265",
+    "canonical_url": "https://openalex.org/W2949212265",
+    "title": "New Benzo[ b ]xanthones from Diels-Alder Reactions of Chromone-3-carboxaldehydes with ortho -Benzoquinodimethanes",
+    "authors": [
+      "Angela Sandulache",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1007/s00706-002-0567-7",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Chromone",
+      "Chemistry",
+      "Diastereomer",
+      "Xanthone",
+      "Cycloaddition"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

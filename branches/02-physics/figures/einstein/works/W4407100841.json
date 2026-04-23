@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4407100841",
+    "canonical_url": "https://openalex.org/W4407100841",
+    "title": "Emergence of NDM-7-Producing Klebsiella quasipneumoniae subs. simillipneumoniae ST138 in a Hospital from the Northern Region of Brazil",
+    "authors": [
+      "Am\u00e1lia Raiana Fonseca Lobato",
+      "Mikhail J. S. Souza",
+      "Emanoele S. Pereira",
+      "Thalyta Braga Cazuza",
+      "Artur M. S. Silva",
+      "Rafael Azevedo Bara\u00fana",
+      "Danielle Murici Brasiliense"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.3390/microorganisms13020314",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "Microorganisms",
+    "concepts": [
+      "Klebsiella pneumoniae",
+      "Biology",
+      "Resistome",
+      "Antibiotic resistance",
+      "Microbiology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

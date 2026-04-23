@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953016507",
+    "canonical_url": "https://openalex.org/W2953016507",
+    "title": "1,6-Conjugate Addition of Carbon Nucleophiles to (E)-2-Styrylchromones: Unexpected Synthesis of a Stereochemically Complex Pentasubstituted Spirocyclohexane",
+    "authors": [
+      "Eduarda M. P. Silva",
+      "Artur M. S. Silva",
+      "Kinga Grenda",
+      "In\u00eas C. S. Cardoso"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1055/s-0033-1340043",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Conjugate",
+      "Malononitrile",
+      "Regioselectivity",
+      "Domino"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2143613023",
+    "canonical_url": "https://openalex.org/W2143613023",
+    "title": "Supported TBD-Assisted Solution Phase Diversification of Formyl-Aza-Heterocycles Through Alkylation-Knoevenagel One Pot Sequences",
+    "authors": [
+      "Abdelaziz El Maatougui",
+      "Abel Crespo",
+      "Artur M. S. Silva",
+      "Alberto Coelho"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.2174/138620711796367229",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Combinatorial Chemistry & High Throughput Screening",
+    "concepts": [
+      "Knoevenagel condensation",
+      "Alkylation",
+      "Halide",
+      "Methylene",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

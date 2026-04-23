@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4405101855",
+    "canonical_url": "https://openalex.org/W4405101855",
+    "title": "EFEITO DA SOBREPOSI\u00c7\u00c3O TERRITORIAL COM O ARCO DO DESMATAMENTO SOBRE O DESMATAMENTO EM UNIDADES DE CONSERVA\u00c7\u00c3O NA AMAZ\u00d4NIA",
+    "authors": [
+      "F\u00e9lix Carvalho",
+      "Joelson Leal de Lima",
+      "Artur M. S. Silva",
+      "Nicola Sav\u00e9rio Holanda Tancreti",
+      "Nilton Junior Lopes Rascon",
+      "S\u00e9rgio Melo",
+      "Alessandro Vieira"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.69849/revistaft/ar10202412061718",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Revista fisio&terapia.",
+    "concepts": [
+      "Amazon rainforest",
+      "Deforestation (computer science)",
+      "Biome",
+      "Geography",
+      "Hectare"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

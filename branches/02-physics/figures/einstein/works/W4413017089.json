@@ -1,0 +1,52 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4413017089",
+    "canonical_url": "https://openalex.org/W4413017089",
+    "title": "Design, Synthesis and Biological Evaluation of Chromeno[3,4- <i>b</i> ]xanthones as Multifunctional Agents for Alzheimer\u2019s Disease",
+    "authors": [
+      "Daniela Malafaia",
+      "Nat\u00e9rcia F. Br\u00e1s",
+      "Anna Sampietro",
+      "In\u00eas Quintelas",
+      "Pedro Ferreira",
+      "L\u00facia Melo",
+      "Joana Saavedra",
+      "Loreto Mart\u00ednez\u2010Gonz\u00e1lez",
+      "Marisa Pereira",
+      "J\u00e9ssica Sarabando",
+      "Leo K\u00f6nig",
+      "Isabel Cardoso",
+      "Daniela Ribeiro",
+      "Ana Raquel Soares",
+      "Raimon Sabat\u00e9",
+      "Gert Fricker",
+      "Ana Mart\u0131\u0301nez",
+      "Pedro Alexandrino Fernandes",
+      "Artur M. S. Silva",
+      "H\u00e9lio M. T. Albuquerque"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1021/acschemneuro.5c00425",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ACS Chemical Neuroscience",
+    "concepts": [
+      "Docking (animal)",
+      "Chemistry",
+      "Drug discovery",
+      "Calcein",
+      "Lead compound"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

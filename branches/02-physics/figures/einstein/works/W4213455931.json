@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4213455931",
+    "canonical_url": "https://openalex.org/W4213455931",
+    "title": "\u03b3-Cyclodextrin Inclusion of Phloroglucinol: Solid State Studies and Antioxidant Activity throughout the Digestive Tract",
+    "authors": [
+      "Marcelo D. Catarino",
+      "Beatriz Costa",
+      "Ana R. Circuncis\u00e3o",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso",
+      "Susana S. Braga"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/app12052340",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Applied Sciences",
+    "concepts": [
+      "Phloroglucinol",
+      "Antioxidant",
+      "Chemistry",
+      "Cyclodextrin",
+      "Solid-state"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

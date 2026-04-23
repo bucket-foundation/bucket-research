@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2999867373",
+    "canonical_url": "https://openalex.org/W2999867373",
+    "title": "Green synthesis, characterization, structure, biological activity, theoretical calculations and drug-likeness analysis of coumarins",
+    "authors": [
+      "Nassima Khaldi-Khellafi",
+      "Djamila Oukacha\u2010Hikem",
+      "Souhila Terrachet-Bouaziz",
+      "Amar Abdoun",
+      "Malika Makhloufi\u2010Chebli",
+      "Fran\u00e7oise Dumas",
+      "Artur M. S. Silva",
+      "Ma\u00e2mar Hamdi"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.cdc.2020.100341",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Chemical Data Collections",
+    "concepts": [
+      "Chemistry",
+      "Catalysis",
+      "Elemental analysis",
+      "Condensation reaction",
+      "Antibacterial activity"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

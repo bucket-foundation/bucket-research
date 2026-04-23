@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4405442744",
+    "canonical_url": "https://openalex.org/W4405442744",
+    "title": "Phytochemical Study and In Vitro Antioxidant Activity of Helianthemum cinereum Along with Antitumor Activity of the Isolated trans-Tiliroside and Luteolin 4\u2032-O-\u03b2-Xyloside",
+    "authors": [
+      "Anis Bertella",
+      "Abla Smadi",
+      "Hakim Benhabrou",
+      "Diana Salvador",
+      "Magdalena Wrona",
+      "Helena Oliveira",
+      "Sidaoui Abouamama",
+      "Georgiana\u2010Luminita Gavril",
+      "Diana C. G. A. Pinto",
+      "Ewa Olewnik\u2010Kruszkowska",
+      "Cristina Ner\u0131\u0301n",
+      "Artur M. S. Silva",
+      "Fatma Bitam"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.3390/molecules29245935",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Methyl gallate",
+      "Chemistry",
+      "Gallic acid",
+      "DPPH",
+      "Ellagic acid"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

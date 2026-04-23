@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4367281229",
+    "canonical_url": "https://openalex.org/W4367281229",
+    "title": "12.2.3. Synthesis of Flavones (2-Aryl-4<i>H</i>-chromen-4-ones)",
+    "authors": [
+      "Artur M. S. Silva",
+      "Augusto C. Tom\u00e9",
+      "Diana C. G. A. Pinto",
+      "Fernando M. J. Domingues",
+      "Gra\u00e7a M. Oliveira Rocha",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "M. Gra\u00e7a P. M. S. Neves",
+      "M. Amparo F. Faustino",
+      "M\u00e1rio M.Q. Sim\u00f5es"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1039/9781849739634-00737",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": null,
+    "concepts": [
+      "Flavones",
+      "Aryl",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

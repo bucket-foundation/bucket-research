@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4415098846",
+    "canonical_url": "https://openalex.org/W4415098846",
+    "title": "Synthesis and <i>meta</i> -Amination of Pyridines via Multicomponent Cascade Reaction",
+    "authors": [
+      "Telmo N. Francisco",
+      "Nuno R. Candeias",
+      "Samuel Guieu",
+      "Joana L. C. Sousa",
+      "Rafael F. A. Gomes",
+      "Carlos A. M. Afonso",
+      "Artur M. S. Silva",
+      "H\u00e9lio M. T. Albuquerque"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1021/acs.orglett.5c03509",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Organic Letters",
+    "concepts": [
+      "Chemistry",
+      "Aminolysis",
+      "Cascade",
+      "Combinatorial chemistry",
+      "Cascade reaction"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397307661",
+    "canonical_url": "https://openalex.org/W4397307661",
+    "title": "CCDC 114890: Experimental Crystal Structure Determination",
+    "authors": [
+      "M.G.P.M.S. Neves",
+      "Regina Maria Bringel Martins",
+      "Augusto C. Tom\u00e9",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva",
+      "V. F\u00e9lix",
+      "Michael G. B. Drew",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.5517/cc3vk4m",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Crystal structure",
+      "Crystal (programming language)",
+      "Group (periodic table)",
+      "Space (punctuation)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

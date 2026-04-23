@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2039553120",
+    "canonical_url": "https://openalex.org/W2039553120",
+    "title": "3-Aroyl-5-hydroxyflavones: synthesis and mechanistic studies by mass spectrometry",
+    "authors": [
+      "Ana M. Cardoso",
+      "Artur M. S. Silva",
+      "Cristina M. F. Barros",
+      "L\u00facia M. P. M. Almeida",
+      "A. J. Ferrer\u2010Correia",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1997,
+    "doi": "https://doi.org/10.1002/(sici)1096-9888(199709)32:9<930::aid-jms549>3.0.co;2-e",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Journal of Mass Spectrometry",
+    "concepts": [
+      "Chemistry",
+      "Mass spectrum",
+      "Fragmentation (computing)",
+      "Mass spectrometry",
+      "Ion"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

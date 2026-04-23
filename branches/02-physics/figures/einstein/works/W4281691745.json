@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4281691745",
+    "canonical_url": "https://openalex.org/W4281691745",
+    "title": "Revisiting the Chemistry of Vinylpyrazoles: Properties, Synthesis, and Reactivity",
+    "authors": [
+      "Vera L. M. Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/molecules27113493",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "review",
+    "venue": "Molecules",
+    "concepts": [
+      "Reactivity (psychology)",
+      "Cycloaddition",
+      "Chemistry",
+      "Organic molecules",
+      "Organic synthesis"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

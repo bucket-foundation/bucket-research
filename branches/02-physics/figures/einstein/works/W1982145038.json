@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1982145038",
+    "canonical_url": "https://openalex.org/W1982145038",
+    "title": "Electrochemical oxidation of propanil and related N-substituted amides",
+    "authors": [
+      "E. Manuela Garrido",
+      "Jos\u00e9 L. F. C. Lima",
+      "Cristina Delerue\u2010Matos",
+      "Fernanda Borges",
+      "Artur M. S. Silva",
+      "Ana Maria Oliveira\u2010Brett"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1016/s0003-2670(01)00817-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "Analytica Chimica Acta",
+    "concepts": [
+      "Propanil",
+      "Chemistry",
+      "Acetanilide",
+      "Electrochemistry",
+      "Cyclic voltammetry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

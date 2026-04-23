@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3119855204",
+    "canonical_url": "https://openalex.org/W3119855204",
+    "title": "Novel bis-(3-cyano-2-pyridones) derivatives: synthesis and fluorescent properties",
+    "authors": [
+      "Nawel Mehiaoui",
+      "Zahira Kibou",
+      "Thibault Gallavardin",
+      "St\u00e9phane Leleu",
+      "Xavier Franck",
+      "Ricardo F. Mendes",
+      "Filipe A. Almeida Paz",
+      "Artur M. S. Silva",
+      "Noureddine Choukchou\u2010Braham"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1007/s11164-020-04373-8",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Research on Chemical Intermediates",
+    "concepts": [
+      "Chemistry",
+      "Catalysis",
+      "Combinatorial chemistry",
+      "Fluorescence",
+      "2-Pyridone"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

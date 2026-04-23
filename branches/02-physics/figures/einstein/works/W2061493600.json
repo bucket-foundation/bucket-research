@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2061493600",
+    "canonical_url": "https://openalex.org/W2061493600",
+    "title": "Novel ( <i>E</i> )\u2010 and ( <i>Z</i> )\u20102\u2010Styrylchromones from ( <i>E, E</i> )\u20102\u2032\u2010Hydroxycinnamylideneacetophenones \u2013 Xanthones from Daylight Photooxidative Cyclization of ( <i>E</i> )\u20102\u2010Styrylchromones",
+    "authors": [
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Hil\u00e1rio R. Tavares",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "M. Lu\u00edsa Jimeno",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1002/(sici)1099-0690(199809)1998:9<2031::aid-ejoc2031>3.0.co;2-#",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 43,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Stereochemistry",
+      "Xanthene",
+      "Medicinal chemistry",
+      "Photochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

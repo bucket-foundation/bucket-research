@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2154401291",
+    "canonical_url": "https://openalex.org/W2154401291",
+    "title": "Synthesis of New 1<i>H</i>\u2010Indazoles through Diels\u2013Alder Transformations of 4\u2010Styrylpyrazoles under Microwave Irradiation Conditions",
+    "authors": [
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 Elguero",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/ejoc.200900513",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Dehydrogenation",
+      "Cycloaddition",
+      "Microwave irradiation",
+      "Microwave heating"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2911538979",
+    "canonical_url": "https://openalex.org/W2911538979",
+    "title": "Synthesis of New Proteomimetic Quinazolinone Alkaloids and Evaluation of Their Neuroprotective and Antitumor Effects",
+    "authors": [
+      "Solida Long",
+      "Diana I. S. P. Resende",
+      "Anake Kijjoa",
+      "Artur M. S. Silva",
+      "Ricardo Ferreira Fernandes",
+      "Cristina P. R. Xavier",
+      "M. Helena Vasconcelos",
+      "Em\u0131\u0301lia Sousa",
+      "Madalena Pinto"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/molecules24030534",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Quinazolinone",
+      "Chemistry",
+      "Neuroprotection",
+      "Neuroblastoma",
+      "MTT assay"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

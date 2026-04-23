@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1982006282",
+    "canonical_url": "https://openalex.org/W1982006282",
+    "title": "ChemInform Abstract: A New Synthesis of 5\u2010Arylbenzo[c]xanthones from Photoinduced Electrocyclization and Oxidation of (E)\u20103\u2010Styrylflavones.",
+    "authors": [
+      "Djenisa H. A. Rocha",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Tam\u00e1s Patonay",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1002/chin.201226149",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Stereochemistry",
+      "Combinatorial chemistry",
+      "Medicinal chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

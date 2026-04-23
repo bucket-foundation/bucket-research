@@ -1,0 +1,48 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4322576294",
+    "canonical_url": "https://openalex.org/W4322576294",
+    "title": "Contributors",
+    "authors": [
+      "M.E. Ala\u00f1\u00f3n",
+      "S\u00f3nia J. Amarante",
+      "Migdalia Caridad Rusindo Arazo",
+      "David Arra\u00e9z-Rom\u00e1n",
+      "Sergio Benavides",
+      "Anabela Borges",
+      "Salud C\u00e1ceres-Jim\u00e9nez",
+      "Carlos Eduardo Camacho-Gonz\u00e1lez",
+      "Susana M. Cardoso",
+      "Marcelo D. Catarino",
+      "Jo\u00e3o Cotas",
+      "Mar\u00eda de la Luz C\u00e1diz\u2010Gurrea",
+      "Mar\u00eda del Carmen Villegas-Aguilar",
+      "Diana Del Juncal-Guzm\u00e1n",
+      "Hui Dong",
+      "Songtao Dong",
+      "Patricia Fern\u00e1ndez-Moreno",
+      "\u00c1lvaro Fern\u00e1ndez\u2010Ochoa",
+      "Wendy Franco",
+      "Esther Garc\u00eda-D\u00edez"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1016/b978-0-12-823589-8.09992-1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": "Elsevier eBooks",
+    "concepts": [
+      "Computer science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

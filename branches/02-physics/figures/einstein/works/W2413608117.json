@@ -1,0 +1,51 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2413608117",
+    "canonical_url": "https://openalex.org/W2413608117",
+    "title": "Chemistry, Biology and Potential Applications of Honeybee Plant-Derived Products",
+    "authors": [
+      "Susana M. Cardoso",
+      "Artur M. S. Silva",
+      "Marta Quicaz\u00e1n",
+      "Carlos Mario Zuluaga\u2010Dom\u00ednguez",
+      "Vassya Bankova",
+      "Boryana Trusheva",
+      "Milena Popova",
+      "Maria Gabriela Nogueira Campos",
+      "Lokutova Olena",
+      "Of\u00e9lia Anjos",
+      "Marcelo D. Catarino",
+      "Jorge M. Alves-Silva",
+      "Soraia I. Falc\u00e3o",
+      "Miguel Vilas\u2010Boas",
+      "Micaela Jord\u00e3o",
+      "Clementina M.M. Santos",
+      "Ant\u00f3nio M. Peres",
+      "Mara E.B.C. Sousa",
+      "Ana C. A. Veloso",
+      "Let\u0131\u0301cia M. Estevinho"
+    ],
+    "year": 2018,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "book",
+    "venue": null,
+    "concepts": [
+      "Biology",
+      "Chemistry",
+      "Biochemical engineering",
+      "Engineering"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

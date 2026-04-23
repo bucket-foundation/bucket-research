@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2988698325",
+    "canonical_url": "https://openalex.org/W2988698325",
+    "title": "New chiral stationary phases for liquid chromatography based on small molecules: Development, enantioresolution evaluation and chiral recognition mechanisms",
+    "authors": [
+      "Ye\u2019 Zaw Phyo",
+      "Joana Teixeira",
+      "Maria Elizabeth Tiritan",
+      "Sara Cravo",
+      "Andreia Palmeira",
+      "Lu\u0131\u0301s Gales",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Anake Kijjoa",
+      "Carla Fernandes"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1002/chir.23142",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Chirality",
+    "concepts": [
+      "Chemistry",
+      "Enantioselective synthesis",
+      "Benzophenone",
+      "Chiral stationary phase",
+      "Chromatography"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

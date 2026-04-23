@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949648583",
+    "canonical_url": "https://openalex.org/W2949648583",
+    "title": "ChemInform Abstract: Synthesis of Novel [60]Fullerene\u2014Flavonoid Dyads.",
+    "authors": [
+      "Mar\u00eda Dolores L\u00f3pez de la Torre",
+      "Gian Luca Marcorin",
+      "Giovanna Pirri",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1002/chin.200221077",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Fullerene",
+      "Flavonoid",
+      "Information retrieval",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1985616589",
+    "canonical_url": "https://openalex.org/W1985616589",
+    "title": "Microwave-Enhanced Synthesis of Novel Pyridinone-Fused Porphyrins",
+    "authors": [
+      "Ana M. G. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Baltazar de Castro",
+      "Maria Rangel",
+      "Artur M. S. Silva",
+      "Paula Brand\u00e3o",
+      "V\u0131\u0301tor F\u00e9lix"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1055/s-0028-1088205",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Microwave irradiation",
+      "Reagent",
+      "Porphyrin",
+      "Dimethyl acetylenedicarboxylate"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

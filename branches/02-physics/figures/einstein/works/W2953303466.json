@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953303466",
+    "canonical_url": "https://openalex.org/W2953303466",
+    "title": "Synthesis and reactivity of 6\u2010methyl\u20104<i>H</i>\u2010furo[3,2<i>c</i>]pyran\u20103,4\u2010dione",
+    "authors": [
+      "Djamila Hikem\u2010Oukacha",
+      "Yah\u00efa Rachedi",
+      "Ma\u00e2mar Hamdi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1002/jhet.490",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Pyran",
+      "Dehydroacetic acid",
+      "Thiourea",
+      "Acetic acid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

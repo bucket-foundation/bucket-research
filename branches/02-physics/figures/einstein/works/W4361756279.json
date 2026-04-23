@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4361756279",
+    "canonical_url": "https://openalex.org/W4361756279",
+    "title": "Dynamic Testing on Railway Bridges",
+    "authors": [
+      "Diogo Ribeiro",
+      "C\u00e1ssio Bragan\u00e7a",
+      "Artur M. S. Silva",
+      "Rui Cal\u00e7ada"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1007/978-3-031-23888-8_11",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "book-chapter",
+    "venue": "Springer tracts in civil engineering",
+    "concepts": [
+      "Dynamic testing",
+      "Vibration",
+      "Engineering",
+      "Dynamic data",
+      "Bridge (graph theory)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

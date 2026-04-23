@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2072795390",
+    "canonical_url": "https://openalex.org/W2072795390",
+    "title": "Oxidation of \u0394<sup>4</sup>\u2010 and \u0394<sup>5</sup>\u2010Steroids with Hydrogen Peroxide Catalyzed by Porphyrin Complexes of Mn<sup>III</sup> and Fe<sup>III</sup>",
+    "authors": [
+      "Susana L.H. Rebelo",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "M. Gra\u00e7a P. M. S. Neves",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Andreia F. Peixoto",
+      "Mariette M. Pereira",
+      "Manuela Ramos Silva",
+      "J.A. Paix\u00e3o",
+      "\u0391. Matos Beja"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1002/ejoc.200400461",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Porphyrin",
+      "Chemoselectivity",
+      "Stereoselectivity",
+      "Epoxide"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

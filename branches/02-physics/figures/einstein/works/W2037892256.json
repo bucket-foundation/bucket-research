@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2037892256",
+    "canonical_url": "https://openalex.org/W2037892256",
+    "title": "Further Halotyrosine Derivatives from the Marine Sponge Suberea aff. praetensa",
+    "authors": [
+      "Anake Kijjoa",
+      "Rawiwan Watanadilok",
+      "Pichai Sonchaeng",
+      "Pichan Sawangwong",
+      "Madalena Pedro",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1515/znc-2002-7-831",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Zeitschrift f\u00fcr Naturforschung C",
+    "concepts": [
+      "Sponge",
+      "Metabolite",
+      "Stereochemistry",
+      "Tyrosine",
+      "Secondary metabolite"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

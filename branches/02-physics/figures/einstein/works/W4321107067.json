@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4321107067",
+    "canonical_url": "https://openalex.org/W4321107067",
+    "title": "Structure\u2013Activity Relationship Studies of 9-Alkylamino-1,2,3,4-tetrahydroacridines against Leishmania (Leishmania) infantum Promastigotes",
+    "authors": [
+      "Carlos F. M. Silva",
+      "Teresa Le\u00e3o",
+      "Filipa Dias",
+      "Ana M. Tom\u00e1s",
+      "Diana C. G. A. Pinto",
+      "Eduardo F. Oliveira",
+      "Ana Oliveira",
+      "Pedro Alexandrino Fernandes",
+      "Artur M. S. Silva"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/pharmaceutics15020669",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Pharmaceutics",
+    "concepts": [
+      "Leishmaniasis",
+      "Leishmania infantum",
+      "Leishmania",
+      "Leishmania major",
+      "Pharmacology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

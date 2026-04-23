@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2125319889",
+    "canonical_url": "https://openalex.org/W2125319889",
+    "title": "Jatrophane and lathyrane diterpenoids from Euphorbia hyberna L.",
+    "authors": [
+      "Ana Margarida Ferreira",
+      "Lu\u00eds M. Carvalho",
+      "Maria Jo\u00e3o M. Carvalho",
+      "Miguel Menezes de Sequeira",
+      "Artur M. S. Silva"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1016/s0031-9422(02)00182-6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Diterpene",
+      "Euphorbia",
+      "Euphorbiaceae",
+      "Chloroform",
+      "Stereochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

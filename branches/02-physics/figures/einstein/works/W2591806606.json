@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2591806606",
+    "canonical_url": "https://openalex.org/W2591806606",
+    "title": "Sequential reactions from catalytic hydroformylation toward the synthesis of amino compounds",
+    "authors": [
+      "Ana R. Almeida",
+      "Rui M. B. Carrilho",
+      "Andreia F. Peixoto",
+      "Artur R. Abreu",
+      "Artur M. S. Silva",
+      "Mariette M. Pereira"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.tet.2017.03.023",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Hydroformylation",
+      "Chemistry",
+      "Catalysis",
+      "Strecker amino acid synthesis",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

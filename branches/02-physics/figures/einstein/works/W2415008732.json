@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2415008732",
+    "canonical_url": "https://openalex.org/W2415008732",
+    "title": "Understanding M\u2013ligand bonding and mer-/fac-isomerism in tris(8-hydroxyquinolinate) metallic complexes",
+    "authors": [
+      "Carlos F. R. A. C. Lima",
+      "Ricardo J. S. Taveira",
+      "Jos\u00e9 C. S. Costa",
+      "Ana M. Fernandes",
+      "Andr\u00e9 Melo",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1039/c6cp02608g",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "article",
+    "venue": "Physical Chemistry Chemical Physics",
+    "concepts": [
+      "Tris",
+      "Ligand (biochemistry)",
+      "Metal",
+      "Chemistry",
+      "Crystallography"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

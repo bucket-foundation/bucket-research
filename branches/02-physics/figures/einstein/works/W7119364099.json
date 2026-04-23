@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W7119364099",
+    "canonical_url": "https://openalex.org/W7119364099",
+    "title": "Complete Genome of a Methanosarcina mazei Strain Isolated from Sediment Samples from an Amazonian Flooded Area",
+    "authors": [
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Cient\u00edficas)",
+    "concepts": [
+      "Amazonian",
+      "Strain (injury)",
+      "Genome",
+      "Sediment",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

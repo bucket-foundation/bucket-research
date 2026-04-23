@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2176515778",
+    "canonical_url": "https://openalex.org/W2176515778",
+    "title": "Synthesis of 3\u2010aryl\u20105\u2010styryl\u20102\u2010pyrazolines by the reaction of (<i>E,E</i>)\u2010cinnamylideneacetophenones with hydrazines and their oxidation into pyrazoles",
+    "authors": [
+      "Albert L\u00e9vai",
+      "Tam\u00e1s Patonay",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1002/jhet.5570390421",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 29,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Chloranil",
+      "Aryl",
+      "Mass spectrometry",
+      "Pyrazole"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

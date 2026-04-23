@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2478797006",
+    "canonical_url": "https://openalex.org/W2478797006",
+    "title": "Do item-writing flaws reduce examinations psychometric quality?",
+    "authors": [
+      "Jo\u00e3o Pedro Franco Pais",
+      "Artur M. S. Silva",
+      "Bruno Guimar\u00e3es",
+      "Ana Povo",
+      "Elisabete Coelho",
+      "Fernanda Silva\u2010Pereira",
+      "Isabel Lourinho",
+      "Maria Am\u00e9lia Ferreira",
+      "M\u00edlton Severo"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1186/s13104-016-2202-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "BMC Research Notes",
+    "concepts": [
+      "Quality (philosophy)",
+      "Psychology",
+      "Multiple choice",
+      "Psychometrics",
+      "Clinical psychology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

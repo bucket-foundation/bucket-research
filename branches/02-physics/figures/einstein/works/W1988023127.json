@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1988023127",
+    "canonical_url": "https://openalex.org/W1988023127",
+    "title": "Cytotoxicities of Xanthones and Cinnamate Esters from<i>Hypericum hookerianum</i>",
+    "authors": [
+      "Rujida Wilairat",
+      "Jiradej Manosroi",
+      "Aranya Manosroi",
+      "Anake Kijjoa",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1055/s-2005-871276",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Planta Medica",
+    "concepts": [
+      "Hypericum",
+      "Stereochemistry",
+      "Chemistry",
+      "Growth inhibition",
+      "Traditional medicine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

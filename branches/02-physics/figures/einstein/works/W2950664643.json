@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950664643",
+    "canonical_url": "https://openalex.org/W2950664643",
+    "title": "Condensation of Chromone-3-carboxaldehyde with Phenylacetic Acids: An Efficient Synthesis of (<i>E</i>)<i>-</i>3-Styrylchromones",
+    "authors": [
+      "Artur M. S. Silva",
+      "Vera L. M. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Tam\u00e1s Patonay"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1055/s-2004-835660",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Knoevenagel condensation",
+      "Decarboxylation",
+      "Microwave irradiation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

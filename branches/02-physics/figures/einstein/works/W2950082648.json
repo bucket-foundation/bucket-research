@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950082648",
+    "canonical_url": "https://openalex.org/W2950082648",
+    "title": "Efficient Consecutive Alkylation-Knoevenagel Functionalisations in Formyl Aza-Heterocycles Using Supported Organic Bases",
+    "authors": [
+      "Artur M. S. Silva",
+      "Alberto Coelho",
+      "Abdelaziz El\u2010Maatougui",
+      "Enrique Ravi\u00f1a",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1055/s-2006-951559",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Knoevenagel condensation",
+      "Alkylation",
+      "Halide",
+      "Malonic acid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

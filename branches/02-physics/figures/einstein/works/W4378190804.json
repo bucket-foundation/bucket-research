@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4378190804",
+    "canonical_url": "https://openalex.org/W4378190804",
+    "title": "Evaluation Of\u00a0Bauhinia Ungulata\u00a0Essential Oil as a Novel Acetylcholinesterase Inhibitor by an in Silico and in Vitro Perspective",
+    "authors": [
+      "Sandra Regina Nunes de Andrad Medeiros",
+      "Iverson Conrado Bezerra",
+      "Lucas Aleixo Leal Pedroza",
+      "Artur M. S. Silva",
+      "Regildo Max Gomes Martins",
+      "Tha\u0131s Meira Menezes",
+      "Ana Maria Henrique Moniz",
+      "Ana Cristina Gon\u00e7alves Reis de Melo",
+      "Weslley de Souza Paiva",
+      "Edvan Alves Chagas",
+      "Jorge Luiz Neves",
+      "Priscila Gubert",
+      "Ant\u00f4nio Alves de Melo Filho"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.2139/ssrn.4452465",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "preprint",
+    "venue": "SSRN Electronic Journal",
+    "concepts": [
+      "In silico",
+      "Acetylcholinesterase",
+      "In vitro",
+      "Perspective (graphical)",
+      "Bauhinia"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

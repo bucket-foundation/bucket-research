@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2588060169",
+    "canonical_url": "https://openalex.org/W2588060169",
+    "title": "Energetic and Structural Insights into the Molecular and Supramolecular Properties of Rubrene",
+    "authors": [
+      "Carlos F. R. A. C. Lima",
+      "Jos\u00e9 C. S. Costa",
+      "Lu\u00eds M. Spencer S. Lima",
+      "Andr\u00e9 Melo",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1002/slct.201601636",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "ChemistrySelect",
+    "concepts": [
+      "Rubrene",
+      "Tetracene",
+      "Dimer",
+      "Supramolecular chemistry",
+      "Intermolecular force"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

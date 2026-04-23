@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2076803690",
+    "canonical_url": "https://openalex.org/W2076803690",
+    "title": "Synthesis, experimental and theoretical NMR study of 2\u2032-hydroxychalcones bearing a nitro substituent on their B ring",
+    "authors": [
+      "Ana Barros",
+      "Artur M. S. Silva",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1016/j.tet.2004.06.005",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 27,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Substituent",
+      "Nitro",
+      "Ring (chemistry)",
+      "Aldol reaction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

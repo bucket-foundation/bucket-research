@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2034581656",
+    "canonical_url": "https://openalex.org/W2034581656",
+    "title": "<i>meso</i>-Tetraphenylbenzoporphyrin-2<sup>2</sup>,2<sup>3</sup>-dicarboxylic Anhydride: A Platform to Benzoporphyrin Derivatives",
+    "authors": [
+      "Carla M. B. Carvalho",
+      "S\u00e9rgio M. Santos",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jo\u00e3o Rocha",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1021/jo400948s",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "The Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Diamine",
+      "Benzene",
+      "Molecule",
+      "Naphthalene"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2088484795",
+    "canonical_url": "https://openalex.org/W2088484795",
+    "title": "Study of the reactions of 3\u2010acetoacetyl\u20107\u2010methyl\u20102<i>H</i>,5<i>H</i>\u2010pyrano[4,3\u2010<i>b</i>]pyran\u20102,5\u2010dione with aromatic amines",
+    "authors": [
+      "Baya Boutemeur\u2010Kheddis",
+      "Ma\u00e2mar Hamdi",
+      "Nicole Sellier",
+      "Artur M. S. Silva"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1002/jhet.5570380134",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Pyran",
+      "Medicinal chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

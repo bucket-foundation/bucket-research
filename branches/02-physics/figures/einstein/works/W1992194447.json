@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1992194447",
+    "canonical_url": "https://openalex.org/W1992194447",
+    "title": "ChemInform Abstract: Synthesis of Enantiopure 2\u2010C\u2010Glycosyl\u20103\u2010nitrochromenes.",
+    "authors": [
+      "Raquel G. Soengas",
+      "Humberto Rodr\u00edguez\u2010Solla",
+      "Artur M. S. Silva",
+      "Ricardo Llavona",
+      "Filipe A. Almeida Paz"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/chin.201423206",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Enantiopure drug",
+      "Glycosyl",
+      "Stereochemistry",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2097560857",
+    "canonical_url": "https://openalex.org/W2097560857",
+    "title": "Synthesis of new pyrazole-1,2,3-triazole dyads",
+    "authors": [
+      "Joana Ferreira",
+      "Vera L. M. Silva",
+      "Jos\u00e9 Elguero",
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.tetlet.2013.07.120",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Pyrazole",
+      "Triazole",
+      "1,2,3-Triazole",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

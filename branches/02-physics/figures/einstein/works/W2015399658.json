@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2015399658",
+    "canonical_url": "https://openalex.org/W2015399658",
+    "title": "ChemInform Abstract: Synthesis and Transformation of Halochromones",
+    "authors": [
+      "Sara M. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Clementina M.M. Santos"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1002/chin.201504283",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Transformation (genetics)",
+      "Nanotechnology",
+      "Biochemistry",
+      "Materials science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

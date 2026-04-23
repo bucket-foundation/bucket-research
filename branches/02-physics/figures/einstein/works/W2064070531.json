@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2064070531",
+    "canonical_url": "https://openalex.org/W2064070531",
+    "title": "An unusual glucoside from Cleistanthus gracilis",
+    "authors": [
+      "Paulo Pinho",
+      "Waree Naengchomnong",
+      "Anake Kijjoa",
+      "Na\u00efr Nazareth",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1016/j.phytochem.2006.01.014",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Glucoside",
+      "Biology",
+      "Botany",
+      "Medicine",
+      "Pathology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

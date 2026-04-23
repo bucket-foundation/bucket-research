@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2004990742",
+    "canonical_url": "https://openalex.org/W2004990742",
+    "title": "Reactivity Studies of \u03b2-Alkene-type Porphyrins with Vinyl- Triazoles by Cross Metathesis Reactions",
+    "authors": [
+      "Ana T. P. C. Gomes",
+      "Fernando de Carvalho da Silva",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "V\u0131\u0301tor F. Ferreira",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.5151/chempro-14bmos-r0267-1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Proceedings of the 14th Brazilian Meeting on Organic Synthesis Proceedings",
+    "concepts": [
+      "Alkene",
+      "Reactivity (psychology)",
+      "Cyclopropanation",
+      "Porphyrin",
+      "Metathesis"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

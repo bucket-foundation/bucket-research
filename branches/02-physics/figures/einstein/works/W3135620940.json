@@ -1,0 +1,46 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3135620940",
+    "canonical_url": "https://openalex.org/W3135620940",
+    "title": "Bio-macromolecular detection: new organic vital dyes",
+    "authors": [
+      "Raquel Nunes da Silva",
+      "Roberto Sousa Dias",
+      "Catarina Costa",
+      "Maria Luc\u00edlia dos Santos",
+      "Ana Luiza Magalh\u00e3es Sousa",
+      "Mariana Alves",
+      "Susana S. Braga",
+      "Andr\u00e9 Maia",
+      "F\u00e1tima Cam\u00f5es",
+      "M\u00f3nica Almeida",
+      "Sandra Maria Gon\u00e7alves Vieira",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/ecmc2020-07509",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Proceedings of 6th International Electronic Conference on Medicinal Chemistry",
+    "concepts": [
+      "Fluorophore",
+      "Fluorescence",
+      "Macromolecule",
+      "Alexa Fluor",
+      "Protein aggregation"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

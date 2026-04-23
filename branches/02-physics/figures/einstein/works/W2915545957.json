@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2915545957",
+    "canonical_url": "https://openalex.org/W2915545957",
+    "title": "Luminescent Nanothermometers Obtained by Post\u2010Synthetic Modification of Metal\u2010Organic Framework MIL\u201068",
+    "authors": [
+      "Reda M. Abdelhameed",
+      "Duarte Ananias",
+      "Artur M. S. Silva",
+      "Jo\u00e3o Rocha"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1002/ejic.201900110",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "European Journal of Inorganic Chemistry",
+    "concepts": [
+      "Lanthanide",
+      "Luminescence",
+      "Metal-organic framework",
+      "Chemistry",
+      "Butane"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

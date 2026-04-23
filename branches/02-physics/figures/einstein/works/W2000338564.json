@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2000338564",
+    "canonical_url": "https://openalex.org/W2000338564",
+    "title": "ChemInform Abstract: Towards the Synthesis of Platachromone B (I), a Bioactive Natural Prenylated (E)\u20102\u2010Styrychromone.",
+    "authors": [
+      "Frederico R. Baptista",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/chin.201444228",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Traditional medicine",
+      "Medicine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

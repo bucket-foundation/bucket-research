@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2326073034",
+    "canonical_url": "https://openalex.org/W2326073034",
+    "title": "1,17-Dideoxyagelorin A and B, New Bromotyrosine Derivatives and Analogs from the Marine Sponge Suberea aff. praetensa",
+    "authors": [
+      "Anake Kijjoa",
+      "Rawiwan Watanadilok",
+      "Pichai Sonchaeng",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1515/znc-2001-11-1232",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Zeitschrift f\u00fcr Naturforschung C",
+    "concepts": [
+      "Sponge",
+      "Stereochemistry",
+      "Chemistry",
+      "Biology",
+      "Botany"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4382301924",
+    "canonical_url": "https://openalex.org/W4382301924",
+    "title": "In Vitro Antiprotozoal Activity of Hibiscus sabdariffa Extract against a Ciliate Causing High Mortalities in Turbot Aquaculture",
+    "authors": [
+      "Ana Laura Nicoletti Carvalho",
+      "In\u00eas Domingues",
+      "Carla Carvalho",
+      "Artur M. S. Silva",
+      "Amadeu M.V.M. Soares",
+      "Catarina R. Marques"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/biology12070912",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Biology",
+    "concepts": [
+      "Biology",
+      "Turbot",
+      "Hibiscus sabdariffa",
+      "Glutathione",
+      "Antiprotozoal"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

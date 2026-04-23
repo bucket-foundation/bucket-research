@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2060070681",
+    "canonical_url": "https://openalex.org/W2060070681",
+    "title": "2,3-Diarylxanthones as strong scavengers of reactive oxygen and nitrogen species: A structure\u2013activity relationship study",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Marisa Freitas",
+      "Daniela Ribeiro",
+      "Ana Gomes",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Eduarda Fernandes"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1016/j.bmc.2010.07.044",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 29,
+    "type": "article",
+    "venue": "Bioorganic & Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Reactive nitrogen species",
+      "Reactive oxygen species",
+      "Antioxidant",
+      "Peroxynitrite"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

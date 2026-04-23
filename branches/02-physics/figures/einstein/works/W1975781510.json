@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1975781510",
+    "canonical_url": "https://openalex.org/W1975781510",
+    "title": "\u03941-pyrroline based boranyls: Synthesis, crystal structures and luminescent properties",
+    "authors": [
+      "Francisco Cardona",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.dyepig.2014.05.026",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 25,
+    "type": "article",
+    "venue": "Dyes and Pigments",
+    "concepts": [
+      "Luminescence",
+      "Boron",
+      "Fluorescence",
+      "Pyrroline",
+      "Crystal (programming language)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

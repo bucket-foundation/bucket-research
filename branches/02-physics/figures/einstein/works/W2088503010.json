@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2088503010",
+    "canonical_url": "https://openalex.org/W2088503010",
+    "title": "Oxidation of diclofenac catalyzed by manganese porphyrins: synthesis of novel diclofenac derivatives",
+    "authors": [
+      "Cl\u00e1udia M. B. Neves",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "M. Ros\u00e1rio Domingues",
+      "I.C. Santos",
+      "Maria G. P. M. S. Neves",
+      "Filipe A. Almeida Paz",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1039/c2ra20801f",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "RSC Advances",
+    "concepts": [
+      "Chemistry",
+      "Decarboxylation",
+      "Manganese",
+      "Diclofenac",
+      "Oxidative decarboxylation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

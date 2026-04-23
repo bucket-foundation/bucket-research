@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2075342869",
+    "canonical_url": "https://openalex.org/W2075342869",
+    "title": "2D-NMR, X-ray crystallography and theoretical studies of the reaction mechanism for the synthesis of 1,5-benzodiazepines from dehydroacetic acid derivatives and o-phenylenediamines",
+    "authors": [
+      "Amal Rabahi",
+      "Safouane M. Hamdi",
+      "Yah\u00efa Rachedi",
+      "Ma\u00e2mar Hamdi",
+      "Oualid Talhi",
+      "Filipe A. Almeida Paz",
+      "Artur M. S. Silva",
+      "F. Balegroune",
+      "M. Hamad\u00e8ne",
+      "K. Ta\u00efb\u00ee"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.molstruc.2013.12.082",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Dehydroacetic acid",
+      "Benzodiazepine",
+      "Solid-state",
+      "Conjugate"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

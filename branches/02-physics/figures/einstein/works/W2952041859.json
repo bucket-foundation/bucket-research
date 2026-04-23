@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952041859",
+    "canonical_url": "https://openalex.org/W2952041859",
+    "title": "ChemInform Abstract: A Novel and Efficient Route for the Synthesis of Hydroxylated 2,3\u2010Diarylxanthones.",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1002/chin.200820131",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Service (business)",
+      "Information retrieval",
+      "Computer science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

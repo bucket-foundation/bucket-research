@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3177793615",
+    "canonical_url": "https://openalex.org/W3177793615",
+    "title": "3.\u00ba Encontro Nacional de Qu\u00edmica Terap\u00eautica",
+    "authors": [
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.52590/m3.p659.a30001824",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Boletim da Sociedade Portuguesa de Qu\u00edmica",
+    "concepts": [
+      "Mica",
+      "Materials science",
+      "Composite material"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

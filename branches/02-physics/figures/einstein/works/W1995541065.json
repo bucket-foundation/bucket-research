@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1995541065",
+    "canonical_url": "https://openalex.org/W1995541065",
+    "title": "2<i>H</i>\u2010Pyran\u20102\u2010one\u20103\u2010carbothioamide derivatives: Synthesis and reaction with hydrazine hydrate",
+    "authors": [
+      "Malika Makhloufi\u2010Chebli",
+      "Ma\u00e2mar Hamdi",
+      "Artur M. S. Silva",
+      "Olivier Duval",
+      "Jean\u2010Jacques H\u00e9lesbeux"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/jhet.2",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Hydrazine (antidepressant)",
+      "Pyran",
+      "Chemistry",
+      "Hydrate",
+      "Methylene"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3014440990",
+    "canonical_url": "https://openalex.org/W3014440990",
+    "title": "Scrophularia Tenuipes Coss and Durieu: Phytochemical Composition and Biological Activities",
+    "authors": [
+      "Zeyneb Chaibeddra",
+      "Salah Akkal",
+      "Houria Ouled-Haddar",
+      "Artur M. S. Silva",
+      "Ammar Zellagui",
+      "Mohamed Sebti",
+      "Susana M. Cardoso"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/molecules25071647",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "ABTS",
+      "DPPH",
+      "Chemistry",
+      "Antioxidant",
+      "Phytochemical"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

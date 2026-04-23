@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3135561834",
+    "canonical_url": "https://openalex.org/W3135561834",
+    "title": "Insight into the protein tyrosine phosphatase 1B (PTP1B) inhibitory activity of pyrazoles",
+    "authors": [
+      "S\u00f3nia Rocha",
+      "Eduarda Fernandes",
+      "Marisa Freitas",
+      "Daniela Ribeiro",
+      "Vera L. M. Silva",
+      "P. Gomes",
+      "Artur M. S. Silva",
+      "Alberto Ara\u00fajo",
+      "M. Lu\u00edsa Corvo"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/ecmc2020-07490",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Proceedings of 6th International Electronic Conference on Medicinal Chemistry",
+    "concepts": [
+      "Insulin receptor",
+      "Insulin resistance",
+      "Insulin",
+      "Protein tyrosine phosphatase",
+      "Chemistry"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

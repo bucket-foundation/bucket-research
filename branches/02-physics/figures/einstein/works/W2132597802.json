@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2132597802",
+    "canonical_url": "https://openalex.org/W2132597802",
+    "title": "(E)-3-Halo-2-styryl-4H-chromen-4-ones: synthesis and transformation to novel pyrazoles",
+    "authors": [
+      "Joana Ferreira",
+      "Vera L. M. Silva",
+      "Jos\u00e9 Elguero",
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.tet.2013.09.028",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Halo",
+      "Transformation (genetics)",
+      "Combinatorial chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

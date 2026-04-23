@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952082412",
+    "canonical_url": "https://openalex.org/W2952082412",
+    "title": "Synthesis of a new catechin-pyrylium derived pigment",
+    "authors": [
+      "V\u00edctor de Freitas",
+      "Carlos A. D. Sousa",
+      "Artur M. S. Silva",
+      "Celestino Santos\u2010Buelga",
+      "Nuno Mateus"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1016/j.tetlet.2004.10.132",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Catechin",
+      "Pigment",
+      "Nuclear magnetic resonance spectroscopy",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

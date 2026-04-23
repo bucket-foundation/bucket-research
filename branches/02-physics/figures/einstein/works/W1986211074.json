@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1986211074",
+    "canonical_url": "https://openalex.org/W1986211074",
+    "title": "New Qualitative Approach in the Characterization of Antioxidants in White Wines by Antioxidant Free Radical Scavenging and NMR Techniques",
+    "authors": [
+      "Carla Oliveira",
+      "A. C. Silva Ferreira",
+      "Paula Guedes de Pinho",
+      "Artur M. S. Silva"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1021/jf8013662",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Ethyl acetate",
+      "Antioxidant",
+      "Acetone",
+      "DPPH"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

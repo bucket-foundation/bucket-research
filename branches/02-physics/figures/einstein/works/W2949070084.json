@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949070084",
+    "canonical_url": "https://openalex.org/W2949070084",
+    "title": "ChemInform Abstract: A Convenient Synthesis of New (E)\u20105\u2010Hydroxy\u20102\u2010styrylchromones by Modifications of the Baker\u2014Venkataraman Method.",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1002/chin.200022117",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Service (business)",
+      "Nanotechnology",
+      "Business",
+      "Marketing"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

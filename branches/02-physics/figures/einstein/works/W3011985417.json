@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3011985417",
+    "canonical_url": "https://openalex.org/W3011985417",
+    "title": "Anti-proliferative, Cytotoxic and NF-\u0138B Inhibitory Properties of Spiro(Lactone-Cyclohexanone) Compounds in Human Leukemia",
+    "authors": [
+      "Mustapha Mounir Bouhenna",
+      "Barbora Orlikova",
+      "Oualid Talhi",
+      "Ben Schram",
+      "Diana C. G. A. Pinto",
+      "Nadia Ta\u00efbi",
+      "Khaldoun Bachar\u0131",
+      "Marc Diederich",
+      "Artur M. S. Silva",
+      "N. Mameri"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.21873/anticanres.11946",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Anticancer Research",
+    "concepts": [
+      "Cytotoxic T cell",
+      "Leukemia",
+      "Cyclohexanone",
+      "Cytotoxicity",
+      "Inhibitory postsynaptic potential"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

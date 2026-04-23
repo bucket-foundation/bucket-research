@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2234820467",
+    "canonical_url": "https://openalex.org/W2234820467",
+    "title": "Cytisus multiflorus: phenolic characterization by HPLC-DAD, ESI-MSn and NMR combined methods",
+    "authors": [
+      "Ol\u00edvia R. Pereira",
+      "Artur M. S. Silva",
+      "M. Ros\u00e1rio Domingues",
+      "Susana M. Cardoso"
+    ],
+    "year": 2012,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Biblioteca Digital do IPB (Instituto Politecnico De Braganca)",
+    "concepts": [
+      "Chromatography",
+      "Chemistry",
+      "High-performance liquid chromatography",
+      "Characterization (materials science)",
+      "Botany"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

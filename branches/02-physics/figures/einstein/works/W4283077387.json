@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4283077387",
+    "canonical_url": "https://openalex.org/W4283077387",
+    "title": "NMR Structural Characterization of Oxygen Heterocyclic Compounds",
+    "authors": [
+      "R.A. Santos",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1002/9783527832002.ch13",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "other",
+    "venue": "Heterocycles",
+    "concepts": [
+      "Characterization (materials science)",
+      "Nuclear magnetic resonance spectroscopy",
+      "Chemistry",
+      "Carbon-13 NMR",
+      "Oxygen"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

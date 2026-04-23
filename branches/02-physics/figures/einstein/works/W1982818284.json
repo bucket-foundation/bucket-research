@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1982818284",
+    "canonical_url": "https://openalex.org/W1982818284",
+    "title": "Synthesis of pseudo-C-nucleosides from \u03b2-formyl-\u03b1,\u03b2-unsaturated ester bearing a \u03b2-furanosidic moiety",
+    "authors": [
+      "Jorge M. Pinheiro",
+      "Maria I. Ismael",
+      "Jos\u00e9 A. Figueiredo",
+      "Artur M. S. Silva"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1007/s00706-009-0171-1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Moiety",
+      "Chemistry",
+      "Hydroxymethyl",
+      "Sugar",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

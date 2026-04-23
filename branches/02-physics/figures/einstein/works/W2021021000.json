@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2021021000",
+    "canonical_url": "https://openalex.org/W2021021000",
+    "title": "Reactivity of tetrapyrrolyl nitrones towards dipolarophiles bearing electron-withdrawing groups",
+    "authors": [
+      "A. Filipa F. da Silva",
+      "Joana F. B. Barata",
+      "Ana M. G. Silva",
+      "Ana M. G. Silva",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1016/j.tetlet.2015.04.066",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Nitrone",
+      "Dimethyl acetylenedicarboxylate",
+      "Chemistry",
+      "Reactivity (psychology)",
+      "Cycloaddition"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

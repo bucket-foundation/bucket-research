@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3180200498",
+    "canonical_url": "https://openalex.org/W3180200498",
+    "title": "Cerim\u00f3nia de lan\u00e7amento do Ano Internacional da Tabela Peri\u00f3dica, Paris, UNESCONo dia 29 de janeiro de 2019, na sede da UNESCO em Paris, celebrou-se o lan\u00e7amento oficial do Ano Internacional da Tabela Peri\u00f3dica (IYPT2019). \u201c\u2026A Tabela Peri\u00f3dica conta-",
+    "authors": [
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.52590/m3.p687.a30002176",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Boletim da Sociedade Portuguesa de Qu\u00edmica",
+    "concepts": [
+      "Peri",
+      "Humanities",
+      "Physics",
+      "Art",
+      "Literature"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

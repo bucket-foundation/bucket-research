@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1983085200",
+    "canonical_url": "https://openalex.org/W1983085200",
+    "title": "Cytotoxic Activity of Diterpenes and Extracts of<i>Juniperus brevifolia</i>",
+    "authors": [
+      "Laila Moujir",
+      "Ana M. L. Seca",
+      "Artur M. S. Silva",
+      "Maria do Carmo Barreto"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1055/s-2008-1074529",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "Planta Medica",
+    "concepts": [
+      "Dichloromethane",
+      "HeLa",
+      "Acetone",
+      "Chloroform",
+      "Bark (sound)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

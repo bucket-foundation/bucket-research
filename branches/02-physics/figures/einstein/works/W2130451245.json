@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2130451245",
+    "canonical_url": "https://openalex.org/W2130451245",
+    "title": "The dependence of \u03b1-tocopheroxyl radical reduction by hydroxy-2,3-diarylxanthones on structure and micro-environment",
+    "authors": [
+      "Patrice Morli\u00e8re",
+      "L. K. Patterson",
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Jean\u2010Claude Mazi\u00e8re",
+      "Paulo Filipe",
+      "Ana Gomes",
+      "Eduarda Fernandes",
+      "M. Beatriz Q. Garcia",
+      "Ren\u00e9 Sant\u00fas"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1039/c2ob06612b",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Organic & Biomolecular Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Trolox",
+      "Radical",
+      "Radiolysis",
+      "Deprotonation"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

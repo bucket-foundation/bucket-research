@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2185546327",
+    "canonical_url": "https://openalex.org/W2185546327",
+    "title": "Data analysis of \u201ckrokodil\u201d samples obtained by street-like synthesis",
+    "authors": [
+      "Jo\u00e3o Filipe Neves",
+      "Emanuele Amorim Alves",
+      "Jos\u00e9 X. Soares",
+      "Sara Cravo",
+      "Artur M. S. Silva",
+      "Annibal Duarte Pereira Netto",
+      "F\u00e9lix Carvalho",
+      "Ricardo Jorge Dinis\u2010Oliveira",
+      "Carlos Afonso"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1016/j.dib.2015.11.046",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Data in Brief",
+    "concepts": [
+      "Subject (documents)",
+      "Organoleptic",
+      "Fourier transform infrared spectroscopy",
+      "Chemistry",
+      "Product (mathematics)"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

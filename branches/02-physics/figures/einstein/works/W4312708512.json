@@ -1,0 +1,30 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4312708512",
+    "canonical_url": "https://openalex.org/W4312708512",
+    "title": "Funda\u00e7\u00e3o Calouste Gulbenkian",
+    "authors": [
+      "Artur M. S. Silva",
+      "Rui Gon\u00e7alves"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.51427/ptl.fdv.2014.0006",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Forma de Vida",
+    "concepts": [
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

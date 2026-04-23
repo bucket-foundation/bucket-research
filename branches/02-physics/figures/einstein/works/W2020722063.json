@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2020722063",
+    "canonical_url": "https://openalex.org/W2020722063",
+    "title": "Synthesis of (<i>E</i>)-2-Styrylchromones",
+    "authors": [
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 Elguero",
+      "M. Lu\u00edsa Jimeno",
+      "Artur M. S. Silva"
+    ],
+    "year": 1991,
+    "doi": "https://doi.org/10.1246/cl.1991.445",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Chemistry Letters",
+    "concepts": [
+      "Chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

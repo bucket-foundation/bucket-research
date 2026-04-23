@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949344330",
+    "canonical_url": "https://openalex.org/W2949344330",
+    "title": "Synthesis of Polymer\u2010Supported Fesulphos Ligands and Their Application in Asymmetric Catalysis.",
+    "authors": [
+      "Bel\u00e9n Mart\u0131\u0301n-Matute",
+      "Susana Isabel Pereira",
+      "Eduardo Pe\u00f1a\u2010Cabrera",
+      "Javier Adrio",
+      "Artur M. S. Silva",
+      "Juan C. Carretero"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1002/chin.200746025",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Catalysis",
+      "Combinatorial chemistry",
+      "Nanotechnology",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

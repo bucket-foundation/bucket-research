@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2314547600",
+    "canonical_url": "https://openalex.org/W2314547600",
+    "title": "Reaction of \u03b2-Vinyl-meso-tetraphenylporphyrin with o-Quinone Methides",
+    "authors": [
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 C. J. M. D. S. Menezes",
+      "Ana T. P. C. Gomes",
+      "Artur M. S. Silva",
+      "M. Amparo F. Faustino",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Fernando de Carvalho da Silva",
+      "V\u0131\u0301tor F. Ferreira"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1055/s-0030-1260947",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Paraformaldehyde",
+      "Quinone",
+      "Knoevenagel condensation",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

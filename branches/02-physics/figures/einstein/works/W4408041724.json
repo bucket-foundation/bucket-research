@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4408041724",
+    "canonical_url": "https://openalex.org/W4408041724",
+    "title": "Suitability of Areas for Implementation of Central Pivot Irrigation in the Municipality of Santar\u00e9m - PA",
+    "authors": [
+      "Artur M. S. Silva"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.31031/mcda.2024.14.000841",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Modern Concepts & Developments in Agronomy",
+    "concepts": [
+      "Irrigation",
+      "Water resource management",
+      "Environmental science",
+      "Geography",
+      "Hydrology (agriculture)"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

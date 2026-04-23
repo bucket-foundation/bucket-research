@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4391692920",
+    "canonical_url": "https://openalex.org/W4391692920",
+    "title": "Melanoxetin: A Hydroxylated Flavonoid Attenuates Oxidative Stress and Modulates Insulin Resistance and Glycation Pathways in an Animal Model of Type 2 Diabetes Mellitus",
+    "authors": [
+      "S\u00f3nia Rocha",
+      "Andreia Amaro",
+      "Marcos Divino Ferreira-Junior",
+      "Carina Proen\u00e7a",
+      "Artur M. S. Silva",
+      "Vera Marisa Costa",
+      "Sara Oliveira",
+      "Diogo A. Fonseca",
+      "S\u00f3nia Silva",
+      "M. Lu\u00edsa Corvo",
+      "Marisa Freitas",
+      "Paulo Matafome",
+      "Eduarda Fernandes"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.3390/pharmaceutics16020261",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Pharmaceutics",
+    "concepts": [
+      "Oxidative stress",
+      "Glycation",
+      "Insulin resistance",
+      "Methylglyoxal",
+      "Pharmacology"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2592100745",
+    "canonical_url": "https://openalex.org/W2592100745",
+    "title": "Parthenolide and Parthenolide-Like Sesquiterpene Lactones as Multiple Targets Drugs",
+    "authors": [
+      "Ana M. L. Seca",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/b978-0-444-63931-8.00009-6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "book-chapter",
+    "venue": "Studies in natural products chemistry",
+    "concepts": [
+      "Parthenolide",
+      "Sesquiterpene lactone",
+      "Stereochemistry",
+      "Chemistry",
+      "Antifungal"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

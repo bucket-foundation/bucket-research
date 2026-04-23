@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397409096",
+    "canonical_url": "https://openalex.org/W4397409096",
+    "title": "CCDC 1413357: Experimental Crystal Structure Determination",
+    "authors": [
+      "Raquel G. Soengas",
+      "Vera L. M. Silva",
+      "Daisuke Ide",
+      "Atsushi Kato",
+      "Susana M. Cardoso",
+      "Filipe A. Almeida Paz",
+      "Artur M. S. Silva"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc1jfq5v",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

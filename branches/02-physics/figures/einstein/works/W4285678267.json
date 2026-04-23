@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4285678267",
+    "canonical_url": "https://openalex.org/W4285678267",
+    "title": "Novel aurone-type compounds with an extended \u03c0-system: Synthesis and optical properties",
+    "authors": [
+      "Sara M. Tom\u00e9",
+      "Raquel G. Soengas",
+      "Rosana Bad\u00eda\u2010Lai\u00f1o",
+      "Artur M. S. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.dyepig.2022.110569",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Dyes and Pigments",
+    "concepts": [
+      "Solvatochromism",
+      "Moiety",
+      "Chemistry",
+      "Aniline",
+      "Polar effect"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

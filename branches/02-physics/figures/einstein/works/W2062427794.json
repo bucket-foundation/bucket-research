@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2062427794",
+    "canonical_url": "https://openalex.org/W2062427794",
+    "title": "Cytotoxic meroterpenoids from the macroalga Cystoseira abies-marina",
+    "authors": [
+      "Vera Gouveia",
+      "Ana M. L. Seca",
+      "Maria do Carmo Barreto",
+      "Ana I. Neto",
+      "Anake Kijjoa",
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.phytol.2013.07.012",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 28,
+    "type": "article",
+    "venue": "Phytochemistry Letters",
+    "concepts": [
+      "HeLa",
+      "Benzoic acid",
+      "Cytotoxicity",
+      "Chemistry",
+      "In vitro"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

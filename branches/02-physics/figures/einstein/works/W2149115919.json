@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2149115919",
+    "canonical_url": "https://openalex.org/W2149115919",
+    "title": "Isomeric Kielcorins and Dihydroxyxanthones: Synthesis, Structure Elucidation, and Inhibitory Activities of Growth of Human Cancer Cell Lines and on the Proliferation of Human Lymphocytes in vitro.",
+    "authors": [
+      "Em\u0131\u0301lia Sousa",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Madalena Pedro",
+      "F\u00e1tima Cerqueira",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1002/chin.200302199",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "In vitro",
+      "Port (circuit theory)",
+      "Traditional medicine",
+      "Chemistry",
+      "Toxicology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

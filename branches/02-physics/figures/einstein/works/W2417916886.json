@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2417916886",
+    "canonical_url": "https://openalex.org/W2417916886",
+    "title": "Effect of Self-Association on the Phase Stability of Triphenylamine Derivatives",
+    "authors": [
+      "Carlos F. R. A. C. Lima",
+      "Jos\u00e9 C. S. Costa",
+      "Andr\u00e9 Melo",
+      "Hil\u00e1rio R. Tavares",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1021/acs.jpca.5b01079",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "The Journal of Physical Chemistry A",
+    "concepts": [
+      "Triphenylamine",
+      "Benzene",
+      "Chemistry",
+      "Non-covalent interactions",
+      "Phase (matter)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4378224710",
+    "canonical_url": "https://openalex.org/W4378224710",
+    "title": "Highlights on the General Preference for Multi-Over Mono-Coupling in the Suzuki\u2013Miyaura Reaction",
+    "authors": [
+      "Carlos F. R. A. C. Lima",
+      "Marco A. L. Lima",
+      "Jos\u00e9 Ricardo Pinto",
+      "M. Gabriela T. C. Ribeiro",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/catal13060928",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Catalysts",
+    "concepts": [
+      "Selectivity",
+      "Coupling reaction",
+      "Catalysis",
+      "Chemistry",
+      "Boronic acid"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2153208319",
+    "canonical_url": "https://openalex.org/W2153208319",
+    "title": "Tetrahydroquinazoline-substituted chromones from Diels\u2013Alder reaction of (E)-2-styrylchromones and pyrimidine ortho-quinodimethane",
+    "authors": [
+      "Diana T. Patoilo",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Clementina M.M. Santos",
+      "Augusto C. Tom\u00e9",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1016/j.tetlet.2012.03.081",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Pyrimidine",
+      "Cycloaddition",
+      "Diels\u2013Alder reaction"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953030334",
+    "canonical_url": "https://openalex.org/W2953030334",
+    "title": "General Preparation of 1\u2010Substituted (<i>E</i>)\u20101,3\u2010Dienes under Mild Conditions",
+    "authors": [
+      "Raquel G. Soengas",
+      "Humberto Rodr\u00edguez\u2010Solla",
+      "Ainhoa D\u00edaz\u2010Pardo",
+      "Rita C. Ac\u00farcio",
+      "Carmen Concell\u00f3n",
+      "Vicente del Amo",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1002/ejoc.201403623",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Stereoselectivity",
+      "Acetylation",
+      "Indium",
+      "Organic chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

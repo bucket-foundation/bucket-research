@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2286041130",
+    "canonical_url": "https://openalex.org/W2286041130",
+    "title": "The 2-styrylchromone structure is an effective scaffold for the development of new inibitors of the nf-kb pathway",
+    "authors": [
+      "Ana C. Gomes",
+      "Marisa Freitas",
+      "Jo\u00e3o Paulo Capela",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Clementina M.M. Santos",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Eduarda Fernandes",
+      "Jos\u00e9 L. F. C. Lima"
+    ],
+    "year": 2010,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Scaffold",
+      "Cell biology",
+      "Chemistry",
+      "Engineering",
+      "Biology"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

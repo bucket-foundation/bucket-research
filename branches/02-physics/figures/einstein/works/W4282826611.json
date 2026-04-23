@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4282826611",
+    "canonical_url": "https://openalex.org/W4282826611",
+    "title": "Mild Synthesis of Symmetric 3,5-Disubstituted Nitrobenzenes",
+    "authors": [
+      "Artur M. S. Silva",
+      "H\u00e9lio M. T. Albuquerque",
+      "Telmo N. Francisco",
+      "Joana L. C. Sousa",
+      "Samuel Guieu"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1055/a-1875-2646",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Nitromethane",
+      "Aromatization",
+      "Michael reaction",
+      "Intramolecular force"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

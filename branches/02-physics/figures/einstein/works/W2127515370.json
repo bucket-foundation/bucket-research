@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2127515370",
+    "canonical_url": "https://openalex.org/W2127515370",
+    "title": "Reactivity of some structural analogs of dehydroacetic acid DHA with o-phenylenediamine",
+    "authors": [
+      "Nabila A\u00eft\u2010Baziz",
+      "Yah\u00efa Rachedi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.3998/ark.5550190.0011.a08",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "ARKIVOC",
+    "concepts": [
+      "Chemistry",
+      "Dehydroacetic acid",
+      "Reactivity (psychology)",
+      "Organic chemistry",
+      "Medicine"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

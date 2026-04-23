@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4229052510",
+    "canonical_url": "https://openalex.org/W4229052510",
+    "title": "Multicomponent synthesis of pyranonicotinonitrile and chromene-3-carbonitrile: Studies on bioactivities and molecular docking",
+    "authors": [
+      "Dhaouya Siziani",
+      "Borhane Eddine Ch\u00e9rif Ziani",
+      "Yamina Abdi",
+      "Nadjia Bensouilah",
+      "Baya Boutemeur\u2010Kheddis",
+      "Cha\u00efma Ziani",
+      "Leila Boukkena",
+      "Ma\u00e2mar Hamdi",
+      "Oualid Talhi",
+      "Khaldoun Bachar\u0131",
+      "Artur M. S. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.molstruc.2022.133236",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Docking (animal)",
+      "DPPH",
+      "Stereochemistry",
+      "AutoDock"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4403936031",
+    "canonical_url": "https://openalex.org/W4403936031",
+    "title": "Styrylchromones: Biological Activities and Structure\u2010Activity Relationship",
+    "authors": [
+      "Mariana Lucas",
+      "Marisa Freitas",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes",
+      "Eduarda Fernandes",
+      "Daniela Ribeiro"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1002/cmdc.202400782",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "review",
+    "venue": "ChemMedChem",
+    "concepts": [
+      "Chromone",
+      "Chemistry",
+      "Biological activity",
+      "Antifungal",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

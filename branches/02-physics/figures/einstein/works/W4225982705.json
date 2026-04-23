@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4225982705",
+    "canonical_url": "https://openalex.org/W4225982705",
+    "title": "Two new saponins from Paronychia capitata",
+    "authors": [
+      "Zina Allaoua",
+      "Imane Benabdelaziz",
+      "Naima Rahmouni",
+      "Soumia Bouzidi",
+      "Artur M. S. Silva",
+      "Mohammed Benkhaled",
+      "Hamada Haba"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.phytol.2022.03.015",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "Phytochemistry Letters",
+    "concepts": [
+      "Oleanane",
+      "Two-dimensional nuclear magnetic resonance spectroscopy",
+      "Oleanolic acid",
+      "Chemistry",
+      "Triterpene"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

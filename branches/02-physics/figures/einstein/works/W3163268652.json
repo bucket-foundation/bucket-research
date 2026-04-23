@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3163268652",
+    "canonical_url": "https://openalex.org/W3163268652",
+    "title": "Inter\u2010Individual <i>versus</i> Inter\u2010Population Variability of <i>Calendula suffruticosa</i> subsp. <i>algarbiensis</i> Hexane Extracts",
+    "authors": [
+      "Silvana Ohse",
+      "Mariza Boscacci Marques",
+      "Paulo Silveira",
+      "M\u00f3nica V\u00e1lega",
+      "Daniel Granato",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1002/cbdv.202100120",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Chemistry & Biodiversity",
+    "concepts": [
+      "Taxon",
+      "Subspecies",
+      "Population",
+      "Terpenoid",
+      "Genus"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

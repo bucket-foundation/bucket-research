@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1850802278",
+    "canonical_url": "https://openalex.org/W1850802278",
+    "title": "An easy synthetic access to new pyrazole spiro derivatives from 3-amino-1-phenyl-2-pyrazolin-5-one",
+    "authors": [
+      "Jamila Zaiter",
+      "Hanane Achibat",
+      "Ouafa Amiri",
+      "Abderrafia Hafid",
+      "Mostaf\u00e0 Khouili",
+      "El Mostapha Rakib",
+      "Cl\u00e1udia M. B. Neves",
+      "Maria G. P. M. S. Neves",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Filipe A. Almeida Paz",
+      "M. Amparo F. Faustino"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1039/c5nj01306b",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Pyrazole",
+      "Combinatorial chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

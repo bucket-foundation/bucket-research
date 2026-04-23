@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2222611428",
+    "canonical_url": "https://openalex.org/W2222611428",
+    "title": "NDPO2 as a selective generator of 1o2 used in the scavenging activity assay of 2,3-diarylxanthones",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Marisa Freitas",
+      "Daniela Ribeiro",
+      "Ana Gomes",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Eduarda Fernandes"
+    ],
+    "year": 2010,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Scavenging",
+      "Generator (circuit theory)",
+      "Chemistry",
+      "Biochemistry",
+      "Power (physics)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

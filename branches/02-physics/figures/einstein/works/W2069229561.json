@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2069229561",
+    "canonical_url": "https://openalex.org/W2069229561",
+    "title": "Screening of lipophilic and phenolic extractives from different morphological parts of Halimione portulacoides",
+    "authors": [
+      "Carla Vilela",
+      "S\u00f3nia A.O. Santos",
+      "Dora Coelho",
+      "Artur M. S. Silva",
+      "Carmen S. R. Freire",
+      "Carlos Pascoal Neto",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.indcrop.2013.11.002",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "article",
+    "venue": "Industrial Crops and Products",
+    "concepts": [
+      "Chemistry",
+      "Lignan",
+      "Halophyte",
+      "Chromatography",
+      "Phenols"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

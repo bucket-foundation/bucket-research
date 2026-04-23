@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4320060430",
+    "canonical_url": "https://openalex.org/W4320060430",
+    "title": "Synthesis and Chemical Reactivity of Novel Polyhydroxylated Bis-Chalcones",
+    "authors": [
+      "Rui Pereira",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Daniela Ribeiro",
+      "Eduarda Fernandes"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/ecmc2022-13473",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ECMC 2022",
+    "concepts": [
+      "Reactivity (psychology)",
+      "Chemistry",
+      "Organic chemistry",
+      "Computer science",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

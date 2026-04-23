@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2026963287",
+    "canonical_url": "https://openalex.org/W2026963287",
+    "title": "A Novel and Efficient Synthetic Method of Benzo[<i>f</i>]chromen\u20101\u2010ones and Phenyl\u20104<i>H</i>\u2010chromen\u20104\u2010one through Photooxidative Cyclization of 6\u2010[(<i>E</i>)\u20102\u2010Arylvinyl]\u20104<i>H</i>\u2010pyran\u20104\u2010ones and 6\u2010[(1<i>E</i>,3E)\u20104\u2010Phenylbuta\u20101,3\u2010dien\u20101\u2010yl]\u20104<i>H</i>\u2010pyran\u20104\u2010one",
+    "authors": [
+      "Nabila A\u00eft\u2010Baziz",
+      "Safouane M. Hamdi",
+      "Artur M. S. Silva",
+      "Yah\u00efa Rachedi",
+      "Ma\u00e2mar Hamdi",
+      "M. Trari"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/jhet.1694",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Pyran",
+      "Catalysis",
+      "Stereochemistry",
+      "Medicinal chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

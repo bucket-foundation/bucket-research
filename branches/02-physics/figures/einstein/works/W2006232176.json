@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2006232176",
+    "canonical_url": "https://openalex.org/W2006232176",
+    "title": "Synthesis of flavonoid-type compounds from methyl dehydroabietates",
+    "authors": [
+      "S\u00edlvia Monteiro",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1007/s00706-008-0889-1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Chalcone",
+      "Chemistry",
+      "Catalysis",
+      "Flavonoid",
+      "Aldol condensation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

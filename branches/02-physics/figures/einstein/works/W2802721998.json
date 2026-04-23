@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2802721998",
+    "canonical_url": "https://openalex.org/W2802721998",
+    "title": "Catalyst-Free One-Pot Synthesis of Chromeno-Imidazo-Pyridinones by an Aza-Michael Addition/Rearrangement/Heterocyclization Tandem Reaction",
+    "authors": [
+      "Oualid Talhi",
+      "Norah Bennamane",
+      "Artur M. S. Silva",
+      "Houria Lakhdari",
+      "Ridha Hassaine",
+      "Nadia Ta\u00efbi",
+      "Ricardo F. Mendes",
+      "Filipe A. Almeida Paz",
+      "Bellara Nedjar\u2010Kolli",
+      "Khaldoun Bachar\u0131"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1055/s-0037-1609684",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Tandem",
+      "Catalysis",
+      "Cascade reaction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

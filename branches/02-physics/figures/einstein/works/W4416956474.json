@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4416956474",
+    "canonical_url": "https://openalex.org/W4416956474",
+    "title": "In Vitro and In Vivo Anti-Phytopathogenic Fungal Activity of a Culture Extract of the Marine-Derived Fungus, Aspergillus\u00a0unguis KUFA 0098, and Its Major Depsidone Constituents",
+    "authors": [
+      "Decha Kumla",
+      "Diana Pinho",
+      "Em\u0131\u0301lia Sousa",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Sharad Mistry",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.3390/md23120461",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Fungus",
+      "Fractionation",
+      "In vivo",
+      "In vitro",
+      "Chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

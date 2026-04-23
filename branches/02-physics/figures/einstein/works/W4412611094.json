@@ -1,0 +1,32 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4412611094",
+    "canonical_url": "https://openalex.org/W4412611094",
+    "title": "Jornadas pedag\u00f3gicas: desafios contempor\u00e2neos na EAD",
+    "authors": [
+      "Maria Manuela Pereira Machado",
+      "Artur M. S. Silva",
+      "Leticia Viana",
+      "Vitoria Batista Silva"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.22350/9786552721464",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book",
+    "venue": "Editora Fi eBooks",
+    "concepts": [
+      "Psychology"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

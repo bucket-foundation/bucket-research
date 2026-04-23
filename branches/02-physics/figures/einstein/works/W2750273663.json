@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2750273663",
+    "canonical_url": "https://openalex.org/W2750273663",
+    "title": "Organobase catalysed one-pot exo-selective synthesis of meso-spiro[cyclohexanone-pyrandione] derivatives",
+    "authors": [
+      "Oualid Talhi",
+      "Hasnia Abdeldjebar",
+      "Yamina Belmiloud",
+      "Ridha Hassaine",
+      "Nadia Ta\u00efbi",
+      "M\u00f3nica V\u00e1lega",
+      "Filipe A. Almeida Paz",
+      "M\u00e9ziane Brahimi",
+      "Khaldoun Bachar\u0131",
+      "Artur M. S. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1039/c7nj02168b",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Synthon",
+      "Cyclohexanone",
+      "Stereoselectivity",
+      "Conjugate"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

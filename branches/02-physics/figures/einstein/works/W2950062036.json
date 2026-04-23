@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950062036",
+    "canonical_url": "https://openalex.org/W2950062036",
+    "title": "Reactivity of 3-Iodo-4-quinolones in Heck Reactions: Synthesis of Novel (E)-3-Styryl-4-quinolones",
+    "authors": [
+      "Artur M. S. Silva",
+      "A. Filipa Almeida",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1055/s-0029-1219175",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Quinolone",
+      "Reactivity (psychology)",
+      "Heck reaction",
+      "Medicinal chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

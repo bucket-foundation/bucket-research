@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4229976332",
+    "canonical_url": "https://openalex.org/W4229976332",
+    "title": "Eight-Membered Rings With One Oxygen Atom",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/b978-0-12-409547-2.14816-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": "Elsevier eBooks",
+    "concepts": [
+      "Oxygen atom",
+      "Chemistry",
+      "Algae",
+      "Ring (chemistry)",
+      "Stereochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

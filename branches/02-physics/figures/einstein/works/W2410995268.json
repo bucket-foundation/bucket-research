@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2410995268",
+    "canonical_url": "https://openalex.org/W2410995268",
+    "title": "Sartoryglabrins, Analogs of Ardeemins, from <i>Neosartorya Glabra</i>",
+    "authors": [
+      "Anake Kijjoa",
+      "S\u00f3nia F. A. Santos",
+      "Tida Dethoup",
+      "Leka Manoch",
+      "Ana Paula de Almeida",
+      "M. Helena Vasconcelos",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s Gales",
+      "Werner Herz"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1177/1934578x1100600615",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "Natural Product Communications",
+    "concepts": [
+      "Cell culture",
+      "Chemistry",
+      "MCF-7",
+      "Cell",
+      "Prenylation"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4404137694",
+    "canonical_url": "https://openalex.org/W4404137694",
+    "title": "SETUP \u00d3TIMO DE TAGUCHI SOBRE O TEMPO DE QUEIMA DE VELAS ARTESANAIS",
+    "authors": [
+      "JOSENILDO BRITO DE OLIVEIRA",
+      "Artur M. S. Silva",
+      "KALLIANY JALIFY DAS NEVES MIRANDA",
+      "FRANCISCO KEGENALDO ALVES DE SOUSA"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.14488/enegep2024_tn_st_414_2036_47829",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Anais ... Encontro Nacional de Engenharia de Produ\u00e7\u00e3o/Anais do Encontro Nacional de Engenharia de Produ\u00e7\u00e3o",
+    "concepts": [
+      "Computer science"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

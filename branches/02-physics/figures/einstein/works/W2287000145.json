@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2287000145",
+    "canonical_url": "https://openalex.org/W2287000145",
+    "title": "Compounds identified on hexane and dichloromethane extracts of Salicornia ramosissima",
+    "authors": [
+      "Vera M. S. Isca",
+      "Ana M. L. Seca",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Helena Silva"
+    ],
+    "year": 2012,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Dichloromethane",
+      "Hexane",
+      "Chemistry",
+      "Chromatography",
+      "Biology"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

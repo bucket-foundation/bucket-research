@@ -1,0 +1,48 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4226297745",
+    "canonical_url": "https://openalex.org/W4226297745",
+    "title": "Contributors",
+    "authors": [
+      "Luis G. Aguayo",
+      "Marium Ahmed",
+      "Mohamed H. Ahmed",
+      "Musaab Ahmed",
+      "H\u00e9lio M. T. Albuquerque",
+      "Alicia Alonso",
+      "Rana Ashkar",
+      "Fodil Azzaz",
+      "Carlos Javier Baier",
+      "Francisco J. Barrantes",
+      "Ma\u0142gorzata Bednarska\u2010Makaruk",
+      "Andrew S. Bell",
+      "Asier Benito\u2010Vicente",
+      "Michael Brown",
+      "Anna N. Bukiya",
+      "Carlos F. Burgos",
+      "Henri Chahinian",
+      "Waranya Chatuphonprasert",
+      "Parkson Lee\u2010Gau Chong",
+      "Arrigo F.G. Cicero"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/b978-0-323-85857-1.09991-0",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": "Cholesterol",
+    "concepts": [
+      "History"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

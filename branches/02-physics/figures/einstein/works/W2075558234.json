@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2075558234",
+    "canonical_url": "https://openalex.org/W2075558234",
+    "title": "Synthesis of porphyrin indolin-2-one conjugates via palladium-catalyzed amination reactions",
+    "authors": [
+      "Jos\u00e9 C. J. M. D. S. Menezes",
+      "Ana M. V. M. Pereira",
+      "Maria G. P. M. S. Neves",
+      "Artur M. S. Silva",
+      "S\u00e9rgio M. Santos",
+      "Sabrina Teixeira Martinez",
+      "B\u00e1rbara V. Silva",
+      "\u00c2ngelo C. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1016/j.tet.2012.07.024",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Palladium",
+      "Amination",
+      "Catalysis",
+      "Porphyrin"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

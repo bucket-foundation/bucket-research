@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2810806845",
+    "canonical_url": "https://openalex.org/W2810806845",
+    "title": "Insight Approaches of Medicinal Plants for the Discovery of Anticancer Drugs",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Ana M. L. Seca",
+      "Artur M. S. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1007/978-981-10-8216-0_4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "book-chapter",
+    "venue": null,
+    "concepts": [
+      "Parthenolide",
+      "Triptolide",
+      "Betulinic acid",
+      "Medicine",
+      "Drug discovery"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

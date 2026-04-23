@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4385479936",
+    "canonical_url": "https://openalex.org/W4385479936",
+    "title": "Application of the Heck Reaction for the Synthesis of C-Glycosyl Phenolic Compounds",
+    "authors": [
+      "Raquel G. Soengas",
+      "Artur M. S. Silva",
+      "Sara M. Tom\u00e9"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1055/a-2147-2788",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Synthesis",
+    "concepts": [
+      "Chemistry",
+      "Glycosyl",
+      "Heck reaction",
+      "Glycosylation",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

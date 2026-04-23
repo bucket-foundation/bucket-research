@@ -1,0 +1,47 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4285235738",
+    "canonical_url": "https://openalex.org/W4285235738",
+    "title": "Synthetic Naphthoquinone Derivatives as Anticancer Agents in Ovarian Cancer: Synthesis, Cytotoxicity Assay, and Investigation of the Mechanism of Action",
+    "authors": [
+      "Renata Dalmaschio Dalto\u00e9",
+      "Maicon Delarmelina",
+      "Kl\u00e9sia Pirola Madeira",
+      "Marcella L. Porto",
+      "Silvana S. Meirelles",
+      "Isabella S. Guimar\u00e3es",
+      "\u00c9clair Venturini Filho",
+      "Alan Reinke Pereira",
+      "Rafael de Queiroz Ferreira",
+      "Gabriel F. S. dos Santos",
+      "Izabela de Fran\u00e7a Schaffel",
+      "Jos\u00e9 Walkimar de M. Carneiro",
+      "Artur M. S. Silva",
+      "Let\u00edcia Batista Azevedo Rangel",
+      "Sandro J. Greco"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.2139/ssrn.4141619",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "SSRN Electronic Journal",
+    "concepts": [
+      "Cytotoxicity",
+      "Ovarian cancer",
+      "Mechanism of action",
+      "Mechanism (biology)",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

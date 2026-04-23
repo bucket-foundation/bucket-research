@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4213148012",
+    "canonical_url": "https://openalex.org/W4213148012",
+    "title": "When needles are not enough, forceps delivers!",
+    "authors": [
+      "Jo\ufffdo Pedro Pereira",
+      "C\u00e1tia Leit\ufffdo",
+      "Artur M. S. Silva",
+      "Francisco Baldaque\u2010Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.17235/reed.2022.8697/2022",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Revista Espa\u00f1ola de Enfermedades Digestivas",
+    "concepts": [
+      "Medicine",
+      "Mediastinum",
+      "Malignancy",
+      "Radiology",
+      "Forceps"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

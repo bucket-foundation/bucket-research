@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2044557489",
+    "canonical_url": "https://openalex.org/W2044557489",
+    "title": "New synthesis and reactivity of 3\u2010bromoacetyl\u20104\u2010hydroxy\u20106\u2010methyl\u20102<i>H</i>\u2010pyran\u20102\u2010one with binucleophilic amines",
+    "authors": [
+      "Djamila Hikem\u2010Oukacha",
+      "Ma\u00e2mar Hamdi",
+      "Artur M. S. Silva",
+      "Yah\u00efa Rachedi"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1002/jhet.507",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Pyran",
+      "Dehydroacetic acid",
+      "Pyridazine",
+      "Bromine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

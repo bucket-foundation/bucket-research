@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2904866597",
+    "canonical_url": "https://openalex.org/W2904866597",
+    "title": "Chemical Composition of Lipophilic Bark Extracts from Pinus pinaster and Pinus pinea Cultivated in Portugal",
+    "authors": [
+      "Joana L. C. Sousa",
+      "Patr\u00edcia Ramos",
+      "Carmen S. R. Freire",
+      "Artur M. S. Silva",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/app8122575",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Applied Sciences",
+    "concepts": [
+      "Pinus pinaster",
+      "Bark (sound)",
+      "Chemistry",
+      "Monoterpene",
+      "Pinus <genus>"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

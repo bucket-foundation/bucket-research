@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952516816",
+    "canonical_url": "https://openalex.org/W2952516816",
+    "title": "Synthesis of 3\u2010Aryl\u20105\u2010styryl\u20102\u2010pyrazolines by the Reaction of (E,E)\u2010Cinnamylideneacetophenones (I) with Hydrazines and Their Oxidation into Pyrazoles.",
+    "authors": [
+      "Albert L\u00e9vai",
+      "Tam\u00e1s Patonay",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1002/chin.200248129",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Stereochemistry",
+      "Humanities",
+      "Art"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

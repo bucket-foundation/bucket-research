@@ -1,0 +1,46 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2162007134",
+    "canonical_url": "https://openalex.org/W2162007134",
+    "title": "Photophysical properties of a photocytotoxic fluorinated chlorin conjugated to four \u03b2-cyclodextrins",
+    "authors": [
+      "Jo\u00e3o Maia Silva",
+      "Ana M. G. Silva",
+      "Jo\u00e3o P. C. Tom\u00e9",
+      "Anderson Orzari Ribeiro",
+      "M. Ros\u00e1rio Domingues",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Osvaldo Ant\u00f4nio Serra",
+      "Francisco Bosc\u00e1",
+      "Paulo Filipe",
+      "Ren\u00e9 Sant\u00fas",
+      "Patrice Morli\u00e8re"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1039/b800348c",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 33,
+    "type": "article",
+    "venue": "Photochemical & Photobiological Sciences",
+    "concepts": [
+      "Chlorin",
+      "Conjugated system",
+      "Photodynamic therapy",
+      "Photochemistry",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

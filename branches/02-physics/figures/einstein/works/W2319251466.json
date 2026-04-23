@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2319251466",
+    "canonical_url": "https://openalex.org/W2319251466",
+    "title": "Porphyrin-rhodamine conjugates as new materials with sensing ability",
+    "authors": [
+      "S\u00f3nia M.G. Pires",
+      "Cristina N\u00fa\u00f1ez",
+      "Vanda Vaz Serra",
+      "Antonio S\u00e1nchez\u2010Coronilla",
+      "M. Amparo F. Faustino",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Jos\u00e9 Lu\u00eds Capelo",
+      "Carlos Lodeiro"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.dyepig.2016.04.003",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Dyes and Pigments",
+    "concepts": [
+      "Chemistry",
+      "Porphyrin",
+      "Triad (sociology)",
+      "Ligand (biochemistry)",
+      "Rhodamine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

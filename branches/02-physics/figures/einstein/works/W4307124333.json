@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4307124333",
+    "canonical_url": "https://openalex.org/W4307124333",
+    "title": "Chemical Variability of Hexane Extracts from Five Subspecies of <i>Calendula suffruticosa</i> from Spain",
+    "authors": [
+      "Silvana Ohse",
+      "Mariza Boscacci Marques",
+      "Paulo Silveira",
+      "M\u00f3nica V\u00e1lega",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1002/cbdv.202200367",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Chemistry & Biodiversity",
+    "concepts": [
+      "Subspecies",
+      "Chemistry",
+      "Hexane",
+      "Traditional medicine",
+      "Botany"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

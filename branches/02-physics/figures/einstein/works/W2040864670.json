@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2040864670",
+    "canonical_url": "https://openalex.org/W2040864670",
+    "title": "Synthesis of Pyrazoles by Treatment of 3\u2010Benzylchromones, 3\u2010Benzylflavones and Their 4\u2010Thio Analogues with Hydrazine",
+    "authors": [
+      "Albert L\u00e9vai",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero",
+      "J\u00f3zsef Jek\u0151"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1002/ejoc.200600043",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 39,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Tautomer",
+      "Hydrazine (antidepressant)",
+      "Pyrazole",
+      "Thio-"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

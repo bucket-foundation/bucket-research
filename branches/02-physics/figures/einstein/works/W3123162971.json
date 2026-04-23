@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3123162971",
+    "canonical_url": "https://openalex.org/W3123162971",
+    "title": "Functionalization of Betulinic Acid with Polyphenolic Fragments for the Development of New Amphiphilic Antioxidants",
+    "authors": [
+      "Joana L. C. Sousa",
+      "Cristiana Gon\u00e7alves",
+      "Ricardo M. Ferreira",
+      "Susana M. Cardoso",
+      "Carmen S. R. Freire",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/antiox10020148",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Antioxidants",
+    "concepts": [
+      "Chemistry",
+      "Betulinic acid",
+      "DPPH",
+      "ABTS",
+      "Polyphenol"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

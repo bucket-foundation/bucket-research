@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4295996133",
+    "canonical_url": "https://openalex.org/W4295996133",
+    "title": "Solid\u2013Liquid\u2013Gas Phase Equilibria for Small Phenylene-Thiophene Co-Oligomers",
+    "authors": [
+      "Carlos F. R. A. C. Lima",
+      "Jos\u00e9 C. S. Costa",
+      "Artur M. S. Silva",
+      "Ad\u00e9lio Mendes",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1021/acs.jced.2c00459",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Journal of Chemical & Engineering Data",
+    "concepts": [
+      "Chemistry",
+      "Sublimation (psychology)",
+      "Differential scanning calorimetry",
+      "Thiophene",
+      "Gibbs free energy"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

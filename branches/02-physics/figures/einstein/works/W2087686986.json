@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2087686986",
+    "canonical_url": "https://openalex.org/W2087686986",
+    "title": "The chemical composition of hexane extract from bark of<b><i>Juniperus brevifolia</i></b>",
+    "authors": [
+      "Ana M. L. Seca",
+      "Artur M. S. Silva"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1080/14786410701654602",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Natural Product Research",
+    "concepts": [
+      "Chemistry",
+      "Bark (sound)",
+      "Alkaline hydrolysis",
+      "Hexane",
+      "Hydrolysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

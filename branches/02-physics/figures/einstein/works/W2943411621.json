@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2943411621",
+    "canonical_url": "https://openalex.org/W2943411621",
+    "title": "Novel styrylpyrazole-glucosides and their dioxolo-bridged doppelgangers: synthesis and cytotoxicity",
+    "authors": [
+      "Ana R.F. Carreira",
+      "David M. Pereira",
+      "Paula B. Andrade",
+      "Patr\u0131\u0301cia Valent\u00e3o",
+      "Artur M. S. Silva",
+      "Susana S. Braga",
+      "Vera L. M. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1039/c9nj01021a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Cytotoxicity",
+      "Stereochemistry",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

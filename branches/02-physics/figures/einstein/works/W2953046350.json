@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953046350",
+    "canonical_url": "https://openalex.org/W2953046350",
+    "title": "ChemInform Abstract: Synthesis of 4\u2010Aryl\u20103\u2010(2\u2010chromonyl)\u20102\u2010pyrazolines by the 1,3\u2010Dipolar Cycloaddition of 2\u2010Styrylchromones with Diazomethane.",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Luciano M. Almeida",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Albert L\u00e9vai",
+      "Tam\u00e1s Patonay"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1002/chin.199830136",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Diazomethane",
+      "Chemistry",
+      "Aryl",
+      "Cycloaddition",
+      "1,3-Dipolar cycloaddition"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

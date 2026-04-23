@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3198496428",
+    "canonical_url": "https://openalex.org/W3198496428",
+    "title": "Research Summit 2021- Book of Abstracts",
+    "authors": [
+      "Artur M. S. Silva",
+      "Ant\u00f3nio Teixeira"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.48528/qdpf-e229",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "book",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Summit",
+      "Library science",
+      "Political science",
+      "Computer science",
+      "Geography"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

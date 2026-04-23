@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2086597245",
+    "canonical_url": "https://openalex.org/W2086597245",
+    "title": "Hydroformylation of hindered double bonds of natural products with rhodium catalysts: The effect of 3-acetoxy substituent",
+    "authors": [
+      "Andreia F. Peixoto",
+      "Mariette M. Pereira",
+      "Artur M. S. Silva",
+      "Cl\u00e1udia M. Foca",
+      "J. Carles Bay\u00f3n",
+      "Mar\u00eda Moreno",
+      "\u0391. Matos Beja",
+      "J.A. Paix\u00e3o",
+      "Manuela Ramos Silva"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1016/j.molcata.2007.05.035",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Journal of Molecular Catalysis A Chemical",
+    "concepts": [
+      "Hydroformylation",
+      "Chemistry",
+      "Phosphine",
+      "Medicinal chemistry",
+      "Regioselectivity"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

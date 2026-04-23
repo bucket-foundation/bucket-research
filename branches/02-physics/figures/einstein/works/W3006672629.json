@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3006672629",
+    "canonical_url": "https://openalex.org/W3006672629",
+    "title": "1,2,4-Triphenylpyrroles: Synthesis, Structure and Luminescence Properties",
+    "authors": [
+      "Joana R. M. Ferreira",
+      "Raquel Nunes da Silva",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1055/s-0039-1690828",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Pyrrole",
+      "Fluorescence",
+      "Luminescence",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2314703057",
+    "canonical_url": "https://openalex.org/W2314703057",
+    "title": "New Synthesis of 2,3-Diarylacridin-9(10H)-ones and (E)-2-Phenyl-4-styrylfuro[3,2-c]quinolines",
+    "authors": [
+      "Artur M. S. Silva",
+      "Vera L. M. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1055/s-0030-1258579",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Nucleophile",
+      "Styrene",
+      "In situ",
+      "Nucleophilic addition"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

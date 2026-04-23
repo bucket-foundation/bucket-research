@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4406269802",
+    "canonical_url": "https://openalex.org/W4406269802",
+    "title": "Atua\u00e7\u00e3o da equipe de enfermagem nos cuidados dos neonatos com cardiopatia cong\u00eanita em terapia intensiva",
+    "authors": [
+      "Hellen Maria de Lima Graf Fernandes",
+      "Artur M. S. Silva",
+      "Claudemir de Souza",
+      "Larissa Stefany Elias da Silva",
+      "Thayryne Haluane Alfredo Rodrigues",
+      "Rosana Ribeiro Tarifa",
+      "Val\u00e9ria Aparecida Masson",
+      "Maria Andreia da Silva Ribeiro"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.54033/cadpedv22n1-070",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Caderno Pedag\u00f3gico",
+    "concepts": [
+      "Medicine"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

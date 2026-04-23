@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2054394870",
+    "canonical_url": "https://openalex.org/W2054394870",
+    "title": "A New Insight into the Catalytic Decomposition of Ethyl Diazoacetate in the Presence of <i>meso</i>\u2010Tetraarylporphyrin (=5,10,15,20\u2010Tetraaryl\u201021<i>H</i>,23<i>H</i>\u2010porphine) Complexes",
+    "authors": [
+      "Ana T. P. C. Gomes",
+      "Raquel A. C. Le\u00e3o",
+      "Cristina Alonso",
+      "Maria G. P. M. S. Neves",
+      "M. Amparo F. Faustino",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "S\u00e9rgio Pinheiro",
+      "Maria Cec\u00edlia B. V. de Souza",
+      "V\u0131\u0301tor F. Ferreira",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1002/hlca.200890247",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "Helvetica Chimica Acta",
+    "concepts": [
+      "Ethyl diazoacetate",
+      "Chemistry",
+      "Porphyrin",
+      "Decomposition",
+      "Catalysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

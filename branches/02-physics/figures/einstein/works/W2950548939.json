@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950548939",
+    "canonical_url": "https://openalex.org/W2950548939",
+    "title": "A New Synthesis of 5-Arylbenzo[c]xanthones from Photoinduced Electrocyclisation and Oxidation of (E)-3-Styrylflavones",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Djenisa H. A. Rocha",
+      "Tam\u00e1s Patonay",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1055/s-0031-1290355",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Microwave irradiation",
+      "Styrene",
+      "Heck reaction",
+      "Photochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

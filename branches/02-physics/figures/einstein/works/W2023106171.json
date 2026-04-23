@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2023106171",
+    "canonical_url": "https://openalex.org/W2023106171",
+    "title": "Electrospray Tandem Mass Spectrometry of \u03b2-Nitroalkenyl <i>Meso</i>-Tetraphenylporphyrins",
+    "authors": [
+      "Eduarda M. P. Silva",
+      "Pedro Dom\u00edngues",
+      "Jo\u00e3o P. C. Tom\u00e9",
+      "M. Amparo F. Faustino",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Daniel Dauzonne",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "A. J. Ferrer\u2010Correia",
+      "M. Ros\u00e1rio Domingues"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1255/ejms.908",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "European Journal of Mass Spectrometry",
+    "concepts": [
+      "Chemistry",
+      "Fragmentation (computing)",
+      "Protonation",
+      "Bromine",
+      "Tandem mass spectrometry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

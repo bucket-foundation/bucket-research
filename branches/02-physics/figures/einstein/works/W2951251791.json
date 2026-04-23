@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951251791",
+    "canonical_url": "https://openalex.org/W2951251791",
+    "title": "4\u2010Hydroxy\u20106\u2010methyl\u20103\u2010(5\u2010phenyl\u20102E,4E\u2010pentadien\u20101\u2010oyl)\u20102H\u2010pyran\u20102\u2010one: Synthesis and Reactivity with Amines.",
+    "authors": [
+      "Nabila A\u00eft\u2010Baziz",
+      "Yah\u00efa Rachedi",
+      "M. HAMDI",
+      "Artur M. S. Silva",
+      "F. Balegroune",
+      "Thierry Roisnel",
+      "Nicole Sellier"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1002/chin.200451103",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Pyran",
+      "Reactivity (psychology)",
+      "Medicinal chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

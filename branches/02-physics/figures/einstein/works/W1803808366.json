@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1803808366",
+    "canonical_url": "https://openalex.org/W1803808366",
+    "title": "A molecular insight into the phototoxic reactions observed with vemurafenib, a first-line drug against metastatic melanoma",
+    "authors": [
+      "Patrice Morli\u00e8re",
+      "Francisco Bosc\u00e1",
+      "Artur M. S. Silva",
+      "Ana I. Teixeira",
+      "Antoine Galmiche",
+      "J.-C. Mazi\u00e8re",
+      "Virginie Nourry",
+      "Joaquim J. Ferreira",
+      "R. Santus",
+      "Paulo Filipe"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1039/c5pp00231a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Photochemical & Photobiological Sciences",
+    "concepts": [
+      "Vemurafenib",
+      "Phototoxicity",
+      "Metastatic melanoma",
+      "Melanoma",
+      "Medicine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

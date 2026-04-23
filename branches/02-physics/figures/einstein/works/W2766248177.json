@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2766248177",
+    "canonical_url": "https://openalex.org/W2766248177",
+    "title": "<scp>NMR</scp> Spectroscopy in Bitumen Characterization",
+    "authors": [
+      "Catarina Varanda",
+      "In\u00eas Portugal",
+      "Jorge C. Ribeiro",
+      "Carlos M. Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1002/9781119286325.ch6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "other",
+    "venue": null,
+    "concepts": [
+      "Asphalt",
+      "Crystallinity",
+      "Nuclear magnetic resonance spectroscopy",
+      "Characterization (materials science)",
+      "Spectroscopy"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

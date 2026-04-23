@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397516120",
+    "canonical_url": "https://openalex.org/W4397516120",
+    "title": "CCDC 1823438: Experimental Crystal Structure Determination",
+    "authors": [
+      "Alice A. Ramos",
+      "\u00c2ngela In\u00e1cio",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Michael Lee",
+      "Paulo Costa",
+      "Artur M. S. Silva",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Eduardo Rocha",
+      "Madalena Pinto",
+      "Jos\u00e9 Pereira",
+      "Anake Kijjoa"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc1z6fl6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Crystal structure",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

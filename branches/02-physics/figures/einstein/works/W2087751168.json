@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2087751168",
+    "canonical_url": "https://openalex.org/W2087751168",
+    "title": "Constituents of<i>Polyalthia jucunda</i>. and Their Cytotoxic Effect on Human Cancer Cell Lines",
+    "authors": [
+      "Areerat Suedee",
+      "Ing\u2010On Mondranondra",
+      "Anake Kijjoa",
+      "Madalena Pinto",
+      "Na\u00efr Nazareth",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Artur M. S. Silva",
+      "Werner Herz"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1080/13880200701501300",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Pharmaceutical Biology",
+    "concepts": [
+      "Annonaceae",
+      "Apoptosis",
+      "Cytotoxic T cell",
+      "Cell culture",
+      "Chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

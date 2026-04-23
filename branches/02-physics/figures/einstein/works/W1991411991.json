@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1991411991",
+    "canonical_url": "https://openalex.org/W1991411991",
+    "title": "Synthesis of functionalized benzimidazole\u2013butyrolactone dyads",
+    "authors": [
+      "Omar Bouaziz",
+      "Mohamed Amari",
+      "Rebat Bachar",
+      "Nawal Khier",
+      "Mokhtar Fodili",
+      "Filipe A. Almeida Paz",
+      "Oualid Talhi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1016/j.tetlet.2015.01.039",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Benzimidazole",
+      "Dimethylformamide",
+      "Carbon disulfide",
+      "Conjugate"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

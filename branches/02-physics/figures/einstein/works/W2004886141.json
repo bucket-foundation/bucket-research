@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2004886141",
+    "canonical_url": "https://openalex.org/W2004886141",
+    "title": "Diels-Alder reactions of Ni(II) \u03b2-vinyl-meso-tetraarylporphyrins",
+    "authors": [
+      "M. Amparo F. Faustino",
+      "Maria G. P. M. S. Neves",
+      "M. Gra\u00e7a H. Vicente",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1996,
+    "doi": "https://doi.org/10.1016/0040-4039(96)00623-5",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Diels\u2013Alder reaction",
+      "Alder",
+      "Organic chemistry",
+      "Medicinal chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

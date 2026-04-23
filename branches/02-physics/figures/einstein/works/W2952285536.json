@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952285536",
+    "canonical_url": "https://openalex.org/W2952285536",
+    "title": "Exploring the Reactivity of (E)-3(5)-(2-Hydroxyphenyl)-5(3)-styryl-1H-pyrazoles as Dienes in the Diels\u2013Alder Reaction: A New Synthesis of 1H-Indazoles",
+    "authors": [
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "In\u00eas C. S. Cardoso"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1055/s-0034-1380152",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Reactivity (psychology)",
+      "Cycloaddition",
+      "Dehydrogenation",
+      "Diels\u2013Alder reaction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

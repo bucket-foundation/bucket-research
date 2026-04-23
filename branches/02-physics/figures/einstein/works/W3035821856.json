@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3035821856",
+    "canonical_url": "https://openalex.org/W3035821856",
+    "title": "Educa\u00e7\u00e3o Tutorial em Ci\u00eancia da Computa\u00e7\u00e3o: uma proposta de sistematiza\u00e7\u00e3o",
+    "authors": [
+      "Julia Ferreira",
+      "Jorge Ribeiro",
+      "Arist\u00f3telas De Freitas J\u00fanior",
+      "Gabriel Sousa",
+      "Italo Da Silva",
+      "Hugo Santos",
+      "Matheus Menezes",
+      "Artur M. S. Silva",
+      "Bruno Ferreira",
+      "Lucas De Jesus",
+      "Victor De Lemos",
+      "Ant\u00f4nio Justiniano Moraes Neto",
+      "Alexandre De Oliveira"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.5753/wei.2015.10232",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": null,
+    "concepts": [
+      "Computer science",
+      "Physics"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2031774466",
+    "canonical_url": "https://openalex.org/W2031774466",
+    "title": "5,7-Dihydroxychromones and 8-hydroxytetrahydrochromones from Horsfieldia irya",
+    "authors": [
+      "Mar\u00eda Jos\u00e9 Gonz\u00e1lez\u2010Olmo",
+      "Madalena Pinto",
+      "Anake Kijjoa",
+      "Surapong Kengthong",
+      "Ing-On Mondanondra",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1016/s0031-9422(02)00381-3",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Stereochemistry",
+      "Chemistry",
+      "Traditional medicine",
+      "Medicine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

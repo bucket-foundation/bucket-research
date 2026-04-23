@@ -1,0 +1,47 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2053394229",
+    "canonical_url": "https://openalex.org/W2053394229",
+    "title": "Chromenopyrazoles: Non\u2010psychoactive and Selective CB<sub>1</sub> Cannabinoid Agonists with Peripheral Antinociceptive Properties",
+    "authors": [
+      "Jos\u00e9 Cumella",
+      "Laura Hern\u00e1ndez\u2010Folgado",
+      "Roc\u0131\u0301o Gir\u00f3n",
+      "Eva S\u00e1nchez",
+      "Paula Morales",
+      "Dow P. Hurst",
+      "Mar\u00eda G\u00f3mez\u2010Ca\u00f1as",
+      "Mar\u00eda G\u00f3mez\u2010Ru\u00edz",
+      "Diana C. G. A. Pinto",
+      "Pilar Goya",
+      "Patricia H. Reggio",
+      "Mar\u0131\u0301a Isabel Mart\u0131\u0301n",
+      "Javier Fern\u00e1ndez\u2010Ru\u00edz",
+      "Artur M. S. Silva",
+      "Nadine Jagerovic"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1002/cmdc.201100568",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 34,
+    "type": "article",
+    "venue": "ChemMedChem",
+    "concepts": [
+      "Cannabinoid",
+      "Cannabinoid receptor",
+      "Chemistry",
+      "Pharmacology",
+      "Receptor"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

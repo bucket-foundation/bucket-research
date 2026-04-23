@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1596625190",
+    "canonical_url": "https://openalex.org/W1596625190",
+    "title": "Synthesis of glyco\u2010Fused Bicyclic Compounds; Conformationally Constrained Scaffolds and Useful Polyfunctional Building Blocks",
+    "authors": [
+      "Francisco Cardona",
+      "Giuseppe D\u2019Orazio",
+      "Artur M. S. Silva",
+      "Francesco Nicotra",
+      "Barbara La Ferla"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/ejoc.201400028",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Bicyclic molecule",
+      "Chemistry",
+      "Cycloaddition",
+      "Annulation",
+      "Ketone"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

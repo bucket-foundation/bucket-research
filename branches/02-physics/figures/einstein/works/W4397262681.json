@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397262681",
+    "canonical_url": "https://openalex.org/W4397262681",
+    "title": "CCDC 163568: Experimental Crystal Structure Determination",
+    "authors": [
+      "S\u00edlvia Monteiro",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "V\u0131\u0301tor F\u00e9lix",
+      "M.G.B. Drew"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.5517/cc5h6d7",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystal structure",
+      "Crystallography",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

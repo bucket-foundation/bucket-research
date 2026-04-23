@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953357072",
+    "canonical_url": "https://openalex.org/W2953357072",
+    "title": "Indium-Mediated Debromination of gem-Bromonitroalkanes under Mild Conditions in Aqueous Medium",
+    "authors": [
+      "Raquel G. Soengas",
+      "Artur M. S. Silva",
+      "Rita C. Ac\u00farcio"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1055/s-0033-1339030",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Indium",
+      "Aqueous medium",
+      "Aqueous solution",
+      "Palladium"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

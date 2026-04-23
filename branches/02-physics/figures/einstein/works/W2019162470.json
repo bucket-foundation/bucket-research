@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2019162470",
+    "canonical_url": "https://openalex.org/W2019162470",
+    "title": "ChemInform Abstract: Consecutive Tandem Cycloaddition Between Nitriles and Azides: Synthesis of 5\u2010Amino\u20101H\u2010[1,2,3]\u2010triazoles.",
+    "authors": [
+      "Ana T. P. C. Gomes",
+      "Priscila Raquel Martins",
+      "David Rodrigues da Rocha",
+      "M.G.P.M.S. Neves",
+      "V\u0131\u0301tor F. Ferreira",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Fernando de Carvalho da Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1002/chin.201318115",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Cycloaddition",
+      "Tandem",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

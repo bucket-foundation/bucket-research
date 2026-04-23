@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4366089473",
+    "canonical_url": "https://openalex.org/W4366089473",
+    "title": "2,2\u2019-[(1E,1\u2019E)-{[Hexa-2,4-diyne-1,6-diylbis(oxy)]bis(2,1-phenylene)}bis(ethene-2,1-diyl)]bis(4H-chromen-4-one)",
+    "authors": [
+      "Daniela Malafaia",
+      "Joana L. C. Sousa",
+      "Artur M. S. Silva",
+      "H\u00e9lio M. T. Albuquerque"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/m1621",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Molbank",
+    "concepts": [
+      "Chemistry",
+      "HEXA",
+      "Moiety",
+      "Yield (engineering)",
+      "Phenylene"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949272420",
+    "canonical_url": "https://openalex.org/W2949272420",
+    "title": "Reductive Coupling Reactions of 2\u2010Nitrochalcones and Their \u03b2\u2010Hydroxyanalogues: New Syntheses of 2\u2010Arylquinoline and 2\u2010Aryl\u20104\u2010hydroxyquinoline Derivatives.",
+    "authors": [
+      "Ana Barros",
+      "Andr\u00e9 F. R. Dias",
+      "Artur M. S. Silva"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1002/chin.200736131",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "8-Hydroxyquinoline",
+      "Aryl",
+      "Combinatorial chemistry",
+      "Coupling reaction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

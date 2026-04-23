@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2624234322",
+    "canonical_url": "https://openalex.org/W2624234322",
+    "title": "Vaporization of protic ionic liquids derived from organic superbases and short carboxylic acids",
+    "authors": [
+      "Filipe M.S. Ribeiro",
+      "Carlos F. R. A. C. Lima",
+      "In\u00eas C. M. Vaz",
+      "Ana S. M. C. Rodrigues",
+      "Erlin Sapei",
+      "Andr\u00e9 Melo",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1039/c7cp02023f",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Physical Chemistry Chemical Physics",
+    "concepts": [
+      "Ionic liquid",
+      "Vaporization",
+      "Chemistry",
+      "Organic chemistry",
+      "Catalysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

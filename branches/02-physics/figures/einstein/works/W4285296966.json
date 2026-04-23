@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4285296966",
+    "canonical_url": "https://openalex.org/W4285296966",
+    "title": "Bread Enriched with Resveratrol: Influence of the Delivery Vehicles on its Bioactivity",
+    "authors": [
+      "Andreia F. R. Silva",
+      "Mariana Monteiro",
+      "Rute Nunes",
+      "Ana Bai\u00e3o",
+      "Susana S. Braga",
+      "Bruno Sarmento",
+      "Manuel A. Coimbra",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.2139/ssrn.4104248",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "SSRN Electronic Journal",
+    "concepts": [
+      "Resveratrol",
+      "Chemistry",
+      "Pharmacology",
+      "Business",
+      "Food science"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2081592919",
+    "canonical_url": "https://openalex.org/W2081592919",
+    "title": "Polyoxygenated cyclohexene derivatives from Ellipeiopsis cherrevensis",
+    "authors": [
+      "Anake Kijjoa",
+      "J\u00falia Bessa",
+      "Madalena Pinto",
+      "Choojit Anatachoke",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1016/s0031-9422(01)00465-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 42,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Cyclohexene",
+      "Chemistry",
+      "Stereochemistry",
+      "Organic chemistry",
+      "Catalysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

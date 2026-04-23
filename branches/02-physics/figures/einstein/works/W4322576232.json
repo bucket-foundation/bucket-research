@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4322576232",
+    "canonical_url": "https://openalex.org/W4322576232",
+    "title": "Impact of phlorotannins on cardiovascular diseases",
+    "authors": [
+      "S\u00f3nia J. Amarante",
+      "Marcelo D. Catarino",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1016/b978-0-12-823589-8.00014-5",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "book-chapter",
+    "venue": "Elsevier eBooks",
+    "concepts": [
+      "Dyslipidemia",
+      "Medicine",
+      "Endothelial dysfunction",
+      "Oxidative stress",
+      "Cause of death"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

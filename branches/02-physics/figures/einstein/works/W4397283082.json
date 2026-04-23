@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397283082",
+    "canonical_url": "https://openalex.org/W4397283082",
+    "title": "CCDC 136407: Experimental Crystal Structure Determination",
+    "authors": [
+      "Anake Kijjoa",
+      "M. Jose",
+      "T.G. Gonzalez",
+      "Madalena Pinto",
+      "A.M. Damas",
+      "I.-O. Mondranondra",
+      "Artur M. S. Silva",
+      "Werner Herz"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.5517/cc4ky7v",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Crystal structure",
+      "Crystal (programming language)",
+      "Diffraction",
+      "Materials science"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

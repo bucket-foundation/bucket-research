@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2015650059",
+    "canonical_url": "https://openalex.org/W2015650059",
+    "title": "Porphyrin\u2013Phosphoramidate Conjugates: Synthesis, Photostability and Singlet Oxygen Generation",
+    "authors": [
+      "Leandro F. Pedrosa",
+      "Marcos C. de Souza",
+      "M. Amparo F. Faustino",
+      "Maria G. P. M. S. Neves",
+      "Artur M. S. Silva",
+      "Augusto C. Tom\u00e9",
+      "V\u0131\u0301tor F. Ferreira",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1071/ch11013",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Australian Journal of Chemistry",
+    "concepts": [
+      "Porphyrin",
+      "Phosphoramidate",
+      "Singlet oxygen",
+      "Chemistry",
+      "Photochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

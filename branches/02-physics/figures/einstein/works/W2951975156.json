@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951975156",
+    "canonical_url": "https://openalex.org/W2951975156",
+    "title": "Synthesis of Pyrazolyl-2-pyrazolines by Treatment of 3-(3-Aryl-3-oxopropenyl)chromen-4-ones with Hydrazine and Their Oxidation to Bis(pyrazoles).",
+    "authors": [
+      "Albert L\u00e9vai",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero",
+      "Jozsef Jekoe"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1002/chin.200511138",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Humanities",
+      "Art"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

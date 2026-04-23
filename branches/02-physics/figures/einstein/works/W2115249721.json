@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2115249721",
+    "canonical_url": "https://openalex.org/W2115249721",
+    "title": "An efficient approach for aromatic epoxidation using hydrogen peroxide and Mn(<scp>iii</scp>) porphyrins",
+    "authors": [
+      "Susana L.H. Rebelo",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "M. Gra\u00e7a P. M. S. Neves",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1039/b313683c",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 51,
+    "type": "article",
+    "venue": "Chemical Communications",
+    "concepts": [
+      "Hydrogen peroxide",
+      "Anthracene",
+      "Chemistry",
+      "Naphthalene",
+      "Phenanthrene"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

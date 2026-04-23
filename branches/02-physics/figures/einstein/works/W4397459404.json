@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397459404",
+    "canonical_url": "https://openalex.org/W4397459404",
+    "title": "CCDC 260119: Experimental Crystal Structure Determination",
+    "authors": [
+      "L.M.M. Vieira",
+      "Anake Kijjoa",
+      "Rujida Wilairat",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Lu\u0131\u0301s Gales",
+      "A.M. Damas",
+      "Artur M. S. Silva",
+      "I.-O. Mondranondra",
+      "Werner Herz"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.5517/cc8qnyk",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

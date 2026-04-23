@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4249271776",
+    "canonical_url": "https://openalex.org/W4249271776",
+    "title": "Diastereoselective One-Pot Tandem Synthesis of Chromenopyridodiazepinones through 1,4- and 1,6-Aza-Conjugate Additions/Heterocyclizations",
+    "authors": [
+      "Oualid Talhi",
+      "Artur M. S. Silva",
+      "Abdelghani Bouchama",
+      "Ridha Hassaine",
+      "Nadia Ta\u00efbi",
+      "Ricardo F. Mendes",
+      "Filipe A. Almeida Paz",
+      "Khaldoun Bachar\u0131"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1055/s-0037-1609201",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Conjugate",
+      "Imine",
+      "Tandem",
+      "Diamine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

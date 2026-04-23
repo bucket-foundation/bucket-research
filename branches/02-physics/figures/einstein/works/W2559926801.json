@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2559926801",
+    "canonical_url": "https://openalex.org/W2559926801",
+    "title": "One-pot synthesis of new isatin-porphyrin conjugates by the palladium Buchwald-Hartwig methodology involving \u03b2-aminoporphyrinatonickel(II) and 3-ketal isatin derivatives",
+    "authors": [
+      "Ana M. V. M. Pereira",
+      "Paula S. S. Lacerda",
+      "Bianca N.M. Silva",
+      "Maria G. P. M. S. Neves",
+      "Artur M. S. Silva",
+      "B\u00e1rbara V. Silva",
+      "Fernando de Carvalho da Silva",
+      "V\u0131\u0301tor F. Ferreira",
+      "\u00c2ngelo C. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.dyepig.2016.12.010",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Dyes and Pigments",
+    "concepts": [
+      "Isatin",
+      "Palladium",
+      "Porphyrin",
+      "Chemistry",
+      "Amination"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

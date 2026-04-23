@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2000586305",
+    "canonical_url": "https://openalex.org/W2000586305",
+    "title": "Structural elucidation of the red dye obtained from reaction of 1,8-naphthalenediol with 1,1-diphenylprop-2-yn-1-ol. A correction",
+    "authors": [
+      "Lu\u00eds M. Carvalho",
+      "Artur M. S. Silva",
+      "Cristina I. Martins",
+      "Paulo J. Coelho",
+      "Ana M. F. Oliveira\u2010Campos"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1016/s0040-4039(03)00118-7",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Naphthalene",
+      "Product (mathematics)",
+      "Position (finance)",
+      "Computational chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

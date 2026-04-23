@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2002580500",
+    "canonical_url": "https://openalex.org/W2002580500",
+    "title": "New Synthesis of (Z)- and (E)-3-Styryl-4-quinolones",
+    "authors": [
+      "Artur M. S. Silva",
+      "Raquel S. G. R. Seixas",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1055/s-0030-1258042",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Wittig reaction",
+      "Quinolone",
+      "Hydrolysis",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

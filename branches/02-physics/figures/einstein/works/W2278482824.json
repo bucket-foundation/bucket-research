@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2278482824",
+    "canonical_url": "https://openalex.org/W2278482824",
+    "title": "Structure determination of some oxygen and nitrogen heterocyclic compounds by NMR",
+    "authors": [
+      "Raquel S. G. R. Seixas",
+      "C\u00e1tia I. C. Esteves",
+      "Cristela M. Brito",
+      "Stephanie B. Leal",
+      "Diana C. G. A. Pinto",
+      "Clementina M.M. Santos",
+      "Ana M. L. Seca",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Chemistry",
+      "Nitrogen",
+      "Oxygen",
+      "Nuclear magnetic resonance spectroscopy",
+      "Organic chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

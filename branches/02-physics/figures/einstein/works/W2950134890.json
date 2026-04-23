@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950134890",
+    "canonical_url": "https://openalex.org/W2950134890",
+    "title": "A Novel Short-Step Synthesis of New Xanthenedione Derivatives from the Cyclization of 3-Cinnamoyl-2-styrylchromones",
+    "authors": [
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Ana M. L. Seca",
+      "Stephanie B. Leal",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1055/s-0030-1261172",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Xanthene",
+      "Microwave irradiation",
+      "Aryl",
+      "Medicinal chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

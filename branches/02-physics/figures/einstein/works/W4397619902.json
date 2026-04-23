@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397619902",
+    "canonical_url": "https://openalex.org/W4397619902",
+    "title": "CCDC 649347: Experimental Crystal Structure Determination",
+    "authors": [
+      "R.A.P. Castanheiro",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Sara Cravo",
+      "Lu\u0131\u0301s Gales",
+      "A.M. Damas",
+      "Na\u00efr Nazareth",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "G. Eaton"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.5517/ccpsppt",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

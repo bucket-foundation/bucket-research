@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2093820112",
+    "canonical_url": "https://openalex.org/W2093820112",
+    "title": "New flavonoid\u2013porphyrin conjugates via Buchwald\u2013Hartwig amination: synthesis and photophysical studies",
+    "authors": [
+      "S\u00f3nia P. Lopes",
+      "Jos\u00e9 C. J. M. D. S. Menezes",
+      "Steffen Hackbarth",
+      "Diana C. G. A. Pinto",
+      "M. Amparo F. Faustino",
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Beate R\u00f6der",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1016/j.tetlet.2013.07.089",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Porphyrin",
+      "Amination",
+      "Conjugate",
+      "Singlet oxygen"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

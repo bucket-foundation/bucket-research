@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2735790466",
+    "canonical_url": "https://openalex.org/W2735790466",
+    "title": "Dibenzo[b,e][1,4]diazepin-1-ones and their Ring-Opened Derivatives: Revisited Synthesis, 2D NMR and Crystal Structure",
+    "authors": [
+      "Norah Bennamane",
+      "Oualid Talhi",
+      "Artur M. S. Silva",
+      "Brahim Cherfaoui",
+      "Houria Lakhdari",
+      "Rachid Ameraoui",
+      "Filipe A. Almeida Paz",
+      "Khaldoun Bachar\u0131",
+      "Gilbert Kirsch",
+      "Kolli Nejar-Bellara"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1055/s-0036-1590306",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Oxalyl chloride",
+      "Ring (chemistry)",
+      "Electrophile",
+      "Reactivity (psychology)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

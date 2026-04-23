@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4416096545",
+    "canonical_url": "https://openalex.org/W4416096545",
+    "title": "Variability of chemical composition, anti-radical and biologicals activities over several months of Rosmarinus officinalis L. essential oil",
+    "authors": [
+      "Fatma Zohra Guibadj",
+      "Sarah Boukhalkhal",
+      "Amar Djeridane",
+      "Nadhir Gourine",
+      "Yasmine Ami",
+      "Anfal Zegrir",
+      "Hicham Bouakkaz",
+      "M\u00f3nica V\u00e1lega",
+      "Artur M. S. Silva",
+      "Mohamed Yousfi"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1007/s11694-025-03766-w",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Journal of Food Measurement & Characterization",
+    "concepts": [
+      "Rosmarinus",
+      "Essential oil",
+      "Officinalis",
+      "Camphor",
+      "Antimicrobial"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

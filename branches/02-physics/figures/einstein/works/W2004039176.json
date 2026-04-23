@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2004039176",
+    "canonical_url": "https://openalex.org/W2004039176",
+    "title": "Cycloreversion and other gas\u2010phase reactions of neutral and cationic pyrrolidine\u2010fused chlorins and isobacteriochlorins under ion bombardment and electrospray",
+    "authors": [
+      "Raul A. Izquierdo",
+      "Cristina Barros",
+      "M. Gra\u00e7a Santana\u2010Marques",
+      "A. J. Ferrer Correia",
+      "Ana M. G. Silva",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Maria G. P. M. S. Neves",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1002/rcm.1663",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Rapid Communications in Mass Spectrometry",
+    "concepts": [
+      "Chemistry",
+      "Pyrrolidine",
+      "Cationic polymerization",
+      "Photochemistry",
+      "Electrospray"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3005321943",
+    "canonical_url": "https://openalex.org/W3005321943",
+    "title": "Synthesis and luminescence properties of analogues of the green fluorescent protein chromophore",
+    "authors": [
+      "C\u00e1tia I. C. Esteves",
+      "In\u00eas da Silva Fonseca",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.dyepig.2020.108267",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Dyes and Pigments",
+    "concepts": [
+      "Chromophore",
+      "Fluorophore",
+      "Fluorescence",
+      "Green fluorescent protein",
+      "Photochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

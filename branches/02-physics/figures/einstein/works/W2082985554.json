@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2082985554",
+    "canonical_url": "https://openalex.org/W2082985554",
+    "title": "Oxovitisins: A New Class of Neutral Pyranone-anthocyanin Derivatives in Red Wines",
+    "authors": [
+      "Jingren He",
+      "Joana Oliveira",
+      "Artur M. S. Silva",
+      "Nuno Mateus",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1021/jf101408q",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 60,
+    "type": "article",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "concepts": [
+      "Anthocyanin",
+      "Chemistry",
+      "Food science",
+      "Class (philosophy)",
+      "Wine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

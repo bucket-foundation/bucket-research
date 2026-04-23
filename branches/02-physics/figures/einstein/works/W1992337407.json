@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1992337407",
+    "canonical_url": "https://openalex.org/W1992337407",
+    "title": "1H and13C NMR Spectroscopy of mono-, di-, tri- and tetrasubstituted xanthones",
+    "authors": [
+      "Eduarda Fernandes",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Francisco A. M. Silva",
+      "M. Fernanda",
+      "Fernanda Borges",
+      "Madalena Pinto"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1002/(sici)1097-458x(199804)36:4<305::aid-omr193>3.0.co;2-n",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 39,
+    "type": "article",
+    "venue": "Magnetic Resonance in Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Heteronuclear molecule",
+      "Nuclear Overhauser effect",
+      "Two-dimensional nuclear magnetic resonance spectroscopy",
+      "Nuclear magnetic resonance spectroscopy"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

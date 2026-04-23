@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952962391",
+    "canonical_url": "https://openalex.org/W2952962391",
+    "title": "ChemInform Abstract: Highly Enantioselective 1,4\u2010Michael Additions of Nucleophiles to Unsaturated Aryl Ketones with Organocatalysis of Bifunctional Cinchona Alkaloids.",
+    "authors": [
+      "Cristina G\u00f3mez de la Oliva",
+      "Artur M. S. Silva",
+      "Diana I. S. P. Resende",
+      "Filipe A. Almeida Paz",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1002/chin.201044070",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Organocatalysis",
+      "Cinchona",
+      "Nitromethane",
+      "Bifunctional"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

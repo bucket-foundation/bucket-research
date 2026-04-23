@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397483570",
+    "canonical_url": "https://openalex.org/W4397483570",
+    "title": "CCDC 1468869: Experimental Crystal Structure Determination",
+    "authors": [
+      "Chadaporn Prompanya",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Michael Lee",
+      "Jos\u00e9 Pereira",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Anake Kijjoa"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc1l9gw7",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

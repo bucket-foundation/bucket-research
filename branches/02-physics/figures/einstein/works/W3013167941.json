@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3013167941",
+    "canonical_url": "https://openalex.org/W3013167941",
+    "title": "Synthesis of 2-aroylfuro[3,2-<i>c</i>]quinolines from quinolone-based chalcones and evaluation of their antioxidant and anticholinesterase activities",
+    "authors": [
+      "Jo\u00e3o P. S. Ferreira",
+      "Susana M. Cardoso",
+      "Filipe A. Almeida Paz",
+      "Artur M. S. Silva",
+      "Vera L. M. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1039/d0nj00409j",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "New Journal of Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Quinolone",
+      "Antioxidant",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

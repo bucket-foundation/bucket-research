@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2086344159",
+    "canonical_url": "https://openalex.org/W2086344159",
+    "title": "Methylaurones from Cyperus capitatus",
+    "authors": [
+      "Rosa M. Seabra",
+      "Artur M. S. Silva",
+      "Paula B. Andrade",
+      "M.Manuela Moreira"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1016/s0031-9422(98)00049-1",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Phytochemistry",
+    "concepts": [
+      "Cyperus",
+      "Stereochemistry",
+      "Botany",
+      "Chemistry",
+      "Biology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

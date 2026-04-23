@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1997517870",
+    "canonical_url": "https://openalex.org/W1997517870",
+    "title": "A new bicyclic sesquiterpene from the marine sponge associated fungus Emericellopsis minima",
+    "authors": [
+      "\u00c2ngela Pinheiro",
+      "Tida Dethoup",
+      "J\u00falia Bessa",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.phytol.2011.10.002",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 29,
+    "type": "article",
+    "venue": "Phytochemistry Letters",
+    "concepts": [
+      "Sponge",
+      "Sesquiterpene",
+      "Stereochemistry",
+      "Fungus",
+      "Bicyclic molecule"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

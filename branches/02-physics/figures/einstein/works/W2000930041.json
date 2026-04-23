@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2000930041",
+    "canonical_url": "https://openalex.org/W2000930041",
+    "title": "Dimethyldioxirane Oxidation of (E,E)-Cinnamylideneacetophenones",
+    "authors": [
+      "Albert L\u00e9vai",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Tam\u00e1s Patonay",
+      "Vera L. M. Silva"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1002/1099-0690(200109)2001:17<3213::aid-ejoc3213>3.0.co;2-k",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Dimethyldioxirane",
+      "Chemistry",
+      "Diastereomer",
+      "Acetone",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

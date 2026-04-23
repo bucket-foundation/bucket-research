@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2285801685",
+    "canonical_url": "https://openalex.org/W2285801685",
+    "title": "2-(4-Arylbuta-1,3-dien- or 1-en-3-yn-1-yl)chromones as synthons for the synthesis of other nitrogen and oxygen heterocyclic compounds",
+    "authors": [
+      "H\u00e9lio M. T. Albuquerque",
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2014,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Chromone",
+      "Chemistry",
+      "Synthon",
+      "Moiety",
+      "Xanthone"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

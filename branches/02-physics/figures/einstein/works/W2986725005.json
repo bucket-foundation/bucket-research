@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2986725005",
+    "canonical_url": "https://openalex.org/W2986725005",
+    "title": "Bis(4-hydroxy-2H-chromen-2-one) Coumarin Induces Apoptosis in MCF-7 Human Breast Cancer Cells Through Aromatase Inhibition",
+    "authors": [
+      "Lamia Hamdan Ramdani",
+      "Oualid Talhi",
+      "Caroline Decombat",
+      "Marion Vermerie",
+      "ALEXANDRE BERRY",
+      "Artur M. S. Silva",
+      "Khaldoun Bachar\u0131",
+      "Marie\u2010Paule Vasson",
+      "La\u00ebtitia Delort",
+      "Florence Caldefie\u2010Chezet"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.21873/anticanres.13818",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Anticancer Research",
+    "concepts": [
+      "MCF-7",
+      "Apoptosis",
+      "Cancer research",
+      "Aromatase",
+      "Biology"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

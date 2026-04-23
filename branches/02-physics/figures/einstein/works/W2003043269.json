@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2003043269",
+    "canonical_url": "https://openalex.org/W2003043269",
+    "title": "Synthesis, characterization and biological evaluation of carboranylmethylbenzo[b]acridones as novel agents for boron neutron capture therapy",
+    "authors": [
+      "A. Filipa F. da Silva",
+      "Raquel S. G. R. Seixas",
+      "Artur M. S. Silva",
+      "Joana Coimbra",
+      "A.C. Fernandes",
+      "Joana P. Santos",
+      "Ant\u00f3nio Matos",
+      "Jos\u00e9 Rino",
+      "Isabel Santos",
+      "Fernanda Marques"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1039/c4ob00644e",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 25,
+    "type": "article",
+    "venue": "Organic & Biomolecular Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Neutron capture",
+      "Boron",
+      "Characterization (materials science)",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

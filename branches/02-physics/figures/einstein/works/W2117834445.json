@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2117834445",
+    "canonical_url": "https://openalex.org/W2117834445",
+    "title": "Reactivity of 3\u2010Styrylchromones as Dienes in Diels\u2013Alder Reactions under Microwave Irradiation: A New Synthesis of Xanthones",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Cristela M. Brito",
+      "Angela Sandulache",
+      "Jos\u00e9 R. Carrillo",
+      "Pilar Prieto",
+      "\u00c1ngel D\u00edaz\u2010Ortiz",
+      "Antonio de la Hoz",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1002/ejoc.200500073",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 25,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Cycloaddition",
+      "Isomerization",
+      "Stereoselectivity",
+      "Aryl"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

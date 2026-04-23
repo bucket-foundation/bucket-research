@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2168150694",
+    "canonical_url": "https://openalex.org/W2168150694",
+    "title": "Synthesis and molecular structure of new O/N/O ligands: Bis-phenol-pyridine and bis-phenol-pyrazole",
+    "authors": [
+      "Artur M. S. Silva",
+      "L\u00facia M. P. M. Almeida",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Concepci\u00f3n Foces\u2010Foces",
+      "A.L. Llamas-Saiz",
+      "Christophe Fontenas",
+      "Nadine Jagerovic",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 1997,
+    "doi": "https://doi.org/10.1016/s0040-4020(97)00733-3",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 31,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Pyridine",
+      "Pyridinium",
+      "Hydrogen bond",
+      "Pyrazole"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

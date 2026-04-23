@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2799697220",
+    "canonical_url": "https://openalex.org/W2799697220",
+    "title": "Synthesis of carbohydrate-derived (Z)-vinyl halides and silanes: Samarium-promoted stereoselective 1,2-elimination on sugar-derived \u03b1-halomethylcarbinol acetates",
+    "authors": [
+      "Mart\u00edn Soto",
+      "Raquel G. Soengas",
+      "Artur M. S. Silva",
+      "Vicente Gotor\u2010Fern\u00e1ndez",
+      "Humberto Rodr\u00edguez\u2010Solla"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.tet.2018.05.002",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Silanes",
+      "Stereoselectivity",
+      "Organic chemistry",
+      "Aldehyde"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

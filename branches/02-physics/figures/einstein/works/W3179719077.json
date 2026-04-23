@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3179719077",
+    "canonical_url": "https://openalex.org/W3179719077",
+    "title": "Avan\u00e7os na S\u00edntese Qu\u00edmica: Aquecimento \u00d3hmico",
+    "authors": [
+      "Artur M. S. Silva",
+      "Ana M. G. Silva",
+      "Vera L. M. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.52590/m3.p678.a30002052",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Boletim da Sociedade Portuguesa de Qu\u00edmica",
+    "concepts": [
+      "Mica",
+      "Materials science",
+      "Chemistry",
+      "Nuclear chemistry",
+      "Chemical engineering"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

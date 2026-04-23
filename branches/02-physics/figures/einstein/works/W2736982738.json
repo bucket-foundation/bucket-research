@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2736982738",
+    "canonical_url": "https://openalex.org/W2736982738",
+    "title": "1,6\u2010Conjugate Additions of Carbon Nucleophiles to 2\u2010[(1<i>E</i>,3<i>E</i>)\u20104\u2010Arylbuta\u20101,3\u2010dien\u20101\u2010yl]\u20104<i>H</i>\u2010chromen\u20104\u2010ones",
+    "authors": [
+      "H\u00e9lio M. T. Albuquerque",
+      "Clementina M.M. Santos",
+      "Mannix P. Balanay",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Artur M. S. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1002/ejoc.201700944",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Nitromethane",
+      "Malononitrile",
+      "Nucleophile",
+      "Pyrazole"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

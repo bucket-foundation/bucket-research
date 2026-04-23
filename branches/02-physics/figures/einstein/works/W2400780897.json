@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2400780897",
+    "canonical_url": "https://openalex.org/W2400780897",
+    "title": "Do cinnamylideneacetophenones have antioxidant properties and a protective effect toward the oxidation of phosphatidylcholines?",
+    "authors": [
+      "Eduarda M. P. Silva",
+      "T\u00e2nia Melo",
+      "Bebiana C. Sousa",
+      "Diana I. S. P. Resende",
+      "Lu\u00eds M. Magalh\u00e3es",
+      "Marcela A. Segundo",
+      "Artur M. S. Silva",
+      "M. Ros\u00e1rio Domingues"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.ejmech.2016.05.040",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "European Journal of Medicinal Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Antioxidant",
+      "Lipid peroxidation",
+      "DPPH",
+      "Polyphenol"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

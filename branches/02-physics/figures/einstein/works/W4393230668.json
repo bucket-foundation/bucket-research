@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4393230668",
+    "canonical_url": "https://openalex.org/W4393230668",
+    "title": "Phytochemical Investigation and Biological Characterization of Hedysarum pallidum",
+    "authors": [
+      "Amina Dob",
+      "Naima Rahmouni",
+      "Chawki Bensou\u0131c\u0131",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Zouhir Djerrou",
+      "Ouahiba Boumaza"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1007/s10600-024-04317-3",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Chemistry of Natural Compounds",
+    "concepts": [
+      "Phytochemical",
+      "Chemistry",
+      "Traditional medicine",
+      "Botany",
+      "Biology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

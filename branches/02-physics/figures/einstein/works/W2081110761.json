@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2081110761",
+    "canonical_url": "https://openalex.org/W2081110761",
+    "title": "ChemInform Abstract: New Syntheses of 3\u2010Aroylflavone Derivatives; Knoevenagel Condensation and Oxidation versus One\u2010Pot Synthesis.",
+    "authors": [
+      "Patr\u00edcia A. A. M. Vaz",
+      "Diana C. G. A. Pinto",
+      "Djenisa H. A. Rocha",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1002/chin.201304096",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Knoevenagel condensation",
+      "Condensation",
+      "Organic chemistry",
+      "Condensation reaction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

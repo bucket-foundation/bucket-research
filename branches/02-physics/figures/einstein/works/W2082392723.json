@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2082392723",
+    "canonical_url": "https://openalex.org/W2082392723",
+    "title": "One-Electron Reduction of Superoxide Radical-Anions by 3-Alkylpolyhydroxyflavones in Micelles. Effect of Antioxidant Alkyl Chain Length on Micellar Structure and Reactivity",
+    "authors": [
+      "Artur M. S. Silva",
+      "Paulo Filipe",
+      "Raquel S. G. R. Seixas",
+      "Diana C. G. A. Pinto",
+      "L. K. Patterson",
+      "Gordon L. Hug",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jean\u2010Claude Mazi\u00e8re",
+      "Ren\u00e9 Sant\u00fas",
+      "Patrice Morli\u00e8re"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1021/jp805889g",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 14,
+    "type": "article",
+    "venue": "The Journal of Physical Chemistry B",
+    "concepts": [
+      "Micelle",
+      "Alkyl",
+      "Superoxide",
+      "Chemistry",
+      "Reactivity (psychology)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

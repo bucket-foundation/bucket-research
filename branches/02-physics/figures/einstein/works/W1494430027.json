@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1494430027",
+    "canonical_url": "https://openalex.org/W1494430027",
+    "title": "ChemInform Abstract: Efficient Synthesis of Highly Enantioenriched \u0394<sup>1</sup>\u2010Pyrrolines.",
+    "authors": [
+      "Diana I. S. P. Resende",
+      "Samuel Guieu",
+      "Cristina G\u00f3mez de la Oliva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1002/chin.201533145",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Sequence (biology)",
+      "Nitro",
+      "Reduction (mathematics)",
+      "Dehydration"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

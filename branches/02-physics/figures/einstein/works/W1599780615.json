@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1599780615",
+    "canonical_url": "https://openalex.org/W1599780615",
+    "title": "The structure of azines derived from <i>C</i>\u2010formyl\u20101<i>H</i>\u2010imidazoles in solution and in the solid state: tautomerism, configurational and conformational studies",
+    "authors": [
+      "Joana Pinto",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Rosa M. Claramunt",
+      "Dion\u00edsia Sanz",
+      "M. Carmen Torralba",
+      "M.R. Torres",
+      "Felipe Reviriego",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1002/mrc.3926",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "Magnetic Resonance in Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Tautomer",
+      "Azine",
+      "Polarizable continuum model",
+      "Density functional theory"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

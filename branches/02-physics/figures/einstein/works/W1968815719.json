@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1968815719",
+    "canonical_url": "https://openalex.org/W1968815719",
+    "title": "Hepatoprotective activity of polyhydroxylated 2-styrylchromones against tert-butylhydroperoxide induced toxicity in freshly isolated rat hepatocytes",
+    "authors": [
+      "Eduarda Fernandes",
+      "M\u00e1rcia Carvalho",
+      "F\u00e9lix Carvalho",
+      "Artur M. S. Silva",
+      "Clementina M.M. Santos",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Maria de Lourdes Bastos"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1007/s00204-003-0480-9",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 36,
+    "type": "article",
+    "venue": "Archives of Toxicology",
+    "concepts": [
+      "Flavones",
+      "Chemistry",
+      "Glutathione",
+      "Lactate dehydrogenase",
+      "Toxicity"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

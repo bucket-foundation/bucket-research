@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4248942234",
+    "canonical_url": "https://openalex.org/W4248942234",
+    "title": "Bioactive Friedolanostanes and 11(10\u21928)-Abeolanostanes from the Bark of <i>Garcinia speciosa</i>.",
+    "authors": [
+      "Lu\u00eds M. M. Vieira",
+      "Anake Kijjoa",
+      "Rujide Wilirat",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Lu\u0131\u0301s Gales",
+      "Ana M. Damas",
+      "Artur M. S. Silva",
+      "Ing\u2010On Mondranondra",
+      "Werner Herz"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1021/np058058k",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Journal of Natural Products",
+    "concepts": [
+      "Bark (sound)",
+      "Garcinia",
+      "Traditional medicine",
+      "Pharmacognosy",
+      "Biology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

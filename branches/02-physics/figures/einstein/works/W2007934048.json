@@ -1,0 +1,47 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2007934048",
+    "canonical_url": "https://openalex.org/W2007934048",
+    "title": "Characterization of isomeric cationic porphyrins with <i>\u03b2</i>-pyrrolic substituents by electrospray mass spectrometry: The singular behavior of a potential virus photoinactivator",
+    "authors": [
+      "Raul A. Izquierdo",
+      "Cristina Barros",
+      "M. Gra\u00e7a Santana\u2010Marques",
+      "A. J. Ferrer\u2010Correia",
+      "Eduarda M. P. Silva",
+      "Francesca Giuntini",
+      "M. Amparo F. Faustino",
+      "Jo\u00e3o P. C. Tom\u00e9",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Gra\u00e7a P. M. S. Neves",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Andreia F. Peixoto",
+      "Mariette M. Pereira",
+      "Alberto A. C. C. Pais"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1016/j.jasms.2006.09.010",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Journal of the American Society for Mass Spectrometry",
+    "concepts": [
+      "Chemistry",
+      "Electrospray ionization",
+      "Free base",
+      "Mass spectrometry",
+      "Tandem mass spectrometry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397610218",
+    "canonical_url": "https://openalex.org/W4397610218",
+    "title": "CCDC 2260970: Experimental Crystal Structure Determination",
+    "authors": [
+      "Rotchana Klaram",
+      "Tida Dethoup",
+      "F\u00e1tima P. Machado",
+      "Lu\u0131\u0301s Gales",
+      "Decha Kumla",
+      "Salar Hafez Ghoran",
+      "Em\u0131\u0301lia Sousa",
+      "Sharad Mistry",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc2fwqjl",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystal structure",
+      "Crystallography",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

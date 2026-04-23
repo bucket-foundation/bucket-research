@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2409809468",
+    "canonical_url": "https://openalex.org/W2409809468",
+    "title": "Spiculisporic Acid E, a New Spiculisporic Acid Derivative and Ergosterol Derivatives from the Marine-Sponge Associated Fungus <i>Talaromyces trachyspermus</i> (KUFA 0021)",
+    "authors": [
+      "Decha Kumla",
+      "Tida Dethoup",
+      "Suradet Buttachon",
+      "Narong Singburaudom",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1177/1934578x1400900822",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Natural Product Communications",
+    "concepts": [
+      "Sponge",
+      "Ergosterol",
+      "Fungus",
+      "Chemistry",
+      "Candida albicans"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1992363369",
+    "canonical_url": "https://openalex.org/W1992363369",
+    "title": "New Syntheses of 4(5)-Aryl-5(4)-(2-chromonyl)-1,2,3-triazoles from 2-Styrylchromones and Sodium Azide",
+    "authors": [
+      "Artur M. S. Silva",
+      "Judite S. Vieira",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Tam\u00e1s Patonay",
+      "Albert L\u00e9vai",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.3987/com-98-8423",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 14,
+    "type": "article",
+    "venue": "Heterocycles",
+    "concepts": [
+      "Chemistry",
+      "Sodium azide",
+      "Aryl",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

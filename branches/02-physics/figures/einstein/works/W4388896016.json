@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4388896016",
+    "canonical_url": "https://openalex.org/W4388896016",
+    "title": "Infusion from Opuntia ficus-indica Peels: The Effects of Drying and Steeping Conditions",
+    "authors": [
+      "Ricardo M. Ferreira",
+      "Dulcineia F. Wessel",
+      "Artur M. S. Silva",
+      "Jorge A. Saraiva",
+      "Susana M. Cardoso"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/beverages9040097",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Beverages",
+    "concepts": [
+      "Steeping",
+      "Nutraceutical",
+      "PEAR",
+      "Food science",
+      "Antioxidant"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

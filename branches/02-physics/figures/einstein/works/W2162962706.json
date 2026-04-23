@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2162962706",
+    "canonical_url": "https://openalex.org/W2162962706",
+    "title": "Diarylferrocene tweezers for cation binding",
+    "authors": [
+      "Carlos F. R. A. C. Lima",
+      "Ana M. Fernandes",
+      "Andr\u00e9 Melo",
+      "Lu\u00eds Moreira Gon\u00e7alves",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s M. N. B. F. Santos"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1039/c5cp04530d",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "Physical Chemistry Chemical Physics",
+    "concepts": [
+      "Ferrocene",
+      "Chemistry",
+      "Molecular tweezers",
+      "Electrospray ionization",
+      "Mass spectrometry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

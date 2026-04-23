@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3009143995",
+    "canonical_url": "https://openalex.org/W3009143995",
+    "title": "Characterization and Cytotoxicity Assessment of the Lipophilic Fractions of Different Morphological Parts of Acacia dealbata",
+    "authors": [
+      "C\u00e1tia S. D. Oliveira",
+      "Patr\u00edcia Moreira",
+      "Judite Resende",
+      "Maria Teresa Cruz",
+      "Cl\u00e1udia Pereira",
+      "Artur M. S. Silva",
+      "S\u00f3nia A.O. Santos",
+      "Armando J. D. Silvestre"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/ijms21051814",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "International Journal of Molecular Sciences",
+    "concepts": [
+      "Cytotoxicity",
+      "Chemistry",
+      "Nutraceutical",
+      "Bark (sound)",
+      "Gas chromatography\u2013mass spectrometry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

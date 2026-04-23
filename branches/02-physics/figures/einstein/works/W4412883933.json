@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4412883933",
+    "canonical_url": "https://openalex.org/W4412883933",
+    "title": "Cover Feature: Single\u2010Benzene Fluorophore with Enhanced Emission: Insights Into Photophysical Properties Through Proton Transfer Mapping",
+    "authors": [
+      "Lu\u00eds F. B. Fontes",
+      "Jo\u00e3o Rocha",
+      "Artur M. S. Silva",
+      "Samuel Guieu"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1002/chem.202584202",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Chemistry - A European Journal",
+    "concepts": [
+      "Fluorophore",
+      "Cover (algebra)",
+      "Benzene",
+      "Feature (linguistics)",
+      "Proton"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

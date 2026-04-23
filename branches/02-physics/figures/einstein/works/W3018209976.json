@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3018209976",
+    "canonical_url": "https://openalex.org/W3018209976",
+    "title": "Effects of spiro-bis heterocycles on proliferation and apoptosis in human breast cancer cell lines",
+    "authors": [
+      "Lamia Hamdan Ramdani",
+      "Oualid Talhi",
+      "Nadia Ta\u00efbi",
+      "La\u00ebtitia Delort",
+      "Caroline Decombat",
+      "Artur M. S. Silva",
+      "Khaldoun Bachar\u0131",
+      "Marie-PauleVasson",
+      "Florence Caldefie\u2010Chezet"
+    ],
+    "year": 2019,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Pharmaceutica Analytica Acta",
+    "concepts": [
+      "Apoptosis",
+      "Human breast",
+      "Cell growth",
+      "Cancer research",
+      "Breast cancer"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

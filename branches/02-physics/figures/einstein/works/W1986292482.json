@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1986292482",
+    "canonical_url": "https://openalex.org/W1986292482",
+    "title": "Cytotoxicity of Prenylated Xanthones and Other Constituents from the Wood of<i>Garcinia merguensis</i>",
+    "authors": [
+      "Anake Kijjoa",
+      "Maria Gonzalez",
+      "Madalena Pinto",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Na\u00efr Nazareth",
+      "Ing\u2010On Mondranondra",
+      "Artur M. S. Silva",
+      "Graham Eaton",
+      "Werner Herz"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1055/s-2008-1074544",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Planta Medica",
+    "concepts": [
+      "Xanthone",
+      "Garcinia",
+      "Prenylation",
+      "Cytotoxicity",
+      "Clusiaceae"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

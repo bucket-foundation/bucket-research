@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2584206211",
+    "canonical_url": "https://openalex.org/W2584206211",
+    "title": "Association of aescin with \u03b2- and \u03b3-cyclodextrins studied by DFT calculations and spectroscopic methods",
+    "authors": [
+      "Ana Ramos",
+      "Pedro D. Vaz",
+      "Susana S. Braga",
+      "Artur M. S. Silva"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.3762/bjnano.8.37",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Beilstein Journal of Nanotechnology",
+    "concepts": [
+      "Chemistry",
+      "Density functional theory",
+      "Stoichiometry",
+      "Chemical shift",
+      "Aqueous solution"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4250673016",
+    "canonical_url": "https://openalex.org/W4250673016",
+    "title": "Notici\u00e1rio SPQ",
+    "authors": [
+      "Jos\u00e9 J. G. Moura",
+      "Joaquim Mar\u00e7alo",
+      "Carla Morais",
+      "Joana Oliveira",
+      "M. Clara F. Magalh\u00e3es",
+      "M. Amparo F. Faustino",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "P. M. Mendes",
+      "Ana Carreira Lopes"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.52590/m3.p678.a30002049",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Boletim da Sociedade Portuguesa de Qu\u00edmica",
+    "concepts": [
+      "Environmental science",
+      "Computer science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

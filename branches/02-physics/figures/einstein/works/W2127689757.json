@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2127689757",
+    "canonical_url": "https://openalex.org/W2127689757",
+    "title": "Synthesis of a New Catechin\u2010Pyrylium Derived Pigment.",
+    "authors": [
+      "V\u00edctor de Freitas",
+      "Carlos A. D. Sousa",
+      "Artur M. S. Silva",
+      "Celestino Santos\u2010Buelga",
+      "Nuno Mateus"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1002/chin.200515162",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Catechin",
+      "Pigment",
+      "Stereochemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

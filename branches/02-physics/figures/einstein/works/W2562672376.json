@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2562672376",
+    "canonical_url": "https://openalex.org/W2562672376",
+    "title": "Effects of Spiro-bisheterocycles on Proliferation and Apoptosis in Human Breast Cancer Cell Lines",
+    "authors": [
+      "Lamia Hamdan Ramdani",
+      "Oualid Talhi",
+      "Nadia Ta\u00efbi",
+      "La\u00ebtitia Delort",
+      "Caroline Decombat",
+      "Artur M. S. Silva",
+      "Khaldoun Bachar\u0131",
+      "Marie\u2010Paule Vasson",
+      "Florence Caldefie\u2010Chezet"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.21873/anticanres.11237",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Anticancer Research",
+    "concepts": [
+      "Hydantoin",
+      "Apoptosis",
+      "Cell growth",
+      "Cancer research",
+      "Breast cancer"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

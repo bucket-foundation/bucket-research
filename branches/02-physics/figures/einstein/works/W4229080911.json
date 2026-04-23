@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4229080911",
+    "canonical_url": "https://openalex.org/W4229080911",
+    "title": "Synthesis and physico-chemical characterization of Bi-doped Cobalt ferrite nanoparticles: cytotoxic effects against breast and prostate cancer cell lines",
+    "authors": [
+      "A. Benali",
+      "Liza Saher",
+      "M. Bejar",
+      "E. Dhahri",
+      "M.P.F. Gra\u00e7a",
+      "M.A. Valente",
+      "P. Sanguino",
+      "Lu\u00edsa A. Helguero",
+      "Khaldoun Bachar\u0131",
+      "Artur M. S. Silva",
+      "B. F. O. Costa"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1140/epjp/s13360-022-02754-z",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "The European Physical Journal Plus",
+    "concepts": [
+      "Cytotoxicity",
+      "Breast cancer",
+      "Materials science",
+      "Cobalt",
+      "Cancer cell"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

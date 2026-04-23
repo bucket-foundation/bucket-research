@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4382798354",
+    "canonical_url": "https://openalex.org/W4382798354",
+    "title": "Facile Access to Structurally Diverse Antimalarial Indoles Using a One\u2010Pot A<sup>3</sup> Coupling and Domino Cyclization Approach",
+    "authors": [
+      "Gustavo da Silva",
+      "Andr\u00e9 F. S. Luz",
+      "Denise Duarte",
+      "Diana Fontinha",
+      "Vera L. M. Silva",
+      "Filipe A. Almeida Paz",
+      "AM Madureira",
+      "Sandra Sim\u00f5es",
+      "Miguel Prud\u00eancio",
+      "F\u00e1tima Nogueira",
+      "Artur M. S. Silva",
+      "Rui Moreira"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1002/cmdc.202300264",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "ChemMedChem",
+    "concepts": [
+      "Sonogashira coupling",
+      "Domino",
+      "Amine gas treating",
+      "Combinatorial chemistry",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

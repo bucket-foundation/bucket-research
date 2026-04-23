@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2590481969",
+    "canonical_url": "https://openalex.org/W2590481969",
+    "title": "TOTAL PHENOLS AND PHYTOALEXINS ACCUMULATION IN COFFEE LEAVES INFECTED WITH HEMILEIA VASTATRIX BERK ET BR. AND PSEUDOMONAS SYRINGAE",
+    "authors": [
+      "Michel Guedes",
+      "Leonor Guerra\u2010Guimar\u00e3es",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1994,
+    "doi": "https://doi.org/10.17660/actahortic.1994.381.75",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Acta Horticulturae",
+    "concepts": [
+      "Pseudomonas syringae",
+      "Biology",
+      "Horticulture",
+      "Botany",
+      "Phenols"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

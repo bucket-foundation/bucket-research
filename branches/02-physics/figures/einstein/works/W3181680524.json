@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3181680524",
+    "canonical_url": "https://openalex.org/W3181680524",
+    "title": "Sebasti\u00e3o Jos\u00e9 Formosinho Sanches Sim\u00f5es (1943-2016)",
+    "authors": [
+      "Hugh D. Burrows",
+      "M\u00e1rio N. Berberan e Santos",
+      "Fernando Pi\u00f1a",
+      "Casimiro Pio",
+      "Mariette M. Pereira",
+      "Artur M. S. Silva",
+      "Alberto A. C. C. Pais",
+      "Lu\u0131\u0301s G. Arnaut",
+      "MAria Gra\u00e7a Miguel"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.52590/m3.p679.a30002063",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Boletim da Sociedade Portuguesa de Qu\u00edmica",
+    "concepts": [
+      "Humanities",
+      "Art"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

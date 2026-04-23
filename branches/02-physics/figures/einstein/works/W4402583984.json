@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4402583984",
+    "canonical_url": "https://openalex.org/W4402583984",
+    "title": "By-Products of Arabian Light Crude Oil Refining: Profiling Properties for Bitumen Production",
+    "authors": [
+      "Catarina Varanda",
+      "Miguel Peixoto de Almeida",
+      "In\u00eas Portugal",
+      "Jorge C. Ribeiro",
+      "Carlos M. Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1134/s0965544124050177",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Petroleum Chemistry",
+    "concepts": [
+      "Asphalt",
+      "Crude oil",
+      "Light crude oil",
+      "Refining (metallurgy)",
+      "Pulp and paper industry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

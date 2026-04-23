@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951882980",
+    "canonical_url": "https://openalex.org/W2951882980",
+    "title": "1,6-Conjugated Addition of Nitromethane to (E)-2-Styrylchromones: A New Synthesis of Novel 2-Substituted 4-Arylpyrrole Derivatives",
+    "authors": [
+      "Artur M. S. Silva",
+      "Eduarda M. P. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1055/s-0031-1289525",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Nitromethane",
+      "Chromone",
+      "Moiety",
+      "Michael reaction"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

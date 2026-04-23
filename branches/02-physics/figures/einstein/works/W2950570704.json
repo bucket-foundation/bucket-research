@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950570704",
+    "canonical_url": "https://openalex.org/W2950570704",
+    "title": "One-Pot Synthesis of Novel Highly Functionalized Furan-Based Polyphenolics",
+    "authors": [
+      "Oualid Talhi",
+      "Artur M. S. Silva",
+      "Joana L. C. Sousa",
+      "Djenisa H. A. Rocha",
+      "Diana C. G. A. Pinto",
+      "Filipe A. Almeida Paz",
+      "Khaldoun Bachar\u0131",
+      "Gilbert Kirsch"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1055/s-0035-1560580",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Furan",
+      "Chemistry",
+      "Conjugate",
+      "Polyphenol",
+      "Ring (chemistry)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

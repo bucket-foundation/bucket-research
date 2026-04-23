@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4289203920",
+    "canonical_url": "https://openalex.org/W4289203920",
+    "title": "Decoration of A-Ring of a Lupane-Type Triterpenoid with Different Oxygen and Nitrogen Heterocycles",
+    "authors": [
+      "Joana L. C. Sousa",
+      "H\u00e9lio M. T. Albuquerque",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/molecules27154904",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Chemistry",
+      "Nitromethane",
+      "Betulinic acid",
+      "Pyran",
+      "Ring (chemistry)"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

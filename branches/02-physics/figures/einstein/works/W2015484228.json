@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2015484228",
+    "canonical_url": "https://openalex.org/W2015484228",
+    "title": "Structural and chromatic characterization of a new Malvidin 3-glucoside\u2013vanillyl\u2013catechin pigment",
+    "authors": [
+      "Carlos A. D. Sousa",
+      "Nuno Mateus",
+      "Artur M. S. Silva",
+      "Ana M. Gonzal\u00e9z\u2010Param\u00e1s",
+      "Celestino Santos\u2010Buelga",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1016/j.foodchem.2006.04.050",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 36,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Pigment",
+      "Malvidin",
+      "Chemistry",
+      "Anthocyanin",
+      "Adduct"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

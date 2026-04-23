@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4405081675",
+    "canonical_url": "https://openalex.org/W4405081675",
+    "title": "Transvaginal Evisceration in a Patient With Rectovaginal Prolapse: A Twist in the Tale",
+    "authors": [
+      "Sofia Leandro",
+      "Rita Leandro",
+      "Ana Rita Martins",
+      "Artur M. S. Silva",
+      "Manuel Carvalho"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.7759/cureus.75134",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Cureus",
+    "concepts": [
+      "Medicine",
+      "Evisceration (ophthalmology)",
+      "Surgery",
+      "Exploratory laparotomy",
+      "Laparotomy"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

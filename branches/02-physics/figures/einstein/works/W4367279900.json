@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4367279900",
+    "canonical_url": "https://openalex.org/W4367279900",
+    "title": "5.2.4. Synthesis of 5,10,15,20-Tetrakis(2,6-dichlorophenyl)porphyrin",
+    "authors": [
+      "Artur M. S. Silva",
+      "Augusto C. Tom\u00e9",
+      "Diana C. G. A. Pinto",
+      "Fernando M. J. Domingues",
+      "Gra\u00e7a M. S. R. O. Rocha",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Maria da Gra\u00e7a",
+      "Maria G. P. M. S. Neves",
+      "Maria do Amparo F. Faustino",
+      "M\u00e1rio M.Q. Sim\u00f5es"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1039/9781849739634-00485",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": null,
+    "concepts": [
+      "Porphyrin",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Medicinal chemistry",
+      "Photochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

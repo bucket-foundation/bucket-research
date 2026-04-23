@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2168822321",
+    "canonical_url": "https://openalex.org/W2168822321",
+    "title": "Tandem mass spectrometry based investigation of cinnamylideneacetophenone derivatives: valuable tool for the differentiation of positional isomers",
+    "authors": [
+      "Diana I. S. P. Resende",
+      "Eduarda M. P. Silva",
+      "Cristina Barros",
+      "M. Ros\u00e1rio Domingues",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1002/rcm.5207",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Rapid Communications in Mass Spectrometry",
+    "concepts": [
+      "Chemistry",
+      "Fragmentation (computing)",
+      "Tandem mass spectrometry",
+      "Electrospray ionization",
+      "Tandem"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

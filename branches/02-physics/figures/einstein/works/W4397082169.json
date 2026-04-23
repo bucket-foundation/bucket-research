@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397082169",
+    "canonical_url": "https://openalex.org/W4397082169",
+    "title": "CCDC 1483750: Experimental Crystal Structure Determination",
+    "authors": [
+      "War War May Zin",
+      "Suradet Buttachon",
+      "Tida Dethoup",
+      "Carla Fernandes",
+      "Sara Cravo",
+      "Madalena Pinto",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Artur M. S. Silva",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Anake Kijjoa"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc1lsyx7",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystal structure",
+      "Crystallography",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

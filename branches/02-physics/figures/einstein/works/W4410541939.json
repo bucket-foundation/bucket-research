@@ -1,0 +1,45 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4410541939",
+    "canonical_url": "https://openalex.org/W4410541939",
+    "title": "PANORAMA ATUAL DO V\u00cdRUS DA RAIVA COM \u00caNFASE EM CARACTER\u00cdSTICAS MOLECULARES, RESPOSTA IMUNOL\u00d3GICA E INOVA\u00c7\u00d5ES TECNOL\u00d3GICAS",
+    "authors": [
+      "Viviane Juliana da Silva",
+      "Ana Paula da Penha Alves",
+      "Leia Garcia Torres",
+      "Thaylane Ara\u00fajo e Silva",
+      "Aldenize Pimentel de Souza",
+      "Fernanda Maria da Silva",
+      "Luciana Tavares Alves",
+      "Artur M. S. Silva",
+      "Julia Ol\u00edvia Camboim Ten\u00f3rio Gomes",
+      "Maria Santos",
+      "Elisangela Melquiades Silva",
+      "Orlando Cunha",
+      "Rog\u00e9rio Ribeiro Soares",
+      "Mylena Liliane Alves de Aquino",
+      "Leonardo Benedito Flor da Silva"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.56083/rcv5n5-070",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Revista Contempor\u00e2nea",
+    "concepts": [
+      "Panorama",
+      "Computer science",
+      "Artificial intelligence"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

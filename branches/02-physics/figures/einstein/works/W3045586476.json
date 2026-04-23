@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3045586476",
+    "canonical_url": "https://openalex.org/W3045586476",
+    "title": "Exploring the reactivity of halogen-free aminopyridines in one-pot palladium-catalyzed C\u2013N cross-coupling/C\u2013H functionalization",
+    "authors": [
+      "A. Sofia Santos",
+      "M. Margarida Martins",
+      "Ana C. Mortinho",
+      "Artur M. S. Silva",
+      "M. Manuel B. Marques"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1016/j.tetlet.2020.152303",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Aminopyridines",
+      "Chemistry",
+      "Surface modification",
+      "Catalysis",
+      "Palladium"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

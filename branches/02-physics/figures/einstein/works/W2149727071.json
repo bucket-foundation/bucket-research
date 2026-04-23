@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2149727071",
+    "canonical_url": "https://openalex.org/W2149727071",
+    "title": "Ferrocenylphosphines as New Catalysts for Baylis\u2014Hillman Reactions.",
+    "authors": [
+      "Susana Isabel Pereira",
+      "Javier Adrio",
+      "Artur M. S. Silva",
+      "Juan C. Carretero"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1002/chin.200614086",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Catalysis",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

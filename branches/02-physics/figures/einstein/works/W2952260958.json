@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952260958",
+    "canonical_url": "https://openalex.org/W2952260958",
+    "title": "ChemInform Abstract: Xanthones from Calophyllum teysmannii var. inophylloide.",
+    "authors": [
+      "Anake Kijjoa",
+      "Mar\u00eda Jos\u00e9 Gonz\u00e1lez",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Choojit Anantachoke",
+      "Werner Herz"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1002/chin.200109219",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Service (business)",
+      "World Wide Web",
+      "Library science",
+      "Business"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

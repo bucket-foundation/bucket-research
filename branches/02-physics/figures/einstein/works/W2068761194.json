@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2068761194",
+    "canonical_url": "https://openalex.org/W2068761194",
+    "title": "Homo-monoterpenic compounds as chemical markers for Cydonia oblonga Miller",
+    "authors": [
+      "Carla Sousa",
+      "Branca M. Silva",
+      "Paula B. Andrade",
+      "Patr\u0131\u0301cia Valent\u00e3o",
+      "Artur M. S. Silva",
+      "Federico Ferreres",
+      "Rosa M. Seabra",
+      "Margarida A. Ferreira"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1016/j.foodchem.2005.09.055",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Rosaceae",
+      "Traditional medicine",
+      "Botany",
+      "Biology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

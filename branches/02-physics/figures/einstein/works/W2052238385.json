@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2052238385",
+    "canonical_url": "https://openalex.org/W2052238385",
+    "title": "Cationic porphyrins with inverted pyridinium groups and their fluorescence properties",
+    "authors": [
+      "Dora C. S. Costa",
+      "V\u00e2nia F. Pais",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Uwe Pischel",
+      "Jo\u00e3o P. C. Tom\u00e9"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.tetlet.2014.05.108",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Cationic polymerization",
+      "Chemistry",
+      "Porphyrin",
+      "Pyridinium",
+      "Derivative (finance)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2320635471",
+    "canonical_url": "https://openalex.org/W2320635471",
+    "title": "Flavonoids as modulators of human neutrophils oxidative burst",
+    "authors": [
+      "Daniela Ribeiro",
+      "Marisa Freitas",
+      "Sara M. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Gra\u00e7a Porto",
+      "Eduarda Fernandes"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1016/j.freeradbiomed.2012.08.343",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Free Radical Biology and Medicine",
+    "concepts": [
+      "Respiratory burst",
+      "Oxidative phosphorylation",
+      "Chemistry",
+      "Biochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

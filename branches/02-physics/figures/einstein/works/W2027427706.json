@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2027427706",
+    "canonical_url": "https://openalex.org/W2027427706",
+    "title": "Structure Elucidation of Xanthone Derivatives: Studies of Nuclear Magnetic Resonance Spectroscopy",
+    "authors": [
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.2174/092986705774370718",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "review",
+    "venue": "Current Medicinal Chemistry",
+    "concepts": [
+      "Nuclear magnetic resonance spectroscopy",
+      "Chemistry",
+      "Xanthone",
+      "NMR spectra database",
+      "Carbon-13 NMR"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

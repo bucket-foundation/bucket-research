@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1761360422",
+    "canonical_url": "https://openalex.org/W1761360422",
+    "title": "Saliramophenol, an unprecedented natural t-butylphenol derivative from Salicornia ramosissima J. Woods",
+    "authors": [
+      "Vera M. S. Isca",
+      "Ana M. L. Seca",
+      "Diana C. G. A. Pinto",
+      "Helena Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1039/c5ra10893d",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "RSC Advances",
+    "concepts": [
+      "Derivative (finance)",
+      "Financial economics",
+      "Economics"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

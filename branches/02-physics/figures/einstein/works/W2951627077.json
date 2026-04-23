@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951627077",
+    "canonical_url": "https://openalex.org/W2951627077",
+    "title": "ChemInform Abstract: Synthesis of Novel 3\u2010Alkyl\u20103\u2032,4\u2032,5,7\u2010tetrahydroxyflavones.",
+    "authors": [
+      "Raquel S. G. R. Seixas",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/chin.200908211",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Alkyl",
+      "Combinatorial chemistry",
+      "Service (business)",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

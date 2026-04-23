@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1984615297",
+    "canonical_url": "https://openalex.org/W1984615297",
+    "title": "CHLOROSULFONATION OF FLAVONES",
+    "authors": [
+      "Ana M. G. Silva",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1998,
+    "doi": "https://doi.org/10.1080/10426509808035737",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "Phosphorus, sulfur, and silicon and the related elements",
+    "concepts": [
+      "Flavones",
+      "Chemistry",
+      "Ring (chemistry)",
+      "Isopropyl",
+      "Alcohol"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

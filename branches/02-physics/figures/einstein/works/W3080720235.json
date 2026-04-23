@@ -1,0 +1,47 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3080720235",
+    "canonical_url": "https://openalex.org/W3080720235",
+    "title": "New marine-derived indolymethyl pyrazinoquinazoline alkaloids with promising antimicrobial profiles",
+    "authors": [
+      "Solida Long",
+      "Diana I. S. P. Resende",
+      "Andreia Palmeira",
+      "Anake Kijjoa",
+      "Artur M. S. Silva",
+      "Maria Elizabeth Tiritan",
+      "Patr\u00edcia Pereira\u2010Terra",
+      "Joana Freitas\u2010Silva",
+      "Sandra Barreiro",
+      "Renata Silva",
+      "Fernando Remi\u00e3o",
+      "Eug\u00e9nia Pinto",
+      "Paulo Martins da Costa",
+      "Em\u0131\u0301lia Sousa",
+      "Madalena Pinto"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1039/d0ra05319h",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "RSC Advances",
+    "concepts": [
+      "Antimicrobial",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Traditional medicine",
+      "Organic chemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

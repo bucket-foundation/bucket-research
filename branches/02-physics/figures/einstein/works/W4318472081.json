@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4318472081",
+    "canonical_url": "https://openalex.org/W4318472081",
+    "title": "Chalcones as Potential Inhibitors of Pancreatic Lipase",
+    "authors": [
+      "S\u00edlvia Rocha",
+      "\u00c1lvaro Tom\u00e9",
+      "Ana T. Rufino",
+      "Marisa Freitas",
+      "F\u00e9lix Carvalho",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/ecmc2022-13413",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": null,
+    "concepts": [
+      "Lipase",
+      "Pancreatic lipase",
+      "Chemistry",
+      "Biochemistry",
+      "Computer science"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

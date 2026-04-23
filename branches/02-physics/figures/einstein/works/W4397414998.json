@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397414998",
+    "canonical_url": "https://openalex.org/W4397414998",
+    "title": "CCDC 1527349: Experimental Crystal Structure Determination",
+    "authors": [
+      "Jidapa Noinart",
+      "Suradet Buttachon",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Ralph Urbatzka",
+      "Sara Freitas",
+      "Michael Lee",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "V\u0131\u0301tor Vasconcelos",
+      "Anake Kijjoa"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc1n8bbl",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Materials science",
+      "Archaeology",
+      "Art",
+      "Geography"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

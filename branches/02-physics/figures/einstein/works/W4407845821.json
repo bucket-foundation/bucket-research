@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4407845821",
+    "canonical_url": "https://openalex.org/W4407845821",
+    "title": "Halogenated 3-Nitro-2H-Chromenes as Potential Agents Against Multidrug-Resistant Bacteria",
+    "authors": [
+      "Patr\u00edcia I. C. Godinho",
+      "Paula P\u00e9rez\u2010Ramos",
+      "Yaiza Gabasa",
+      "Enmanuel Cornielle",
+      "Sara M. Soto",
+      "Raquel G. Soengas",
+      "Artur M. S. Silva"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.3390/antibiotics14030218",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Antibiotics",
+    "concepts": [
+      "Multiple drug resistance",
+      "Antibiotics",
+      "Staphylococcus epidermidis",
+      "Chemistry",
+      "Nitro"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

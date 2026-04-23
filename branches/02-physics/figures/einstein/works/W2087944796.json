@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2087944796",
+    "canonical_url": "https://openalex.org/W2087944796",
+    "title": "Study of the behaviour of amino acids in aqueous solution by time\u2010domain NMR and high\u2010resolution NMR",
+    "authors": [
+      "M. Khallouk",
+      "Douglas N. Rutledge",
+      "Artur M. S. Silva",
+      "Ivonne Delgadillo"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1002/mrc.1538",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Magnetic Resonance in Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Aqueous solution",
+      "Amino acid",
+      "Pulse sequence",
+      "Proton NMR"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2116989867",
+    "canonical_url": "https://openalex.org/W2116989867",
+    "title": "Synthesis and structure elucidation of five series of aminoflavones using 1D and 2D NMR spectroscopy",
+    "authors": [
+      "Ana Barros",
+      "Artur M. S. Silva"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1002/mrc.1895",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Magnetic Resonance in Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Heteronuclear single quantum coherence spectroscopy",
+      "Two-dimensional nuclear magnetic resonance spectroscopy",
+      "Nuclear magnetic resonance spectroscopy",
+      "Fluorine-19 NMR"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2023125355",
+    "canonical_url": "https://openalex.org/W2023125355",
+    "title": "Synthesis of new glycoporphyrin derivatives through carbohydrate-substituted \u03b1-diazoacetates",
+    "authors": [
+      "Ana T. P. C. Gomes",
+      "Raquel A. C. Le\u00e3o",
+      "Fernando de Carvalho da Silva",
+      "Maria G. P. M. S. Neves",
+      "M. Amparo F. Faustino",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "S\u00e9rgio Pinheiro",
+      "Maria Cec\u00edlia B. V. de Souza",
+      "V\u0131\u0301tor F. Ferreira",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1142/s1088424609000279",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 12,
+    "type": "article",
+    "venue": "Journal of Porphyrins and Phthalocyanines",
+    "concepts": [
+      "Chemistry",
+      "Carbohydrate",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

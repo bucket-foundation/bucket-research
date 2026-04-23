@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4404622534",
+    "canonical_url": "https://openalex.org/W4404622534",
+    "title": "Herbacetin Inhibits Human Fructose 1,6\u2010Bisphosphatase Among a Panel of Chromone Derivatives and Pyrazoles, Demonstrating Positive Effects on Insulin\u2010Resistant <scp>HepG2</scp> Cells",
+    "authors": [
+      "S\u00f3nia Rocha",
+      "Bruno Vicente",
+      "Carina Proen\u00e7a",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "M. Lu\u00edsa Corvo",
+      "Eduarda Fernandes",
+      "Marisa Freitas"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1111/cbdd.70017",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Chemical Biology & Drug Design",
+    "concepts": [
+      "Chromone",
+      "Chemistry",
+      "Biochemistry",
+      "Fructose",
+      "Fructose 1,6-bisphosphatase"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

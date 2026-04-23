@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2137018230",
+    "canonical_url": "https://openalex.org/W2137018230",
+    "title": "Intermolecular cycloaddition of nonstabilized azomethine ylides generated from 1,3-thiazolidine-4-carboxylic acids: synthesis of 5,7a-dihydro-1H,3H-pyrrolo[1,2-c]thiazoles",
+    "authors": [
+      "Ana L. Cardoso",
+      "Agnieszka Kaczor",
+      "Artur M. S. Silva",
+      "Rui Fausto",
+      "Teresa M. V. D. Pinho e Melo",
+      "\u0391. \u039c. d\u2019A. Rocha Gonsalves"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1016/j.tet.2006.08.029",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Thiazolidine",
+      "Cycloaddition",
+      "Dimethyl acetylenedicarboxylate",
+      "Thiazole"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

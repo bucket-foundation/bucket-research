@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4214510873",
+    "canonical_url": "https://openalex.org/W4214510873",
+    "title": "2-Styrylchromones: Cytotoxicity and Modulation of Human Neutrophils\u2019 Oxidative Burst",
+    "authors": [
+      "Mariana Lucas",
+      "Marisa Freitas",
+      "Marco Zanchetta",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes",
+      "Daniela Ribeiro"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/ph15030288",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Pharmaceuticals",
+    "concepts": [
+      "Respiratory burst",
+      "Oxidative phosphorylation",
+      "Chemistry",
+      "Cytotoxicity",
+      "Oxidative stress"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

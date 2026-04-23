@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951857770",
+    "canonical_url": "https://openalex.org/W2951857770",
+    "title": "ChemInform Abstract: A Novel and Efficient Synthetic Method of Benzo[f]chromen\u20101\u2010ones (III) and Phenyl\u20104H\u2010chromen\u20104\u2010one (VI) Through Photooxidative Cyclization of 6\u2010[(E)\u20102\u2010Arylvinyl]\u20104H\u2010pyran\u20104\u2010ones (II) and 6\u2010[(1E,3E)\u20104\u2010Phenylbuta\u20101,3\u2010dien\u20101\u2010yl]\u20104H\u2010pyran\u20104\u2010one (V).",
+    "authors": [
+      "Nabila A\u00eft\u2010Baziz",
+      "Safouane M. Hamdi",
+      "Artur M. S. Silva",
+      "Yah\u00efa Rachedi",
+      "Ma\u00e2mar Hamdi",
+      "M. Trari"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1002/chin.201511198",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Pyran",
+      "Humanities",
+      "Chemistry",
+      "Philosophy",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

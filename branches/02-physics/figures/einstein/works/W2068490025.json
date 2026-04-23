@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2068490025",
+    "canonical_url": "https://openalex.org/W2068490025",
+    "title": "A computational study of vinylpyranoanthocyanin-phenolic pigments (portisins)",
+    "authors": [
+      "Alexandre R. F. Carvalho",
+      "Joana Oliveira",
+      "V\u00edctor de Freitas",
+      "Artur M. S. Silva",
+      "Nuno Mateus",
+      "Andr\u00e9 Melo"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1016/j.theochem.2009.07.034",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Journal of Molecular Structure THEOCHEM",
+    "concepts": [
+      "Conformational isomerism",
+      "Molecule",
+      "Pigment",
+      "Chemistry",
+      "Computational chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

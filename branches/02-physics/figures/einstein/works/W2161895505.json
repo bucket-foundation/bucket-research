@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2161895505",
+    "canonical_url": "https://openalex.org/W2161895505",
+    "title": "New naphthochlorins from the intramolecular cyclization of \u03b2-vinyl-meso-tetraarylporphyrins",
+    "authors": [
+      "M. Amparo F. Faustino",
+      "Maria G. P. M. S. Neves",
+      "M. Gra\u00e7a H. Vicente",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1995,
+    "doi": "https://doi.org/10.1016/0040-4039(95)01157-d",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Intramolecular force",
+      "Sulfuric acid",
+      "Ring (chemistry)",
+      "Nickel"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

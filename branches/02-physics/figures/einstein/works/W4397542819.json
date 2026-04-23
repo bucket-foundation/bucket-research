@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397542819",
+    "canonical_url": "https://openalex.org/W4397542819",
+    "title": "CCDC 1579859: Experimental Crystal Structure Determination",
+    "authors": [
+      "Decha Kumla",
+      "Tin Shine Aung",
+      "Suradet Buttachon",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 Pereira",
+      "\u00c2ngela In\u00e1cio",
+      "Paulo Costa",
+      "Michael Lee",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Anake Kijjoa"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.5517/ccdc.csd.cc1q0z6x",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystal structure",
+      "Crystallography",
+      "Materials science",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

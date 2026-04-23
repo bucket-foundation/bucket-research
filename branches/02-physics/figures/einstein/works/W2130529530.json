@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2130529530",
+    "canonical_url": "https://openalex.org/W2130529530",
+    "title": "An experimental NMR and computational study of 4-quinolones and related compounds",
+    "authors": [
+      "Raquel S. G. R. Seixas",
+      "Artur M. S. Silva",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1007/s00706-011-0473-y",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Tautomer",
+      "Carbon-13 NMR",
+      "Chemistry",
+      "Computational chemistry",
+      "Proton NMR"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

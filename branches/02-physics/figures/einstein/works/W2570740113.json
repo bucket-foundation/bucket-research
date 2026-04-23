@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2570740113",
+    "canonical_url": "https://openalex.org/W2570740113",
+    "title": "A One-Pot Diastereoselective Synthesis of 2-[Aryl(hydroxy)methyl]-6-methyl-2H-furo[3,2-c]pyran-3,4-diones: Crystallographic Evidence for the Furanone Ring Closure",
+    "authors": [
+      "Baya Boutemeur\u2010Kheddis",
+      "Artur M. S. Silva",
+      "Yamina Abdi",
+      "Ma\u00e2mar Hamdi",
+      "Oualid Talhi",
+      "Filipe A. Almeida Paz",
+      "Gilbert Kirsch"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1055/s-0034-1380214",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Pyran",
+      "Ring (chemistry)",
+      "Dehydroacetic acid",
+      "Aryl"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

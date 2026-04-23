@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2140846102",
+    "canonical_url": "https://openalex.org/W2140846102",
+    "title": "A green and sustainable method for the oxidation of 1,3-dihydrobenzo[c]thiophenes to sulfones using metalloporphyrin complexes",
+    "authors": [
+      "Gustavo da Silva",
+      "S\u00f3nia M.G. Pires",
+      "Vera L. M. Silva",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Maria G. P. M. S. Neves",
+      "Susana L.H. Rebelo",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.catcom.2014.06.032",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Catalysis Communications",
+    "concepts": [
+      "Catalysis",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

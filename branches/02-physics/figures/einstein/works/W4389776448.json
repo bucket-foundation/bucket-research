@@ -1,0 +1,33 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4389776448",
+    "canonical_url": "https://openalex.org/W4389776448",
+    "title": "LABORAT\u00d3RIO DE HUMANIDADES: APONTAMENTOS PARA UM PROJETO CIENT\u00cdFICO-EDUCATIVO",
+    "authors": [
+      "Artur M. S. Silva",
+      "Heitor Silva",
+      "Adenilza Cunha"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.61917/2764-684x.2023.044",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": null,
+    "concepts": [
+      "Humanities",
+      "Philosophy",
+      "Physics"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

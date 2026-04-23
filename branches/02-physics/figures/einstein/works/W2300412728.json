@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2300412728",
+    "canonical_url": "https://openalex.org/W2300412728",
+    "title": "Visible light\u2010induced diastereoselective<i>E</i>/<i>Z</i>\u2010photoisomerization equilibrium of the C=C benzofuran\u20103\u2010one\u2010hydantoin dyad",
+    "authors": [
+      "Oualid Talhi",
+      "Guido R. Lopes",
+      "S\u00e9rgio M. Santos",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/poc.3335",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Journal of Physical Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Photoisomerization",
+      "Diastereomer",
+      "Excited state",
+      "Isomerization"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

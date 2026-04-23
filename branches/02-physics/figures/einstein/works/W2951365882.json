@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951365882",
+    "canonical_url": "https://openalex.org/W2951365882",
+    "title": "Diastereoselective Conjugate Addition Reactions of 2\u2032-Hydroxypropiophenone to 2\u2032-Hydroxychalcones \u2013 Synthesis and Structural Characterization of the Diastereomers of (\u00b1)-3-Aryl-1,5-bis(2-hydroxyphenyl)-2,4-dimethyl-1,5-pentanediones",
+    "authors": [
+      "Artur M. S. Silva",
+      "L\u00facia M. P. M. Almeida",
+      "Hil\u00e1rio R. Tavares",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1002/(sici)1099-0690(199907)1999:7<1739::aid-ejoc1739>3.0.co;2-q",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Diastereomer",
+      "Conjugate",
+      "Benzaldehyde",
+      "Aryl"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

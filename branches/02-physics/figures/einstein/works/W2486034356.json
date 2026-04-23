@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2486034356",
+    "canonical_url": "https://openalex.org/W2486034356",
+    "title": "Multitaxon activity profiling reveals differential microbial response to reduced seawater pH and oil pollution",
+    "authors": [
+      "Francisco J. R. C. Coelho",
+      "Daniel F. R. Cleary",
+      "Rodrigo Costa",
+      "Marina Ferreira",
+      "Ana R. M. Pol\u00f3nia",
+      "Artur M. S. Silva",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "Vanessa Oliveira",
+      "Newton C. M. Gomes"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1111/mec.13779",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "Molecular Ecology",
+    "concepts": [
+      "Environmental chemistry",
+      "Microbial population biology",
+      "Biology",
+      "Benthic zone",
+      "Seawater"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

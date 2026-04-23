@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2137629618",
+    "canonical_url": "https://openalex.org/W2137629618",
+    "title": "ChemInform Abstract: Syntheses of 5\u2010Hydroxy\u20102\u2010(phenyl or styryl)chromones and of Some Halo Derivatives.",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1997,
+    "doi": "https://doi.org/10.1002/chin.199732115",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Halo",
+      "Combinatorial chemistry",
+      "Service (business)",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

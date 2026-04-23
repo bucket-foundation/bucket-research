@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951544830",
+    "canonical_url": "https://openalex.org/W2951544830",
+    "title": "Proposal for an ecofriendly and economic strategy for efficient radioiodination of coumarin derivatives",
+    "authors": [
+      "Nejla Khatir\u2013Hamdi",
+      "Malika Makhloufi\u2010Chebli",
+      "Artur M. S. Silva",
+      "M\u00e9ziane Brahimi",
+      "H. Grib"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/j.apradiso.2019.06.024",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Applied Radiation and Isotopes",
+    "concepts": [
+      "Coumarin",
+      "Halogenation",
+      "Chemistry",
+      "Iodine",
+      "Intramolecular force"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

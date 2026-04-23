@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951213975",
+    "canonical_url": "https://openalex.org/W2951213975",
+    "title": "ChemInform Abstract: Synthesis of Glyco\u2010Fused Bicyclic Compounds; Conformationally Constrained Scaffolds and Useful Polyfunctional Building Blocks.",
+    "authors": [
+      "Francisco Cardona",
+      "Giuseppe D\u2019Orazio",
+      "Artur M. S. Silva",
+      "Francesco Nicotra",
+      "Barbara La Ferla"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1002/chin.201506182",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Bicyclic molecule",
+      "Metathesis",
+      "Ring-closing metathesis",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

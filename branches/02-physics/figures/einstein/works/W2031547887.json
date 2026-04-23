@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2031547887",
+    "canonical_url": "https://openalex.org/W2031547887",
+    "title": "Diastereoselective hydroformylation of \u03944-steroids with rhodium\u2013phosphite catalysts",
+    "authors": [
+      "Zoraida Freixa",
+      "Mariette M. Pereira",
+      "J. Carles Bay\u00f3n",
+      "Artur M. S. Silva",
+      "Jorge A. R. Salvador",
+      "\u0391. Matos Beja",
+      "J.A. Paix\u00e3o",
+      "Manuela Ramos"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1016/s0957-4166(01)00191-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 23,
+    "type": "article",
+    "venue": "Tetrahedron Asymmetry",
+    "concepts": [
+      "Hydroformylation",
+      "Rhodium",
+      "Catalysis",
+      "Chemistry",
+      "Carbonylation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

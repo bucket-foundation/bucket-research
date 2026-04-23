@@ -1,0 +1,31 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2913820751",
+    "canonical_url": "https://openalex.org/W2913820751",
+    "title": "Bioactive Quinolactacins and Structurally Related Pyrroloquinolones",
+    "authors": [
+      "Gustavo da Silva",
+      "Rui Moreira",
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/b978-0-444-64185-4.00012-5",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "book-chapter",
+    "venue": "Studies in natural products chemistry",
+    "concepts": [
+      "Computer science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

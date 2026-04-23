@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952806880",
+    "canonical_url": "https://openalex.org/W2952806880",
+    "title": "ChemInform Abstract: The Heck Reaction of Protected Hydroxychromones: En Route to Natural Products.",
+    "authors": [
+      "Attila Vasas",
+      "Tam\u00e1s Patonay",
+      "Krisztina K\u00f3nya",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1002/chin.201146151",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Heck reaction",
+      "Phosphine",
+      "Organic chemistry",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2811210147",
+    "canonical_url": "https://openalex.org/W2811210147",
+    "title": "Predicting Research and Motor Octane Numbers based on Near Infrared Spectroscopy: Models based on Partial Least Squares Regression and Artificial Neural Networks",
+    "authors": [
+      "Ana L. Leal",
+      "Jorge C. Ribeiro",
+      "Artur M. S. Silva",
+      "F.G. Martins"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/b978-0-444-64235-6.50034-6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "book-chapter",
+    "venue": "Computer-aided chemical engineering/Computer aided chemical engineering",
+    "concepts": [
+      "Partial least squares regression",
+      "Artificial neural network",
+      "Octane",
+      "Regression",
+      "Regression analysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

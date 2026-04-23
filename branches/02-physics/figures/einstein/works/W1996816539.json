@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1996816539",
+    "canonical_url": "https://openalex.org/W1996816539",
+    "title": "An Experimental NMR and Semi-Empirical Theoretical Study of the Conformation of Styrylchromones and Styryl Alkyl or Aryl Ketones (Benzylidene Ketones)",
+    "authors": [
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Ana Mart\u0131\u0301nez",
+      "Ana Castro",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.3184/030823402103171735",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Journal of Chemical Research",
+    "concepts": [
+      "Aryl",
+      "Reactivity (psychology)",
+      "Alkyl",
+      "Chemistry",
+      "Nuclear magnetic resonance spectroscopy"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

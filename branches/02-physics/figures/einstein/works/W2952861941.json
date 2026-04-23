@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952861941",
+    "canonical_url": "https://openalex.org/W2952861941",
+    "title": "Synthesis of 3\u2010(2\u2010benzyloxy\u20106\u2010hydroxyphenyl)\u20101\u2010methylpyrazoles by the reaction of chromones with methylhydrazine",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2000,
+    "doi": "https://doi.org/10.1002/jhet.5570370637",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 29,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Methylhydrazine",
+      "Chemistry",
+      "Medicinal chemistry",
+      "Organic chemistry",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

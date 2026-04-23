@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1492096296",
+    "canonical_url": "https://openalex.org/W1492096296",
+    "title": "Reactivity of 4\u2010Vinyl\u20102<i>H</i>\u20101\u2010benzopyran\u20102\u2010ones in Diels\u2013Alder Cycloaddition Reactions: Access to Coumarin\u2010Based Polycycles with Cdc25 Phosphatase\u2010Inhibiting Activity",
+    "authors": [
+      "S\u00e9rgio Valente",
+      "Zhanjie Xu",
+      "\u00c9milie Bana",
+      "Clemens Zwergel",
+      "Antonello Mai",
+      "Claus Jacob",
+      "Peter Meiser",
+      "Denyse Bagrel",
+      "Artur M. S. Silva",
+      "Gilbert Kirsch"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.1002/ejoc.201201736",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Cycloaddition",
+      "Reactivity (psychology)",
+      "Coumarin",
+      "Diene"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

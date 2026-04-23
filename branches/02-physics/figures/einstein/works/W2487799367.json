@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2487799367",
+    "canonical_url": "https://openalex.org/W2487799367",
+    "title": "Characterization of 2,3\u2010diarylxanthones by electrospray mass spectrometry: gas\u2010phase chemistry versus known antioxidant activity properties",
+    "authors": [
+      "Eduarda M. P. Silva",
+      "Cristina M. R. F. Barros",
+      "Clementina M.M. Santos",
+      "Ant\u00f3nio S. Barros",
+      "M. Ros\u00e1rio Domingues",
+      "Artur M. S. Silva"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1002/rcm.7697",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Rapid Communications in Mass Spectrometry",
+    "concepts": [
+      "Chemistry",
+      "Electrospray ionization",
+      "Protonation",
+      "Fragmentation (computing)",
+      "Catechol"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

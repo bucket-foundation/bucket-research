@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949814192",
+    "canonical_url": "https://openalex.org/W2949814192",
+    "title": "Actions of Bisnucleophiles on (E)-3-[3-(2-Hydroxyaryl)-3-oxoprop-1-en-1-yl]chromones: Versatile Transformations into Oxygen- and Nitrogen-Containing Heterocycles",
+    "authors": [
+      "Oualid Talhi",
+      "Okkacha Bensaid",
+      "Artur M. S. Silva",
+      "Ridha Hassaine",
+      "Nadia Ta\u00efbi",
+      "Filipe A. Almeida Paz",
+      "Khaldoun Bachar\u0131"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1055/s-0035-1560829",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Ring (chemistry)",
+      "Pyrone",
+      "Methylhydrazine"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

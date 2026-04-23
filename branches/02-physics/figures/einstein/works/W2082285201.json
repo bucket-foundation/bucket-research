@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2082285201",
+    "canonical_url": "https://openalex.org/W2082285201",
+    "title": "Oxidation of caffeine with hydrogen peroxide catalyzed by metalloporphyrins",
+    "authors": [
+      "Cl\u00e1udia M. B. Neves",
+      "M\u00e1rio M.Q. Sim\u00f5es",
+      "I.C. Santos",
+      "Fernando M. J. Domingues",
+      "Maria G. P. M. S. Neves",
+      "Filipe A. Almeida Paz",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.tetlet.2011.03.139",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Hydrogen peroxide",
+      "Catalysis",
+      "Caffeine",
+      "Photochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

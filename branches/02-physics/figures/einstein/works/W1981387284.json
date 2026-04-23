@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1981387284",
+    "canonical_url": "https://openalex.org/W1981387284",
+    "title": "New synthetic methods for 2,3-diarylacridin-9(10H)-one and (E)-2-aryl-4-styrylfuro[3,2-c]quinoline derivatives",
+    "authors": [
+      "Vera L. M. Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1016/j.tet.2014.05.040",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Quinoline",
+      "Aryl",
+      "Tautomer",
+      "Nucleophile"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

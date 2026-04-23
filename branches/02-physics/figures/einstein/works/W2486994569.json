@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2486994569",
+    "canonical_url": "https://openalex.org/W2486994569",
+    "title": "New Polyketides and New Benzoic Acid Derivatives from the Marine Sponge-Associated Fungus Neosartorya quadricincta KUFA 0081",
+    "authors": [
+      "Chadaporn Prompanya",
+      "Tida Dethoup",
+      "Lu\u0131\u0301s Gales",
+      "Michael Lee",
+      "Jos\u00e9 A. Pereira",
+      "Artur M. S. Silva",
+      "Madalena Pinto",
+      "Anake Kijjoa"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.3390/md14070134",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "Marine Drugs",
+    "concepts": [
+      "Aspergillus fumigatus",
+      "Benzoic acid",
+      "Benzofuran",
+      "Microbiology",
+      "Stereochemistry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

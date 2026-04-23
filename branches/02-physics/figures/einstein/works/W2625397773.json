@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2625397773",
+    "canonical_url": "https://openalex.org/W2625397773",
+    "title": "New chiral stationary phases based on xanthone derivatives for liquid chromatography",
+    "authors": [
+      "Carla Fernandes",
+      "Maria Elizabeth Tiritan",
+      "Sara Cravo",
+      "Ye\u2019 Zaw Phyo",
+      "Anake Kijjoa",
+      "Artur M. S. Silva",
+      "Qu\u00e9zia B. Cass",
+      "Madalena Pinto"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1002/chir.22706",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Chirality",
+    "concepts": [
+      "Chemistry",
+      "Enantiomer",
+      "Elution",
+      "Chromatography",
+      "Enantioselective synthesis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

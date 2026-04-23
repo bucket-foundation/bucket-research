@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2072909895",
+    "canonical_url": "https://openalex.org/W2072909895",
+    "title": "Isolation and structural characterization of new anthocyanin-alkyl-catechin pigments",
+    "authors": [
+      "Jo\u00e3o Pissarra",
+      "Sandra Louren\u00e7o",
+      "Ana M. Gonzal\u00e9z\u2010Param\u00e1s",
+      "Nuno Mateus",
+      "Celestino Santos\u2010Buelga",
+      "Artur M. S. Silva",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1016/j.foodchem.2004.03.027",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 35,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Propionaldehyde",
+      "Acetaldehyde",
+      "Alkyl",
+      "Aldehyde"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

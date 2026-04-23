@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2489749917",
+    "canonical_url": "https://openalex.org/W2489749917",
+    "title": "Reductive Ring\u2010Opening in Domino Reactions of Carbohydrates",
+    "authors": [
+      "Raquel G. Soengas",
+      "Sara M. Tom\u00e9",
+      "Artur M. S. Silva"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1002/9781119044222.ch3",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "other",
+    "venue": null,
+    "concepts": [
+      "Domino",
+      "Reagent",
+      "Chemistry",
+      "Ring (chemistry)",
+      "Sugar"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

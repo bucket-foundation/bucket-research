@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1989550083",
+    "canonical_url": "https://openalex.org/W1989550083",
+    "title": "A theoretical study of the conformation of <i>meso</i>-tetraphenylporphyrin <font>(TPPH<sub>2</sub>)</font>, its anions, cations and metal complexes (<font>Mg</font><sup>2+</sup>, <font>Ca</font><sup>2+</sup> and <font>Zn</font><sup>2+</sup>)",
+    "authors": [
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero",
+      "Artur M. S. Silva",
+      "Augusto C. Tom\u00e9"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1142/s1088424610002409",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Journal of Porphyrins and Phthalocyanines",
+    "concepts": [
+      "Chemistry",
+      "Font",
+      "Porphyrin",
+      "Protonation",
+      "Deprotonation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

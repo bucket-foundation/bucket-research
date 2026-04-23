@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2564288568",
+    "canonical_url": "https://openalex.org/W2564288568",
+    "title": "New 2-pyrone-based hydrazones: Synthesis, spectral characterisation, UV\u2013visible study and evaluation of the antiradicalar activity",
+    "authors": [
+      "Djamila Oukacha\u2010Hikem",
+      "Malika Makhloufi\u2010Chebli",
+      "Anissa Amar",
+      "Houria Bouherrou",
+      "Yah\u00efa Rachedi",
+      "Hac\u00e8ne Meghezzi",
+      "Artur M. S. Silva",
+      "Ma\u00e2mar Hamdi"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1080/00397911.2016.1276602",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Synthetic Communications",
+    "concepts": [
+      "Chemistry",
+      "Hydrazone",
+      "Aniline",
+      "Pyrone",
+      "Conformational isomerism"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

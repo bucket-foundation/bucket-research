@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2803576155",
+    "canonical_url": "https://openalex.org/W2803576155",
+    "title": "SP583PLACEMENT OF TRANSLUMBAR LONG-TERM HEMODIALYSIS CATHETER - A SINGLE CENTER EXPERIENCE",
+    "authors": [
+      "Artur M. S. Silva",
+      "Fernando Moura",
+      "Rodrigo Cardoso de Oliveira",
+      "Felipe Leite Guedes",
+      "Ana Helena Maia",
+      "Gleiko Yuri de Figueredo Dantas"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1093/ndt/gfy104.sp583",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Nephrology Dialysis Transplantation",
+    "concepts": [
+      "Medicine",
+      "Hemodialysis",
+      "Term (time)",
+      "Center (category theory)",
+      "Single Center"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

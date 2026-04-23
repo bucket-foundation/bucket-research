@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952703185",
+    "canonical_url": "https://openalex.org/W2952703185",
+    "title": "New Syntheses of 3-Aroylflavone Derivatives; Knoevenagel Condensation and Oxidation versus One-Pot Synthesis",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Patr\u00edcia A. A. M. Vaz",
+      "Djenisa H. A. Rocha",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1055/s-0032-1317159",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Knoevenagel condensation",
+      "Microwave irradiation",
+      "Amide",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

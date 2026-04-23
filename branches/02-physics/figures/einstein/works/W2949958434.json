@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949958434",
+    "canonical_url": "https://openalex.org/W2949958434",
+    "title": "Recent Developments in the Chemistry of <i>gem</i>\u2010Halonitro Compounds",
+    "authors": [
+      "Raquel G. Soengas",
+      "Rita C. Ac\u00farcio",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1002/ejoc.201402043",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 22,
+    "type": "article",
+    "venue": "European Journal of Organic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Organic chemistry",
+      "Moiety",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

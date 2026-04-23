@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4403981083",
+    "canonical_url": "https://openalex.org/W4403981083",
+    "title": "Monoterpene Hydroxy Lactones Isolated from Thalassiosira sp. Microalga and Their Antibacterial and Antioxidant Activities",
+    "authors": [
+      "Alcina M. M. B. Morais",
+      "Decha Kumla",
+      "Valter F. R. Martins",
+      "Ana Paula Negreiros Nunes Alves",
+      "Lu\u0131\u0301s Gales",
+      "Artur M. S. Silva",
+      "Paulo Martins da Costa",
+      "Sharad Mistry",
+      "Anake Kijjoa",
+      "Rui M. S. C. Morais"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.3390/molecules29215175",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Monoterpene",
+      "Antioxidant",
+      "Chemistry",
+      "Botany",
+      "Antibacterial activity"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

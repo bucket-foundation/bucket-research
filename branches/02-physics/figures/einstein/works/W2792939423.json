@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2792939423",
+    "canonical_url": "https://openalex.org/W2792939423",
+    "title": "One-Pot Synthesis of Isoquinuclidines via 2,6-Diaryl-1,2-dihydropyridines using (E,E)-Cinnamylideneacetophenones as Templates",
+    "authors": [
+      "Pedro A. M. M. Varandas",
+      "Djenisa H. A. Rocha",
+      "Filipe A. Almeida Paz",
+      "Eduarda M. P. Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1055/s-0036-1591767",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "Synthesis",
+    "concepts": [
+      "Chemistry",
+      "Template",
+      "Yield (engineering)",
+      "Microwave irradiation",
+      "Imine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

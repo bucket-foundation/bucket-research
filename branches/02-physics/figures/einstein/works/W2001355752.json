@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2001355752",
+    "canonical_url": "https://openalex.org/W2001355752",
+    "title": "Five\u2010Membered Heterocycles: 1,2\u2010Azoles. Part 2. Isoxazoles and Isothiazoles",
+    "authors": [
+      "Artur M. S. Silva",
+      "Augusto C. Tom\u00e9",
+      "Teresa M. V. D. Pinho e Melo",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1002/9783527637737.ch9",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "other",
+    "venue": null,
+    "concepts": [
+      "Reactivity (psychology)",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Organic chemistry",
+      "Medicine"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

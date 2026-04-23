@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3133140353",
+    "canonical_url": "https://openalex.org/W3133140353",
+    "title": "Harvest date and variability in lipid bioactive compounds in <i>Pistacia atlantica</i>",
+    "authors": [
+      "Mebarka Imane Benguechoua",
+      "Madjda Benguechoua",
+      "Nadhir Gourine",
+      "Artur M. S. Silva",
+      "Mokhtar Sa\u0131\u0308di",
+      "Mohamed Yousfi"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3233/mnm-200511",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Mediterranean Journal of Nutrition and Metabolism",
+    "concepts": [
+      "Carotenoid",
+      "Food science",
+      "Linoleic acid",
+      "Antioxidant",
+      "DPPH"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

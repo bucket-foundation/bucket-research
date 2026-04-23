@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1973162724",
+    "canonical_url": "https://openalex.org/W1973162724",
+    "title": "Organobase catalyzed 1,4-conjugate addition of 4-hydroxycoumarin on chalcones: Synthesis, NMR and single-crystal X-ray diffraction studies of novel warfarin analogues",
+    "authors": [
+      "Oualid Talhi",
+      "Jos\u00e9 A. Fernandes",
+      "Diana C. G. A. Pinto",
+      "Filipe A. Almeida Paz",
+      "Artur M. S. Silva"
+    ],
+    "year": 2015,
+    "doi": "https://doi.org/10.1016/j.molstruc.2015.03.069",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Synthon",
+      "4-Hydroxycoumarin",
+      "Conjugate",
+      "Chalcone"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2950991491",
+    "canonical_url": "https://openalex.org/W2950991491",
+    "title": "Arylxanthones and arylacridones: a synthetic overview",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Diana C. G. A. Pinto",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1515/pac-2016-0407",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Pure and Applied Chemistry",
+    "concepts": [
+      "Acridone",
+      "Xanthone",
+      "Chemistry",
+      "Combinatorial chemistry",
+      "Nanotechnology"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

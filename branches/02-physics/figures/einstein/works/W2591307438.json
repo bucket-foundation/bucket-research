@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2591307438",
+    "canonical_url": "https://openalex.org/W2591307438",
+    "title": "THE ESSENTIAL OIL OF ARTEMISIA CAMPESTRIS L. SUBSP. MARITIMA ARCANGELIS",
+    "authors": [
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva",
+      "L.M.P.M. Almeida",
+      "Cl\u00e1udia C. L. Pereira",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.17660/actahortic.1999.500.12",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Acta Horticulturae",
+    "concepts": [
+      "Artemisia",
+      "Botany",
+      "Biology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

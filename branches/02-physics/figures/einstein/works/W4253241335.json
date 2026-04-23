@@ -1,0 +1,52 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4253241335",
+    "canonical_url": "https://openalex.org/W4253241335",
+    "title": "Issue Information \u2010 TOC",
+    "authors": [
+      "Elizabeth R. Ellwood",
+      "Pamela S. Soltis",
+      "Mary Beth Klein",
+      "Lawrence E. Gibson",
+      "Alexis M. Mychajliw",
+      "Yolanda Le\u00f3n",
+      "Elizabeth M. Rupp",
+      "Elizabeth A. Hadly",
+      "Eimear Nic Lughadha",
+      "Vanessa Graziele Staggemeier",
+      "Tha\u00eds Vasconcelos",
+      "Barnaby E. Walker",
+      "C\u00e1tia Canteiro",
+      "Eve Lucas",
+      "La\u00edsa Barcelos",
+      "Fabiana Ranzato Filardi",
+      "Rafaela Campostrini Forzza",
+      "Laura Green",
+      "Jo\u00e3o Lanna",
+      "Paula Leitman"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1111/cobi.13167",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "paratext",
+    "venue": "Conservation Biology",
+    "concepts": [
+      "Citation",
+      "Computer science",
+      "Information retrieval",
+      "World Wide Web",
+      "Library science"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

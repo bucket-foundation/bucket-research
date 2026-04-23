@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4256230377",
+    "canonical_url": "https://openalex.org/W4256230377",
+    "title": "Six-Membered Ring Systems: With O and/or S Atoms",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/b978-0-12-819962-6.00015-4",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "book-chapter",
+    "venue": "Progress in heterocyclic chemistry",
+    "concepts": [
+      "Chemistry",
+      "Ring (chemistry)",
+      "Stereochemistry",
+      "Crystallography",
+      "Nanotechnology"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

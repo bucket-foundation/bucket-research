@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2964552813",
+    "canonical_url": "https://openalex.org/W2964552813",
+    "title": "Temperature\u2010Controlled Stereodivergent Synthesis of 2,2\u2032\u2010Biflavanones Promoted by Samarium Diiodide",
+    "authors": [
+      "Mart\u00edn Soto",
+      "Raquel G. Soengas",
+      "Artur M. S. Silva",
+      "Vicente Gotor\u2010Fern\u00e1ndez",
+      "Humberto Rodr\u00edguez\u2010Solla"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1002/chem.201902927",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 10,
+    "type": "article",
+    "venue": "Chemistry - A European Journal",
+    "concepts": [
+      "Selectivity",
+      "Samarium diiodide",
+      "Samarium",
+      "Stereoselectivity",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

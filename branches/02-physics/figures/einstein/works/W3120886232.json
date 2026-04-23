@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3120886232",
+    "canonical_url": "https://openalex.org/W3120886232",
+    "title": "Selectivity control in the reaction between 2-hydroxyarylaldehydes and 4-hydroxycoumarin. Antioxidant activities and computational studies of the formed products",
+    "authors": [
+      "Kamilia Ould Lamara",
+      "Malika Makhloufi\u2010Chebli",
+      "Amina Benazzouz-Touami",
+      "Souhila Terrachet-Bouaziz",
+      "Nejla Hamdi",
+      "Artur M. S. Silva",
+      "Jean\u2010Bernard Behr"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1016/j.molstruc.2021.129936",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 13,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Knoevenagel condensation",
+      "4-Hydroxycoumarin",
+      "Coumarin",
+      "Regioselectivity"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

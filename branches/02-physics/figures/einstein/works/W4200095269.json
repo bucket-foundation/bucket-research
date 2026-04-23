@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4200095269",
+    "canonical_url": "https://openalex.org/W4200095269",
+    "title": "Chalcones &amp;lt;em&amp;gt;versus&amp;lt;/em&amp;gt; 2-styrylchromones: Which are the best oxygen and nitrogen reactive species scavengers?",
+    "authors": [
+      "Ricardo Monteiro",
+      "Daniela Ribeiro",
+      "Mariana Lucas",
+      "Marisa Freitas",
+      "Catarina Mendes Correia",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/ecmc2021-11494",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Proceedings of 7th International Electronic Conference on Medicinal Chemistry",
+    "concepts": [
+      "Reactive oxygen species",
+      "Antioxidant",
+      "Chemistry",
+      "Hydrogen peroxide",
+      "Reactive nitrogen species"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

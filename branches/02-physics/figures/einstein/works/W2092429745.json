@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2092429745",
+    "canonical_url": "https://openalex.org/W2092429745",
+    "title": "Synthesis of novel [60]fullerene\u2013flavonoid dyads",
+    "authors": [
+      "Mar\u00eda Dolores L\u00f3pez de la Torre",
+      "Gian Luca Marcorin",
+      "Giovanna Pirri",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1016/s0040-4039(02)00122-3",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 21,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Chalcone",
+      "Fullerene",
+      "Cycloaddition",
+      "Flavonoid"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2073657452",
+    "canonical_url": "https://openalex.org/W2073657452",
+    "title": "Preparation of indium nitronates and their Henry reactions",
+    "authors": [
+      "Raquel G. Soengas",
+      "Rita C. Ac\u00farcio",
+      "Artur M. S. Silva"
+    ],
+    "year": 2014,
+    "doi": "https://doi.org/10.1039/c4ob01468e",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Organic & Biomolecular Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Transmetalation",
+      "Indium",
+      "Stereoselectivity",
+      "Lithium (medication)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

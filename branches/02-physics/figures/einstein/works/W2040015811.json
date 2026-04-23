@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2040015811",
+    "canonical_url": "https://openalex.org/W2040015811",
+    "title": "Antitumor Activity of Some Prenylated Xanthones",
+    "authors": [
+      "R.A.P. Castanheiro",
+      "Artur M. S. Silva",
+      "Na\u00efr Nazareth",
+      "Mar\u00eda S\u00e4o Jos\u00e9 Nascimento",
+      "Madalena Pinto"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.3390/ph2020033",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 39,
+    "type": "article",
+    "venue": "Pharmaceuticals",
+    "concepts": [
+      "Prenylation",
+      "Xanthone",
+      "Chemistry",
+      "In vitro",
+      "Bromide"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

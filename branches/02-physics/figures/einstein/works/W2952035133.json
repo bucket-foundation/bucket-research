@@ -1,0 +1,34 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952035133",
+    "canonical_url": "https://openalex.org/W2952035133",
+    "title": "Organic Synthesis of C-Prenylated Phenolic Compounds",
+    "authors": [
+      "Oualid Talhi",
+      "Artur M. S. Silva"
+    ],
+    "year": 2013,
+    "doi": "https://doi.org/10.2174/1385272811317100009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 16,
+    "type": "article",
+    "venue": "Current Organic Chemistry",
+    "concepts": [
+      "Prenylation",
+      "Chemistry",
+      "Stereochemistry",
+      "Organic chemistry",
+      "Enzyme"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

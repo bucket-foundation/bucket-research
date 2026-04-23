@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2073341519",
+    "canonical_url": "https://openalex.org/W2073341519",
+    "title": "Dimethyldioxirane Oxidation of Exocyclic (E,E)-Cinnamylideneketones*",
+    "authors": [
+      "Albert L\u00e9vai",
+      "Artur M. S. Silva",
+      "Clementina M.M. Santos",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "J\u00f3zsef Jek\u0151"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1071/ch08216",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Australian Journal of Chemistry",
+    "concepts": [
+      "Dimethyldioxirane",
+      "Chemistry",
+      "Diastereomer",
+      "Moiety",
+      "Acetone"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

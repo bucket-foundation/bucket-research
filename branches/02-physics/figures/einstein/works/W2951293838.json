@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951293838",
+    "canonical_url": "https://openalex.org/W2951293838",
+    "title": "ChemInform Abstract: Prenylated Derivatives of Baicalein and 3,7\u2010Dihydroxyflavone: Synthesis and Study of Their Effects on Tumor Cell Lines Growth, Cell Cycle and Apoptosis.",
+    "authors": [
+      "Marta Perro Neves",
+      "Honorina Cidade",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s Gales",
+      "Ana M. Damas",
+      "Raquel T. Lima",
+      "M. Helena Vasconcelos",
+      "Maria de S\u00e3o Jos\u00e9 Nascimento"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1002/chin.201136201",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Port (circuit theory)",
+      "Art",
+      "Humanities",
+      "Engineering",
+      "Electrical engineering"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

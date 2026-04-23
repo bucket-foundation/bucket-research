@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1995209327",
+    "canonical_url": "https://openalex.org/W1995209327",
+    "title": "The alkyl chain length of 3-alkyl-3\u2032,4\u2032,5,7-tetrahydroxyflavones modulates effective inhibition of oxidative damage in biological systems: Illustration with LDL, red blood cells and human skin keratinocytes",
+    "authors": [
+      "Paulo Filipe",
+      "Artur M. S. Silva",
+      "Raquel S. G. R. Seixas",
+      "Diana C. G. A. Pinto",
+      "\u00c1lvaro da Silva Santos",
+      "L. K. Patterson",
+      "Jo\u00e3o Maia Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jo\u00e3o Freitas",
+      "Jean\u2010Claude Mazi\u00e8re",
+      "Ren\u00e9 Sant\u00fas",
+      "Patrice Morli\u00e8re"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1016/j.bcp.2008.11.023",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 19,
+    "type": "article",
+    "venue": "Biochemical Pharmacology",
+    "concepts": [
+      "Haemolysis",
+      "Lipid peroxidation",
+      "Chemistry",
+      "Oxidative stress",
+      "Antioxidant"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

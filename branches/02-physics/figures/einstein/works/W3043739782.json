@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3043739782",
+    "canonical_url": "https://openalex.org/W3043739782",
+    "title": "Lipophilic Metabolites of <i>Spartina maritima</i> and <i>Puccinellia maritima</i> Involved in Their Tolerance to Salty Environments",
+    "authors": [
+      "M. Amparo F. Faustino",
+      "M. Amparo F. Faustino",
+      "Helena Silva",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1002/cbdv.202000316",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Chemistry & Biodiversity",
+    "concepts": [
+      "Halophyte",
+      "Chemistry",
+      "Terpenoid",
+      "Botany",
+      "Metabolic pathway"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3016237540",
+    "canonical_url": "https://openalex.org/W3016237540",
+    "title": "Pyrazoles as Key Scaffolds for the Development of Fluorine-18-Labeled Radiotracers for Positron Emission Tomography (PET)",
+    "authors": [
+      "P. Gomes",
+      "Artur M. S. Silva",
+      "Vera L. M. Silva"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.3390/molecules25071722",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "review",
+    "venue": "Molecules",
+    "concepts": [
+      "Positron emission tomography",
+      "Radiochemistry",
+      "Pet imaging",
+      "Nuclear medicine",
+      "Positron"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

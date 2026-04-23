@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2995089689",
+    "canonical_url": "https://openalex.org/W2995089689",
+    "title": "Synthetic strategies towards bioactive nature-inspired indole-containing alkaloids",
+    "authors": [
+      "Em\u0131\u0301lia Sousa",
+      "Solida Long",
+      "Diana I. S. P. Resende",
+      "Patr\u00edcia Pereira\u2010Terra",
+      "Joana Freitas\u2010Silva",
+      "Artur M. S. Silva",
+      "Maria Elizabeth Tiritan",
+      "Anake Kijjoa",
+      "Eug\u00e9nia Pinto",
+      "Paulo Martins da Costa",
+      "Madalena Pinto"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.3390/ecmc2019-06291",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Proceedings of 5th International Electronic Conference on Medicinal Chemistry",
+    "concepts": [
+      "Quinazolinone",
+      "Indole test",
+      "Moiety",
+      "Pharmacology",
+      "Antibacterial activity"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

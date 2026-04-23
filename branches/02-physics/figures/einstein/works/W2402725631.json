@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2402725631",
+    "canonical_url": "https://openalex.org/W2402725631",
+    "title": "Quantification of 3-deoxyglucosone (3DG) as an aging marker in natural and forced aged wines",
+    "authors": [
+      "Carla Oliveira",
+      "S\u00f3nia A.O. Santos",
+      "Armando J. D. Silvestre",
+      "Ant\u00f3nio S. Barros",
+      "A. C. Silva Ferreira",
+      "Artur M. S. Silva"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1016/j.jfca.2016.05.009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 27,
+    "type": "article",
+    "venue": "Journal of Food Composition and Analysis",
+    "concepts": [
+      "Wine",
+      "Maillard reaction",
+      "Chemistry",
+      "Food science",
+      "Fructose"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

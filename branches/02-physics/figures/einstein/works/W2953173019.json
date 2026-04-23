@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2953173019",
+    "canonical_url": "https://openalex.org/W2953173019",
+    "title": "ChemInform Abstract: Oxidation of 4\u2010Alkyl\u20102\u2032\u2010hydroxy\u20102\u2010cinnamylideneacetophenones with Thallium(III) Trinitrate: A New Synthesis of (E)\u20103\u2010Styrylchromones.",
+    "authors": [
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 1997,
+    "doi": "https://doi.org/10.1002/chin.199752157",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Thallium",
+      "Alkyl",
+      "Combinatorial chemistry",
+      "Service (business)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2594743879",
+    "canonical_url": "https://openalex.org/W2594743879",
+    "title": "2,3-Diarylxanthones as Potential Inhibitors of Arachidonic Acid Metabolic Pathways",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Daniela Ribeiro",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1007/s10753-017-0540-6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Inflammation",
+    "concepts": [
+      "Arachidonic acid",
+      "Arachidonate 5-lipoxygenase",
+      "Chemistry",
+      "Leukotriene B4",
+      "Biochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

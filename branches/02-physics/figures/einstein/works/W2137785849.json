@@ -1,0 +1,49 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2137785849",
+    "canonical_url": "https://openalex.org/W2137785849",
+    "title": "Synthesis of cationic \u03b2-vinyl substituted meso-tetraphenylporphyrins and their in vitro activity against herpes simplex virus type 1",
+    "authors": [
+      "Eduarda M. P. Silva",
+      "Francesca Giuntini",
+      "M. Amparo F. Faustino",
+      "Jo\u00e3o P. C. Tom\u00e9",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "M.G. Santana-Marques",
+      "A. J. Ferrer\u2010Correia",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Maria Filomena Caeiro",
+      "Ricardo R. Duarte",
+      "Sabina A.P. Tavares",
+      "In\u00eas N. Pegado",
+      "Bruno d\u2019Almeida",
+      "Ant\u00f3nio Matos",
+      "Maria Lu\u00edsa Valdeira"
+    ],
+    "year": 2005,
+    "doi": "https://doi.org/10.1016/j.bmcl.2005.05.044",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 43,
+    "type": "article",
+    "venue": "Bioorganic & Medicinal Chemistry Letters",
+    "concepts": [
+      "Chemistry",
+      "Cationic polymerization",
+      "In vitro",
+      "Herpes simplex virus",
+      "Virus"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

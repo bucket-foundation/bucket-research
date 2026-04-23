@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1566608341",
+    "canonical_url": "https://openalex.org/W1566608341",
+    "title": "Reaction of 2-Amino-5,10,15,20-Tetraphenylporphyrinatonickel(II) with \u03b1,\u03b2-Unsaturated Acyl Chlorides: Synthesis of 2-pyridone-fused Porphyrin Derivatives",
+    "authors": [
+      "Cristina Alonso",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2006,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Revista de la Sociedad Qui\u0301mica de Me\u0301xico",
+    "concepts": [
+      "Chemistry",
+      "Acryloyl chloride",
+      "2-Pyridone",
+      "Acylation",
+      "Porphyrin"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

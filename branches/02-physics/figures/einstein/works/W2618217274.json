@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2618217274",
+    "canonical_url": "https://openalex.org/W2618217274",
+    "title": "A ruthenium(II)-trithiacyclononane curcuminate complex: Synthesis, characterization, DNA-interaction, and cytotoxic activity",
+    "authors": [
+      "Magda Carvalho Henriques",
+      "M. Amparo F. Faustino",
+      "Artur M. S. Silva",
+      "Juliana Felgueiras",
+      "Margarida Fardilha",
+      "Susana S. Braga"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1080/00958972.2017.1336232",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Journal of Coordination Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Ruthenium",
+      "Characterization (materials science)",
+      "Cytotoxic T cell",
+      "DNA"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

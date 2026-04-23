@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2741772332",
+    "canonical_url": "https://openalex.org/W2741772332",
+    "title": "UHPLC-MS/MS profiling of Aplysia depilans and assessment of its potential therapeutic use: Interference on iNOS expression in LPS-stimulated RAW 264.7 macrophages and caspase-mediated pro-apoptotic effect on SH-SY5Y cells",
+    "authors": [
+      "Renato B. Pereira",
+      "Diana C. G. A. Pinto",
+      "David M. Pereira",
+      "Nelson G. M. Gomes",
+      "Artur M. S. Silva",
+      "Paula B. Andrade",
+      "Patr\u0131\u0301cia Valent\u00e3o"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.jff.2017.07.053",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 18,
+    "type": "article",
+    "venue": "Journal of Functional Foods",
+    "concepts": [
+      "Aplysia",
+      "Apoptosis",
+      "SH-SY5Y",
+      "Lipopolysaccharide",
+      "Nitric oxide synthase"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

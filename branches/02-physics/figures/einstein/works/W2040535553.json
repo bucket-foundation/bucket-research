@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2040535553",
+    "canonical_url": "https://openalex.org/W2040535553",
+    "title": "Structure\u2013activity relationships in hydroxy-2,3-diarylxanthone antioxidants. Fast kinetics spectroscopy as a tool to evaluate the potential for antioxidant activity in biological systems",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Paulo Filipe",
+      "Ren\u00e9 Sant\u00fas",
+      "L. K. Patterson",
+      "Jean\u2010Claude Mazi\u00e8re",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Patrice Morli\u00e8re"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1039/c0ob00841a",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Organic & Biomolecular Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Reactivity (psychology)",
+      "Lipid peroxidation",
+      "Antioxidant",
+      "Quercetin"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

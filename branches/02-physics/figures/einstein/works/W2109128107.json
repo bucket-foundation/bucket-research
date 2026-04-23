@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2109128107",
+    "canonical_url": "https://openalex.org/W2109128107",
+    "title": "Synthesis and pharmacological evaluation of new (E)- and (Z)-3-aryl-4-styryl-1H-pyrazoles as potential cannabinoid ligands",
+    "authors": [
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Patricia \u00c1lvarez Rodr\u00edguez",
+      "Mar\u00eda G\u00f3mez\u2010Ru\u00edz",
+      "Nadine Jagerovic",
+      "Lu\u00eds F. Callado",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 Elguero",
+      "Javier Fern\u00e1ndez\u2010Ru\u00edz"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.3998/ark.5550190.0011.a19",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "ARKIVOC",
+    "concepts": [
+      "Chemistry",
+      "Cannabinoid",
+      "Aryl",
+      "Stereochemistry",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

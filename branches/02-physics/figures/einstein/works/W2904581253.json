@@ -1,0 +1,32 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2904581253",
+    "canonical_url": "https://openalex.org/W2904581253",
+    "title": "Estudos de s\u00edntese e transforma\u00e7\u00e3o de cromonas e 4-quinolonas",
+    "authors": [
+      "Artur M. S. Silva",
+      "Djenisa H. A. Rocha",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.52590/m3.p684.a30002139",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Boletim da Sociedade Portuguesa de Qu\u00edmica",
+    "concepts": [
+      "Humanities",
+      "Art"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

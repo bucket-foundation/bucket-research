@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4366416471",
+    "canonical_url": "https://openalex.org/W4366416471",
+    "title": "Studying and Analyzing Humane Endpoints in the Fructose-Fed and Streptozotocin-Injected Rat Model of Diabetes",
+    "authors": [
+      "Rita Silva\u2010Reis",
+      "Ana I. Faustino\u2010Rocha",
+      "J\u00e9ssica Silva",
+      "Abiga\u00ebl Valada",
+      "Tiago Azevedo",
+      "Lara Anjos",
+      "Lio Gon\u00e7alves",
+      "Maria de Lurdes Pinto",
+      "Rita Ferreira",
+      "Artur M. S. Silva",
+      "Susana M. Cardoso",
+      "Paula A. Oliveira"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.3390/ani13081397",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Animals",
+    "concepts": [
+      "Streptozotocin",
+      "Diabetes mellitus",
+      "Fructose",
+      "Rat model",
+      "Internal medicine"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

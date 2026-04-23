@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2084212090",
+    "canonical_url": "https://openalex.org/W2084212090",
+    "title": "Electrochemical and Spectroscopic Studies of the Oxidation Mechanism of the Herbicide Propanil",
+    "authors": [
+      "E. Manuela Garrido",
+      "Jos\u00e9 L. F. C. Lima",
+      "Cristina Delerue\u2010Matos",
+      "Fernanda Borges",
+      "Artur M. S. Silva",
+      "J.A.P. Piedade",
+      "Ana Maria Oliveira\u2010Brett"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1021/jf025957v",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Deuterium",
+      "Electrochemistry",
+      "Acetanilide",
+      "Propanil"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2951810789",
+    "canonical_url": "https://openalex.org/W2951810789",
+    "title": "ChemInform Abstract: cis\u2010Glycofused Benzopyran Compounds as New Amyloid\u2010\u03b2 Peptide Ligands.",
+    "authors": [
+      "Cristina Airoldi",
+      "Francisco Cardona",
+      "Erika Sironi",
+      "Laura Colombo",
+      "Mario Salmona",
+      "Artur M. S. Silva",
+      "Francesco Nicotra",
+      "Barbara La Ferla"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1002/chin.201204176",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Benzopyran",
+      "Benzopyrans",
+      "Peptide",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3186268613",
+    "canonical_url": "https://openalex.org/W3186268613",
+    "title": "Modulation of Human Neutrophils\u2019 Oxidative Burst by Hydroxylated 2-Styrylchromones: The Relevance of the Catechol Group",
+    "authors": [
+      "Mariana Lucas",
+      "Marisa Freitas",
+      "Artur M. S. Silva",
+      "Eduarda Fernandes",
+      "Daniela Ribeiro"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/ecb2021-10283",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": null,
+    "concepts": [
+      "Respiratory burst",
+      "Catechol",
+      "Chemistry",
+      "Antioxidant",
+      "Chromone"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

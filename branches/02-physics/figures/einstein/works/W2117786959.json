@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2117786959",
+    "canonical_url": "https://openalex.org/W2117786959",
+    "title": "Epoxidation studies of 2-styrylchromones using jacobsen's catalyst and hydrogen peroxide and iodosylbenzene as oxidants",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Tam\u00e1s Patonay",
+      "Albert L\u00e9vai"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1002/jhet.5570430526",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Hydrogen peroxide",
+      "Catalysis",
+      "Reactivity (psychology)",
+      "Peroxide"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

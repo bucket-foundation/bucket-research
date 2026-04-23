@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2053508851",
+    "canonical_url": "https://openalex.org/W2053508851",
+    "title": "ChemInform Abstract: Synthesis and Molecular Structure of 3\u2010(2\u2010Benzyloxy\u20106\u2010hydroxyphenyl)\u20105\u2010styrylpyrazoles. Reaction of 2\u2010Styrylchromones and Hydrazine Hydrate.",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Concepci\u00f3n Foces\u2010Foces",
+      "A.L. Llamas-Saiz",
+      "Nadine Jagerovic",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1002/chin.199950130",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Hydrazine (antidepressant)",
+      "Hydrate",
+      "Service (business)",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

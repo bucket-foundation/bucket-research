@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4386643466",
+    "canonical_url": "https://openalex.org/W4386643466",
+    "title": "CHEMICAL COMPOSITION BY GC-MS, ANTIOXIDANT AND ANTIBACTERIAL ACTIVITIES OF PEELS AND LEAVES EXTRACTS FROM Citrus limon, Citrus sinensis AND Citrus reticulata",
+    "authors": [
+      "Hadjer Boussoussa",
+      "Ihcen Khacheba",
+      "SARA BOUKHALKHAL",
+      "Yasmine Lamri",
+      "AHLAM BOUTI",
+      "Artur M. S. Silva",
+      "Mohamed Yousfi"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.56557/pcbmb/2022/v23i35-367885",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "PLANT CELL BIOTECHNOLOGY AND MOLECULAR BIOLOGY",
+    "concepts": [
+      "Citrus \u00d7 sinensis",
+      "DPPH",
+      "Orange (colour)",
+      "Antioxidant",
+      "Chemistry"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

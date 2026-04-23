@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2196074847",
+    "canonical_url": "https://openalex.org/W2196074847",
+    "title": "Bromination and Azidation Reactions of 2-Styrylchromones. New Syntheses of 4(5)-Aryl-5(4)-(2-chromonyl)-1,2,3-triazoles",
+    "authors": [
+      "Artur M. S. Silva",
+      "Judite S. Vieira",
+      "Cristela M. Brito",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Tam\ufffds Patonay",
+      "Albert L\ufffdvai",
+      "Jos\ufffd Elguero"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1007/s00706-003-0125-y",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Monatshefte f\u00fcr Chemie - Chemical Monthly",
+    "concepts": [
+      "Chemistry",
+      "Aryl",
+      "Halogenation",
+      "Sodium azide",
+      "Triethylamine"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

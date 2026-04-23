@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2513734024",
+    "canonical_url": "https://openalex.org/W2513734024",
+    "title": "A ladder coordination polymer based on Ca<sup>2+</sup>and (4,5-dicyano-1,2-phenylene)bis(phosphonic acid): crystal structure and solution-state NMR study",
+    "authors": [
+      "N. Venkatramaiah",
+      "Ricardo F. Mendes",
+      "Artur M. S. Silva",
+      "Jo\u00e3o P. C. Tom\u00e9",
+      "Filipe A. Almeida Paz"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.1107/s2053229616012328",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Acta Crystallographica Section C Structural Chemistry",
+    "concepts": [
+      "Phosphonate",
+      "Molecule",
+      "Chemistry",
+      "Crystallography",
+      "Crystal structure"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

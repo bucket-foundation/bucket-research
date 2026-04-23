@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2998618001",
+    "canonical_url": "https://openalex.org/W2998618001",
+    "title": "Estimation of gasoline properties by <sup>1</sup>H NMR spectroscopy with repeated double cross\u2010validated partial least squares models",
+    "authors": [
+      "Ana L. Leal",
+      "Ricardo M. Albuquerque",
+      "Artur M. S. Silva",
+      "Jorge C. Ribeiro",
+      "F.G. Martins"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1002/cem.3212",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Journal of Chemometrics",
+    "concepts": [
+      "Partial least squares regression",
+      "Octane rating",
+      "Gasoline",
+      "Octane",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

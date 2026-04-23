@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2031187310",
+    "canonical_url": "https://openalex.org/W2031187310",
+    "title": "[60]Fullerene\u2013flavonoid dyads",
+    "authors": [
+      "Mar\u00eda Dolores L\u00f3pez de la Torre",
+      "Andrea G.P Rodrigues",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2004,
+    "doi": "https://doi.org/10.1016/j.tet.2004.03.003",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 36,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Fullerene",
+      "Chalcone",
+      "Flavonoid",
+      "Cycloaddition"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

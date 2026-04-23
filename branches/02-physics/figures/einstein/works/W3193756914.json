@@ -1,0 +1,44 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3193756914",
+    "canonical_url": "https://openalex.org/W3193756914",
+    "title": "Determination of the Absolute Configuration of Bioactive Indole-Containing Pyrazino[2,1-b]quinazoline-3,6-diones and Study of Their In Vitro Metabolic Profile",
+    "authors": [
+      "Solida Long",
+      "Izadora Liran\u00e7o Furlani",
+      "Juliana Magalh\u00e3es de Oliveira",
+      "Diana I. S. P. Resende",
+      "Artur M. S. Silva",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Anake Kijjoa",
+      "Qu\u00e9zia B. Cass",
+      "Regina V. Oliveira",
+      "Em\u0131\u0301lia Sousa",
+      "Madalena Pinto"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/molecules26165070",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "ADME",
+      "Quinazoline",
+      "Chemistry",
+      "Hydroxylation",
+      "Indole test"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2744879939",
+    "canonical_url": "https://openalex.org/W2744879939",
+    "title": "Characterization of galactooligosaccharides produced by immobilized beta-galactosidase onto magnetized Dacron",
+    "authors": [
+      "David F. Neri",
+      "Victor M. Balc\u00e3o",
+      "Susana M. Cardoso",
+      "Artur M. S. Silva",
+      "M. Ros\u00e1rio Domingues",
+      "Duarte Torres",
+      "L. R. Rodrigues",
+      "Luiz B. Carvalho",
+      "J. A. Teixeira"
+    ],
+    "year": 2011,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Open Repository of the University of Porto (University of Porto)",
+    "concepts": [
+      "Chemistry",
+      "BETA (programming language)",
+      "Beta-galactosidase",
+      "Chromatography",
+      "Glycoside hydrolase"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

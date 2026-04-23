@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2006476282",
+    "canonical_url": "https://openalex.org/W2006476282",
+    "title": "ChemInform Abstract: Improved Methodologies for Synthesis of Prenylated Xanthones by Microwave Irradiation and Combination of Heterogeneous Catalysis (K10 Clay) with Microwave Irradiation.",
+    "authors": [
+      "R.A.P. Castanheiro",
+      "Madalena Pinto",
+      "Sara Cravo",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1002/chin.200936143",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Microwave irradiation",
+      "Microwave",
+      "Catalysis",
+      "Irradiation"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4297359817",
+    "canonical_url": "https://openalex.org/W4297359817",
+    "title": "Methyl 5-Imino-2-methyl-1,10a-dihydro-5H-chromeno[2,3-b]pyridine-3-carboxylate",
+    "authors": [
+      "Joana Pinto",
+      "Artur M. S. Silva",
+      "Vera L. M. Silva"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/m1453",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 2,
+    "type": "article",
+    "venue": "Molbank",
+    "concepts": [
+      "Chemistry",
+      "Carboxylate",
+      "Reactivity (psychology)",
+      "Ammonium acetate",
+      "Mass spectrometry"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

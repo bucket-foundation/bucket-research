@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2888775786",
+    "canonical_url": "https://openalex.org/W2888775786",
+    "title": "Chemical Constituents and Antidepressant-Like Effects in Ovariectomized Mice of the Ethanol Extract of Alternanthera philoxeroides",
+    "authors": [
+      "Charinya Khamphukdee",
+      "Orawan Monthakantirat",
+      "Yaowared Chulikhit",
+      "Suradet Buttachon",
+      "Michael Lee",
+      "Artur M. S. Silva",
+      "Naz\u0131m \u015eekero\u011flu",
+      "Anake Kijjoa"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.3390/molecules23092202",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "Ovariectomized rat",
+      "Chemistry",
+      "Tail suspension test",
+      "Behavioural despair test",
+      "Ethanol"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

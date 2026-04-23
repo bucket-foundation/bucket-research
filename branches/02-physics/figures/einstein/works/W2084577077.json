@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2084577077",
+    "canonical_url": "https://openalex.org/W2084577077",
+    "title": "GC\u2010MS and <sup>13</sup> C NMR Investigation of Lead Zirconate Titanate Precursor Sols for Fiber Preparation",
+    "authors": [
+      "Mei Zhang",
+      "Isabel M. Miranda Salvado",
+      "Paula M. Vilarinho",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1111/j.1551-2916.2006.01347.x",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Journal of the American Ceramic Society",
+    "concepts": [
+      "Methacrylic acid",
+      "Acetic acid",
+      "Poly(methacrylic acid)",
+      "Materials science",
+      "Carboxylate"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

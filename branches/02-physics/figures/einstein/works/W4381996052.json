@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4381996052",
+    "canonical_url": "https://openalex.org/W4381996052",
+    "title": "Discovery of thiazolo[5,4-c]isoquinoline based compounds as acetylcholinesterase inhibitors through computational target prediction, molecular docking and bioassay",
+    "authors": [
+      "Let\u00edcia D. Costa",
+      "Carlos F. M. Silva",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Florbela Pereira",
+      "M. Amparo F. Faustino",
+      "Augusto C. Tom\u00e9"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1016/j.molstruc.2023.136088",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "Isoquinoline",
+      "chEMBL",
+      "Acetylcholinesterase",
+      "Docking (animal)"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2508144157",
+    "canonical_url": "https://openalex.org/W2508144157",
+    "title": "Synthesis and structure elucidation of novel pyrazolyl-2-pyrazolines obtained by the reaction of 3-(3-aryl-3-oxopropenyl)chromen-4-ones with phenylhydrazine",
+    "authors": [
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "J\u00f3zsef Jek\u0151c",
+      "Albert L\u00e9vai"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.3998/ark.5550190.0013.522",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 9,
+    "type": "article",
+    "venue": "ARKIVOC",
+    "concepts": [
+      "Phenylhydrazine",
+      "Chemistry",
+      "Aryl",
+      "Combinatorial chemistry",
+      "Medicinal chemistry"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

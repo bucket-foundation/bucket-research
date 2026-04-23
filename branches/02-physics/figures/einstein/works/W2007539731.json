@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2007539731",
+    "canonical_url": "https://openalex.org/W2007539731",
+    "title": "Reaction of chromone-3-carbaldehyde with \u03b1-amino acids\u2014syntheses of 3- and 4-(2-hydroxybenzoyl)pyrroles",
+    "authors": [
+      "Andrea G. P. R. Figueiredo",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2006,
+    "doi": "https://doi.org/10.1016/j.tet.2006.11.034",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 31,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Yield (engineering)",
+      "Pyridine",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

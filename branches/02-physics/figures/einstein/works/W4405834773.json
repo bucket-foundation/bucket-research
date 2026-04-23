@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4405834773",
+    "canonical_url": "https://openalex.org/W4405834773",
+    "title": "Synthesis and Characterization of Novel Benzothiazinonic <i>N</i> -Acylhydrazone Derivatives",
+    "authors": [
+      "Tliba Sourour",
+      "Fedaoui Dalila",
+      "Joana L. C. Sousa",
+      "Artur M. S. Silva",
+      "Messaoud Liacha"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1080/10406638.2024.2445151",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "Polycyclic aromatic compounds",
+    "concepts": [
+      "Chemistry",
+      "Characterization (materials science)",
+      "Combinatorial chemistry",
+      "Stereochemistry",
+      "Nanotechnology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

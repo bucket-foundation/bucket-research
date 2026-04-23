@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949115429",
+    "canonical_url": "https://openalex.org/W2949115429",
+    "title": "Hetero-Diels\u2013Alder reactions of \u03b2-imino-meso-tetraphenylporphyrin derivatives: a new approach to pyrido[2,3-b]porphyrins",
+    "authors": [
+      "Cristina Alonso",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2001,
+    "doi": "https://doi.org/10.1016/s0040-4039(01)01801-9",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Tetraphenylporphyrin",
+      "Diels\u2013Alder reaction",
+      "Medicinal chemistry",
+      "Porphyrin"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

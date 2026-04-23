@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4392621226",
+    "canonical_url": "https://openalex.org/W4392621226",
+    "title": "Nanoencapsulation of Vitamin B12 with Opuntia Ficus-Indica Seed Oil for Food Supplements Uses",
+    "authors": [
+      "Ricardo M. Ferreira",
+      "Andreia Granja",
+      "Artur M. S. Silva",
+      "Jorge A. Saraiva",
+      "Salette Reis",
+      "Susana M. Cardoso"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.2139/ssrn.4753545",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "preprint",
+    "venue": "SSRN Electronic Journal",
+    "concepts": [
+      "Vitamin B12",
+      "Biology",
+      "Food science",
+      "Traditional medicine",
+      "Botany"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

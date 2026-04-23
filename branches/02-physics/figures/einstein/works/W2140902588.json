@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2140902588",
+    "canonical_url": "https://openalex.org/W2140902588",
+    "title": "Chemical Transformation of 1,8-Cineole. Synthesis of N-Phenylimides from Cineolic Acid",
+    "authors": [
+      "Armando J. D. Silvestre",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Artur M. S. Silva",
+      "Bernard Delmond",
+      "C. Filliatre"
+    ],
+    "year": 1997,
+    "doi": "https://doi.org/10.1039/a700887b",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Journal of Chemical Research Synopses",
+    "concepts": [
+      "Transformation (genetics)",
+      "Stereochemistry",
+      "Chemistry",
+      "Biochemistry",
+      "Gene"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

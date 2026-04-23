@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4291222286",
+    "canonical_url": "https://openalex.org/W4291222286",
+    "title": "A post-synthetic modification strategy for the synthesis of pyrene-fused azaacene covalent organic frameworks",
+    "authors": [
+      "Soraia P. S. Fernandes",
+      "Laura Frey",
+      "Krystal M. Cid\u2010Seara",
+      "Orlando Oliveira",
+      "Noelia Guldris",
+      "Enrique Carb\u00f3\u2010Argibay",
+      "Carlos Rodr\u00edguez\u2010Abreu",
+      "Yury V. Kolen\u2019ko",
+      "Artur M. S. Silva",
+      "Dana D. Medina",
+      "Laura M. Salonen"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.micromeso.2022.112162",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 11,
+    "type": "article",
+    "venue": "Microporous and Mesoporous Materials",
+    "concepts": [
+      "Pyrene",
+      "Covalent bond",
+      "Yield (engineering)",
+      "Chemistry",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

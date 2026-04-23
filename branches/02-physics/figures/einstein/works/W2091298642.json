@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2091298642",
+    "canonical_url": "https://openalex.org/W2091298642",
+    "title": "Catalytic carbene insertion into an aminoporphyrin and formation of a new chiral supramolecular porphyrin system",
+    "authors": [
+      "Ana T. P. C. Gomes",
+      "Filipe A. Almeida Paz",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Maria Cec\u00edlia B. V. de Souza",
+      "V\u0131\u0301tor F. Ferreira",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.tetlet.2011.06.120",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Tetrahedron Letters",
+    "concepts": [
+      "Chemistry",
+      "Porphyrin",
+      "Ethyl diazoacetate",
+      "Substituent",
+      "Supramolecular chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

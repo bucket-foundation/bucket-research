@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2947357919",
+    "canonical_url": "https://openalex.org/W2947357919",
+    "title": "Assignment of <sup>1</sup>H and <sup>13</sup>C NMR data for three pairs of diastereomers of 4\u2032\u2010X benzo[1,3]cyclopropa[1,2\u2010<i>b</i>]chromene\u20104,5\u2010diones (X\u00a0=\u00a0H, OCH<sub>3</sub>, and Cl)",
+    "authors": [
+      "Joana L. C. Sousa",
+      "Artur M. S. Silva",
+      "Ib\u00f3n Alkorta",
+      "Jos\u00e9 Elguero"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1002/mrc.4892",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "letter",
+    "venue": "Magnetic Resonance in Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Chemical shift",
+      "Diastereomer",
+      "DEPT",
+      "Stereochemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

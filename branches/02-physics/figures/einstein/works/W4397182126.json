@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4397182126",
+    "canonical_url": "https://openalex.org/W4397182126",
+    "title": "CCDC 1060934: Experimental Crystal Structure Determination",
+    "authors": [
+      "War War May Zin",
+      "Suradet Buttachon",
+      "Jamrearn Buaruang",
+      "Lu\u0131\u0301s Gales",
+      "Jos\u00e9 A. Pereira",
+      "Madalena Pinto",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2016,
+    "doi": "https://doi.org/10.5517/cc14lzpd",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "dataset",
+    "venue": "The Cambridge Structural Database",
+    "concepts": [
+      "Crystallography",
+      "Crystal (programming language)",
+      "Crystal structure",
+      "Group (periodic table)",
+      "Space (punctuation)"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

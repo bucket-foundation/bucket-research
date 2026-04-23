@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4283394698",
+    "canonical_url": "https://openalex.org/W4283394698",
+    "title": "Chemical Profiling of Limonium\u00a0vulgare Mill. Using UHPLC-DAD-ESI/MS2 and GC-MS Analysis",
+    "authors": [
+      "Benedict Carius",
+      "Helena Silva",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/app12136384",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Applied Sciences",
+    "concepts": [
+      "Inflorescence",
+      "Myricetin",
+      "Botany",
+      "Chemistry",
+      "Halophyte"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

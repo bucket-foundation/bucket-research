@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2071528307",
+    "canonical_url": "https://openalex.org/W2071528307",
+    "title": "Oxidative formation and structural characterisation of new \u03b1-pyranone (lactone) compounds of non-oxonium nature originated from fruit anthocyanins",
+    "authors": [
+      "Jingren He",
+      "Artur M. S. Silva",
+      "Nuno Mateus",
+      "V\u00edctor de Freitas"
+    ],
+    "year": 2011,
+    "doi": "https://doi.org/10.1016/j.foodchem.2011.01.069",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Food Chemistry",
+    "concepts": [
+      "Oxonium ion",
+      "Chemistry",
+      "Oxidative phosphorylation",
+      "Lactone",
+      "Botany"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

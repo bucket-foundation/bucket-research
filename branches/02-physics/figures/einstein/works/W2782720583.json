@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2782720583",
+    "canonical_url": "https://openalex.org/W2782720583",
+    "title": "Variation of phenolic constituents of Tunisian Thymus capitatus (L.) Hoff. et Link. populations",
+    "authors": [
+      "Rym Jaouadi",
+      "Susana M. Cardoso",
+      "Artur M. S. Silva",
+      "Imen Ben Hadj Yahia",
+      "Mohamed Boussa\u00efd",
+      "Yosr Zaouali"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1016/j.bse.2017.12.009",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 28,
+    "type": "article",
+    "venue": "Biochemical Systematics and Ecology",
+    "concepts": [
+      "Carvacrol",
+      "Chemotype",
+      "Rosmarinic acid",
+      "Phenols",
+      "Eriodictyol"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4255567890",
+    "canonical_url": "https://openalex.org/W4255567890",
+    "title": "Correction: A study towards drug discovery for the management of type 2 diabetes <i>mellitus</i> through inhibition of the carbohydrate-hydrolyzing enzymes \u03b1-amylase and \u03b1-glucosidase by chalcone derivatives",
+    "authors": [
+      "S\u00f3nia Rocha",
+      "Adelaide Sousa",
+      "Daniela Ribeiro",
+      "Catarina M. Correia",
+      "Vera L. M. Silva",
+      "Clementina M.M. Santos",
+      "Artur M. S. Silva",
+      "Alberto N. Ara\u00fajo",
+      "Eduarda Fernandes",
+      "Marisa Freitas"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1039/c9fo90045d",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "erratum",
+    "venue": "Food & Function",
+    "concepts": [
+      "Chalcone",
+      "Amylase",
+      "Carbohydrate",
+      "Enzyme",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "oa_status": "hybrid"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

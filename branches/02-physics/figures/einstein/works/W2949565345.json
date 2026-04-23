@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2949565345",
+    "canonical_url": "https://openalex.org/W2949565345",
+    "title": "ChemInform Abstract: meso\u2010Substituted Expanded Porphyrins: New and Stable Hexaphyrins.",
+    "authors": [
+      "Maria G. P. M. S. Neves",
+      "Ros\u00e1lia M. Martins",
+      "Augusto C. Tom\u00e9",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva",
+      "V\u0131\u0301tor F\u00e9lix",
+      "Michael G. B. Drew",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 1999,
+    "doi": "https://doi.org/10.1002/chin.199926114",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Service (business)",
+      "Combinatorial chemistry",
+      "Nanotechnology",
+      "Business"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

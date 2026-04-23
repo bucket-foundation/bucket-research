@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2140692986",
+    "canonical_url": "https://openalex.org/W2140692986",
+    "title": "A new synthesis of novel alkenylated flavones by palladium-catalyzed cross-coupling reactions",
+    "authors": [
+      "Szabolcs Fekete",
+      "Tam\u00e1s Patonay",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.3998/ark.5550190.0013.519",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "ARKIVOC",
+    "concepts": [
+      "Chemistry",
+      "Palladium",
+      "Flavones",
+      "Alkene",
+      "Catalysis"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2061001455",
+    "canonical_url": "https://openalex.org/W2061001455",
+    "title": "Synthesis of 5\u2010Hydroxy\u20102\u2010(naphth\u20102\u2010yl)chromone derivatives",
+    "authors": [
+      "Diana T. Patoilo",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto",
+      "Augusto C. Tom\u00e9",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2007,
+    "doi": "https://doi.org/10.1002/jhet.5570440617",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 15,
+    "type": "article",
+    "venue": "Journal of Heterocyclic Chemistry",
+    "concepts": [
+      "Chemistry",
+      "Dehydrogenation",
+      "Microwave irradiation",
+      "Chromone",
+      "Sulfur dioxide"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2499648916",
+    "canonical_url": "https://openalex.org/W2499648916",
+    "title": "Synthesis of a New Porphyrin-Phthalocyanine Dimer",
+    "authors": [
+      "Jo\u00e3o P. C. Tom\u00e9",
+      "Cristina Alonso",
+      "Ana M. V. M. Pereira",
+      "Maria G. P. M. S. Neves",
+      "Augusto C. Tom\u00e9",
+      "Artur M. S. Silva",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Maria Victoria Martinez-Diaz",
+      "Tom\u00e1s Torres\u2297"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1016/b978-0-08-044304-1.50333-6",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": "Elsevier eBooks",
+    "concepts": [
+      "Porphyrin",
+      "Phthalocyanine",
+      "Dimer",
+      "Photochemistry",
+      "Materials science"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

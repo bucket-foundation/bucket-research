@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3126471756",
+    "canonical_url": "https://openalex.org/W3126471756",
+    "title": "A-ring functionalization of cholestane with highly substituted pyrans and 2-aminoisophthalonitriles",
+    "authors": [
+      "H\u00e9lio M. T. Albuquerque",
+      "Telmo N. Francisco",
+      "Daniela Malafaia",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Artur M. S. Silva"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.24820/ark.5550190.p011.411",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "ARKIVOC",
+    "concepts": [
+      "Chemistry",
+      "Cholestane",
+      "Surface modification",
+      "Ring (chemistry)",
+      "Combinatorial chemistry"
+    ],
+    "oa_status": "diamond"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

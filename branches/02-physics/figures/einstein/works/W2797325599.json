@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2797325599",
+    "canonical_url": "https://openalex.org/W2797325599",
+    "title": "Porphyrin-Oligopyridine Triads: Synthesis and Optical Properties",
+    "authors": [
+      "Nuno M. M. Moura",
+      "In\u00eas F. A. Mariz",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Artur M. S. Silva",
+      "Carlos Lodeiro",
+      "J. M. G. Martinho",
+      "Ermelinda Ma\u00e7\u00f4as",
+      "Maria G. P. M. S. Neves"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1021/acs.joc.8b00208",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 8,
+    "type": "article",
+    "venue": "The Journal of Organic Chemistry",
+    "concepts": [
+      "Porphyrin",
+      "Chemistry",
+      "Tetraphenylporphyrin",
+      "Fluorescence",
+      "Photochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

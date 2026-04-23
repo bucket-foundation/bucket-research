@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2910676157",
+    "canonical_url": "https://openalex.org/W2910676157",
+    "title": "Ruthenium(II) trithiacyclononane complexes of 7,3\u2032,4\u2032-trihydroxyflavone, chrysin and tectochrysin: Synthesis, characterisation, and cytotoxic evaluation",
+    "authors": [
+      "Joana Marques",
+      "Artur M. S. Silva",
+      "M. Paula M. Marques",
+      "Susana S. Braga"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.1016/j.ica.2019.01.003",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 17,
+    "type": "article",
+    "venue": "Inorganica Chimica Acta",
+    "concepts": [
+      "Chemistry",
+      "Ruthenium",
+      "Chrysin",
+      "Stereochemistry",
+      "Cationic polymerization"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

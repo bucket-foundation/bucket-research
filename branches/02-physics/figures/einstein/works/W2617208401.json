@@ -1,0 +1,35 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2617208401",
+    "canonical_url": "https://openalex.org/W2617208401",
+    "title": "MP205CLINICAL PRESENTATION AND OUTCOMES OF MEMBRANOUS NEPHROPATHY AFTER RENAL TRANSPLANTATION",
+    "authors": [
+      "Artur M. S. Silva",
+      "Tain\u00e1 Ang\u00e9lica de Lima Freitas",
+      "Gianna Mastroianni Kirsztajn"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1093/ndt/gfx165.mp205",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Nephrology Dialysis Transplantation",
+    "concepts": [
+      "Medicine",
+      "Membranous nephropathy",
+      "Transplantation",
+      "Presentation (obstetrics)",
+      "Nephropathy"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2104356305",
+    "canonical_url": "https://openalex.org/W2104356305",
+    "title": "First Diels\u2014Alder Reactions of 3\u2010Styrylchromones under Microwave Irradiation.",
+    "authors": [
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "L\u00facia M. P. M. Almeida",
+      "Jos\u00e9 R. Carrillo",
+      "\u00c1ngel D\u00edaz\u2010Ortiz",
+      "Antonio de la Hoz",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1002/chin.200350137",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 3,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Microwave irradiation",
+      "Alder",
+      "Diels\u2013Alder reaction",
+      "Microwave"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

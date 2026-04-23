@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2152357902",
+    "canonical_url": "https://openalex.org/W2152357902",
+    "title": "Chemical constituents of <i>Euphorbia hyberna</i> L. (Euphorbiaceae)",
+    "authors": [
+      "Ana Margarida Ferreira",
+      "Maria Jo\u00e3o M. Carvalho",
+      "Miguel Menezes de Sequeira",
+      "Artur M. S. Silva",
+      "Lu\u00eds M. Carvalho"
+    ],
+    "year": 2012,
+    "doi": "https://doi.org/10.1080/14786419.2012.668688",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Natural Product Research",
+    "concepts": [
+      "Euphorbiaceae",
+      "Ellagic acid",
+      "Triterpenoid",
+      "Chemical constituents",
+      "Chemistry"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2608175446",
+    "canonical_url": "https://openalex.org/W2608175446",
+    "title": "Gas chromatography\u2013mass spectrometry profile of four Calendula L. taxa: A comparative analysis",
+    "authors": [
+      "Maria V. Faustino",
+      "Ana M. L. Seca",
+      "Paulo Silveira",
+      "Artur M. S. Silva",
+      "Diana C. G. A. Pinto"
+    ],
+    "year": 2017,
+    "doi": "https://doi.org/10.1016/j.indcrop.2017.04.029",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 24,
+    "type": "article",
+    "venue": "Industrial Crops and Products",
+    "concepts": [
+      "Terpenoid",
+      "Pyrrolizidine",
+      "Botany",
+      "Biology",
+      "Genus"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2952913833",
+    "canonical_url": "https://openalex.org/W2952913833",
+    "title": "Improved methodologies for synthesis of prenylated xanthones by microwave irradiation and combination of heterogeneous catalysis (K10 clay) with microwave irradiation",
+    "authors": [
+      "R.A.P. Castanheiro",
+      "Madalena Pinto",
+      "Sara Cravo",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Anake Kijjoa"
+    ],
+    "year": 2009,
+    "doi": "https://doi.org/10.1016/j.tet.2009.03.019",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 32,
+    "type": "article",
+    "venue": "Tetrahedron",
+    "concepts": [
+      "Chemistry",
+      "Xanthone",
+      "Montmorillonite",
+      "Bromide",
+      "Catalysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

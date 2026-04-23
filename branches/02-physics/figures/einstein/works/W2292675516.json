@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2292675516",
+    "canonical_url": "https://openalex.org/W2292675516",
+    "title": "The ROS and RNS scavenging activity of 2-Styrylchromones are effectively repreoduced by cyclic voltammetry analysis",
+    "authors": [
+      "Ana Gomes",
+      "Eduarda Fernandes",
+      "M. Beatriz Q. Garcia",
+      "Artur M. S. Silva",
+      "Clementina M.M. Santos",
+      "Diana C. G. A. Pinto",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Jos\u00e9 L. F. C. Lima"
+    ],
+    "year": 2008,
+    "doi": null,
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "concepts": [
+      "Scavenging",
+      "Cyclic voltammetry",
+      "Chemistry",
+      "Environmental chemistry",
+      "Environmental science"
+    ],
+    "oa_status": "green"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

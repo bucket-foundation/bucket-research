@@ -1,0 +1,40 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3045462452",
+    "canonical_url": "https://openalex.org/W3045462452",
+    "title": "Comparative genoprotection ability of wild-harvested <i>vs</i>. aqua-cultured <i>Ulva rigida</i> coupled with phytochemical profiling",
+    "authors": [
+      "Ana Marques",
+      "Jo\u00e3o Ferreira",
+      "Helena Abreu",
+      "Rui Pereira",
+      "Diana C. G. A. Pinto",
+      "Artur M. S. Silva",
+      "Isabel Gaiv\u00e3o",
+      "M\u00e1rio Pacheco"
+    ],
+    "year": 2020,
+    "doi": "https://doi.org/10.1080/09670262.2020.1778796",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 5,
+    "type": "article",
+    "venue": "European Journal of Phycology",
+    "concepts": [
+      "Phytochemical",
+      "Biology",
+      "Nutraceutical",
+      "Genotoxicity",
+      "Comet assay"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

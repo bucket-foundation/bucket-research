@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2937612391",
+    "canonical_url": "https://openalex.org/W2937612391",
+    "title": "DOCTORAL EDUCATION AT THE UNIVERSITY OF AVEIRO: THE QUEST FOR QUALITY",
+    "authors": [
+      "Ant\u00f3nio Teixeira",
+      "Maria Jo\u00e3o Rosa",
+      "Lu\u00eds Castro",
+      "Artur M. S. Silva"
+    ],
+    "year": 2019,
+    "doi": "https://doi.org/10.21125/inted.2019.2104",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "INTED proceedings",
+    "concepts": [
+      "Quality (philosophy)",
+      "Computer science",
+      "Engineering management",
+      "Engineering",
+      "Philosophy"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

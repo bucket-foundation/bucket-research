@@ -1,0 +1,42 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W3196605154",
+    "canonical_url": "https://openalex.org/W3196605154",
+    "title": "Chemical Composition and Antioxidant, Anti-Inflammatory, and Enzyme Inhibitory Activities of an Endemic Species from Southern Algeria: Warionia saharae",
+    "authors": [
+      "Habiba Rechek",
+      "Ammar Haouat",
+      "Kaouther Hamaidia",
+      "Hamza Allal",
+      "Tarek Boudiar",
+      "Diana C. G. A. Pinto",
+      "Susana M. Cardoso",
+      "Chawki Bensou\u0131c\u0131",
+      "Noureddine Soltani",
+      "Artur M. S. Silva"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/molecules26175257",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 14,
+    "type": "article",
+    "venue": "Molecules",
+    "concepts": [
+      "ABTS",
+      "Chemistry",
+      "DPPH",
+      "Antioxidant",
+      "Asteraceae"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2809915468",
+    "canonical_url": "https://openalex.org/W2809915468",
+    "title": "One-Pot Three-Component Synthesis of Bispyrazole-thiazole-pyran-2-one Heterocyclic Hybrids",
+    "authors": [
+      "Yah\u00efa Rachedi",
+      "Oualid Talhi",
+      "Artur M. S. Silva",
+      "Aicha Saidoun",
+      "Le\u00efla Boukenna",
+      "Yacine Laichi",
+      "Najet Lemouari",
+      "M. Trari",
+      "Khaldoun Bachar\u0131"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1055/s-0037-1610183",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 7,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Thiazole",
+      "Pyran",
+      "Hybrid",
+      "Catalysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

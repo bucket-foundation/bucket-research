@@ -1,0 +1,38 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4382630779",
+    "canonical_url": "https://openalex.org/W4382630779",
+    "title": "Selective Induction of DNA Damage and Cell Cycle Arrest Mediated by Chromone\u2010Triazole Dyads Derivatives: Effects on Breast and Prostate Cancer Cells",
+    "authors": [
+      "Liza Saher",
+      "F\u00e1tima Liliana Monteiro",
+      "Djenisa H. A. Rocha",
+      "H\u00e9lio M. T. Albuquerque",
+      "Artur M. S. Silva",
+      "Lu\u00edsa A. Helguero"
+    ],
+    "year": 2023,
+    "doi": "https://doi.org/10.1002/cbdv.202300251",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Chemistry & Biodiversity",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Cytotoxic T cell",
+      "Cytotoxicity",
+      "Cell culture"
+    ],
+    "oa_status": "bronze"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

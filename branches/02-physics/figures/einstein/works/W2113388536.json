@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2113388536",
+    "canonical_url": "https://openalex.org/W2113388536",
+    "title": "Isolation and Structural Elucidation of 5-Formyl-2,3-Dihydroisocoumarin from<i>Centaurium Erythraea</i>Aerial Parts",
+    "authors": [
+      "Patr\u0131\u0301cia Valent\u00e3o",
+      "Paula B. Andrade",
+      "Artur M. S. Silva",
+      "M.Manuela Moreira",
+      "Rosa M. Seabra"
+    ],
+    "year": 2003,
+    "doi": "https://doi.org/10.1080/1057563031000081938",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 20,
+    "type": "article",
+    "venue": "Natural Product Research",
+    "concepts": [
+      "Gentiana",
+      "Gentianaceae",
+      "Isocoumarin",
+      "Isolation (microbiology)",
+      "Stereochemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

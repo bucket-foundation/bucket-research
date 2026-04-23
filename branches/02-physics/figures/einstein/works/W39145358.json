@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W39145358",
+    "canonical_url": "https://openalex.org/W39145358",
+    "title": "Chemical Composition of Artemisia campestris and Hibiscus cannabinus",
+    "authors": [
+      "Artur M. S. Silva",
+      "Ana M. L. Seca",
+      "J. M. J. Vasconcelos",
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Armando J. D. Silvestre",
+      "Fernando M. J. Domingues",
+      "Carlos Pascoal Neto"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1007/978-94-015-9876-7_2",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "book-chapter",
+    "venue": null,
+    "concepts": [
+      "Hibiscus",
+      "Kenaf",
+      "Chemical composition",
+      "Botany",
+      "Chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

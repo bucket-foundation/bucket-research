@@ -1,0 +1,39 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W58496145",
+    "canonical_url": "https://openalex.org/W58496145",
+    "title": "Chemical Transformations of Natural Compounds",
+    "authors": [
+      "Jos\u00e9 A. S. Cavaleiro",
+      "Armando J. D. Silvestre",
+      "Maria G. P. M. S. Neves",
+      "Artur M. S. Silva",
+      "Ros\u00e1lia R.L. Martins",
+      "S\u00edlvia Monteiro",
+      "M\u00e1rio M.Q. Sim\u00f5es"
+    ],
+    "year": 2002,
+    "doi": "https://doi.org/10.1007/978-94-015-9876-7_38",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "venue": null,
+    "concepts": [
+      "Chalcone",
+      "Chemistry",
+      "Terpene",
+      "Hydrogen peroxide",
+      "Organic chemistry"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

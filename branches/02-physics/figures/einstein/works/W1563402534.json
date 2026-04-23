@@ -1,0 +1,37 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W1563402534",
+    "canonical_url": "https://openalex.org/W1563402534",
+    "title": "Chemical Composition and Lignin Structural Features of Banana Plant Leaf Sheath and Rachis",
+    "authors": [
+      "L\u00facia Oliveira",
+      "Dmitry V. Evtuguin",
+      "Nereida Cordeiro",
+      "Armando J. D. Silvestre",
+      "Artur M. S. Silva"
+    ],
+    "year": 2008,
+    "doi": "https://doi.org/10.1002/9781444305425.ch10",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "other",
+    "venue": null,
+    "concepts": [
+      "Lignin",
+      "Chemical composition",
+      "Composition (language)",
+      "Botany",
+      "Biology"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

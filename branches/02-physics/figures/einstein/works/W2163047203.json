@@ -1,0 +1,36 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2163047203",
+    "canonical_url": "https://openalex.org/W2163047203",
+    "title": "ChemInform Abstract: Highly Enantioselective and Regioselective Conjugate Addition of Nitromethane to 1,5\u2010Diarylpenta\u20102,4\u2010dien\u20101\u2010ones Using Bifunctional Cinchona Organocatalysts.",
+    "authors": [
+      "Cristina G\u00f3mez de la Oliva",
+      "Artur M. S. Silva",
+      "Filipe A. Almeida Paz",
+      "Jos\u00e9 A. S. Cavaleiro"
+    ],
+    "year": 2010,
+    "doi": "https://doi.org/10.1002/chin.201033090",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 0,
+    "type": "article",
+    "venue": "ChemInform",
+    "concepts": [
+      "Chemistry",
+      "Nitromethane",
+      "Enantioselective synthesis",
+      "Bifunctional",
+      "Conjugate"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

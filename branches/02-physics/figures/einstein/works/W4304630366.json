@@ -1,0 +1,41 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4304630366",
+    "canonical_url": "https://openalex.org/W4304630366",
+    "title": "Different Strategies to Attenuate the Toxic Effects of Zinc Oxide Nanoparticles on Spermatogonia Cells",
+    "authors": [
+      "Mariana Vassal",
+      "C\u00e1tia D. Pereira",
+      "Filipa Martins",
+      "Vera L. M. Silva",
+      "Artur M. S. Silva",
+      "A.M.R. Senos",
+      "Maria Elisabete V. Costa",
+      "Maria de Lourdes Pereira",
+      "Sandra Rebelo"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/nano12203561",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 6,
+    "type": "article",
+    "venue": "Nanomaterials",
+    "concepts": [
+      "Viability assay",
+      "Zinc",
+      "Nanoparticle",
+      "Toxicity",
+      "Chalcone"
+    ],
+    "oa_status": "gold"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

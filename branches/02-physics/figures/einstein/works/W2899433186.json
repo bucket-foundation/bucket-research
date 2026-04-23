@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W2899433186",
+    "canonical_url": "https://openalex.org/W2899433186",
+    "title": "Regioselective and Catalyst-Free Epoxidation of (E)-3-[3-(2-Hydroxyaryl)-3-oxoprop-1-en-1-yl]chromones",
+    "authors": [
+      "Mohamed Hammadi",
+      "Oualid Talhi",
+      "Artur M. S. Silva",
+      "Rachid Ameraoui",
+      "Ridha Hassaine",
+      "Abdelghani Bouchama",
+      "Hasnia Abdeldjebar",
+      "Yamina Belmiloud",
+      "M\u00e9ziane Brahimi",
+      "Filipe A. Almeida Paz",
+      "Khaldoun Bachar\u0131"
+    ],
+    "year": 2018,
+    "doi": "https://doi.org/10.1055/s-0037-1611082",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 4,
+    "type": "article",
+    "venue": "Synlett",
+    "concepts": [
+      "Chemistry",
+      "Chromone",
+      "Regioselectivity",
+      "Electrophile",
+      "Catalysis"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}

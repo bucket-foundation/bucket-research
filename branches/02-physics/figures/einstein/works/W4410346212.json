@@ -1,0 +1,43 @@
+{
+  "citation": {
+    "type": "source",
+    "source_id": "openalex:W4410346212",
+    "canonical_url": "https://openalex.org/W4410346212",
+    "title": "Targeted synthesis of alkylated coumarin derivatives as SARS-CoV-2 main protease inhibitors: Cascade addition, alkylation, molecular docking, and ADME evaluation",
+    "authors": [
+      "Lakhder Jaafar",
+      "Mokhtar Boualem Lahrech",
+      "Amar Djemoui",
+      "Mitra Hassani",
+      "Lazhar Bechki",
+      "Lahcene Souli",
+      "Mohammed Messaoudi",
+      "Huda Alsaeedi",
+      "Artur M. S. Silva",
+      "Jean\u2010Patrick Joly",
+      "Ahmed Barhoum"
+    ],
+    "year": 2025,
+    "doi": "https://doi.org/10.1016/j.molstruc.2025.142677",
+    "provider_url": "https://openalex.org/",
+    "license": "CC0"
+  },
+  "data": {
+    "cited_by_count": 1,
+    "type": "article",
+    "venue": "Journal of Molecular Structure",
+    "concepts": [
+      "Chemistry",
+      "ADME",
+      "Coumarin",
+      "Alkylation",
+      "Docking (animal)"
+    ],
+    "oa_status": "closed"
+  },
+  "receipt": {
+    "tier": "seed",
+    "source": "openalex-author-filter",
+    "fetched_at": "2026-04-23T03:17:23Z"
+  }
+}
